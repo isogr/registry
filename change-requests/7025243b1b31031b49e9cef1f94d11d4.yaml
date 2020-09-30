@@ -1,7 +1,22 @@
 id: 7025243b1b31031b49e9cef1f94d11d4
 justification: For demo
 timeStarted: 2020-09-30T12:24:20.327Z
-proposals: {}
+proposals:
+  coordinate-ops--transformation/92455ca1b0000a86ec01d2c7b286d736:
+    type: addition
+    payload:
+      identifier: 4
+      informationSource: []
+      remarks: More notes
+      description: Description
+      extent:
+        name: ''
+        'n': 0
+        e: 0
+        s: 0
+        w: 0
+      operationVersion: ''
+      name: Test
 sponsor:
   role: owner
   name: Ronald Tse
