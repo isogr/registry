@@ -8,3 +8,11 @@ stakeholders:
         contacts:
           - label: email
             value: anton@strogonoff.name
+  - role: owner
+    name: Ronald Tse
+    gitServerUsername: ronaldtse
+    parties:
+      - name: Ronald Tse
+        contacts:
+          - label: email
+            value: ronald.tse@ribose.com
