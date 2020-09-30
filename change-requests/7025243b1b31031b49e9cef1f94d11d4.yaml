@@ -27,3 +27,5 @@ sponsor:
         - label: email
           value: ronald.tse@ribose.com
 status: pending
+disposition: !<tag:yaml.org,2002:js/undefined> ''
+timeProposed: 2020-09-30T12:24:49.139Z
