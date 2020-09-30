@@ -1,0 +1,14 @@
+id: 7025243b1b31031b49e9cef1f94d11d4
+justification: ''
+timeStarted: 2020-09-30T12:24:20.327Z
+proposals: {}
+sponsor:
+  role: owner
+  name: Ronald Tse
+  gitServerUsername: ronaldtse
+  parties:
+    - name: Ronald Tse
+      contacts:
+        - label: email
+          value: ronald.tse@ribose.com
+status: pending
