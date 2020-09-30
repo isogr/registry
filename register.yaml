@@ -1,7 +1,7 @@
 name: Test GR
 stakeholders:
   - role: owner
-    name: Anton
+    name: Anton (Test)
     gitServerUsername: strogonoff
     parties:
       - name: Anton
@@ -16,3 +16,11 @@ stakeholders:
         contacts:
           - label: email
             value: ronald.tse@ribose.com
+  - role: owner
+    name: Vladimir (Test)
+    gitServerUsername: yablokov
+    parties:
+      - name: Vladimir Yablokov
+        contacts:
+          - label: email
+            value: vladimir.yablokov@gmail.com
