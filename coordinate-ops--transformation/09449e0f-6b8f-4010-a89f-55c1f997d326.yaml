@@ -1,0 +1,21 @@
+data:
+  coordOperationMethod: 1e5c11d5-9ed1-42e7-a8de-0e6c452df611
+  description: null
+  extent:
+    e: 154.0
+    n: 45.6
+    name: Japan - onshore and offshore
+    s: 20.4
+    w: 122.9
+  identifier: 629
+  informationSource: []
+  name: JGD2000 (vertical) to JGD2011 (vertical) [GSIv1]
+  operationVersion: GSIv1
+  parameters: []
+  remarks: PatchJGD for Height application from GSI.
+  scope: []
+  sourceCRS: null
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 09449e0f-6b8f-4010-a89f-55c1f997d326
+status: valid

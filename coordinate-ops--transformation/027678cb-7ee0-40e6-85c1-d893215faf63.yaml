@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: -59.73
+    n: 47.08
+    name: Canada - onshore and offshore - Nova Scotia.
+    s: 43.41
+    w: -66.28
+  identifier: 487
+  informationSource: []
+  name: ATS77 to NAD83(CSRS) v6 [NSv1]
+  operationVersion: NSv1
+  parameters: []
+  remarks: Grid tranformation in NTv2 format adopted for use in Nova Scotia.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 027678cb-7ee0-40e6-85c1-d893215faf63
+status: valid

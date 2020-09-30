@@ -1,0 +1,29 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: VerticalCS
+    name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: m.'
+    uuid: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum:
+    name: Canadian Geodetic Vertical Datum of 2013 (Canadian Gravitmetric Geoid of
+      2013)
+    uuid: 1e9acfa8-e567-47d5-9335-1b879f6ee8c2
+  description: null
+  extent:
+    e: -47.74
+    n: 90.0
+    name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut,
+      Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: 40.04
+    w: -141.01
+  identifier: 423
+  informationSource: []
+  name: CGVD2013(CGG2013) - OHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 74d1f672-7973-4462-bc58-cb51153f74f9
+status: valid

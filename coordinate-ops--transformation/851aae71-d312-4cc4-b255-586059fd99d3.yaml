@@ -1,0 +1,26 @@
+data:
+  coordOperationMethod: 4a370551-f089-4518-8f3a-3b78bc9745cf
+  description: null
+  extent:
+    e: -170.0
+    n: -25.0
+    name: New Zealand - onshore and offshore - Antipodes Islands, Auckland Islands,
+      Bounty Islands, Campbell Island Chatham Islands, Kermadec Islands, North Island,
+      Raoul Island, Snares Islands, South Island, Stewart Island.
+    s: -60.0
+    w: 160.0
+  identifier: 681
+  informationSource: []
+  name: NZGD2000 to NZVD2009 - NOHt [LINZ]
+  operationVersion: LINZ
+  parameters: []
+  remarks: Grid transformation using quasigeoid model New Zealand Quasigeoid 2009
+    (NZGeoid2009).
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 851aae71-d312-4cc4-b255-586059fd99d3
+status: valid

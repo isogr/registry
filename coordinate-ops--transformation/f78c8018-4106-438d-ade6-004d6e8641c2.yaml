@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: -79.11
+    n: 43.86
+    name: Canada - Ontario - Toronto.
+    s: 43.58
+    w: -79.64
+  identifier: 572
+  informationSource: []
+  name: NAD27 to NAD83(CSRS) v3 [ONv2]
+  operationVersion: ONv2
+  parameters: []
+  remarks: Grid tranformation in NTv2 format adopted for use in Toronto, Ontario.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: f78c8018-4106-438d-ade6-004d6e8641c2
+status: valid

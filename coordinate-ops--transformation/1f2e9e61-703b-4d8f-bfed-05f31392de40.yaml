@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: -74.35
+    n: 56.9
+    name: Canada - Ontario.
+    s: 41.67
+    w: -95.16
+  identifier: 562
+  informationSource: []
+  name: NAD27(MAY76) to NAD83(Original) [ONv1]
+  operationVersion: ONv1
+  parameters: []
+  remarks: Grid tranformation in NTv2 format adopted for use in Ontario.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 1f2e9e61-703b-4d8f-bfed-05f31392de40
+status: valid

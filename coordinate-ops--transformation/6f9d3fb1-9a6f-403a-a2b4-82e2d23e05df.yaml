@@ -1,0 +1,35 @@
+data:
+  coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
+  description: null
+  extent:
+    e: 39.65
+    n: 84.17
+    name: 'Europe - onshore and offshore: Albania, Andorra, Austria, Belgium, Bosnia
+      and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+      Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Hungary, Ireland,
+      Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco,
+      Montenegro, Netherlands, Norway including Svalbard and Jan Mayen, Poland, Portugal,
+      Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland,
+      United Kingdom (UK) including Channel Islands and Isle of Man, Vatican City
+      State.'
+    s: 32.88
+    w: -16.1
+  identifier: 545
+  informationSource: []
+  name: ITRF90 to ETRF2000 [EUREF v1]
+  operationVersion: EUREF v1
+  parameters: []
+  remarks: Accuracy of transformation is given at the reference epoch for the transformation
+    parameters (2000.0); actual accuracy then depends on the epoch at which the transformation
+    parameters are applied (refer to Citation for accuracies of velocities of the
+    parameters).
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 6f9d3fb1-9a6f-403a-a2b4-82e2d23e05df
+status: valid

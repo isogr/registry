@@ -1,0 +1,27 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
+      north, east, up. UoM: degree, degree, metre.'
+    uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum:
+    name: International Terrestrial Reference Frame 2008
+    uuid: d60ba1b6-fae6-4563-b0c7-5f463a5ccda9
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 277
+  informationSource: []
+  name: ITRF2008 - LatLonEHt
+  operation: null
+  remarks: Replaces ITRF2005 - LatLonEHt. Replaced by ITRF2014 - LatLonEHt.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: ff08fe41-933b-4930-83c5-ff67ae08e20f
+status: valid

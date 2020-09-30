@@ -1,0 +1,26 @@
+data:
+  coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 630
+  informationSource: []
+  name: IGS14 to SIRGAS-CON SIR17P01 [SIRv1]
+  operationVersion: SIRv1
+  parameters: []
+  remarks: Null reference frame transformation between IGS14 and SIRGAS-CON SIR17P01.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: dc7789c2-fcaa-4a15-aaf4-82a779c409f5
+status: valid

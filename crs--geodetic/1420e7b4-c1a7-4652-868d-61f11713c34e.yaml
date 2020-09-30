@@ -1,0 +1,29 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: CartesianCS
+    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
+      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
+      the equatorial plane at the Prime Meridian]. UoM: m.'
+    uuid: c3cd36f9-6530-4432-93d7-051bed567297
+  datum:
+    name: SIRGAS Continuously Operating Network DGF05P01
+    uuid: 4f005b53-4b99-4211-932d-96736a777814
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 373
+  informationSource: []
+  name: SIRGAS-CON DGF05P01 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 1420e7b4-c1a7-4652-868d-61f11713c34e
+status: valid

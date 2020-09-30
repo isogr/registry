@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
+  description: null
+  extent:
+    e: -167.0
+    n: -13.0
+    name: American Samoa - onshore and offshore.
+    s: -16.0
+    w: -172.0
+  identifier: 466
+  informationSource: []
+  name: NAD 83 (FBN) to NAD 83 (PA11) [v1]
+  operationVersion: v1
+  parameters: []
+  remarks: Grid Transformation
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 1425ae92-91fa-49ce-a98e-c0fa29c21837
+status: valid

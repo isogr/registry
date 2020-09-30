@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: 107.0
+    n: -9.0
+    name: Christmas Island - onshore and offshore
+    s: -12.0
+    w: 104.0
+  identifier: 649
+  informationSource: []
+  name: GDA94 to GDA2020 [GA v5]
+  operationVersion: GA v5
+  parameters: []
+  remarks: Defined at epoch 2020.0.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 32760166-c2a3-4d2b-920c-3e798c1f5132
+status: valid

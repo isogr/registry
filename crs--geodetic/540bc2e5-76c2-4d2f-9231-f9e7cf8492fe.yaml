@@ -1,0 +1,27 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: North American Datum of 1983 (High Accuracy Regional Network) Corrected
+    uuid: 07d83fcc-3fe9-42c4-8562-d50d6aee0b09
+  description: null
+  extent:
+    e: -64.0
+    n: 19.0
+    name: Puerto Rico - onshore and offshore. Virgin Islands (US) - onshore and offshore.
+    s: 17.0
+    w: -69.0
+  identifier: 291
+  informationSource: []
+  name: NAD 83 (HARN) CORRECTED - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 540bc2e5-76c2-4d2f-9231-f9e7cf8492fe
+status: valid

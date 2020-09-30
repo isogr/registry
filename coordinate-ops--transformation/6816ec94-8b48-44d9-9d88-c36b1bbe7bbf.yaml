@@ -1,0 +1,24 @@
+data:
+  coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
+  description: null
+  extent:
+    e: 173.98
+    n: -8.0
+    name: Australia - onshore and offshore. Christmas Island - onshore and offshore.
+      Cocos (Keeling) Islands - onshore and offshore.
+    s: -60.98
+    w: 93.0
+  identifier: 598
+  informationSource: []
+  name: GDA2020 to AHD [GA v1]
+  operationVersion: GA v1
+  parameters: []
+  remarks: Derivation of gravity-related heights from GPS observations.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 6816ec94-8b48-44d9-9d88-c36b1bbe7bbf
+status: valid

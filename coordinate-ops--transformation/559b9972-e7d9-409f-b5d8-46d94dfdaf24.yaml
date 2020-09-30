@@ -1,0 +1,26 @@
+data:
+  coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
+  description: null
+  extent:
+    e: 148.44
+    n: -40.24
+    name: Australia - onshore and nearoffshore - Tasmania.
+    s: -43.7
+    w: 144.55
+  identifier: 462
+  informationSource: []
+  name: GDA94 to AHD [GA-Tas v1]
+  operationVersion: GA-Tas v1
+  parameters: []
+  remarks: Implemented 2009. Replaces AusGeoid98 model. Uses AusGeoid09 model which
+    uses bi-cubic interpolation; bi-linear interpolation of the grid file will give
+    results agreeing to within 1cm 99.97% of the time. May be used for transformations
+    from WGS 84 to AHD (Tasmania).
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 559b9972-e7d9-409f-b5d8-46d94dfdaf24
+status: valid

@@ -1,0 +1,31 @@
+data:
+  coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
+  description: null
+  extent:
+    e: -66.0
+    n: 50.0
+    name: United States (USA) - onshore and offshore - CONUS (Alabama, Arizona, Arkansas,
+      California, Colorado, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois,
+      Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts,
+      Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire,
+      New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma,
+      Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee,
+      Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming).
+    s: 24.0
+    w: -135.0
+  identifier: 551
+  informationSource: []
+  name: NAD27 to NAD 83 (1986) [USA v1]
+  operationVersion: USA v1
+  parameters: []
+  remarks: Grid Transformation
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 36f1cea1-26f1-4e2b-889d-236a878ddf74
+status: valid

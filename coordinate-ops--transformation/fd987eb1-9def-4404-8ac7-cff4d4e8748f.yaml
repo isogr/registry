@@ -1,0 +1,28 @@
+data:
+  coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
+  description: null
+  extent:
+    e: 173.4
+    n: -8.47
+    name: Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
+      Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore. Cocos
+      (Keeling) Islands - onshore and offshore.
+    s: -60.56
+    w: 93.41
+  identifier: 546
+  informationSource: []
+  name: ITRF96 to GDA94 [GA v1]
+  operationVersion: GA v1
+  parameters: []
+  remarks: Implemented 2001. Replaced by Dawson and Woods transformation of 2010,
+    ITRF96 to GDA94 [GA-Aus 2010 v2].
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: fd987eb1-9def-4404-8ac7-cff4d4e8748f
+status: valid

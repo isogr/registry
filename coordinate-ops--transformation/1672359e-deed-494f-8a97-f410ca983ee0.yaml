@@ -1,0 +1,28 @@
+data:
+  coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
+  description: null
+  extent:
+    e: -47.74
+    n: 90.0
+    name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut,
+      Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: 40.04
+    w: -141.01
+  identifier: 686
+  informationSource: []
+  name: ITRF2008 to CGVD2013(CGG2013) - OHt [v1]
+  operationVersion: v1
+  parameters: []
+  remarks: Grid transformation from ITRF2008 ellipsoidal heights to CGVD2013(CGG2013)
+    orthometric heights using the CGG2013 geoid model upon which CGVD2013(CGG2013)
+    is defined. Bi-linear interpolation of the grid file will give results agreeing
+    to within 1cm 99.97% of the time.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 1672359e-deed-494f-8a97-f410ca983ee0
+status: valid

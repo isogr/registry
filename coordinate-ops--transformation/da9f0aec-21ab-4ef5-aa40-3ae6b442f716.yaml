@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
+  description: null
+  extent:
+    e: 128.0
+    n: 73.0
+    name: United States (USA) - onshore and offshore - Alaska.
+    s: 50.0
+    w: 172.0
+  identifier: 675
+  informationSource: []
+  name: NAD27 to NAD 83 (1986) [USA v2]
+  operationVersion: USA v2
+  parameters: []
+  remarks: Grid Transformation
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: da9f0aec-21ab-4ef5-aa40-3ae6b442f716
+status: valid

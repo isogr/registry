@@ -1,0 +1,28 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: CartesianCS
+    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
+      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
+      the equatorial plane at the Prime Meridian]. UoM: m.'
+    uuid: c3cd36f9-6530-4432-93d7-051bed567297
+  datum:
+    name: Japanese Geodetic Datum 2000
+    uuid: 26064ebd-187a-4205-ab67-e8f2ff72750a
+  description: null
+  extent:
+    e: 154.0
+    n: 45.6
+    name: Japan - onshore and offshore
+    s: 20.4
+    w: 122.9
+  identifier: 251
+  informationSource: []
+  name: JGD2000 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: afcfe96f-88e2-4371-bf0c-0ad2ad882f78
+status: valid

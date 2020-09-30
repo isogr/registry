@@ -1,0 +1,29 @@
+data:
+  coordOperationMethod: ba7dac5d-4f79-4ac1-a7aa-96ccebc6093d
+  description: null
+  extent:
+    e: 179.27
+    n: -33.89
+    name: New Zealand - onshore and nearshore - North Island, South Island, Stewart
+      Island.
+    s: -47.65
+    w: 165.87
+  identifier: 590
+  informationSource: []
+  name: NZGD1949 to NZGD2000 [LINZv1]
+  operationVersion: LINZv1
+  parameters: []
+  remarks: Lowest accuracy three parameter version of NZGD1949 to NZGD2000 transformation
+    by LINZ. For slightly higher (4 m) accuracy accuracy use seven parameter transformation
+    version LINZv2. For highest (0.1-1 m) accuracy use grid transformation version
+    LINZv3.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 6ac23fb1-5c23-4231-9e72-f878b5fe4b4c
+status: valid

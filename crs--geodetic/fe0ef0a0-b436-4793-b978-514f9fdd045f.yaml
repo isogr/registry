@@ -1,0 +1,35 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
+      north, east, up. UoM: degree, degree, metre.'
+    uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum:
+    name: North American Datum of 1983 (High Accuracy Regional Network)
+    uuid: 43d1d735-1441-4079-a635-62469221eed8
+  description: null
+  extent:
+    e: -64.51
+    n: 74.71
+    name: "United States and Territories - onshore and offshore: American Samoa. United\
+      \ States (USA) \u2013 Alaska, CONUS (Alabama, Arizona, Arkansas, California,\
+      \ Colorado, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana,\
+      \ Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan,\
+      \ Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire,\
+      \ New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma,\
+      \ Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee,\
+      \ Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming),\
+      \ Hawaii. Virgin Islands (US)."
+    s: -17.56
+    w: 144.58
+  identifier: 351
+  informationSource: []
+  name: NAD 83 (HARN) - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: fe0ef0a0-b436-4793-b978-514f9fdd045f
+status: valid

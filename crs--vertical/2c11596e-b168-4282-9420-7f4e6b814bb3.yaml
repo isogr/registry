@@ -1,0 +1,32 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: VerticalCS
+    name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: m.'
+    uuid: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum:
+    name: European Vertical Reference Frame 2000
+    uuid: 2dc960f0-f0a2-4dd4-8f0b-a359525b7dd6
+  description: null
+  extent:
+    e: 31.59
+    n: 71.21
+    name: Europe - onshore - Andorra, Austria, Belgium, Bosnia and Herzegovina, Croatia,
+      Czech Republic, Denmark, Estonia, Finland, France - mainland, Germany, Gibraltar,
+      Hungary, Italy - mainland and Sicily, Latvia, Liechtenstein, Lithuania, Luxembourg,
+      Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia,
+      Spain - mainland, Sweden, Switzerland, United Kingdom (UK) - Great Britain mainland,
+      Vatican City State.
+    s: 35.95
+    w: -9.56
+  identifier: 238
+  informationSource: []
+  name: EVRF2000 - NHt
+  operation: null
+  remarks: Uses Normal heights referenced to the GRS80 ellipsoid. Replaced by EVRF2007
+    - NHt.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 2c11596e-b168-4282-9420-7f4e6b814bb3
+status: valid

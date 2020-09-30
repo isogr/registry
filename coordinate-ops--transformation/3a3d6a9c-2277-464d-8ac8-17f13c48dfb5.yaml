@@ -1,0 +1,31 @@
+data:
+  coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
+  description: null
+  extent:
+    e: -170.0
+    n: -25.0
+    name: New Zealand - onshore and offshore - Antipodes Islands, Auckland Islands,
+      Bounty Islands, Campbell Island Chatham Islands, Kermadec Islands, North Island,
+      Raoul Island, Snares Islands, South Island, Stewart Island.
+    s: -60.0
+    w: 160.0
+  identifier: 520
+  informationSource: []
+  name: ITRF96 to ITRF2005 [LINZ v1]
+  operationVersion: LINZ v1
+  parameters: []
+  remarks: Typically used as the second step in a two-step process to transform coordinates
+    from NZGD2000 to ITRF2005. The first step is to transform coordinates from NZGD2000,
+    which is aligned to ITRF96 at epoch 2000.0, to ITRF96 at the specified epoch using
+    the latest version of that transformation. The ITRF96 coordinate at the specified
+    epoch is then transformed to ITRF2005 at the same epoch using this transformation.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 3a3d6a9c-2277-464d-8ac8-17f13c48dfb5
+status: valid

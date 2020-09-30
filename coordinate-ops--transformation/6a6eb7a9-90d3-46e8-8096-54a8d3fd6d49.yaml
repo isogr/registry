@@ -1,0 +1,26 @@
+data:
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: -123.0
+    n: 49.0
+    name: Canada - onshore and offshore - British Columbia - mainland.
+    s: 49.0
+    w: -139.04
+  identifier: 601
+  informationSource: []
+  name: NAD27 to NAD83(CSRS) v4 [BCv1]
+  operationVersion: BCv1
+  parameters: []
+  remarks: Grid tranformation in NTv2 format adopted for use in British Columbia,
+    Canada, excluding Vancouver Island.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 6a6eb7a9-90d3-46e8-8096-54a8d3fd6d49
+status: valid

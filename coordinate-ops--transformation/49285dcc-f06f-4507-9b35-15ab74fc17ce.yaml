@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 661
+  informationSource: []
+  name: WGS 84 (G730) to ITRF92 [1]
+  operationVersion: '1.0'
+  parameters: []
+  remarks: Null transformation. WGS 84 (G730) derived from ITRF92 at epoch 1994.0
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 49285dcc-f06f-4507-9b35-15ab74fc17ce
+status: valid

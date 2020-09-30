@@ -1,0 +1,32 @@
+data:
+  coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
+  description: null
+  extent:
+    e: -63.88
+    n: 74.71
+    name: 'United States and Territories - onshore and offshore: Puerto Rico. United
+      States (USA) - Alaska, CONUS (Alabama, Arizona, Arkansas, California, Colorado,
+      Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas,
+      Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi,
+      Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico,
+      New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania,
+      Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont,
+      Virginia, Washington, West Virginia, Wisconsin, Wyoming). Virgin Islands (US).'
+    s: 14.92
+    w: 167.65
+  identifier: 518
+  informationSource: []
+  name: ITRF96 to NAD 83 (CORS96) Epoch 1997.0 [v1]
+  operationVersion: v1
+  parameters: []
+  remarks: Transformation defines NAD83(CORS96) and is treated as errorless.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 91d4bcdd-cd1e-43cb-b601-b288788dda46
+status: valid

@@ -1,0 +1,30 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: CartesianCS
+    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
+      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
+      the equatorial plane at the Prime Meridian]. UoM: m.'
+    uuid: c3cd36f9-6530-4432-93d7-051bed567297
+  datum:
+    name: North American Datum of 1983 (PA11) Epoch 2010
+    uuid: cababac6-6467-425f-9520-1ac7ccd8f703
+  description: null
+  extent:
+    e: -151.27
+    n: 31.8
+    name: American Samoa - onshore and offshore. Marshall Islands - onshore and offshore.
+      United States (USA) - onshore and offshore - Hawaii. United States Minor Outlying
+      Islands - onshore and offshore.
+    s: -17.56
+    w: 157.47
+  identifier: 449
+  informationSource: []
+  name: NAD 83 (PA11) Epoch 2010 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 04872839-6316-49c8-82a2-89d83d2ac686
+status: valid

@@ -1,0 +1,26 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: VerticalCS
+    name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: m.'
+    uuid: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum:
+    name: Puerto Rico Vertical Datum of 2002
+    uuid: f99bfea8-d299-4e31-b3cf-c2cf45e9cccd
+  description: null
+  extent:
+    e: -65.5
+    n: 18.6
+    name: Puerto Rico - onshore.
+    s: 17.6
+    w: -67.5
+  identifier: 360
+  informationSource: []
+  name: PRVD02 - NOHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 27e93369-74f4-45dd-be8b-7a1db42ea73d
+status: valid

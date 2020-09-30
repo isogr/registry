@@ -1,0 +1,28 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: SIRGAS Continuously Operating Network SIR10P01
+    uuid: b41a3ac1-f664-4c9a-96f6-6d669e4aa4c3
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 456
+  informationSource: []
+  name: SIRGAS-CON SIR10P01 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: b1ad21d0-cbeb-4401-9024-ce8db6e74a08
+status: valid

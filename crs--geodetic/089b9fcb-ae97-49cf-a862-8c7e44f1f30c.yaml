@@ -1,0 +1,27 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
+      north, east, up. UoM: degree, degree, metre.'
+    uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum:
+    name: Japanese Geodetic Datum 2011
+    uuid: 11842bba-82c2-49bc-83bf-0333aca2cb87
+  description: null
+  extent:
+    e: 154.0
+    n: 45.6
+    name: Japan - onshore and offshore
+    s: 20.4
+    w: 122.9
+  identifier: 365
+  informationSource: []
+  name: JGD2011 - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 089b9fcb-ae97-49cf-a862-8c7e44f1f30c
+status: valid

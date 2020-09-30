@@ -1,0 +1,27 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: IGS14
+    uuid: d61ae2ab-8cca-438b-81e5-646be15531ce
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 406
+  informationSource: []
+  name: IGS14 - LatLon
+  operation: null
+  remarks: Replaces IGb08 - LatLon. Used by  IGS products from 2017-01-29.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: d079d734-dda9-4d36-8fa3-f6d9d401a3be
+status: valid

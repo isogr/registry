@@ -1,0 +1,26 @@
+data:
+  coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
+  description: null
+  extent:
+    e: 149.55
+    n: 23.9
+    name: Guam - onshore and offshore. Northern Mariana Islands - onshore and offshore.
+      Palau - onshore and offshore.
+    s: 1.64
+    w: 129.48
+  identifier: 594
+  informationSource: []
+  name: ITRF2008 to NAD 83 (MA11) Epoch 2010 [v1]
+  operationVersion: v1
+  parameters: []
+  remarks: Transformation defines NAD83(MA11) and is treated as errorless.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 6526b40e-bb63-42bd-aebd-af025b0aa94e
+status: valid

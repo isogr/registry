@@ -1,0 +1,27 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: North American Datum of 1927 (MAY76)
+    uuid: c11a078a-b331-428e-adc9-3e962911b72d
+  description: null
+  extent:
+    e: -74.35
+    n: 56.9
+    name: Canada - Ontario.
+    s: 41.67
+    w: -95.16
+  identifier: 248
+  informationSource: []
+  name: NAD27(MAY76) - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 2a87032d-d51b-420b-805f-1b4d04c81332
+status: valid

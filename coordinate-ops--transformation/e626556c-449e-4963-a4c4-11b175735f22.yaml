@@ -1,0 +1,23 @@
+data:
+  coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
+  description: null
+  extent:
+    e: 146.0
+    n: 14.0
+    name: Guam - onshore.
+    s: 13.0
+    w: 143.0
+  identifier: 519
+  informationSource: []
+  name: NAD 83 (FBN) to GUVD04 - NOHt [v1]
+  operationVersion: v1
+  parameters: []
+  remarks: Grid transformation
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: e626556c-449e-4963-a4c4-11b175735f22
+status: valid

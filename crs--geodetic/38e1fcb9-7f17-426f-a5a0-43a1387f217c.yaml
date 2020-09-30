@@ -1,0 +1,35 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: CartesianCS
+    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
+      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
+      the equatorial plane at the Prime Meridian]. UoM: m.'
+    uuid: c3cd36f9-6530-4432-93d7-051bed567297
+  datum:
+    name: European Terrestrial Reference Frame 1997
+    uuid: 48d2b697-6e24-42b2-be47-6a7467d27db4
+  description: null
+  extent:
+    e: 39.65
+    n: 84.17
+    name: 'Europe - onshore and offshore: Albania, Andorra, Austria, Belgium, Bosnia
+      and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+      Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Hungary, Ireland,
+      Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco,
+      Montenegro, Netherlands, Norway including Svalbard and Jan Mayen, Poland, Portugal,
+      Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland,
+      United Kingdom (UK) including Channel Islands and Isle of Man, Vatican City
+      State.'
+    s: 32.88
+    w: -16.1
+  identifier: 433
+  informationSource: []
+  name: ETRF97 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 38e1fcb9-7f17-426f-a5a0-43a1387f217c
+status: valid

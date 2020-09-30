@@ -1,0 +1,28 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: New Zealand Geodetic Datum 1949
+    uuid: 0b623c9c-e08b-418c-ab70-af7743959805
+  description: null
+  extent:
+    e: 179.27
+    n: -33.89
+    name: New Zealand - onshore and nearshore - North Island, South Island, Stewart
+      Island.
+    s: -47.65
+    w: 165.87
+  identifier: 443
+  informationSource: []
+  name: NZGD1949 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing.
+dateAccepted: 2018-11-17
+id: 82cbab29-43bb-4598-a0b3-a93ccf482a18
+status: valid

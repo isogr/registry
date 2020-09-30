@@ -1,0 +1,29 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: CartesianCS
+    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
+      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
+      the equatorial plane at the Prime Meridian]. UoM: m.'
+    uuid: c3cd36f9-6530-4432-93d7-051bed567297
+  datum:
+    name: North American Datum of 1983 (MARP00)
+    uuid: ba2620c2-8dd5-4f37-9eb6-5ff02c99048f
+  description: null
+  extent:
+    e: 149.55
+    n: 23.9
+    name: Guam - onshore and offshore. Northern Mariana Islands - onshore and offshore.
+      Palau - onshore and offshore.
+    s: 1.64
+    w: 129.48
+  identifier: 408
+  informationSource: []
+  name: NAD 83 (MARP00) - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: c6503b0b-7569-42ae-90a9-704068af1ae1
+status: valid

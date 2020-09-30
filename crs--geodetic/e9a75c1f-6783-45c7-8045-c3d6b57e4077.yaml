@@ -1,0 +1,29 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: North American Datum of 1983 (CSRS) version 4
+    uuid: 20dbfcd7-ff0a-4cc0-b0e9-1057a78e84d5
+  description: null
+  extent:
+    e: -47.74
+    n: 90.0
+    name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut,
+      Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: 40.04
+    w: -141.01
+  identifier: 340
+  informationSource: []
+  name: NAD83(CSRS) v4 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: e9a75c1f-6783-45c7-8045-c3d6b57e4077
+status: valid

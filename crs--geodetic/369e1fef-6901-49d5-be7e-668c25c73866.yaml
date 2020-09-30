@@ -1,0 +1,28 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: Average Terrestrial System of 1977
+    uuid: 804516a4-8b2e-42d1-a6cc-67333a279efb
+  description: null
+  extent:
+    e: -63.7
+    n: 48.07
+    name: Canada - onshore and offshore - Maritimes (New Brunswick, Nova Scotia, Prince
+      Edward Island).
+    s: 44.56
+    w: -69.05
+  identifier: 225
+  informationSource: []
+  name: ATS77 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 369e1fef-6901-49d5-be7e-668c25c73866
+status: valid

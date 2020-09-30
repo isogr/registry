@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
+  description: null
+  extent:
+    e: 128.0
+    n: 73.0
+    name: United States (USA) - onshore and offshore - Alaska.
+    s: 50.0
+    w: 172.0
+  identifier: 559
+  informationSource: []
+  name: NAD 83 (1986) to NAD 83 (HARN) [v2]
+  operationVersion: v2
+  parameters: []
+  remarks: Grid Transformation
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 89fedebd-09df-494e-9745-e384d0b1ddc0
+status: valid

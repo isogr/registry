@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: -101.34
+    n: 60.0
+    name: Canada - Saskatchewan.
+    s: 49.0
+    w: -110.0
+  identifier: 529
+  informationSource: []
+  name: NAD27 to NAD83(Original) [SKv1]
+  operationVersion: SKv1
+  parameters: []
+  remarks: Grid tranformation in NTv2 format adopted for use in Saskatchewan.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: ed7dca0a-d15e-49bf-aa85-5bdc3eeeb17a
+status: valid

@@ -1,0 +1,27 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
+      north, east, up. UoM: degree, degree, metre.'
+    uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum:
+    name: Sistema de Referencia Geocentrico para America del Sur 1995
+    uuid: 5ffe2869-e50d-455e-9960-0491b0b08067
+  description: null
+  extent:
+    e: -26.0
+    n: 16.75
+    name: South America - onshore and offshore
+    s: -59.87
+    w: -113.21
+  identifier: 306
+  informationSource: []
+  name: SIRGAS95 - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 5356ebd5-380e-44ad-9ee2-784f1f2d4517
+status: valid

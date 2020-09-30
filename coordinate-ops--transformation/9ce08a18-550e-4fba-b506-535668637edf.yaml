@@ -1,0 +1,27 @@
+data:
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: -47.74
+    n: 90.0
+    name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut,
+      Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: 40.04
+    w: -141.01
+  identifier: 637
+  informationSource: []
+  name: NAD27 to NAD83(Original) [CAv1]
+  operationVersion: CAv1
+  parameters: []
+  remarks: Grid tranformation in NTv2 format adopted for use in Canada.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 9ce08a18-550e-4fba-b506-535668637edf
+status: valid

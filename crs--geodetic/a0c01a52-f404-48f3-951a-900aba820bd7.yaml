@@ -1,0 +1,42 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: North American Datum of 1927
+    uuid: 5f9874d1-cadf-4e55-9bed-1d7f8d803774
+  description: null
+  extent:
+    e: -47.74
+    n: 83.17
+    name: "North and Central America: Antigua and Barbuda - onshore. Bahamas onshore\
+      \ plus offshore internal continental shelf only. Belize - onshore. Canada -\
+      \ onshore and offshore - Alberta, British Columbia, Manitoba, New Brunswick,\
+      \ Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario,\
+      \ Prince Edward Island, Quebec, Saskatchewan, Yukon. Cuba - onshore and offshore.\
+      \ El Salvador - onshore. Guatemala - onshore. Honduras - onshore. Puerto Rico\
+      \ - onshore. Mexico - onshore plus offshore Gulf of Mexico. Nicaragua - onshore.\
+      \ United States (USA) \u2013 onshore and offshore - Alaska, CONUS (Alabama,\
+      \ Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia,\
+      \ Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland,\
+      \ Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska,\
+      \ Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North\
+      \ Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina,\
+      \ South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West\
+      \ Virginia, Wisconsin, Wyoming). Virgin Islands (British) - onshore. Virgin\
+      \ Islands (US) - onshore and offshore."
+    s: 7.98
+    w: 167.65
+  identifier: 246
+  informationSource: []
+  name: NAD27 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: a0c01a52-f404-48f3-951a-900aba820bd7
+status: valid

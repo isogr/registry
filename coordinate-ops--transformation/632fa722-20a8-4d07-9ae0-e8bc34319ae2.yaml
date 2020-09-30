@@ -1,0 +1,27 @@
+data:
+  coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
+  description: null
+  extent:
+    e: -47.74
+    n: 90.0
+    name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut,
+      Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: 40.04
+    w: -141.01
+  identifier: 564
+  informationSource: []
+  name: ITRF93 to NAD83(CSRS96) v1 [v1]
+  operationVersion: v1
+  parameters: []
+  remarks: Transformation defines NAD83(CSRS96)v1 and is treated as errorless.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 632fa722-20a8-4d07-9ae0-e8bc34319ae2
+status: valid

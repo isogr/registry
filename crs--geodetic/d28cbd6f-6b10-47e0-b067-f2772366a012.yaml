@@ -1,0 +1,31 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: North American Datum of 1983 (Federal Base Network)
+    uuid: 0f8720f9-38d5-42fa-b840-2a612d8fb329
+  description: null
+  extent:
+    e: -64.51
+    n: 49.38
+    name: 'United States and Territories - onshore and offshore: American Samoa. Guam.
+      Northern Mariana Islands. Puerto Rico. United States (USA) - CONUS (California,
+      Connecticut, Florida, Idaho, Maine, Massachusetts, Montana, Nevada, New Hampshire,
+      New Jersey, New York, North Carolina, Oregon, Rhode Island, South Carolina,
+      Tennessee, Vermont, Washington, Wisconsin). Virgin Islands (US).'
+    s: -17.56
+    w: 144.58
+  identifier: 262
+  informationSource: []
+  name: NAD 83 (FBN) - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: d28cbd6f-6b10-47e0-b067-f2772366a012
+status: valid

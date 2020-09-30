@@ -1,0 +1,26 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: VerticalCS
+    name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: m.'
+    uuid: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum:
+    name: Virgin Islands Vertical Datum of 2009
+    uuid: e11a2e56-04c0-4d6e-b517-1a882c3bceea
+  description: null
+  extent:
+    e: -64.5
+    n: 18.5
+    name: Virgin Islands (US) - onshore.
+    s: 17.5
+    w: -65.5
+  identifier: 219
+  informationSource: []
+  name: VIVD09 - NOHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 9fe75981-ac00-4461-8167-e2992d034211
+status: valid

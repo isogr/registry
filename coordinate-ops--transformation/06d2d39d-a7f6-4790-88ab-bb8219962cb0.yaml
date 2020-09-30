@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
+  description: null
+  extent:
+    e: -64.0
+    n: 19.0
+    name: Puerto Rico - onshore and offshore. Virgin Islands (US) - onshore and offshore.
+    s: 17.0
+    w: -69.0
+  identifier: 668
+  informationSource: []
+  name: NAD 83 (HARN) CORRECTED to NAD 83 (FBN) [v1]
+  operationVersion: v1
+  parameters: []
+  remarks: Grid Transformation
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 06d2d39d-a7f6-4790-88ab-bb8219962cb0
+status: valid

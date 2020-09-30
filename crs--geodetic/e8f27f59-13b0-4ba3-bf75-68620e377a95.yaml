@@ -1,0 +1,28 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: CartesianCS
+    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
+      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
+      the equatorial plane at the Prime Meridian]. UoM: m.'
+    uuid: c3cd36f9-6530-4432-93d7-051bed567297
+  datum:
+    name: Sistema de Referencia Geocentrico para America del Sur 1995
+    uuid: 5ffe2869-e50d-455e-9960-0491b0b08067
+  description: null
+  extent:
+    e: -26.0
+    n: 16.75
+    name: South America - onshore and offshore
+    s: -59.87
+    w: -113.21
+  identifier: 278
+  informationSource: []
+  name: SIRGAS95 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: e8f27f59-13b0-4ba3-bf75-68620e377a95
+status: valid

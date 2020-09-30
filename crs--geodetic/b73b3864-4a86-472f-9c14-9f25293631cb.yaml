@@ -1,0 +1,30 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: CartesianCS
+    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
+      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
+      the equatorial plane at the Prime Meridian]. UoM: m.'
+    uuid: c3cd36f9-6530-4432-93d7-051bed567297
+  datum:
+    name: Geocentric Datum of Australia 1994
+    uuid: e8759f15-b673-49d3-9eb8-f46e96153d0a
+  description: null
+  extent:
+    e: 173.4
+    n: -8.47
+    name: Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
+      Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore. Cocos
+      (Keeling) Islands - onshore and offshore.
+    s: -60.56
+    w: 93.41
+  identifier: 362
+  informationSource: []
+  name: GDA94 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing.
+dateAccepted: 2018-11-17
+id: b73b3864-4a86-472f-9c14-9f25293631cb
+status: valid

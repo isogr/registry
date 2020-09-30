@@ -1,0 +1,27 @@
+data:
+  coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
+  description: null
+  extent:
+    e: -151.27
+    n: 31.8
+    name: American Samoa - onshore and offshore. Marshall Islands - onshore and offshore.
+      United States (USA) - onshore and offshore - Hawaii. United States Minor Outlying
+      Islands - onshore and offshore.
+    s: -17.56
+    w: 157.47
+  identifier: 565
+  informationSource: []
+  name: ITRF2008 to NAD 83 (PA11) Epoch 2010 [v1]
+  operationVersion: v1
+  parameters: []
+  remarks: Transformation defines NAD83(PA11) and is treated as errorless.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 97f3b1a7-4d2e-46d2-b789-76f5ea164c90
+status: valid

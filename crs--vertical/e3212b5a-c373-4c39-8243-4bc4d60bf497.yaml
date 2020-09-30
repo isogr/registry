@@ -1,0 +1,26 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: VerticalCS
+    name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: m.'
+    uuid: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum:
+    name: Japanese Geodetic Datum 2011 (vertical)
+    uuid: 8ed647b5-9570-46dc-8370-dec3bc7e697e
+  description: null
+  extent:
+    e: 145.8
+    n: 45.5
+    name: Japan - onshore - Hokkaido, Honshu, Shikoku, Kyushu.
+    s: 31.0
+    w: 129.5
+  identifier: 428
+  informationSource: []
+  name: JGD2011 (vertical) - OHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: e3212b5a-c373-4c39-8243-4bc4d60bf497
+status: valid

@@ -1,0 +1,27 @@
+data:
+  coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
+  description: null
+  extent:
+    e: 153.69
+    n: -10.65
+    name: Australia - onshore and nearshore - Australian Capital Territory, New South
+      Wales, Northern Territory, Queensland, South Australia, Western Australia, Victoria.
+    s: -39.2
+    w: 112.85
+  identifier: 633
+  informationSource: []
+  name: GDA94 to AHD [GA-mainland v1]
+  operationVersion: GA-mainland v1
+  parameters: []
+  remarks: Implemented 2009. Replaces AusGeoid98 model. Uses AusGeoid09 model which
+    uses bi-cubic interpolation; bi-linear interpolation of the grid file will give
+    results agreeing to within 1cm 99.97% of the time. May be used for transformations
+    from WGS 84 to AHD.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 69f85d7d-1759-46c5-aed4-b674d14bad1f
+status: valid

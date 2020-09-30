@@ -1,0 +1,28 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: North American Datum of 1983 (MA11) Epoch 2010
+    uuid: 2a7b9fa9-a13b-46cc-887f-7a60788e983f
+  description: null
+  extent:
+    e: 149.55
+    n: 23.9
+    name: Guam - onshore and offshore. Northern Mariana Islands - onshore and offshore.
+      Palau - onshore and offshore.
+    s: 1.64
+    w: 129.48
+  identifier: 393
+  informationSource: []
+  name: NAD 83 (MA11) Epoch 2010 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: bb1cfe22-072b-460e-aa7b-f68a06733560
+status: valid

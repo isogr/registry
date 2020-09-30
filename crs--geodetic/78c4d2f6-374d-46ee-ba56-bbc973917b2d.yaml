@@ -1,0 +1,35 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: CartesianCS
+    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
+      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
+      the equatorial plane at the Prime Meridian]. UoM: m.'
+    uuid: c3cd36f9-6530-4432-93d7-051bed567297
+  datum:
+    name: North American Datum of 1983 (CORS96) Epoch 1997.0
+    uuid: 9902e61e-add8-4f07-b47d-b19f5e78663b
+  description: null
+  extent:
+    e: -63.88
+    n: 74.71
+    name: 'United States and Territories - onshore and offshore: Puerto Rico. United
+      States (USA) - Alaska, CONUS (Alabama, Arizona, Arkansas, California, Colorado,
+      Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas,
+      Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi,
+      Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico,
+      New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania,
+      Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont,
+      Virginia, Washington, West Virginia, Wisconsin, Wyoming). Virgin Islands (US).'
+    s: 14.92
+    w: 167.65
+  identifier: 311
+  informationSource: []
+  name: NAD 83 (CORS96) Epoch 1997.0 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 78c4d2f6-374d-46ee-ba56-bbc973917b2d
+status: valid

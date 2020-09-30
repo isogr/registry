@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
+  description: null
+  extent:
+    e: -26.0
+    n: 16.75
+    name: South America - onshore and offshore
+    s: -59.87
+    w: -113.21
+  identifier: 525
+  informationSource: []
+  name: ITRF94 to SIRGAS95 [SIRv1]
+  operationVersion: SIRv1
+  parameters: []
+  remarks: Null reference frame transformation between ITRF94 and SIRGAS95.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 2b73853e-52c2-45ca-bfbf-93fa61553919
+status: valid

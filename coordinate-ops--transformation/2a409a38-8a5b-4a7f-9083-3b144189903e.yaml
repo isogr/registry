@@ -1,0 +1,27 @@
+data:
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: -123.58
+    n: 50.95
+    name: Canada - onshore and offshore - British Columbia - Vancouver Island excluding
+      Capital Regional District.
+    s: 48.5
+    w: -128.45
+  identifier: 570
+  informationSource: []
+  name: NAD83(Original) to NAD83(CSRS) v3 [BCv2]
+  operationVersion: BCv2
+  parameters: []
+  remarks: Grid tranformation in NTv2 format adopted for use on Vancouver Island,
+    outside the Capital Regional District, British Columbia, Canada.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 2a409a38-8a5b-4a7f-9083-3b144189903e
+status: valid

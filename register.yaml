@@ -1,0 +1,10 @@
+name: Test GR
+stakeholders:
+  - role: owner
+    name: Anton
+    gitServerUsername: strogonoff
+    parties:
+      - name: Anton
+        contacts:
+          - label: email
+            value: anton@strogonoff.name

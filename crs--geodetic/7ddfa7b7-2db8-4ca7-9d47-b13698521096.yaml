@@ -1,0 +1,27 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: North American Datum of 1927 (CGQ77)
+    uuid: 01b38ec3-0559-48e9-8ca8-7ff5dfb03d0e
+  description: null
+  extent:
+    e: -57.1
+    n: 62.62
+    name: Canada - onshore and offshore - Quebec.
+    s: 44.99
+    w: -79.85
+  identifier: 304
+  informationSource: []
+  name: NAD27(CGQ77) - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 7ddfa7b7-2db8-4ca7-9d47-b13698521096
+status: valid

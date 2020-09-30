@@ -1,0 +1,22 @@
+data:
+  coordOperationMethod: e0a8fc2b-2414-4ba5-a6c8-5c880a42ae81
+  description: null
+  extent:
+    e: -102.0
+    n: 50.0
+    name: United States (USA) - onshore - western CONUS (Arizona, California, Colorado,
+      Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming).
+    s: 24.0
+    w: -125.0
+  identifier: 683
+  informationSource: []
+  name: NGVD29 - NOHt to NAVD88 - OHt [v1]
+  operationVersion: v1
+  parameters: []
+  remarks: Grid Transformation
+  scope: []
+  sourceCRS: null
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 5d7ee0fb-ba4c-44eb-88d3-ca35c197fbb8
+status: valid

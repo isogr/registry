@@ -1,0 +1,27 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
+      UoM: degree'
+    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum:
+    name: World Geodetic System 1984 (G730)
+    uuid: 09391e28-e386-4760-9d93-60c922279164
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 374
+  informationSource: []
+  name: 'WGS 84 (G730) - LatLon '
+  operation: null
+  remarks: Replaces WGS 84 TRANSIT - LatLon. Replaced by WGS84 (G873) - LatLon.
+  scope: Spatial Referencing and GPS satellite navigation.
+dateAccepted: 2018-11-17
+id: 91628505-63fc-42b5-b069-f0316acee305
+status: valid

@@ -1,0 +1,24 @@
+data:
+  coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
+  description: null
+  extent:
+    e: -112.0
+    n: 41.0
+    name: "United States (USA) - onshore - CONUS south of 41\xB0N and west of 112\xB0\
+      W (Arizona, California, Nevada, Utah)."
+    s: 31.64
+    w: -124.45
+  identifier: 667
+  informationSource: []
+  name: NAD 83 (HARN) to NAVD88 - OHt [v5]
+  operationVersion: v5
+  parameters: []
+  remarks: Grid transformation
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 47a058e3-5c1c-4285-a0cf-b64ad9ce70ba
+status: valid

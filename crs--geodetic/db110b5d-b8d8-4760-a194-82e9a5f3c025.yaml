@@ -1,0 +1,29 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
+      north, east, up. UoM: degree, degree, metre.'
+    uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum:
+    name: North American Datum of 1983 (PACP00)
+    uuid: f7ff2de2-2706-488b-aa4f-d62aa9c7a8ce
+  description: null
+  extent:
+    e: -151.27
+    n: 31.8
+    name: American Samoa - onshore and offshore. Marshall Islands - onshore and offshore.
+      United States (USA) - onshore and offshore - Hawaii. United States Minor Outlying
+      Islands - onshore and offshore.
+    s: -17.56
+    w: 157.47
+  identifier: 455
+  informationSource: []
+  name: NAD 83 (PACP00) - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: db110b5d-b8d8-4760-a194-82e9a5f3c025
+status: valid

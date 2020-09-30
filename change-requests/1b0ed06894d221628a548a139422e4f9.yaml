@@ -1,0 +1,31 @@
+id: 1b0ed06894d221628a548a139422e4f9
+justification: My Justification
+timeStarted: 2020-09-30T11:30:44.739Z
+proposals:
+  coordinate-ops--transformation/b8d838f280b5206195dbce623570d057:
+    type: addition
+    payload:
+      identifier: 141
+      informationSource: []
+      remarks: ''
+      description: Test
+      extent:
+        name: ''
+        'n': 0
+        e: 0
+        s: 0
+        w: 0
+      operationVersion: ''
+      name: Transformation name
+sponsor:
+  role: owner
+  name: Anton
+  gitServerUsername: strogonoff
+  parties:
+    - name: Anton
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+status: pending
+disposition: !<tag:yaml.org,2002:js/undefined> ''
+timeProposed: 2020-09-30T11:31:34.195Z

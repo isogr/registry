@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: ea144e91-b722-4b93-928d-5fc40fd88e6b
+  description: null
+  extent:
+    e: 154.0
+    n: 45.6
+    name: Japan - onshore and offshore
+    s: 20.4
+    w: 122.9
+  identifier: 467
+  informationSource: []
+  name: JGD2000 to JGD2011 [GSIv1]
+  operationVersion: GSIv1
+  parameters: []
+  remarks: PatchJGD application from GSI.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 529a1bd0-c731-4171-bd50-6d56a628bc18
+status: valid

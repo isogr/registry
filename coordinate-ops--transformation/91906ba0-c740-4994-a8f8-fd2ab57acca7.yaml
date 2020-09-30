@@ -1,0 +1,25 @@
+data:
+  coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 614
+  informationSource: []
+  name: ITRF2005 to IGS05 [IGS v1]
+  operationVersion: IGS v1
+  parameters: []
+  remarks: Null transformation. IGS05 is aligned to ITRF2005.
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+dateAccepted: 2018-11-17
+id: 91906ba0-c740-4994-a8f8-fd2ab57acca7
+status: valid

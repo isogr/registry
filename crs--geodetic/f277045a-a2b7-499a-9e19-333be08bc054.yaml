@@ -1,0 +1,35 @@
+data:
+  alias: []
+  baseCRS: null
+  coordinateSystem:
+    class: EllipsoidalCS
+    name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
+      north, east, up. UoM: degree, degree, metre.'
+    uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum:
+    name: European Terrestrial Reference Frame 1989
+    uuid: c416269e-8148-4f59-a137-6c122e10e18a
+  description: null
+  extent:
+    e: 39.65
+    n: 84.17
+    name: 'Europe - onshore and offshore: Albania, Andorra, Austria, Belgium, Bosnia
+      and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+      Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Hungary, Ireland,
+      Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco,
+      Montenegro, Netherlands, Norway including Svalbard and Jan Mayen, Poland, Portugal,
+      Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland,
+      United Kingdom (UK) including Channel Islands and Isle of Man, Vatican City
+      State.'
+    s: 32.88
+    w: -16.1
+  identifier: 217
+  informationSource: []
+  name: ETRF89 - LatLonEHt
+  operation: null
+  remarks: 'The distinction in usage between ETRF89 and ETRS89 is confused: although
+    in principle conceptually different in practice both are used as synonyms.'
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: f277045a-a2b7-499a-9e19-333be08bc054
+status: valid

@@ -1,0 +1,23 @@
+data:
+  coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
+  description: null
+  extent:
+    e: -170.0
+    n: -14.0
+    name: American Samoa - onshore - Tutuila.
+    s: -14.5
+    w: -171.0
+  identifier: 502
+  informationSource: []
+  name: NAD 83 (PA11) Epoch 2010 to ASVD02 - NOHt [v1]
+  operationVersion: v1
+  parameters: []
+  remarks: Grid Transformation
+  scope: []
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 4c86fcd3-5cdc-4bc8-9a21-69588179a389
+status: valid
