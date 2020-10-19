@@ -1,0 +1,14 @@
+id: 57a98b67c8612984d4bebac13af7908b
+justification: ''
+timeStarted: 2020-10-19T10:55:05.287Z
+proposals: {}
+sponsor:
+  role: owner
+  name: Anton (Test)
+  gitServerUsername: strogonoff
+  parties:
+    - name: Anton
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+status: pending
