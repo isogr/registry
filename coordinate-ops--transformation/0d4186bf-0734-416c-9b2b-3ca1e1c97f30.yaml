@@ -8,7 +8,17 @@ data:
     s: 54.34
     w: -168.26
   identifier: 666
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: National Geodetic Survey Geoid Homepage
+    uuid: 2e0ace29-96e9-4510-979e-3d46f3877900
   name: NAD 83 (2007) to NAVD88 - OHt [v2]
   operationVersion: v2
   parameters: []
@@ -16,7 +26,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 4bd35f90-809c-4696-bae4-f1f9f0f30a8c
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 0d4186bf-0734-416c-9b2b-3ca1e1c97f30

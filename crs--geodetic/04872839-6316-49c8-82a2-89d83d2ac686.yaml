@@ -2,14 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: CartesianCS
-    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
-      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
-      the equatorial plane at the Prime Meridian]. UoM: m.'
-    uuid: c3cd36f9-6530-4432-93d7-051bed567297
-  datum:
-    name: North American Datum of 1983 (PA11) Epoch 2010
-    uuid: cababac6-6467-425f-9520-1ac7ccd8f703
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: cababac6-6467-425f-9520-1ac7ccd8f703
   description: null
   extent:
     e: -151.27
@@ -20,7 +15,31 @@ data:
     s: -17.56
     w: 157.47
   identifier: 449
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2013-08-08 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: "Volume 78, No. 153, Document: 2013\u201319167, Citation: 78 FR\
+      \ 48421"
+    seriesName: Federal Register Notice
+    seriesPage: 48421-48422
+    title: Publication of North American Datum of 1983 (2011) Epoch 2010.00, North
+      American Datum of 1983 (PA2011) Epoch 2010.00 and North American Datum of 1983
+      (MA2011) Epoch 2010.00
+    uuid: 6c38f175-138d-4c8e-ac12-d68d2359c744
+  - edition: null
+    editionDate: 2013-01-01 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    seriesIssueID: Volume 17, No. 1
+    seriesName: GPS Solutions
+    seriesPage: 1-15
+    title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
+      frames
+    uuid: 8e449095-0874-4399-a4de-ee1044da249a
   name: NAD 83 (PA11) Epoch 2010 - XYZ
   operation: null
   remarks: null

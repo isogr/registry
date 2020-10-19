@@ -9,7 +9,50 @@ data:
     s: -59.87
     w: -122.19
   identifier: 707
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Use of velocities in the processing of GNSS data
+    uuid: fcf3ade5-5605-42c4-80dd-da1962efa0a3
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Presented at the SIRGAS 2005 General Meeting. Caracas, Venezuela
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Report on new activities of IGS Regional Associate Analysis for SIRGAS
+      (IGS RNAAC SIR)
+    uuid: 2f23ab03-35e4-476f-83f3-0cb37dfd32e5
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 79ce09dd-ac45-4d91-a77c-fd984d4046b8
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: dd214697-99df-4b81-8833-578912b2a19e
   name: ITRF2000 to SIRGAS-CON DGF05P01 [SIRv1]
   operationVersion: SIRv1
   parameters: []
@@ -17,10 +60,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: b9403da3-5dba-4a7e-8b40-29961b40250a
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: ba2477ba-c334-40ee-a28e-93dd542dd9fa
 dateAccepted: 2018-11-17
 id: 6d75626c-e6d5-44a4-aa22-c068121a21a0
 status: valid

@@ -9,7 +9,49 @@ data:
     s: -59.87
     w: -122.19
   identifier: 652
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 3d3da385-a2b1-4bf1-8144-15e1695cde5a
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Use of velocities in the processing of GNSS data
+    uuid: 1845f3b0-a0ab-47f4-a423-f33bfcd865ae
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: JPL Publication 04-017
+    seriesName: IGS 2001-2002 Technical Reports
+    seriesPage: 285-290
+    title: Annual Report 2001 of IGS RNAAC SIR
+    uuid: 836c5c14-593b-4774-9c02-93c0a0c1b62c
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 273effd6-23c8-4ec2-bd22-ef6be01a22bb
   name: ITRF2000 to SIRGAS-CON DGF01P02 [SIRv1]
   operationVersion: SIRv1
   parameters: []
@@ -17,10 +59,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: b9403da3-5dba-4a7e-8b40-29961b40250a
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: bf1000b0-ce1e-422b-b3e7-d6df0d3b6e5f
 dateAccepted: 2018-11-17
 id: 9de1a7e1-e2a5-4742-9dca-6252cbf51d17
 status: valid

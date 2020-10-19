@@ -2,14 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: CartesianCS
-    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
-      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
-      the equatorial plane at the Prime Meridian]. UoM: m.'
-    uuid: c3cd36f9-6530-4432-93d7-051bed567297
-  datum:
-    name: North American Datum of 1983 (PACP00)
-    uuid: f7ff2de2-2706-488b-aa4f-d62aa9c7a8ce
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: f7ff2de2-2706-488b-aa4f-d62aa9c7a8ce
   description: null
   extent:
     e: -151.27
@@ -20,7 +15,27 @@ data:
     s: -17.56
     w: 157.47
   identifier: 315
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2003-01-01 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: MARP00, PACP00
+    seriesIssueID: Volume 63, No. 1
+    seriesName: Surveying and Land Information Systems
+    seriesPage: ' 5-12'
+    title: Introducing Two Spatial Reference Frames for Regions of the Pacific Ocean
+    uuid: b3f34ec3-8096-4cff-8fe5-8809efc08fb5
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: webpage
+    seriesIssueID: null
+    seriesName: NGS Online listing of transformation parameters
+    seriesPage: null
+    title: CORS Coordinates
+    uuid: 36d4bb69-c6ee-48e3-8e4d-e41d0bd3486e
   name: NAD 83 (PACP00) - XYZ
   operation: null
   remarks: null

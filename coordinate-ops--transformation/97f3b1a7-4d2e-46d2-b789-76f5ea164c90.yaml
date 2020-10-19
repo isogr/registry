@@ -10,7 +10,41 @@ data:
     s: -17.56
     w: 157.47
   identifier: 565
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2013-08-08 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: "Volume 78, No. 153, Document: 2013\u201319167, Citation: 78 FR\
+      \ 48421"
+    seriesName: Federal Register Notice
+    seriesPage: 48421-48422
+    title: Publication of North American Datum of 1983 (2011) Epoch 2010.00, North
+      American Datum of 1983 (PA2011) Epoch 2010.00 and North American Datum of 1983
+      (MA2011) Epoch 2010.00
+    uuid: 4be5ad02-3fba-4295-9cdf-bc7581bb50ec
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: webpage
+    seriesIssueID: null
+    seriesName: NGS Online listing of transformation parameters
+    seriesPage: null
+    title: CORS Coordinates
+    uuid: 20ec00a0-dfd3-4046-88d2-bc50322b3526
+  - edition: null
+    editionDate: 2013-01-01 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    seriesIssueID: Volume 17, No. 1
+    seriesName: GPS Solutions
+    seriesPage: 1-15
+    title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
+      frames
+    uuid: 31445ab7-d8a7-4d21-acb9-202ebed59e65
   name: ITRF2008 to NAD 83 (PA11) Epoch 2010 [v1]
   operationVersion: v1
   parameters: []
@@ -18,10 +52,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 5777362f-a633-4bdb-8a4c-6b1d539211f9
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 04872839-6316-49c8-82a2-89d83d2ac686
 dateAccepted: 2018-11-17
 id: 97f3b1a7-4d2e-46d2-b789-76f5ea164c90
 status: valid

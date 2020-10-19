@@ -8,7 +8,19 @@ data:
     s: -90.0
     w: -180.0
   identifier: 712
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: Proceedings of the 10th International Technical Meeting of the Satellite
+      Division of The Institue of Navigation (ION-GPS-1997), Kansas City, MO, September
+      1997
+    seriesPage: 841-850
+    title: Refinements to The World Geodetic System 1984
+    uuid: 8bd6ac95-1c98-472b-9e24-14fd727472ca
   name: WGS 84 (G873) to ITRF94 [1]
   operationVersion: '1.0'
   parameters: []
@@ -16,10 +28,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 1453527a-e460-4b98-96f7-b61ad52aa6aa
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 22fcdfb2-8a7b-483e-a43b-82328b9fc7c9
 dateAccepted: 2018-11-17
 id: 1e483731-9ba2-4a37-8b44-eca4dc04c5d7
 status: valid

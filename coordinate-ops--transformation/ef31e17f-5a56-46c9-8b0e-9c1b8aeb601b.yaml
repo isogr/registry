@@ -8,7 +8,27 @@ data:
     s: -90.0
     w: -180.0
   identifier: 635
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '3605.0'
+    seriesName: IGSMAIL
+    seriesPage: null
+    title: Towards ITRF2000
+    uuid: bbbcdac8-1a38-4e26-806b-ac6d05260a10
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Chronology of IGS Reference Frame Usage
+    uuid: 43c461a5-2aea-430a-9370-38ae51671e3d
   name: IGS97 to IGS00 [IGS v1]
   operationVersion: IGS v1
   parameters: []
@@ -19,10 +39,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 01f2fa7b-1b4f-434d-826d-91c66895ce37
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 31dde99a-36b3-44e0-9bb8-9d77db9e73ac
 dateAccepted: 2018-11-17
 id: ef31e17f-5a56-46c9-8b0e-9c1b8aeb601b
 status: valid

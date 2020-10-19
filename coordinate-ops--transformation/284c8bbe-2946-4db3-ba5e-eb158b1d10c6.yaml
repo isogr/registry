@@ -8,7 +8,27 @@ data:
     s: -90.0
     w: -180.0
   identifier: 690
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'ISSN: 1019-4568'
+    seriesIssueID: '36.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS Conventions (2010)
+    uuid: 703b364a-ebff-4f28-aca9-4c199f3e8968
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Transformation Parameters between ITRF2005 and ITRF2000
+    uuid: 0c9eddb6-0c73-4c58-9b9d-92a8f7301a58
   name: ITRF2000 to ITRF2005 [IERS v1]
   operationVersion: IERS v1
   parameters: []
@@ -20,10 +40,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: d512f92c-4bca-4881-935c-c0d6faa11bef
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 01a8ad27-2f0d-40a0-9c4e-1798364274f9
 dateAccepted: 2018-11-17
 id: 284c8bbe-2946-4db3-ba5e-eb158b1d10c6
 status: valid

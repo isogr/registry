@@ -14,7 +14,17 @@ data:
     s: 24.41
     w: -124.79
   identifier: 515
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: National Geodetic Survey Geoid Homepage
+    uuid: 9e99351d-02ea-46e5-a8ca-afab60bb0688
   name: NAD 83 (2011) Epoch 2010 to NAVD88 - OHt [v1]
   operationVersion: v1
   parameters: []
@@ -22,7 +32,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: b8eaf2f4-54e8-4a51-9ca9-9a38b793b8fe
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 8f012cc8-8892-4979-a0b5-a8e7370e66b6

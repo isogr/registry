@@ -8,7 +8,37 @@ data:
     s: 44.99
     w: -79.85
   identifier: 472
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Desktop Applications: NTv2'
+    uuid: da613fdc-4ccf-4e01-9c4a-d9d90129f18b
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Personal email communication.
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'RE: GSD file'
+    uuid: edfef7c3-6afa-4ea7-bba7-ed476f4b8f66
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: 'Article ID: 000011846'
+    seriesName: null
+    seriesPage: null
+    title: 'FAQ: What are some of the transformation methods for Canada?'
+    uuid: 4a5652f8-df1f-4048-8002-1f738597688a
   name: NAD27 to NAD83(CSRS) v2 [QCv1]
   operationVersion: QCv1
   parameters: []
@@ -16,10 +46,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: a0c01a52-f404-48f3-951a-900aba820bd7
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 4098686c-3538-4441-b085-af045ec68ea4
 dateAccepted: 2018-11-17
 id: ef58b465-202c-4481-8bca-2864f69c3f0b
 status: valid

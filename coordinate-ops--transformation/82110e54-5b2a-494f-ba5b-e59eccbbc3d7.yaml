@@ -8,7 +8,17 @@ data:
     s: -90.0
     w: -180.0
   identifier: 621
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: WGS 84, N=M=180 Earth Gravitational Model
+    uuid: 77a2719c-602c-4ce0-b0df-1d9ed4106116
   name: WGS 84 (G873) to WGS 84 EGM84 - OHt [1]
   operationVersion: '1.0'
   parameters: []
@@ -17,7 +27,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 5da438aa-1147-4945-8642-52cfef8bd7a8
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 82110e54-5b2a-494f-ba5b-e59eccbbc3d7

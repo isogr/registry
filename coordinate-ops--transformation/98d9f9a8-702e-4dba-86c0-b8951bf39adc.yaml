@@ -8,7 +8,17 @@ data:
     s: 17.5
     w: -65.5
   identifier: 530
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: National Geodetic Survey Geoid Homepage
+    uuid: 9bcac4f0-84bb-4929-82f3-6318bff5486d
   name: NAD 83 (2007) to VIVD09 - NOHt [v1]
   operationVersion: v1
   parameters: []
@@ -16,7 +26,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 4bd35f90-809c-4696-bae4-f1f9f0f30a8c
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 98d9f9a8-702e-4dba-86c0-b8951bf39adc

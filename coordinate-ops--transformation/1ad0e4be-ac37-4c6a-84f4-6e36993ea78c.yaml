@@ -9,7 +9,50 @@ data:
     s: -59.87
     w: -122.19
   identifier: 613
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 4ff33be5-ee3a-445c-94cb-631b55e0d4a4
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Report in both English and Spanish.
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'South American Geocentric Reference System: Final Report, Working Groups
+      I and II'
+    uuid: 24e36aab-507d-4fd3-8fe6-a7b392f2547e
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '124.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: '2018-10-07'
+    title: Velocity estimates of IGS RNAAC SIRGAS stations
+    uuid: 10da7b14-d0da-47ec-b91e-4009e6a93d20
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: cace299d-af04-4157-a7e1-65d2fb6b78a0
   name: ITRF97 to SIRGAS-CON DGF00P01 [SIRv1]
   operationVersion: SIRv1
   parameters: []
@@ -17,10 +60,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 399ea4e9-b1a3-4551-a3f7-f182c5104ea8
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 7d78131a-02ef-4517-bf75-1a20b9e482e5
 dateAccepted: 2018-11-17
 id: 1ad0e4be-ac37-4c6a-84f4-6e36993ea78c
 status: valid

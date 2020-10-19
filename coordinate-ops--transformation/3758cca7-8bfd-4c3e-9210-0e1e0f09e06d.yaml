@@ -8,7 +8,17 @@ data:
     s: 45.9
     w: -64.49
   identifier: 528
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Personal email communication.
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Re: ATS77 - NAD27 transformation grids'
+    uuid: 7b57771f-8c90-43ae-958a-d8770089ce53
   name: NAD27 to ATS77 [PEv1]
   operationVersion: PEv1
   parameters: []
@@ -16,10 +26,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: a0c01a52-f404-48f3-951a-900aba820bd7
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 369e1fef-6901-49d5-be7e-668c25c73866
 dateAccepted: 2018-11-17
 id: 3758cca7-8bfd-4c3e-9210-0e1e0f09e06d
 status: valid

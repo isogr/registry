@@ -8,7 +8,27 @@ data:
     s: -90.0
     w: -180.0
   identifier: 490
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '15.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: ITRF 92 and its associated velocity field
+    uuid: ecba9c3d-e7c4-4334-a3f8-792a6d8072f2
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'ISSN: 1019-4568'
+    seriesIssueID: '36.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS Conventions (2010)
+    uuid: bf69f0bd-5f6a-4c63-8c16-05a1ac1904c7
   name: ITRF91 to ITRF92 [IERS v1]
   operationVersion: IERS v1
   parameters: []
@@ -16,10 +36,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 5b5b98d8-2dd3-43fb-831b-273ca9d0ef12
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: a006a2fd-6895-41a4-9df3-cc40022cf181
 dateAccepted: 2018-11-17
 id: 41909582-4fe2-4052-8b5c-92bd3426ee1f
 status: valid

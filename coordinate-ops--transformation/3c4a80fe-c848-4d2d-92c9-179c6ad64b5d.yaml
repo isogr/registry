@@ -10,7 +10,27 @@ data:
     s: 40.04
     w: -141.01
   identifier: 535
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: "Canadian Gravimetric Geoid 2013 \u2013 Version A (CGG2013a)"
+    uuid: 8ed09ba2-2366-4acb-b65b-74342f0f44bc
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 70, No. 1
+    seriesName: Geomatica
+    seriesPage: '9.0'
+    title: The Canadian Geodetic Vertical Datum of 2013 (CGVD2013)
+    uuid: 1fd33e9d-6dff-4023-b850-a1aeab2b189b
   name: ITRF2008 to CGVD2013(CGG2013a) - OHt [v1]
   operationVersion: v1
   parameters: []
@@ -21,7 +41,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: ff08fe41-933b-4930-83c5-ff67ae08e20f
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 3c4a80fe-c848-4d2d-92c9-179c6ad64b5d

@@ -2,12 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: VerticalCS
-    name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: m.'
-    uuid: bccbe20a-3852-4a31-8533-ac6e043b52d9
-  datum:
-    name: European Vertical Reference Frame 2007
-    uuid: 8ed56bdb-5d8c-40a5-abcb-1ee2238722c0
+    classID: coordinate-sys--vertical
+    itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum: 8ed56bdb-5d8c-40a5-abcb-1ee2238722c0
   description: null
   extent:
     e: 31.59
@@ -21,7 +18,17 @@ data:
     s: 35.95
     w: -9.56
   identifier: 409
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 68, No. 1
+    seriesName: Bollettino di Geodesia e Scienze Affini
+    seriesPage: 35-50
+    title: EVRF2007 as Realization of the European Vertical Reference System
+    uuid: c887a90c-e57e-41e1-98e4-b23f3d7ca741
   name: EVRF2007 - NHt
   operation: null
   remarks: Uses Normal heights referenced to the GRS80 ellipsoid. Replaces EVRF2000

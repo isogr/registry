@@ -8,7 +8,27 @@ data:
     s: 44.56
     w: -69.05
   identifier: 647
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: 'Article ID: 000011846'
+    seriesName: null
+    seriesPage: null
+    title: 'FAQ: What are some of the transformation methods for Canada?'
+    uuid: 7f5059a5-0ea0-4f08-a86a-fa1f33f0e6a9
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Data Catalogue: NTv2 Grid Shift Files'
+    uuid: 7f1bdd73-9ee5-4089-b363-9eb4e6e4544f
   name: ATS77 to NAD83(CSRS) v2 [NBv1]
   operationVersion: NBv1
   parameters: []
@@ -16,10 +36,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 369e1fef-6901-49d5-be7e-668c25c73866
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 4098686c-3538-4441-b085-af045ec68ea4
 dateAccepted: 2018-11-17
 id: 1e2e42e5-a0da-4ca1-893e-c60ad512ee15
 status: valid

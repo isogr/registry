@@ -8,7 +8,28 @@ data:
     s: -90.0
     w: -180.0
   identifier: 669
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '6.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: ITRF 89 and other realizations of the IERS Terrestrial Reference System
+      for 1989
+    uuid: c0fb8d30-14eb-49ec-8fa7-c40377bd52e9
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'ISSN: 1019-4568'
+    seriesIssueID: '36.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS Conventions (2010)
+    uuid: 60bb9c16-9031-4429-9315-7cb9c1c75418
   name: ITRF88 to ITRF89 [IERS v1]
   operationVersion: IERS v1
   parameters: []
@@ -16,10 +37,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 282c60c2-e465-40ff-8587-02c1f95bd8e6
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: e3ed649d-11ac-4ee9-8951-15f491d2dc3d
 dateAccepted: 2018-11-17
 id: 2d014103-8df7-4aec-b7a1-4dd704685d93
 status: valid

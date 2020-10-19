@@ -8,7 +8,17 @@ data:
     s: -90.0
     w: -180.0
   identifier: 600
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '27.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: The International Terrestrial Reference Frame (ITRF97)
+    uuid: 522875b7-4989-444a-a6fd-5379e783c85e
   name: ITRF96 to ITRF97 [IERS v1]
   operationVersion: IERS v1
   parameters: []
@@ -16,10 +26,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 20beee39-f810-4204-951f-4c0f97413f74
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 2a7ea3c8-f627-4d5f-b684-e10021b4e611
 dateAccepted: 2018-11-17
 id: 9227f956-e1d9-4b94-8b14-aae88c98d2ff
 status: valid

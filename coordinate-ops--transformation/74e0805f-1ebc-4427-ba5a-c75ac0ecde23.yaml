@@ -10,7 +10,17 @@ data:
     s: -60.0
     w: 160.0
   identifier: 542
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Transforming between ITRF and NZGD2000
+    uuid: 09ffd0b4-09f4-4982-a33b-89cba635646b
   name: ITRF96 to ITRF97 [LINZ v1]
   operationVersion: LINZ v1
   parameters: []
@@ -22,10 +32,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 20beee39-f810-4204-951f-4c0f97413f74
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 2a7ea3c8-f627-4d5f-b684-e10021b4e611
 dateAccepted: 2018-11-17
 id: 74e0805f-1ebc-4427-ba5a-c75ac0ecde23
 status: valid

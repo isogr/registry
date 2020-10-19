@@ -2,12 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: VerticalCS
-    name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: m.'
-    uuid: bccbe20a-3852-4a31-8533-ac6e043b52d9
-  datum:
-    name: Canadian Geodetic Vertical Datum of 1928
-    uuid: 8e1e28ec-15e6-4dee-a001-fe0067b8d283
+    classID: coordinate-sys--vertical
+    itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum: 8e1e28ec-15e6-4dee-a001-fe0067b8d283
   description: null
   extent:
     e: -59.73
@@ -20,7 +17,27 @@ data:
     s: 41.67
     w: -141.01
   identifier: 323
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Adjustment of the precise level net of Canada 1928
+    uuid: f5dcef75-13df-4413-9624-f9210dd19edd
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Recent adjustments of the precise level net of Canada
+    uuid: 0c98c346-6054-4437-9407-2180183d3532
   name: CGVD28 - NOHt
   operation: null
   remarks: null

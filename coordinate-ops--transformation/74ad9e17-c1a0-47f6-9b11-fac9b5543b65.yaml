@@ -10,7 +10,27 @@ data:
     s: 40.04
     w: -141.01
   identifier: 463
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 60, No. 4
+    seriesName: Geomatica
+    seriesPage: '433.0'
+    title: 'The Evolution of NAD83 in Canada: Addendum'
+    uuid: 271cb37d-787f-48a0-9715-17802c85f00e
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: 854f79d4-2f84-41e2-92f3-a1f2077c88af
   name: ITRF2005 to NAD83(CSRS) v5 [v1]
   operationVersion: v1
   parameters: []
@@ -18,10 +38,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 01a8ad27-2f0d-40a0-9c4e-1798364274f9
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: c537094b-d5f2-491b-8fd5-d19518db8154
 dateAccepted: 2018-11-17
 id: 74ad9e17-c1a0-47f6-9b11-fac9b5543b65
 status: valid

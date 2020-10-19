@@ -2,14 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: CartesianCS
-    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
-      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
-      the equatorial plane at the Prime Meridian]. UoM: m.'
-    uuid: c3cd36f9-6530-4432-93d7-051bed567297
-  datum:
-    name: SIRGAS Continuously Operating Network DGF01P01
-    uuid: b8fc5918-60e2-44e5-8014-f050557a1082
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: b8fc5918-60e2-44e5-8014-f050557a1082
   description: null
   extent:
     e: -25.28
@@ -19,7 +14,39 @@ data:
     s: -59.87
     w: -122.19
   identifier: 411
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: ac6142ba-6b77-4844-b2e5-eef13e555811
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: dc95ed98-f1a4-4ab7-b2b9-81d7b66de587
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '124.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: '2018-10-07'
+    title: Velocity estimates of IGS RNAAC SIRGAS stations
+    uuid: d009fcc2-de84-4487-ab11-2a4016afd3c6
   name: SIRGAS-CON DGF01P01 - XYZ
   operation: null
   remarks: null

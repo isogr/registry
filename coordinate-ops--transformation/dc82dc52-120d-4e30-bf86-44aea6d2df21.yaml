@@ -10,7 +10,17 @@ data:
     s: -60.56
     w: 93.41
   identifier: 486
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2010-10-01 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '4.0'
+    seriesName: Journal of Applied Geodesy
+    seriesPage: '189.0'
+    title: ITRF to GDA94 coordinate transformations
+    uuid: 33546d54-eab6-4ca8-9531-43f5ac77b6e8
   name: ITRF2005 to GDA94 [GA v1]
   operationVersion: GA v1
   parameters: []
@@ -19,10 +29,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 01a8ad27-2f0d-40a0-9c4e-1798364274f9
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: b73b3864-4a86-472f-9c14-9f25293631cb
 dateAccepted: 2018-11-17
 id: dc82dc52-120d-4e30-bf86-44aea6d2df21
 status: valid

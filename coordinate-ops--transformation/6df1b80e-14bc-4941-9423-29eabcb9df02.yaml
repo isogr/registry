@@ -10,7 +10,17 @@ data:
     s: -60.56
     w: 93.41
   identifier: 493
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
+    uuid: c17d9e8b-8f84-474d-95ee-3ee7cec0cd65
   name: ITRF2014 to GDA2020 [GA v1]
   operationVersion: GA v1
   parameters: []
@@ -18,10 +28,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 53740382-efb9-4f4d-8a99-3db85f700f02
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: c100e793-17fd-450b-b872-008569dae0af
 dateAccepted: 2018-11-17
 id: 6df1b80e-14bc-4941-9423-29eabcb9df02
 status: valid

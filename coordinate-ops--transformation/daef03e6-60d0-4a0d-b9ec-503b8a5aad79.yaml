@@ -14,7 +14,29 @@ data:
     s: 24.0
     w: -135.0
   identifier: 498
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 1990-08-10 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of NADCON for official transformations between datums
+    seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+    seriesName: 'Federal Register Notice '
+    seriesPage: '32681.0'
+    title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+    uuid: 6028116b-0b30-4804-af60-32807ffb0252
+  - edition: null
+    editionDate: 2017-03-27 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+      datum transformations, and extents of covnversion grids.
+    seriesIssueID: null
+    seriesName: NGS Technical Report
+    seriesPage: null
+    title: 'NADCON 5.0: Geometric Transformation Tool for points in the National Spatial
+      Reference System'
+    uuid: feb5e25f-1f0e-43f7-847b-3c7a54c48731
   name: NAD 83 (1986) to NAD 83 (HARN) [v1]
   operationVersion: v1
   parameters: []
@@ -22,10 +44,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: e7b865dd-1864-4ec7-ab47-2556a87f790e
 dateAccepted: 2018-11-17
 id: daef03e6-60d0-4a0d-b9ec-503b8a5aad79
 status: valid

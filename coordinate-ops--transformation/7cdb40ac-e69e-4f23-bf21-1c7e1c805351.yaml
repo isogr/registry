@@ -9,7 +9,49 @@ data:
     s: -59.87
     w: -122.19
   identifier: 536
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 459c340f-1739-430d-9c78-be15704442f8
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Use of velocities in the processing of GNSS data
+    uuid: 0456fc6a-49b4-4118-82dd-d3513c73b9c5
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 356b50b1-f288-4ea1-96b7-76d0c6dddeb2
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: No. 76
+    seriesName: DGFI Report
+    seriesPage: null
+    title: Station positions and velocities of the IGS regional network for SIRGAS
+    uuid: 8d851932-4dae-411e-9576-12ae64a699a9
   name: ITRF2000 to SIRGAS-CON DGF04P01 [SIRv1]
   operationVersion: SIRv1
   parameters: []
@@ -17,10 +59,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: b9403da3-5dba-4a7e-8b40-29961b40250a
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: e61e552a-a3bf-4aa2-9f9d-d3f03b6bdc6e
 dateAccepted: 2018-11-17
 id: 7cdb40ac-e69e-4f23-bf21-1c7e1c805351
 status: valid

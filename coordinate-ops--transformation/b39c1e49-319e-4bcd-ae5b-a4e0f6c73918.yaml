@@ -8,7 +8,37 @@ data:
     s: 49.0
     w: -139.04
   identifier: 616
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Desktop Applications: NTv2'
+    uuid: 95b64068-16ac-490c-a2b0-23cedd817e44
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: 'Article ID: 000011846'
+    seriesName: null
+    seriesPage: null
+    title: 'FAQ: What are some of the transformation methods for Canada?'
+    uuid: d713ce60-cbf9-46f2-b531-1f98474902be
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
+    uuid: 2651a0b0-5b16-43e6-b170-acdd927022e6
   name: NAD83(CSRS) v2 to NAD83(CSRS) v4 [BCv1]
   operationVersion: BCv1
   parameters: []
@@ -17,10 +47,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 4098686c-3538-4441-b085-af045ec68ea4
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: e9a75c1f-6783-45c7-8045-c3d6b57e4077
 dateAccepted: 2018-11-17
 id: b39c1e49-319e-4bcd-ae5b-a4e0f6c73918
 status: valid

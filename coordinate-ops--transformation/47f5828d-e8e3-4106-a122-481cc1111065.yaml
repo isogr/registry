@@ -10,7 +10,27 @@ data:
     s: -60.0
     w: 160.0
   identifier: 689
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: NZGD2000 Deformation Model
+    uuid: c94c2d89-5830-4ca9-892f-c6fa2f9c99ad
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: LINZS25000
+    seriesName: null
+    seriesPage: null
+    title: Standard for New Zealand Geodetic Datum 2000
+    uuid: e5527468-788f-4f6c-8464-fc671d25735d
   name: ITRF96 to NZGD2000 [LINZ v20160701]
   operationVersion: LINZ v20160701
   parameters: []
@@ -25,10 +45,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 2f821c74-946e-4e2e-b263-a491a1379bac
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 90080c83-c3a1-457b-9b8e-f2bb7b7650d1
 dateAccepted: 2018-11-17
 id: 47f5828d-e8e3-4106-a122-481cc1111065
 status: valid

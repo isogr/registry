@@ -10,7 +10,39 @@ data:
     s: 40.04
     w: -141.01
   identifier: 477
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: Proceedings on the International Symposium on Kinematic Systems in
+      Geodesy, Geomatics and Navigation, Banff, Canada, August 30 - September 2, 1994
+    seriesPage: ' 79-86'
+    title: Modern Geodetic Reference Frames for Precise Satellite Positioning and
+      Navigation
+    uuid: f3393382-7b90-4c43-94f1-e419947a5a61
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 60, No. 2
+    seriesName: Geomatica
+    seriesPage: 151-164
+    title: The Evolution of NAD83 in Canada
+    uuid: 0cf762a8-0db0-4910-b31f-e9d710577ceb
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: f3a4043b-75ae-4849-8cc2-f6ebba17c19b
   name: ITRF92 to NAD83(CSRS96) v1 [v1]
   operationVersion: v1
   parameters: []
@@ -18,10 +50,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: a006a2fd-6895-41a4-9df3-cc40022cf181
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 8fd76fff-d756-46cb-aa5e-b92c93cfc368
 dateAccepted: 2018-11-17
 id: 29bfee93-9d35-4395-a9ac-7f428cd22017
 status: valid

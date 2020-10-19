@@ -8,7 +8,17 @@ data:
     s: 43.41
     w: -66.28
   identifier: 568
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Personal email communication.
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'RE: NAD27 - ATS77 transformation?'
+    uuid: b778e284-90e4-4ad1-a036-abc57607155d
   name: ATS77 to NAD27 [NSv1]
   operationVersion: NSv1
   parameters: []
@@ -16,10 +26,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 369e1fef-6901-49d5-be7e-668c25c73866
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: a0c01a52-f404-48f3-951a-900aba820bd7
 dateAccepted: 2018-11-17
 id: 02aa6a83-2c73-4a0d-b54c-33be4dac3124
 status: valid

@@ -18,7 +18,39 @@ data:
     s: 14.92
     w: 167.65
   identifier: 482
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2013-01-01 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    seriesIssueID: Volume 17, No. 1
+    seriesName: GPS Solutions
+    seriesPage: 1-15
+    title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
+      frames
+    uuid: 54651f00-ded9-4a6a-b2fa-d6ec1c34c3ef
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: Presentation to Canadian Geodetic Reference Systems Committee Meeting,
+      Ottawa, April 19-21, 2010
+    seriesPage: null
+    title: 'Reference Frames: National'
+    uuid: e641637b-6d46-405c-b5c1-f092e95a33d6
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: 9f174d88-c5f2-4e11-bc65-c2acc1831c5c
   name: NAD83(CSRS) v6 to NAD 83 (2011) [v1]
   operationVersion: v1
   parameters: []
@@ -27,10 +59,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: cf510fac-6870-48c0-96f3-6e7415b4edcb
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 1f320c41-aef9-45d0-8172-d31cef99a3b5
 dateAccepted: 2018-11-17
 id: 6bb64156-7293-4ae4-b4ea-dab00043bf68
 status: valid

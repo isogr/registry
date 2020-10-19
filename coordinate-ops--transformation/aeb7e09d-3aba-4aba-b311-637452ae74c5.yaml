@@ -8,7 +8,38 @@ data:
     s: -90.0
     w: -180.0
   identifier: 611
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '38.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: Analysis and results of ITRF2014
+    uuid: db69331b-e368-41e3-95b5-f3aa52331b9f
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 121, Issue 8
+    seriesName: Journal of Geophysical Research Solid Earth
+    seriesPage: null
+    title: 'ITRF2014: A new release of the International Terrestrial Reference Frame
+      modeling nonlinear station motions'
+    uuid: 112fe54f-40a7-48e2-af1b-db81612e5761
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '7399.0'
+    seriesName: IGSMAIL
+    seriesPage: null
+    title: Upcoming switch to IGS14/igs14.atx
+    uuid: a23283ed-1300-4597-84e1-2e58b27067f7
   name: IGb08 to IGS14 [IGS v1]
   operationVersion: IGS v1
   parameters: []
@@ -21,10 +52,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 210b1e65-ae2d-4d77-9bd6-9746d89b3f5d
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: be6129a8-2aa2-4c86-bd84-0af34828618f
 dateAccepted: 2018-11-17
 id: aeb7e09d-3aba-4aba-b311-637452ae74c5
 status: valid

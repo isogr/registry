@@ -2,13 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: EllipsoidalCS
-    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
-      UoM: degree'
-    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
-  datum:
-    name: Geocentric Datum of Australia 1994
-    uuid: e8759f15-b673-49d3-9eb8-f46e96153d0a
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: e8759f15-b673-49d3-9eb8-f46e96153d0a
   description: null
   extent:
     e: 173.4
@@ -19,7 +15,17 @@ data:
     s: -60.56
     w: 93.41
   identifier: 368
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geocentric Datum of Australia Technical Manual Version 2.4
+    uuid: 696e4f77-4e32-4054-9eda-573c59d64477
   name: GDA94 - LatLon
   operation: null
   remarks: null

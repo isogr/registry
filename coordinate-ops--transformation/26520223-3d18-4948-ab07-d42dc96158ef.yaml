@@ -14,7 +14,19 @@ data:
     s: 24.0
     w: -135.0
   identifier: 696
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2017-03-27 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+      datum transformations, and extents of covnversion grids.
+    seriesIssueID: null
+    seriesName: NGS Technical Report
+    seriesPage: null
+    title: 'NADCON 5.0: Geometric Transformation Tool for points in the National Spatial
+      Reference System'
+    uuid: 6825708b-c4db-4886-ab26-5aac0f42ae4e
   name: NAD 83 (2007) to NAD 83 (2011) [v1]
   operationVersion: v1
   parameters: []
@@ -22,10 +34,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 4bd35f90-809c-4696-bae4-f1f9f0f30a8c
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: b8eaf2f4-54e8-4a51-9ca9-9a38b793b8fe
 dateAccepted: 2018-11-17
 id: 26520223-3d18-4948-ab07-d42dc96158ef
 status: valid

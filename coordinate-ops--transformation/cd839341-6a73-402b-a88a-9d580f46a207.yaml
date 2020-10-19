@@ -8,7 +8,37 @@ data:
     s: 49.0
     w: -110.0
   identifier: 628
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Grid shift files
+    uuid: a0854951-3668-49c5-8203-c708aeee9c0d
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Desktop Applications: NTv2'
+    uuid: 021c8b81-232a-46f5-85c7-0464eced7eab
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: 'Article ID: 000011846'
+    seriesName: null
+    seriesPage: null
+    title: 'FAQ: What are some of the transformation methods for Canada?'
+    uuid: 6532198b-a4da-4805-994b-9af642b5993f
   name: NAD83(Original) to NAD83(CSRS) v3 [SKv1]
   operationVersion: SKv1
   parameters: []
@@ -16,10 +46,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 9ac5ba39-0f9c-4602-857e-122a38a17c72
 dateAccepted: 2018-11-17
 id: cd839341-6a73-402b-a88a-9d580f46a207
 status: valid

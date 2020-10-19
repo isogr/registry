@@ -8,7 +8,37 @@ data:
     s: 41.67
     w: -95.16
   identifier: 562
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: 'Article ID: 000011846'
+    seriesName: null
+    seriesPage: null
+    title: 'FAQ: What are some of the transformation methods for Canada?'
+    uuid: 3d04a096-2149-4b1e-b28f-c80bb6417ab6
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: NTv2 Grid Shift Files for Ontario
+    uuid: 63128d04-c5cd-4cb9-a5bb-5e5b499b02f0
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Desktop Applications: NTv2'
+    uuid: aa853f8b-47fc-418c-bde6-a2c7c7e0f1f7
   name: NAD27(MAY76) to NAD83(Original) [ONv1]
   operationVersion: ONv1
   parameters: []
@@ -16,10 +46,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 2a87032d-d51b-420b-805f-1b4d04c81332
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
 dateAccepted: 2018-11-17
 id: 1f2e9e61-703b-4d8f-bfed-05f31392de40
 status: valid

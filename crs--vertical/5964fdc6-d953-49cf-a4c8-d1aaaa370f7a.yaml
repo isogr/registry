@@ -2,12 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: VerticalCS
-    name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: m.'
-    uuid: bccbe20a-3852-4a31-8533-ac6e043b52d9
-  datum:
-    name: New Zealand Vertical Datum 2016
-    uuid: c5a9363e-6c95-4f9c-b264-2ab601e97835
+    classID: coordinate-sys--vertical
+    itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum: c5a9363e-6c95-4f9c-b264-2ab601e97835
   description: null
   extent:
     e: -170.0
@@ -18,7 +15,17 @@ data:
     s: -60.0
     w: 160.0
   identifier: 328
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: LINZS25009
+    seriesName: null
+    seriesPage: null
+    title: Standard for New Zealand Vertical Datum 2016
+    uuid: e77567f3-ef7d-4fe8-949e-645d7755f609
   name: NZVD2016 - NOHt
   operation: null
   remarks: null

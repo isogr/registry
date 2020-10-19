@@ -9,7 +9,50 @@ data:
     s: -59.87
     w: -122.19
   identifier: 626
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Use of velocities in the processing of GNSS data
+    uuid: 53e6616b-991d-4b79-b436-cb78de9c1fd9
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 127fa9f9-1069-4626-9cd6-b159938e0520
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: No. 79
+    seriesName: DGFI Report
+    seriesPage: null
+    title: The position and velocity solution DGF08P01 of the IGS Regional Network
+      Associate Analysis Centre for SIRGAS (IGS RNAAC SIR)
+    uuid: 3e3a2975-3b44-4113-94c1-4d1567618b8f
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 044a8295-b63d-40d1-b1d1-1d0449384ff0
   name: IGS05 to SIRGAS-CON DGF08P01 [SIRv1]
   operationVersion: SIRv1
   parameters: []
@@ -17,10 +60,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 438045f5-06a7-470e-8ac8-a76d4013bcb5
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 95160303-06d8-45bb-b0f6-e11f24485da0
 dateAccepted: 2018-11-17
 id: cea95dd2-ceaa-494b-8c11-29bb66b1261d
 status: valid

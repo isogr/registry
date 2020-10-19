@@ -2,13 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: EllipsoidalCS
-    name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
-      north, east, up. UoM: degree, degree, metre.'
-    uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-  datum:
-    name: SIRGAS Continuously Operating Network DGF04P01
-    uuid: 54e60521-17c0-469f-8256-d8a1fb82cd16
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: 54e60521-17c0-469f-8256-d8a1fb82cd16
   description: null
   extent:
     e: -25.28
@@ -18,7 +14,39 @@ data:
     s: -59.87
     w: -122.19
   identifier: 212
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: No. 76
+    seriesName: DGFI Report
+    seriesPage: null
+    title: Station positions and velocities of the IGS regional network for SIRGAS
+    uuid: 6bfa4eab-676f-41f5-87a9-67bb74ebcac9
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 223a90d6-e80f-48bc-8933-88f4312cc01e
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: e7060de5-226e-488a-94dc-d71fb96f8537
   name: SIRGAS-CON DGF04P01 - LatLonEHt
   operation: null
   remarks: null

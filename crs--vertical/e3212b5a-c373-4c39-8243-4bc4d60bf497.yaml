@@ -2,12 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: VerticalCS
-    name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: m.'
-    uuid: bccbe20a-3852-4a31-8533-ac6e043b52d9
-  datum:
-    name: Japanese Geodetic Datum 2011 (vertical)
-    uuid: 8ed647b5-9570-46dc-8370-dec3bc7e697e
+    classID: coordinate-sys--vertical
+    itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum: 8ed647b5-9570-46dc-8370-dec3bc7e697e
   description: null
   extent:
     e: 145.8
@@ -16,7 +13,18 @@ data:
     s: 31.0
     w: 129.5
   identifier: 428
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Voume 59
+    seriesName: Bulletin of the Geospatial Information Authority of Japan
+    seriesPage: 31-42
+    title: Revision of the Results of Control Points after the 2011 off the Pacific
+      coast of Tohoku Earthquake
+    uuid: 6b4bb873-f4bf-47b0-b330-8bf75a99a56c
   name: JGD2011 (vertical) - OHt
   operation: null
   remarks: null

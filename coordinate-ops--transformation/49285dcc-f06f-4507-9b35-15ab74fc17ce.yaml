@@ -8,7 +8,18 @@ data:
     s: -90.0
     w: -180.0
   identifier: 661
-  informationSource: []
+  informationSources:
+  - edition: Third Edition
+    editionDate: 1997-07-04 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: TR8350.2
+    seriesName: Technical Report
+    seriesPage: null
+    title: 'Department of Defense World Geodetic System 1984: Its Definition and Relationships
+      with Local Geodetic Systems'
+    uuid: 6aa87fcf-0454-4960-a6cf-42e0b7578609
   name: WGS 84 (G730) to ITRF92 [1]
   operationVersion: '1.0'
   parameters: []
@@ -16,10 +27,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: fb2988d3-5ab0-418f-8074-0f58433eba26
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: a006a2fd-6895-41a4-9df3-cc40022cf181
 dateAccepted: 2018-11-17
 id: 49285dcc-f06f-4507-9b35-15ab74fc17ce
 status: valid

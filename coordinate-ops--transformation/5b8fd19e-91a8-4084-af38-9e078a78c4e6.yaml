@@ -9,7 +9,49 @@ data:
     s: -59.87
     w: -122.19
   identifier: 723
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: No. 86
+    seriesName: DGFI Report
+    seriesPage: null
+    title: The position and velocity solution SIR10P01 of the IGS Regional Network
+      Associate Analysis Centre for SIRGAS (IGS RNAAC SIR)
+    uuid: e5055502-b1c5-4f15-a436-6245086edd13
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
+      International Association of Geodesy Symposia, Vol 136. Springer, Berlin, Heidelberg
+    seriesIssueID: '136.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 657-664
+    title: The 2009 Horizontal Velocity Field for South America and the Caribbean
+    uuid: 72679c6b-1997-4c5b-bd98-2b0b59812449
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 66f59e5f-ba49-447f-bae7-5887526dda5e
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Use of velocities in the processing of GNSS data
+    uuid: 1516ee58-4d0d-4097-b2c3-613326d8b3ab
   name: ITRF2008 to SIRGAS-CON SIR10P01 [SIRv1]
   operationVersion: SIRv1
   parameters: []
@@ -17,10 +59,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 3b111dd1-957a-445b-b855-8f581801cced
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: b1ad21d0-cbeb-4401-9024-ce8db6e74a08
 dateAccepted: 2018-11-17
 id: 5b8fd19e-91a8-4084-af38-9e078a78c4e6
 status: valid

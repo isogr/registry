@@ -10,7 +10,28 @@ data:
     s: 40.04
     w: -141.01
   identifier: 489
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: Presentation to Canadian Geodetic Reference Systems Committee Meeting,
+      Ottawa, April 19-21, 2010
+    seriesPage: null
+    title: 'Reference Frames: National'
+    uuid: 39696b5d-de3e-4342-b6ea-f727ef79dc18
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: e54bf5a6-10c2-49d8-8803-ea784ffe40e0
   name: ITRF2008 to NAD83(CSRS) v6 [v1]
   operationVersion: v1
   parameters: []
@@ -18,10 +39,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 5777362f-a633-4bdb-8a4c-6b1d539211f9
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: cf510fac-6870-48c0-96f3-6e7415b4edcb
 dateAccepted: 2018-11-17
 id: 70c1f536-19e4-4ec1-8f51-db2a0220e5db
 status: valid

@@ -8,7 +8,27 @@ data:
     s: -90.0
     w: -180.0
   identifier: 504
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '5447.0'
+    seriesName: IGSMAIL
+    seriesPage: null
+    title: Proposed IGS05 Realization
+    uuid: fd73f23b-3412-4da3-8b9c-5e546e49f108
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Chronology of IGS Reference Frame Usage
+    uuid: fafceb59-6e9c-42f8-9a35-29d9d8b79181
   name: IGb00 to IGS05 [IGS v1]
   operationVersion: IGS v1
   parameters: []
@@ -20,10 +40,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 034aeaf5-76e0-4a5e-a5b6-92db230ec90e
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 63b26b95-4df0-4a0e-bb78-91872d110eea
 dateAccepted: 2018-11-17
 id: e8a8214a-0ec7-4416-a88d-981f7e03d790
 status: valid

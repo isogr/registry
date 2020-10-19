@@ -10,7 +10,37 @@ data:
     s: -60.0
     w: 160.0
   identifier: 505
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: LINZS25000
+    seriesName: null
+    seriesPage: null
+    title: Standard for New Zealand Geodetic Datum 2000
+    uuid: 684bfed9-841a-49d1-a5ec-2045cae060c2
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Transforming between ITRF and NZGD2000
+    uuid: 300111ae-b61b-45e2-ac1b-04bdd2844758
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: NZGD2000 Deformation Model
+    uuid: 505cce3c-f2ba-4e4a-ad11-36453c775f59
   name: ITRF96 to NZGD2000 [LINZ v20171201]
   operationVersion: LINZ v20171201
   parameters: []
@@ -25,10 +55,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 2f821c74-946e-4e2e-b263-a491a1379bac
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 90080c83-c3a1-457b-9b8e-f2bb7b7650d1
 dateAccepted: 2018-11-17
 id: 91e6369b-7abc-40b1-a769-145d9ceef251
 status: valid

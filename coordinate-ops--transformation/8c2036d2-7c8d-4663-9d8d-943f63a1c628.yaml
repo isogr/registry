@@ -8,7 +8,28 @@ data:
     s: -90.0
     w: -180.0
   identifier: 608
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: NASA/TP-1998-206861
+    seriesName: Technical Paper
+    seriesPage: null
+    title: The Development of the Joint NASA GSFC and the NIMA Geopotential Model
+      EGM96
+    uuid: d1dbe05f-1b88-4e1b-9ae7-59517a488acf
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
+    uuid: 01698ebd-c86e-482d-ac33-5d7c11dfb5af
   name: WGS 84 (G1674) to WGS 84 EGM96 - OHt [1]
   operationVersion: '1.0'
   parameters: []
@@ -17,7 +38,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 83f9b452-ab4b-43de-923c-e317518f036a
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 8c2036d2-7c8d-4663-9d8d-943f63a1c628

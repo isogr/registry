@@ -10,7 +10,50 @@ data:
     s: -17.56
     w: 157.47
   identifier: 484
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2017-03-16 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: webpage
+    seriesIssueID: null
+    seriesName: NGS Online listing of transformation parameters
+    seriesPage: null
+    title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
+      Frames
+    uuid: e8709606-11c7-4a24-a7e2-ae5cb3e163d9
+  - edition: null
+    editionDate: 2013-01-01 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    seriesIssueID: Volume 17, No. 1
+    seriesName: GPS Solutions
+    seriesPage: 1-15
+    title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
+      frames
+    uuid: 7346c254-0897-404b-8252-8e6431a1f871
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 130, No. 2
+    seriesName: Journal of Surveying Engineering
+    seriesPage: 49-55
+    title: Transforming positions and velocities between the International Terrestrial
+      Reference Frame of 2000 and the North American Datum of 1983
+    uuid: 64d8b68a-5469-4305-9be4-c70647423ffa
+  - edition: null
+    editionDate: 2003-01-01 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: MARP00, PACP00
+    seriesIssueID: Volume 63, No. 1
+    seriesName: Surveying and Land Information Systems
+    seriesPage: ' 5-12'
+    title: Introducing Two Spatial Reference Frames for Regions of the Pacific Ocean
+    uuid: 943f635d-3093-48b2-861b-b0c1bd9dff6a
   name: ITRF2000 to NAD 83 (PACP00) [v1]
   operationVersion: v1
   parameters: []
@@ -18,10 +61,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: d512f92c-4bca-4881-935c-c0d6faa11bef
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: d9b5b76b-e761-4bf1-b501-97ea25b5a75a
 dateAccepted: 2018-11-17
 id: d68d502c-cb1e-4f72-a326-970c4aeee47d
 status: valid

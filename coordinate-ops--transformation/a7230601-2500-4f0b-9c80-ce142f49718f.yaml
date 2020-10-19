@@ -10,7 +10,27 @@ data:
     s: 40.04
     w: -141.01
   identifier: 522
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: a2b265c6-a0a5-4ce3-a2ad-3629ba88792c
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 60, No. 2
+    seriesName: Geomatica
+    seriesPage: 151-164
+    title: The Evolution of NAD83 in Canada
+    uuid: c22fb370-1ae3-452b-85f6-67c28601e685
   name: ITRF97 to NAD83(CSRS) v3 [v1]
   operationVersion: v1
   parameters: []
@@ -18,10 +38,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 2a7ea3c8-f627-4d5f-b684-e10021b4e611
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: a500aec1-44af-44b5-9289-97f4734c04e3
 dateAccepted: 2018-11-17
 id: a7230601-2500-4f0b-9c80-ce142f49718f
 status: valid

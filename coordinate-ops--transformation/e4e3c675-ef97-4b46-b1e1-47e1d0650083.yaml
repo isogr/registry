@@ -18,7 +18,49 @@ data:
     s: 14.92
     w: 167.65
   identifier: 701
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2008-04-01 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (CORS96) Epoch 1996.0,NAD83 (CORS96) Epoch 1997.0,NAD83 (CORS96)
+      Epoch 2002.0
+    seriesIssueID: Volume 134, No. 4
+    seriesName: Journal of Surveying Engineering
+    seriesPage: 95-104
+    title: 'Continuously Operating Reference Station (CORS): History, Applications,
+      and Future Enhancements'
+    uuid: c5ba58d4-8ea6-47c2-9290-a17c7e6c7f67
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 60, No. 2
+    seriesName: Geomatica
+    seriesPage: 151-164
+    title: The Evolution of NAD83 in Canada
+    uuid: a6af7fe5-c541-4cef-ab1a-7349f3fe52c0
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: b9772c40-0aca-462c-975c-3475f72ffdd1
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 60, No. 4
+    seriesName: Geomatica
+    seriesPage: '433.0'
+    title: 'The Evolution of NAD83 in Canada: Addendum'
+    uuid: f5c64c6a-0af9-4618-8520-77bd36ab5b2c
   name: NAD83(CSRS) v2 to NAD 83 (CORS96) Epoch 1997.0 [v1]
   operationVersion: v1
   parameters: []
@@ -27,10 +69,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: fd90d686-0bc5-4333-8316-5bb793d738d6
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 78c4d2f6-374d-46ee-ba56-bbc973917b2d
 dateAccepted: 2018-11-17
 id: e4e3c675-ef97-4b46-b1e1-47e1d0650083
 status: valid

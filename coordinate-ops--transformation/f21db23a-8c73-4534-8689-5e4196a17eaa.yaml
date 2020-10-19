@@ -10,7 +10,38 @@ data:
     s: 40.04
     w: -141.01
   identifier: 721
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 130, No. 2
+    seriesName: Journal of Surveying Engineering
+    seriesPage: 49-55
+    title: Transforming positions and velocities between the International Terrestrial
+      Reference Frame of 2000 and the North American Datum of 1983
+    uuid: ae7cfd07-6205-42d5-939c-c38d8a151d02
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: 7c968bb2-f378-4f74-8021-242c44442c25
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 60, No. 2
+    seriesName: Geomatica
+    seriesPage: 151-164
+    title: The Evolution of NAD83 in Canada
+    uuid: 9ad72f42-d96e-4135-9fa3-9de3e1b1c526
   name: ITRF2000 to NAD83(CSRS) v4 [v1]
   operationVersion: v1
   parameters: []
@@ -18,10 +49,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: d512f92c-4bca-4881-935c-c0d6faa11bef
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: d54a6cd6-f876-456a-8367-078676e4d45c
 dateAccepted: 2018-11-17
 id: f21db23a-8c73-4534-8689-5e4196a17eaa
 status: valid

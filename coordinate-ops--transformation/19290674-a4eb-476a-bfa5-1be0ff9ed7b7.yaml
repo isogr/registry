@@ -8,7 +8,17 @@ data:
     s: -90.0
     w: -180.0
   identifier: 540
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '18.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: Results and Analysis of the ITRF93
+    uuid: 9a72fd91-8404-4a35-865f-94de1b221035
   name: ITRF92 to ITRF93 [IERS v1]
   operationVersion: IERS v1
   parameters: []
@@ -20,10 +30,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: a006a2fd-6895-41a4-9df3-cc40022cf181
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: da7a591a-2867-46f9-87bf-b5620324c23a
 dateAccepted: 2018-11-17
 id: 19290674-a4eb-476a-bfa5-1be0ff9ed7b7
 status: valid

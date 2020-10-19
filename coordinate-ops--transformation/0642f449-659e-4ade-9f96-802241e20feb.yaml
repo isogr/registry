@@ -8,7 +8,17 @@ data:
     s: -90.0
     w: -180.0
   identifier: 685
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '24.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: Results and analysis of ITRF96
+    uuid: 423a1d01-9fca-4d6e-a810-d8dda8bec7e2
   name: ITRF94 to ITRF96 [IERS v1]
   operationVersion: IERS v1
   parameters: []
@@ -16,10 +26,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 22fcdfb2-8a7b-483e-a43b-82328b9fc7c9
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 20beee39-f810-4204-951f-4c0f97413f74
 dateAccepted: 2018-11-17
 id: 0642f449-659e-4ade-9f96-802241e20feb
 status: valid

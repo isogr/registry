@@ -8,7 +8,30 @@ data:
     s: -90.0
     w: -180.0
   identifier: 473
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: Proceedings of the 15th International Technical Meeting of the Satellite
+      Division of The Institue of Navigation (ION-GPS-2002), Portland, OR, September
+      2002
+    seriesPage: 1519-1529
+    title: A Refinement to the World Geodetic System 1984 Reference Frame
+    uuid: 0d556a16-0d2c-4c56-a23e-227d2c266538
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: NASA/TP-1998-206861
+    seriesName: Technical Paper
+    seriesPage: null
+    title: The Development of the Joint NASA GSFC and the NIMA Geopotential Model
+      EGM96
+    uuid: 5e8e6552-6f0a-4509-8e41-555088f577db
   name: WGS 84 (G1150) to WGS 84 EGM96 - OHt [2]
   operationVersion: '2.0'
   parameters: []
@@ -18,7 +41,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: a6219eb2-d620-46c5-b699-0f5fdaac4853
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 62125d2d-acb9-4020-86cd-e2aec76dbe8b

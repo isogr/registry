@@ -8,7 +8,39 @@ data:
     s: -90.0
     w: -180.0
   identifier: 673
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'ISSN: 1019-4568'
+    seriesIssueID: '36.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS Conventions (2010)
+    uuid: 6a1258fc-4124-406a-9740-08a4d0e48a88
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '9.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: ITRF 90 and other realizations of the IERS Terrestrial Reference System
+      for 1990
+    uuid: e3e1838e-dd67-4bda-abd6-f3a69603f0ce
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Memo : Specifications for reference frame fixing in the analysis of a
+      EUREF GPS campaign (version 8)'
+    uuid: bb2f507f-1bf8-41db-aa6c-61d8fafc2ca3
   name: ITRF89 to ITRF90 [IERS v1]
   operationVersion: IERS v1
   parameters: []
@@ -16,10 +48,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: e3ed649d-11ac-4ee9-8951-15f491d2dc3d
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 259f14fd-a347-41db-a39e-2092ad1bcc2c
 dateAccepted: 2018-11-17
 id: 9f30e0d9-5de1-4d42-959a-2fcd71e6cc5a
 status: valid

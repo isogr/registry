@@ -8,7 +8,18 @@ data:
     s: -90.0
     w: -180.0
   identifier: 709
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: NGA.STND.0036_1.0.0_WGS84
+    seriesName: Standardization Document
+    seriesPage: null
+    title: 'Department of Defense World Geodetic System 1984: Its Definition and Relationships
+      with Local Geodetic Systems, Version 1.0.0'
+    uuid: 78511f5f-6c13-4e1d-bb21-a84817960692
   name: WGS 84 (G1762) to ITRF2008 [1]
   operationVersion: '1.0'
   parameters: []
@@ -16,10 +27,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 21394966-c940-41e8-b091-840b5562ab13
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 5777362f-a633-4bdb-8a4c-6b1d539211f9
 dateAccepted: 2018-11-17
 id: c84bdc4b-4f66-435c-9426-2103e16eae95
 status: valid

@@ -2,14 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: CartesianCS
-    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
-      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
-      the equatorial plane at the Prime Meridian]. UoM: m.'
-    uuid: c3cd36f9-6530-4432-93d7-051bed567297
-  datum:
-    name: North American Datum of 1983 (MARP00)
-    uuid: ba2620c2-8dd5-4f37-9eb6-5ff02c99048f
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: ba2620c2-8dd5-4f37-9eb6-5ff02c99048f
   description: null
   extent:
     e: 149.55
@@ -19,7 +14,51 @@ data:
     s: 1.64
     w: 129.48
   identifier: 408
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2009-01-22 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of NMVD03
+    seriesIssueID: 'Volume 74, No. 13, Document: E9-1180, Citation: 74 FR 3990'
+    seriesName: Federal Register Notice
+    seriesPage: 3990-3991
+    title: Affirmation of Vertical Datum for Surveying and Mapping Activities for
+      the Islands of Rota, Saipan and Tinian of the Commonwealth of the Northern Mariana
+      Islands (CNMI)
+    uuid: 78725800-3eed-41d2-85f1-131de64fc209
+  - edition: null
+    editionDate: 2003-01-01 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: MARP00, PACP00
+    seriesIssueID: Volume 63, No. 1
+    seriesName: Surveying and Land Information Systems
+    seriesPage: ' 5-12'
+    title: Introducing Two Spatial Reference Frames for Regions of the Pacific Ocean
+    uuid: 9f574c3c-a5c3-479a-ac02-c1c815622175
+  - edition: null
+    editionDate: 2013-01-01 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    seriesIssueID: Volume 17, No. 1
+    seriesName: GPS Solutions
+    seriesPage: 1-15
+    title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
+      frames
+    uuid: decf796b-bdc9-4f59-b8e2-5908555363e5
+  - edition: null
+    editionDate: 2017-03-16 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: webpage
+    seriesIssueID: null
+    seriesName: NGS Online listing of transformation parameters
+    seriesPage: null
+    title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
+      Frames
+    uuid: 7fdfbf7e-daaa-4fcb-ac80-c0c84465522a
   name: NAD 83 (MARP00) - XYZ
   operation: null
   remarks: null

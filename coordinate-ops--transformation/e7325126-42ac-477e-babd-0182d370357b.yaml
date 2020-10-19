@@ -10,7 +10,17 @@ data:
     s: -60.56
     w: 93.41
   identifier: 657
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geocentric Datum of Australia Technical Manual Version 2.4
+    uuid: 2d5345cd-213b-461b-b6e2-392b7dbefbbd
   name: AGD66 to GDA94 [GA v2]
   operationVersion: GA v2
   parameters: []
@@ -18,10 +28,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 13391025-6c47-4868-b8ab-87bd6d118b2d
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: e4050664-82bd-45fa-8643-b0abdfa794c4
 dateAccepted: 2018-11-17
 id: e7325126-42ac-477e-babd-0182d370357b
 status: valid

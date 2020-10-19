@@ -15,7 +15,29 @@ data:
     s: 32.88
     w: -16.1
   identifier: 545
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '1.0'
+    seriesName: IERS Technical Note
+    seriesPage: null
+    title: 'EUREF Technical Note 1: Relationship and Transformation between the International
+      and the European Terrestrial Reference Systems'
+    uuid: edd18b69-86f9-481a-95ad-024a61594343
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Memo : Specifications for reference frame fixing in the analysis of a
+      EUREF GPS campaign (version 8)'
+    uuid: 1d4670a4-f44e-4d2a-b826-528824f10a53
   name: ITRF90 to ETRF2000 [EUREF v1]
   operationVersion: EUREF v1
   parameters: []
@@ -26,10 +48,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 259f14fd-a347-41db-a39e-2092ad1bcc2c
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 3279de06-d889-4826-aef8-6a95c2241df4
 dateAccepted: 2018-11-17
 id: 6f9d3fb1-9a6f-403a-a2b4-82e2d23e05df
 status: valid

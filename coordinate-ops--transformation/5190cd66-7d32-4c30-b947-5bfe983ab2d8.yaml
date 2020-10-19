@@ -8,7 +8,17 @@ data:
     s: -90.0
     w: -180.0
   identifier: 595
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'ISSN: 1019-4568'
+    seriesIssueID: '36.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS Conventions (2010)
+    uuid: b5fa86da-c085-46e0-a5bd-22033c229d50
   name: ITRF88 to ITRF2008 [IERS v1]
   operationVersion: IERS v1
   parameters: []
@@ -20,10 +30,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 282c60c2-e465-40ff-8587-02c1f95bd8e6
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 5777362f-a633-4bdb-8a4c-6b1d539211f9
 dateAccepted: 2018-11-17
 id: 5190cd66-7d32-4c30-b947-5bfe983ab2d8
 status: valid

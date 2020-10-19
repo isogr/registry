@@ -8,7 +8,30 @@ data:
     s: -90.0
     w: -180.0
   identifier: 606
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: Proceedings of the 15th International Technical Meeting of the Satellite
+      Division of The Institue of Navigation (ION-GPS-2002), Portland, OR, September
+      2002
+    seriesPage: 1519-1529
+    title: A Refinement to the World Geodetic System 1984 Reference Frame
+    uuid: 48d7b6f4-6119-4837-b7d9-99c370ce3352
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: TR8350.2
+    seriesName: Technical Report
+    seriesPage: null
+    title: 'Addendum to NIMA TR 8350.2: Implementation of the World Geodetic System
+      1984 (WGS 84) Reference Frame G1150'
+    uuid: 2a55abac-440f-4ef0-996c-b5e78d3ff675
   name: WGS 84 (G1150) to ITRF2000 [1]
   operationVersion: '1.0'
   parameters: []
@@ -16,10 +39,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 56d1c052-65a7-4cbf-a666-0cd7c5b4d50b
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: d512f92c-4bca-4881-935c-c0d6faa11bef
 dateAccepted: 2018-11-17
 id: 1b8fa799-667f-492f-89ce-ab11b66b476c
 status: valid

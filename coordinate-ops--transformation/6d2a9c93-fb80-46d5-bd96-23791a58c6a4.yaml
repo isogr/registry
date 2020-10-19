@@ -9,7 +9,17 @@ data:
     s: -47.65
     w: 165.87
   identifier: 640
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: LINZS25000
+    seriesName: null
+    seriesPage: null
+    title: Standard for New Zealand Geodetic Datum 2000
+    uuid: 9d34ede6-adc9-4b96-b85f-8134755c3a14
   name: NZGD1949 to NZGD2000 [LINZv3]
   operationVersion: LINZv3
   parameters: []
@@ -19,10 +29,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 82cbab29-43bb-4598-a0b3-a93ccf482a18
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: c74b8f16-4e13-40f5-a3e7-e05a0fd5042b
 dateAccepted: 2018-11-17
 id: 6d2a9c93-fb80-46d5-bd96-23791a58c6a4
 status: valid

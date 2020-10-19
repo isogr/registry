@@ -8,7 +8,37 @@ data:
     s: -90.0
     w: -180.0
   identifier: 641
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 16, Issue 4
+    seriesName: GPS Solutions
+    seriesPage: null
+    title: 'IGS08: the IGS realization of ITRF2008'
+    uuid: 2e493602-6214-4353-b849-86d073d91ed3
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '6354.0'
+    seriesName: IGSMAIL
+    seriesPage: null
+    title: Upcoming switch to IGS08/igs08.atx
+    uuid: ac28d1d0-0c5c-44d5-86f3-fdc59c66000b
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Chronology of IGS Reference Frame Usage
+    uuid: d7378017-70d8-452f-b9ec-0bad6adb2fe5
   name: ITRF2008 to IGS08 [IGS v1]
   operationVersion: IGS v1
   parameters: []
@@ -17,10 +47,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 5777362f-a633-4bdb-8a4c-6b1d539211f9
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 053bb7c4-5b67-4808-bce8-b4695cc33fba
 dateAccepted: 2018-11-17
 id: c17d914e-771c-4e22-9eb0-e02c7616ba01
 status: valid

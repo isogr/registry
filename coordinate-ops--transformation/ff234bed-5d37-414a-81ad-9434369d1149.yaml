@@ -14,7 +14,17 @@ data:
     s: 24.41
     w: -124.79
   identifier: 580
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: National Geodetic Survey Geoid Homepage
+    uuid: 121366f9-9749-41cf-988f-aa797ac3c18a
   name: NAD 83 (FBN) to NAVD88 - OHt [v1]
   operationVersion: v1
   parameters: []
@@ -22,7 +32,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 0f3edaed-095e-41aa-9829-3b0cc5731072
   targetCRS: null
 dateAccepted: 2018-11-17
 id: ff234bed-5d37-414a-81ad-9434369d1149

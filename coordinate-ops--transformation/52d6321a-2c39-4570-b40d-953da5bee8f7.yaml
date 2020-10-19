@@ -9,7 +9,51 @@ data:
     s: -59.87
     w: -122.19
   identifier: 694
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Use of velocities in the processing of GNSS data
+    uuid: c5fa2f2f-00e3-4db7-b377-b343c4796bc0
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 3fcebe1a-3a04-48ee-a545-1879bed16f7d
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: AGU Fall Meeting. San Francisco, USA, December 10 - 14, 2007, Abstract
+      G43C-1471
+    seriesIssueID: Volume 88, No. 52, Abstract G43C-1471
+    seriesName: Eos Transactions, Fall Meeting Supplement
+    seriesPage: null
+    title: The new position and velocity solution DGF07P01 of the IGS Regional Network
+      Associate Analysis Center for SIRGAS (IGS RNAAC SIR)
+    uuid: 3565afc0-9f4e-4831-8269-bf138bf10457
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 56a382f6-e34c-4fa2-a708-13eb7c4bb66e
   name: IGS05 to SIRGAS-CON DGF07P01 [SIRv1]
   operationVersion: SIRv1
   parameters: []
@@ -17,10 +61,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 438045f5-06a7-470e-8ac8-a76d4013bcb5
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 677144ea-2d85-434f-8bce-6161a32f40ef
 dateAccepted: 2018-11-17
 id: 52d6321a-2c39-4570-b40d-953da5bee8f7
 status: valid

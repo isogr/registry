@@ -8,7 +8,17 @@ data:
     s: -90.0
     w: -180.0
   identifier: 614
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '5447.0'
+    seriesName: IGSMAIL
+    seriesPage: null
+    title: Proposed IGS05 Realization
+    uuid: 4ea1c962-7092-411c-8807-bdb803f50c8a
   name: ITRF2005 to IGS05 [IGS v1]
   operationVersion: IGS v1
   parameters: []
@@ -16,10 +26,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 01a8ad27-2f0d-40a0-9c4e-1798364274f9
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 63b26b95-4df0-4a0e-bb78-91872d110eea
 dateAccepted: 2018-11-17
 id: 91906ba0-c740-4994-a8f8-fd2ab57acca7
 status: valid

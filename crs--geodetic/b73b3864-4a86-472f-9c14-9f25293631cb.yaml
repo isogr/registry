@@ -2,14 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: CartesianCS
-    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
-      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
-      the equatorial plane at the Prime Meridian]. UoM: m.'
-    uuid: c3cd36f9-6530-4432-93d7-051bed567297
-  datum:
-    name: Geocentric Datum of Australia 1994
-    uuid: e8759f15-b673-49d3-9eb8-f46e96153d0a
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: e8759f15-b673-49d3-9eb8-f46e96153d0a
   description: null
   extent:
     e: 173.4
@@ -20,7 +15,17 @@ data:
     s: -60.56
     w: 93.41
   identifier: 362
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geocentric Datum of Australia Technical Manual Version 2.4
+    uuid: 8433e6e1-a994-4711-9aef-28d1a4dfc86e
   name: GDA94 - XYZ
   operation: null
   remarks: null

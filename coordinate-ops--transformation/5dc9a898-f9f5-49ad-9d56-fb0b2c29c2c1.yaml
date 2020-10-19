@@ -18,7 +18,60 @@ data:
     s: 14.92
     w: 167.65
   identifier: 517
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2017-03-16 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: webpage
+    seriesIssueID: null
+    seriesName: NGS Online listing of transformation parameters
+    seriesPage: null
+    title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
+      Frames
+    uuid: 2e286380-aa8c-424b-b540-6f4b01ce0420
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 60, No. 2
+    seriesName: Geomatica
+    seriesPage: 151-164
+    title: The Evolution of NAD83 in Canada
+    uuid: 4542f508-ba9c-4675-a84d-596e49823f09
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: f69cf894-fafb-4666-87f5-345d69003b1f
+  - edition: null
+    editionDate: 2008-04-01 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (CORS96) Epoch 1996.0,NAD83 (CORS96) Epoch 1997.0,NAD83 (CORS96)
+      Epoch 2002.0
+    seriesIssueID: Volume 134, No. 4
+    seriesName: Journal of Surveying Engineering
+    seriesPage: 95-104
+    title: 'Continuously Operating Reference Station (CORS): History, Applications,
+      and Future Enhancements'
+    uuid: dedd0034-ad68-4e22-b57a-e592091cbb8e
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 60, No. 4
+    seriesName: Geomatica
+    seriesPage: '433.0'
+    title: 'The Evolution of NAD83 in Canada: Addendum'
+    uuid: d2f7c69e-5d80-4744-9d0f-120dce2cc411
   name: NAD83(CSRS) v4 to NAD 83 (CORS96) Epoch 2002.0 [v1]
   operationVersion: v1
   parameters: []
@@ -27,10 +80,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: d54a6cd6-f876-456a-8367-078676e4d45c
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: c132bcd3-514d-434c-8ac2-ce4da8bd283e
 dateAccepted: 2018-11-17
 id: 5dc9a898-f9f5-49ad-9d56-fb0b2c29c2c1
 status: valid

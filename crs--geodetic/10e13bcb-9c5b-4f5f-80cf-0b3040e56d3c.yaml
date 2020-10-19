@@ -2,13 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: EllipsoidalCS
-    name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
-      north, east, up. UoM: degree, degree, metre.'
-    uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-  datum:
-    name: SIRGAS Continuously Operating Network SIR17P01
-    uuid: e910f143-5c1c-4a25-bebb-db9d6df59660
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: e910f143-5c1c-4a25-bebb-db9d6df59660
   description: null
   extent:
     e: -25.28
@@ -18,7 +14,65 @@ data:
     s: -59.87
     w: -122.19
   identifier: 312
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'In supplement to: Drewes H. and Sanchez L. (2017) The varying surface
+      kinematics in Latin America: VEMOS 2009, 2015, and 2017, Symposium SIRGAS2017.
+      Mendoza, Argentina. November 28, 2017'
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Velocity model for SIRGAS 2017: VEMOS2017'
+    uuid: 9f68626b-fbd1-4926-8821-a40c3b7dbb72
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'Data for paper included in supplement: Drewes H. and Sanchez L.
+      (2017): Velocity model for SIRGAS 2017: VEMOS2017, Technische Universitaet Muenchen,
+      Deutsches Geodaetisches Forschungsinstitut (DGFI-TUM), IGS RNAAC'
+    seriesIssueID: null
+    seriesName: Symposium SIRGAS2017. Mendoza, Argentina. November 28, 2017
+    seriesPage: null
+    title: 'The varying surface kinematics in Latin America: VEMOS 2009, 2015, and
+      2017'
+    uuid: f77bb1b7-317f-453d-9d7b-19bd052b8a33
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'In supplement to: Sanchez L. (2017) Kinematics of the SIRGAS reference
+      frame, Symposium SIRGAS2018. Mendoza, Argentina. November 28, 2017'
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: SIRGAS reference frame realization SIR17P01
+    uuid: 46e7cc66-966b-4c31-bd88-a28874d1f98d
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 32cce0f4-c763-4ae4-b89c-15ea03dbc3b9
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'Data for paper included in supplement: Sanchez L. (2017) SIRGAS
+      reference frame realization SIR17P01, Technische Universitaet Muenchen, Deutsches
+      Geodaetisches Forschungsinstitut DGFI-TUM, IGS RNAAC SIRGAS'
+    seriesIssueID: null
+    seriesName: Symposium SIRGAS2017. Mendoza, Argentina. November 28, 2017
+    seriesPage: null
+    title: Kinematics of the SIRGAS reference frame
+    uuid: 6a48f02e-3eec-46fa-88ef-435f0bfd8fd1
   name: SIRGAS-CON SIR17P01 - LatLonEHt
   operation: null
   remarks: null

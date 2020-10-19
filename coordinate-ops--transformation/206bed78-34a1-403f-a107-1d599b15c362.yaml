@@ -8,7 +8,27 @@ data:
     s: -90.0
     w: -180.0
   identifier: 602
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '6663.0'
+    seriesName: IGSMAIL
+    seriesPage: null
+    title: 'IGb08: an update on IGS08'
+    uuid: 56cd75b8-7392-48b3-ac02-2a9006e260eb
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Chronology of IGS Reference Frame Usage
+    uuid: 5d7db9ec-c72b-4752-98d9-cd4a240a18c0
   name: IGS08 to IGb08 [IGS v1]
   operationVersion: IGS v1
   parameters: []
@@ -17,10 +37,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 053bb7c4-5b67-4808-bce8-b4695cc33fba
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 210b1e65-ae2d-4d77-9bd6-9746d89b3f5d
 dateAccepted: 2018-11-17
 id: 206bed78-34a1-403f-a107-1d599b15c362
 status: valid

@@ -8,7 +8,17 @@ data:
     s: 14.0
     w: 143.0
   identifier: 700
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: National Geodetic Survey Geoid Homepage
+    uuid: 67218003-850f-484c-9299-baeaa1c1ca8f
   name: NAD 83 (MA11) Epoch 2010 to NMVD03 - NOHt [v1]
   operationVersion: v1
   parameters: []
@@ -16,7 +26,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 59bc0828-3e5d-473e-b246-54b96cc59a60
   targetCRS: null
 dateAccepted: 2018-11-17
 id: cca69486-0e93-409c-8f58-86d4032acebf

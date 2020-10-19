@@ -2,13 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: EllipsoidalCS
-    name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
-      north, east, up. UoM: degree, degree, metre.'
-    uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-  datum:
-    name: Sistema de Referencia Geocentrico para America del Sur 2000
-    uuid: 4ded38f4-bc72-40be-9f70-d44b495522b1
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: 4ded38f4-bc72-40be-9f70-d44b495522b1
   description: null
   extent:
     e: -25.28
@@ -18,7 +14,40 @@ data:
     s: -59.87
     w: -122.19
   identifier: 313
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 252c4b50-1d86-4133-9ab6-8113d15ac9eb
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 32-37
+    title: Results of the SIRGAS campaign 2000 and coordinates variations with respect
+      to the 1995 South American geocentric reference frame
+    uuid: f06a9e7f-da9e-4dd8-9620-5b16cd12e092
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: b93a6f37-a87b-4af8-8b6f-dd189fa0e99e
   name: SIRGAS2000 - LatLonEHt
   operation: null
   remarks: null

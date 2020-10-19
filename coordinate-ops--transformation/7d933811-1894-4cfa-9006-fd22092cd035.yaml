@@ -10,7 +10,17 @@ data:
     s: -60.56
     w: 93.41
   identifier: 539
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
+    uuid: 8e72d1ae-3f32-4108-bc5c-863c750b44b9
   name: GDA94 to GDA2020 [GA v2]
   operationVersion: GA v2
   parameters: []
@@ -18,10 +28,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: e4050664-82bd-45fa-8643-b0abdfa794c4
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 401ef574-c9a3-4362-aeed-2b5ed7feb236
 dateAccepted: 2018-11-17
 id: 7d933811-1894-4cfa-9006-fd22092cd035
 status: valid

@@ -2,14 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: CartesianCS
-    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
-      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
-      the equatorial plane at the Prime Meridian]. UoM: m.'
-    uuid: c3cd36f9-6530-4432-93d7-051bed567297
-  datum:
-    name: SIRGAS Continuously Operating Network DGF01P02
-    uuid: acf06510-18fc-4476-9f9e-a1b543b8921c
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: acf06510-18fc-4476-9f9e-a1b543b8921c
   description: null
   extent:
     e: -25.28
@@ -19,7 +14,39 @@ data:
     s: -59.87
     w: -122.19
   identifier: 332
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: aaa2b0a0-1d49-4d3c-9881-5f274e4f0b24
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: JPL Publication 04-017
+    seriesName: IGS 2001-2002 Technical Reports
+    seriesPage: 285-290
+    title: Annual Report 2001 of IGS RNAAC SIR
+    uuid: 0b31ebe2-650c-42f2-96cf-8f5d4527eaaa
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: a014a0de-6794-4e7b-85d7-59a6338d8a3c
   name: SIRGAS-CON DGF01P02 - XYZ
   operation: null
   remarks: null

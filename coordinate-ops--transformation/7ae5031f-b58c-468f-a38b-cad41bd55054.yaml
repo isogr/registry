@@ -8,7 +8,62 @@ data:
     s: -90.0
     w: -180.0
   identifier: 480
-  informationSource: []
+  informationSources:
+  - edition: Third Edition
+    editionDate: 1997-07-04 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: TR8350.2
+    seriesName: Technical Report
+    seriesPage: null
+    title: 'Department of Defense World Geodetic System 1984: Its Definition and Relationships
+      with Local Geodetic Systems'
+    uuid: fdbd25c3-9c06-4a56-9db7-0fb5d3799259
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The World Geodetic System 1984 Earth Gravitational Model
+    uuid: 06558fd6-e245-4a9c-966b-79f5610f5cc9
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: Proceedings of the 10th International Technical Meeting of the Satellite
+      Division of The Institue of Navigation (ION-GPS-1997), Kansas City, MO, September
+      1997
+    seriesPage: 841-850
+    title: Refinements to The World Geodetic System 1984
+    uuid: ff053c49-ea60-41da-bbf3-90f2821bc597
+  - edition: Third Edition, Amendment 2
+    editionDate: 2004-06-23 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: TR8350.2
+    seriesName: Technical Report
+    seriesPage: null
+    title: 'Department of Defense World Geodetic System 1984: Its Definition and Relationships
+      with Local Geodetic Systems'
+    uuid: 67922c1d-eac7-4422-afbd-0a70413ba237
+  - edition: Third Edition, Amendment 1
+    editionDate: 2000-01-03 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: TR8350.2
+    seriesName: Technical Report
+    seriesPage: null
+    title: 'Department of Defense World Geodetic System 1984: Its Definition and Relationships
+      with Local Geodetic Systems'
+    uuid: 545c4389-20a1-4c70-95f7-6f40c851f7ac
   name: WGS 84 (G873) to WGS 84 EGM84 - OHt [2]
   operationVersion: '2.0'
   parameters: []
@@ -17,7 +72,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 5da438aa-1147-4945-8642-52cfef8bd7a8
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 7ae5031f-b58c-468f-a38b-cad41bd55054

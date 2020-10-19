@@ -8,7 +8,17 @@ data:
     s: -90.0
     w: -180.0
   identifier: 593
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Transformation parameters from ITRF2014 to past ITRFs
+    uuid: c8e31f19-580c-424a-bce8-2e2ea531d904
   name: ITRF92 to ITRF2014 (IERS v1]
   operationVersion: IERS v1
   parameters: []
@@ -21,10 +31,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: a006a2fd-6895-41a4-9df3-cc40022cf181
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 53740382-efb9-4f4d-8a99-3db85f700f02
 dateAccepted: 2018-11-17
 id: 75053feb-810a-4857-82c4-6061e4f4e4b8
 status: valid

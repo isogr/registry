@@ -9,7 +9,52 @@ data:
     s: -59.87
     w: -122.19
   identifier: 706
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: International GNSS Service Technical Report 2014
+    seriesPage: 101-110
+    title: SIRGAS Regional Network Associate Analysis Center, Technical Report 2014
+    uuid: cc9af68a-4cfb-4c26-8b9a-7d7513a19f0c
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Use of velocities in the processing of GNSS data
+    uuid: 10449a35-0960-42ed-8a8a-cdd894bf4199
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 883a474b-11e8-459c-8928-d57cb8f36395
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'Data for paper included in two supplements: Sanchez L., Drewes
+      H (2016): SIR15P01: Multiyear solution for the SIRGAS Reference Frame, link
+      to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.862536; Sanchez L., Drewes H (2016):
+      VEMOS2015: Velocity and deformation model for Latin America and the Caribbean,
+      link to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.863131.'
+    seriesIssueID: '102.0'
+    seriesName: Journal of Geodynamics
+    seriesPage: '2023-01-01'
+    title: Crustal deformation and surface kinematics after the 2010 earthquakes in
+      Latin America
+    uuid: e899b66d-c4b4-48d3-b1a7-bdf23a54033a
   name: IGb08 to SIRGAS-CON SIR14P01 [SIRv1]
   operationVersion: SIRv1
   parameters: []
@@ -17,10 +62,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 0518a42f-9278-4297-b7ee-3b708ebd437a
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: c14e9d02-b575-46c7-b1d9-1a71494aa409
 dateAccepted: 2018-11-17
 id: 4c2e58f8-6488-428b-bdfa-56918ae043d6
 status: valid

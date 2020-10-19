@@ -2,12 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: VerticalCS
-    name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: m.'
-    uuid: bccbe20a-3852-4a31-8533-ac6e043b52d9
-  datum:
-    name: Japanese Geodetic Datum 2000 (vertical)
-    uuid: 1bd04c4e-0ab1-4fa3-ba72-b554cea45206
+    classID: coordinate-sys--vertical
+    itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum: 1bd04c4e-0ab1-4fa3-ba72-b554cea45206
   description: null
   extent:
     e: 145.8
@@ -16,7 +13,17 @@ data:
     s: 31.0
     w: 129.5
   identifier: 390
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 51
+    seriesName: Bulletin of the Geographical Survey Institute
+    seriesPage: "31\u201351"
+    title: JGD2000(vertical) -The New Height System of Japan
+    uuid: e4af0000-be42-471c-ac53-b3d3fe051e86
   name: JGD2000 (vertical) - OHt
   operation: null
   remarks: null

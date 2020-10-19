@@ -2,13 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: EllipsoidalCS
-    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
-      UoM: degree'
-    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
-  datum:
-    name: North American Datum of 1927 (CGQ77)
-    uuid: 01b38ec3-0559-48e9-8ca8-7ff5dfb03d0e
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 01b38ec3-0559-48e9-8ca8-7ff5dfb03d0e
   description: null
   extent:
     e: -57.1
@@ -17,7 +13,17 @@ data:
     s: 44.99
     w: -79.85
   identifier: 304
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Personal email communication.
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'RE: GSD file'
+    uuid: 23ab6d46-cba0-4cb6-b836-4687e3222045
   name: NAD27(CGQ77) - LatLon
   operation: null
   remarks: null

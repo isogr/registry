@@ -9,7 +9,50 @@ data:
     s: -59.87
     w: -122.19
   identifier: 513
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
+      International Association of Geodesy Symposia, Vol 136. Springer, Berlin, Heidelberg
+    seriesIssueID: '136.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 657-664
+    title: The 2009 Horizontal Velocity Field for South America and the Caribbean
+    uuid: 490474f0-3916-4fcf-96bb-0dc491caffb1
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Use of velocities in the processing of GNSS data
+    uuid: 96544f61-29bd-431b-aac7-44deecdf7b60
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 14a03c9d-b81b-4299-93a7-115c32aa6897
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Data for paper included in supplement SIRGAS reference frame realization
+      SIR11P01.
+    seriesIssueID: No. 87
+    seriesName: DGFI Report
+    seriesPage: null
+    title: Recent activities of the IGS Regional Network Associate Analysis Centre
+      for SIRGAS (IGS RNAAC SIR)
+    uuid: 16eaaecc-3980-4f2c-88d3-1fa0737e84be
   name: ITRF2008 to SIRGAS-CON SIR11P01 [SIRv1]
   operationVersion: SIRv1
   parameters: []
@@ -17,10 +60,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 5777362f-a633-4bdb-8a4c-6b1d539211f9
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: f07f5476-bd33-4c85-a075-5a7a68e40d97
 dateAccepted: 2018-11-17
 id: 265ada46-0961-4629-bf4f-7748fee7ff02
 status: valid

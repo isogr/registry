@@ -8,7 +8,38 @@ data:
     s: 43.41
     w: -66.28
   identifier: 588
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'A spatial referencing policy for the Province of Nova Scotia: Policy Document'
+    uuid: af0e9193-4858-4ffc-8ecb-181c9ceb2113
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 69, No. 4
+    seriesName: Geomatica
+    seriesPage: 407-418
+    title: "The Evolution of Nova Scotia\u2019s Spatial Referencing System from its\
+      \ Origins until 2012"
+    uuid: ab35574f-b26e-40a8-98ba-d709d3027afc
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: 'Article ID: 000011846'
+    seriesName: null
+    seriesPage: null
+    title: 'FAQ: What are some of the transformation methods for Canada?'
+    uuid: 23d50272-817d-4f83-b5ad-8c85e55b6787
   name: ATS77 to NAD83(CSRS) v3 [NSv1]
   operationVersion: NSv1
   parameters: []
@@ -16,10 +47,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 369e1fef-6901-49d5-be7e-668c25c73866
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 9ac5ba39-0f9c-4602-857e-122a38a17c72
 dateAccepted: 2018-11-17
 id: 2c90bc2f-594d-4198-80a7-18415b373574
 status: valid

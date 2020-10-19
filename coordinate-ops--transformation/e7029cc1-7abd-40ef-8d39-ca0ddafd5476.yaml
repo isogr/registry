@@ -8,7 +8,17 @@ data:
     s: -90.0
     w: -180.0
   identifier: 644
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: EGM2008 - WGS 84 Version
+    uuid: ec9676e2-c47f-4825-b362-8cb8b46babea
   name: WGS 84 (G1762) to WGS 84 EGM2008 - OHt [1]
   operationVersion: '1.0'
   parameters: []
@@ -19,7 +29,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: ed902837-d0f7-45b4-b780-c2be3a5337d3
   targetCRS: null
 dateAccepted: 2018-11-17
 id: e7029cc1-7abd-40ef-8d39-ca0ddafd5476

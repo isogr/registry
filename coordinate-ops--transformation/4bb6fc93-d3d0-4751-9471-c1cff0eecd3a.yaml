@@ -8,7 +8,27 @@ data:
     s: -90.0
     w: -180.0
   identifier: 526
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '32.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS Conventions (2003)
+    uuid: 079d8dcc-031c-48d5-853f-c93f23dd2a8f
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'ISSN: 1019-4568'
+    seriesIssueID: '36.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS Conventions (2010)
+    uuid: 8271c31e-a4d6-4087-b339-c74dab2e0aa9
   name: ITRF93 to ITRF2000 [IERS v1]
   operationVersion: IERS v1
   parameters: []
@@ -20,10 +40,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: da7a591a-2867-46f9-87bf-b5620324c23a
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: d512f92c-4bca-4881-935c-c0d6faa11bef
 dateAccepted: 2018-11-17
 id: 4bb6fc93-d3d0-4751-9471-c1cff0eecd3a
 status: valid

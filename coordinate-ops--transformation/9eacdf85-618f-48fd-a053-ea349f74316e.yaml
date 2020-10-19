@@ -8,7 +8,39 @@ data:
     s: -90.0
     w: -180.0
   identifier: 557
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '7399.0'
+    seriesName: IGSMAIL
+    seriesPage: null
+    title: Upcoming switch to IGS14/igs14.atx
+    uuid: 6b2077f9-4a40-49d2-a614-4cb7944a1d8d
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'In supplement to: Drewes H. and Sanchez L. (2017) The varying surface
+      kinematics in Latin America: VEMOS 2009, 2015, and 2017, Symposium SIRGAS2017.
+      Mendoza, Argentina. November 28, 2017'
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Velocity model for SIRGAS 2017: VEMOS2017'
+    uuid: cdd54d3e-b3e9-4d0a-9601-b7f5b397ce83
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 126630c1-0020-4519-ad7c-12033e41cc4a
   name: ITRF2014 to IGS14 [IGS v1]
   operationVersion: IGS v1
   parameters: []
@@ -17,10 +49,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 53740382-efb9-4f4d-8a99-3db85f700f02
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: be6129a8-2aa2-4c86-bd84-0af34828618f
 dateAccepted: 2018-11-17
 id: 9eacdf85-618f-48fd-a053-ea349f74316e
 status: valid

@@ -8,7 +8,37 @@ data:
     s: 48.99
     w: -120.0
   identifier: 469
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Personal email communication.
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Transformation Grid - NAD83(CSRS) Epoch 2002 to NAD83(Original) and v/v
+    uuid: 81c5f50d-d416-46d3-91e6-3c69d7ba958f
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Desktop Applications: NTv2'
+    uuid: 2b3c3a5a-fb9d-4502-ac75-3730649ceb9f
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: 'Article ID: 000011846'
+    seriesName: null
+    seriesPage: null
+    title: 'FAQ: What are some of the transformation methods for Canada?'
+    uuid: cf709726-1ab6-4acd-8c93-ca132349ceb5
   name: NAD83(Original) to NAD83(CSRS) v4 [ABv1]
   operationVersion: ABv1
   parameters: []
@@ -16,10 +46,10 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
   targetCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: e9a75c1f-6783-45c7-8045-c3d6b57e4077
 dateAccepted: 2018-11-17
 id: c2bf952f-1846-4bc7-ae08-9cab81b0a4f1
 status: valid

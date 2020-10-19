@@ -2,13 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: EllipsoidalCS
-    name: 'Ellipsoidal 2D CS. Axes: latitude, longitude. Orientations: north, east.
-      UoM: degree'
-    uuid: 18688363-1f4e-4085-85c3-f4381df1db1d
-  datum:
-    name: North American Datum of 1983 (CSRS) version 4
-    uuid: 20dbfcd7-ff0a-4cc0-b0e9-1057a78e84d5
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 20dbfcd7-ff0a-4cc0-b0e9-1057a78e84d5
   description: null
   extent:
     e: -47.74
@@ -19,7 +15,27 @@ data:
     s: 40.04
     w: -141.01
   identifier: 340
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: 064f290a-125e-433d-968b-9d0ebb66a4f9
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 60, No. 2
+    seriesName: Geomatica
+    seriesPage: 151-164
+    title: The Evolution of NAD83 in Canada
+    uuid: c06bc1dc-e003-4478-9cad-97c89c361468
   name: NAD83(CSRS) v4 - LatLon
   operation: null
   remarks: null

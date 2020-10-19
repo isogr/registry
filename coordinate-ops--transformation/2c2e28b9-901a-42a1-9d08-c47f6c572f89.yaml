@@ -10,7 +10,18 @@ data:
     s: 40.04
     w: -141.01
   identifier: 618
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height Transformation
+      for Use With GPS in Canada'
+    uuid: 35a290fc-ca36-4287-b1fe-350070913db1
   name: NAD83(CSRS) v3 to CGVD28 - NOHt [v1]
   operationVersion: v1
   parameters: []
@@ -21,7 +32,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 47f54d19-758a-4b95-ae75-5a1a7c74e81d
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 2c2e28b9-901a-42a1-9d08-c47f6c572f89

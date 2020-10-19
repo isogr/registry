@@ -2,13 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: EllipsoidalCS
-    name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
-      north, east, up. UoM: degree, degree, metre.'
-    uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-  datum:
-    name: Japanese Geodetic Datum 2011
-    uuid: 11842bba-82c2-49bc-83bf-0333aca2cb87
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: 11842bba-82c2-49bc-83bf-0333aca2cb87
   description: null
   extent:
     e: 154.0
@@ -17,7 +13,18 @@ data:
     s: 20.4
     w: 122.9
   identifier: 365
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Voume 59
+    seriesName: Bulletin of the Geospatial Information Authority of Japan
+    seriesPage: 31-42
+    title: Revision of the Results of Control Points after the 2011 off the Pacific
+      coast of Tohoku Earthquake
+    uuid: a97e0691-a773-41c1-9f9a-962e8e33900b
   name: JGD2011 - LatLonEHt
   operation: null
   remarks: null

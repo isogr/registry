@@ -9,7 +9,17 @@ data:
     s: 41.0
     w: -124.79
   identifier: 516
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: National Geodetic Survey Geoid Homepage
+    uuid: 5563b7e6-7b37-4839-8f8b-2bb564d782c8
   name: NAD 83 (HARN) to NAVD88 - OHt [v1]
   operationVersion: v1
   parameters: []
@@ -17,7 +27,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: fe0ef0a0-b436-4793-b978-514f9fdd045f
   targetCRS: null
 dateAccepted: 2018-11-17
 id: f63ba8cb-fe2c-4ced-a051-bbe2dcf55da9

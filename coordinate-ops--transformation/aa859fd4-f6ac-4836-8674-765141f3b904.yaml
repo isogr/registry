@@ -8,7 +8,39 @@ data:
     s: -90.0
     w: -180.0
   identifier: 671
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2012-04-19 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume  117, Issue B4
+    seriesName: 'Journal of Geophysical Research: Solid Earth'
+    seriesPage: null
+    title: The development and evaluation of the Earth Gravitational Model 2008 (EGM2008)
+    uuid: daaee064-ee99-4b9f-9bf2-c611a2fa00e0
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: NGA.STND.0036_1.0.0_WGS84
+    seriesName: Standardization Document
+    seriesPage: null
+    title: 'Department of Defense World Geodetic System 1984: Its Definition and Relationships
+      with Local Geodetic Systems, Version 1.0.0'
+    uuid: 2a4b9561-c3d3-457c-99f5-1a44aed8c88e
+  - edition: null
+    editionDate: 2013-05-09 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume  118, Issue 5
+    seriesName: 'Journal of Geophysical Research: Solid Earth'
+    seriesPage: '2633.0'
+    title: "Correction to \u201CThe Development and Evaluation of the Earth Gravitational\
+      \ Model 2008 (EGM2008)\u201D"
+    uuid: 46f8e6db-e2cd-4ed6-a4a8-a912186e940b
   name: WGS 84 (G1762) to WGS 84 EGM2008 - OHt [3]
   operationVersion: '2.0'
   parameters: []
@@ -18,7 +50,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: ed902837-d0f7-45b4-b780-c2be3a5337d3
   targetCRS: null
 dateAccepted: 2018-11-17
 id: aa859fd4-f6ac-4836-8674-765141f3b904

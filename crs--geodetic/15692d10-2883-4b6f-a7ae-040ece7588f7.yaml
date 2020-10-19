@@ -2,14 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: CartesianCS
-    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
-      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
-      the equatorial plane at the Prime Meridian]. UoM: m.'
-    uuid: c3cd36f9-6530-4432-93d7-051bed567297
-  datum:
-    name: SIRGAS Continuously Operating Network SIR14P01
-    uuid: 14fab4ae-300a-43aa-8f6f-cc42aa0eaef9
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: 14fab4ae-300a-43aa-8f6f-cc42aa0eaef9
   description: null
   extent:
     e: -25.28
@@ -19,7 +14,17 @@ data:
     s: -59.87
     w: -122.19
   identifier: 257
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: International GNSS Service Technical Report 2014
+    seriesPage: 101-110
+    title: SIRGAS Regional Network Associate Analysis Center, Technical Report 2014
+    uuid: 283fa115-5315-4f57-85a0-ae4bb2395d28
   name: SIRGAS-CON SIR14P01 - XYZ
   operation: null
   remarks: null

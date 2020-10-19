@@ -2,14 +2,9 @@ data:
   alias: []
   baseCRS: null
   coordinateSystem:
-    class: CartesianCS
-    name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
-      Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
-      the equatorial plane at the Prime Meridian]. UoM: m.'
-    uuid: c3cd36f9-6530-4432-93d7-051bed567297
-  datum:
-    name: North American Datum of 1983 (CSRS) version 7
-    uuid: c87269de-82a4-4a33-9089-dbfcec201922
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: c87269de-82a4-4a33-9089-dbfcec201922
   description: null
   extent:
     e: -47.74
@@ -20,7 +15,28 @@ data:
     s: 40.04
     w: -141.01
   identifier: 448
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: Presentation to Canadian Geodetic Reference Systems Committee Meeting,
+      Ottawa, May 1-2, 2017
+    seriesPage: null
+    title: 'Reference Frames: National & International'
+    uuid: 5dd7a15f-a2e0-40c7-83db-f4cbff040c26
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: 4c94043b-d2fe-4099-80e4-ac161232bf47
   name: NAD83(CSRS) v7 - XYZ
   operation: null
   remarks: null

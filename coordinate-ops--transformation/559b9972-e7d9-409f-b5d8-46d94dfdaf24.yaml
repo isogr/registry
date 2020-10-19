@@ -8,7 +8,17 @@ data:
     s: -43.7
     w: 144.55
   identifier: 462
-  informationSource: []
+  informationSources:
+  - edition: null
+    editionDate: 2010-11-19 00:00:00
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '85.0'
+    seriesName: Journal of Geodesy
+    seriesPage: '133.0'
+    title: The AUSGeoid09 model of the Australian Height Datum
+    uuid: a4fb33f9-f78b-4ffb-a3b1-056c2f41cdf2
   name: GDA94 to AHD [GA-Tas v1]
   operationVersion: GA-Tas v1
   parameters: []
@@ -19,7 +29,7 @@ data:
   scope: []
   sourceCRS:
     classID: crs--geodetic
-    itemID: 69c0beba-4120-4e58-ae36-d294cb2e8623
+    itemID: 25cbff2e-d781-4614-88dc-cdf593e49ec6
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 559b9972-e7d9-409f-b5d8-46d94dfdaf24
