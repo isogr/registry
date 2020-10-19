@@ -1,0 +1,25 @@
+data:
+  abbreviation: Lat
+  direction: north
+  identifier: 38
+  informationSources:
+  - edition: Second Edition
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: ISO 19111:2007
+    seriesName: International Standard
+    seriesPage: null
+    title: ISO 19111 Geographical information - Spatial referencing by coordinates
+    uuid: c58d0c8f-a6ea-45b9-86d9-3521f57eb30d
+  maxValue: ''
+  minValue: ''
+  name: Geodetic latitude
+  rangeMeaning: ''
+  remarks: Used in geographic 2D and geographic 3D coordinate reference systems.
+  unit:
+    classID: unit-of-measurement
+    itemID: 6a54d914-a8a0-4df8-969e-57bcdb182e3c
+id: fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
+status: valid
