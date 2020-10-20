@@ -22,7 +22,7 @@ data:
     seriesPage: "1263\u20131272"
     title: Why the Greenwich meridian moved
     uuid: aa5fa72e-1739-4503-9485-1f16fdd504a9
-  longitudeFromFreenwich: 0.0
+  longitudeFromGreenwich: 0.0
   name: Greenwich
   remarks: ''
   unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
