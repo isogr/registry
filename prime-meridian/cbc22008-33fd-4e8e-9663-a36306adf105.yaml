@@ -25,9 +25,7 @@ data:
   longitudeFromFreenwich: 0.0
   name: Greenwich
   remarks: ''
-  unit:
-    name: degree
-    uuid: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
+  unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
 dateAccepted: ''
 id: cbc22008-33fd-4e8e-9663-a36306adf105
 status: valid
