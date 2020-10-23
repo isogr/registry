@@ -1,0 +1,18 @@
+data:
+  aliases:
+  - National Transformation version 2 grid shift
+  definition: null
+  description: null
+  formula: null
+  formulaCitation: []
+  identifier: 95
+  informationSources: []
+  name: NTv2
+  parameters:
+  - 09dd0359-80ee-4373-9001-1c0fa1033cb7
+  remarks: National Transformation version 2 grid shift file interpolation. Geodetic
+    transformation operating on a grid of 2D geographic coordinate differences by
+    bi-linear interpolation. Assumes longitudes to be positive west.
+dateAccepted: 2018-11-17
+id: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+status: valid

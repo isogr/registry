@@ -1,9 +1,7 @@
 data:
   coordinateSystemAxes:
-  - classID: coordinate-sys-axis
-    itemID: fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
-  - classID: coordinate-sys-axis
-    itemID: addb3701-9efd-487d-93ef-9540beb175f5
+  - fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
+  - addb3701-9efd-487d-93ef-9540beb175f5
   identifier: 43
   informationSources:
   - edition: Second Edition
@@ -21,6 +19,6 @@ data:
   remarks: Used in geographic 2D coordinate reference systems. Coordinates referenced
     to this CS are in degrees. Any degree representation (e.g. DMSH, decimal, etc.)
     may be used but that used must be declared for the user by the supplier of data.
-dateAccepted: ''
+dateAccepted: 2018-11-17
 id: 18688363-1f4e-4085-85c3-f4381df1db1d
 status: valid

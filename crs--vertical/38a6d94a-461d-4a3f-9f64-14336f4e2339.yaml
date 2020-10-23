@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - Northern Marianas Vertical Datum of 2003
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical
@@ -15,7 +16,7 @@ data:
   identifier: 391
   informationSources:
   - edition: null
-    editionDate: 2009-01-01 00:00:00
+    editionDate: 2009-01-01
     isbn: null
     issn: null
     otherDetails: ASVD02, GUVD04, NMVD03

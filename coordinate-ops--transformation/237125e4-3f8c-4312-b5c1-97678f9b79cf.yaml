@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.03
   coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
   description: null
   extent:
@@ -23,12 +27,19 @@ data:
     uuid: a58a1723-3d6f-4a99-bc42-b57df01554cd
   name: NAD83(CSRS) v6 to CGVD2013(CGG2013) - OHt [v1]
   operationVersion: v1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Geoid (height correction) model file
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: CGG2013n83.byn
   remarks: Grid transformation from NAD83(CSRS) v6 ellipsoidal heights to CGVD2013(CGG2013)
     orthometric heights using the CGG2013 geoid model upon which CGVD2013(CGG2013)
     is defined. Bi-linear interpolation of the grid file will give results agreeing
     to within 1cm 99.97% of the time.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: 00f5fc9b-2e5f-4548-810e-31a598dc2558

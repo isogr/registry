@@ -13,7 +13,7 @@ data:
   identifier: 135
   informationSources:
   - edition: Third Edition
-    editionDate: 1997-07-04 00:00:00
+    editionDate: 1997-07-04
     isbn: null
     issn: null
     otherDetails: null
@@ -24,7 +24,7 @@ data:
       with Local Geodetic Systems'
     uuid: 44761c05-77fe-468f-a726-2c9a5e74f660
   - edition: Third Edition, Amendment 1
-    editionDate: 2000-01-03 00:00:00
+    editionDate: 2000-01-03
     isbn: null
     issn: null
     otherDetails: null
@@ -47,7 +47,7 @@ data:
     title: Refinements to The World Geodetic System 1984
     uuid: 173ca5b7-0fb7-40f0-9dd4-fddc287cd728
   - edition: Third Edition, Amendment 2
-    editionDate: 2004-06-23 00:00:00
+    editionDate: 2004-06-23
     isbn: null
     issn: null
     otherDetails: null

@@ -1,5 +1,5 @@
 data:
-  alias: []
+  aliases: []
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal
@@ -15,7 +15,7 @@ data:
   identifier: 208
   informationSources:
   - edition: Third Edition, Amendment 1
-    editionDate: 2000-01-03 00:00:00
+    editionDate: 2000-01-03
     isbn: null
     issn: null
     otherDetails: null
@@ -26,7 +26,7 @@ data:
       with Local Geodetic Systems'
     uuid: f56ecf4e-2fc2-4e4e-8a8c-b20537836568
   - edition: Third Edition
-    editionDate: 1997-07-04 00:00:00
+    editionDate: 1997-07-04
     isbn: null
     issn: null
     otherDetails: null
@@ -49,7 +49,7 @@ data:
     title: Refinements to The World Geodetic System 1984
     uuid: b41e9d5d-fac2-4fd9-adba-08f53ade538a
   - edition: Third Edition, Amendment 2
-    editionDate: 2004-06-23 00:00:00
+    editionDate: 2004-06-23
     isbn: null
     issn: null
     otherDetails: null

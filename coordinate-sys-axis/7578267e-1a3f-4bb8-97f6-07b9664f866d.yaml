@@ -13,14 +13,10 @@ data:
     seriesPage: null
     title: ISO 19111 Geographical information - Spatial referencing by coordinates
     uuid: f90f0bcc-b44f-42bf-bcb8-1c1d2476a36a
-  maxValue: ''
-  minValue: ''
   name: Ellipsoidal height
-  rangeMeaning: ''
   remarks: Used only as part of an ellipsoidal 3D coordinate system in a geographic
     3D coordinate reference system, never on its own.
-  unit:
-    classID: unit-of-measurement
-    itemID: 932dce03-daeb-4762-ac71-81c69c41746b
+  unit: 932dce03-daeb-4762-ac71-81c69c41746b
+dateAccepted: 2018-11-17
 id: 7578267e-1a3f-4bb8-97f6-07b9664f866d
 status: valid

@@ -12,7 +12,7 @@ data:
   identifier: 121
   informationSources:
   - edition: null
-    editionDate: 2009-01-22 00:00:00
+    editionDate: 2009-01-22
     isbn: null
     issn: null
     otherDetails: Mandates use of ASVD02
@@ -23,7 +23,7 @@ data:
       the island of Tutuila, American Samoa
     uuid: 5ad2bbbc-c5c6-4925-82f3-bb27b37ae2ae
   - edition: null
-    editionDate: 2009-01-01 00:00:00
+    editionDate: 2009-01-01
     isbn: null
     issn: null
     otherDetails: ASVD02, GUVD04, NMVD03

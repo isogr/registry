@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.03
   coordOperationMethod: 4a370551-f089-4518-8f3a-3b78bc9745cf
   description: null
   extent:
@@ -23,10 +27,17 @@ data:
     uuid: dd735470-5674-4cab-b065-c2ac730e0f5b
   name: NZGD2000 to NZVD2016 - NOHt [LINZ]
   operationVersion: LINZ
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Geoid (height correction) model file
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: New_Zealand_Quasigeoid_2016.sid
   remarks: Grid transformation using quasigeoid model New Zealand Quasigeoid 2016
     (NZGeoid2016).
-  scope: []
+  scope:
+  - Spatial referencing.
   sourceCRS:
     classID: crs--geodetic
     itemID: 90080c83-c3a1-457b-9b8e-f2bb7b7650d1

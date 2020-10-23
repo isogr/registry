@@ -1,5 +1,9 @@
 data:
-  alias: []
+  aliases:
+  - CGVD28
+  - CVD28
+  - Canadian Vertical Datum of 1928
+  - Canadian Geodetic Vertical Datum of 1928
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical

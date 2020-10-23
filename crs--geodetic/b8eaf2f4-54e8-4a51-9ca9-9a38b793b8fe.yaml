@@ -1,5 +1,7 @@
 data:
-  alias: []
+  aliases:
+  - North American Datum of 1983 (2011)
+  - NAD83(2011)
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal
@@ -22,7 +24,7 @@ data:
   identifier: 239
   informationSources:
   - edition: null
-    editionDate: 1990-08-10 00:00:00
+    editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
@@ -32,7 +34,7 @@ data:
     title: Notice to Adopt Standard Method for Horizontal Datum Transformation
     uuid: 9bc23bc2-f2f4-425e-acbe-abb42b301356
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,

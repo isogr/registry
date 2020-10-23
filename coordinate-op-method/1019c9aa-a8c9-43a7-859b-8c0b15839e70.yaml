@@ -1,0 +1,16 @@
+data:
+  aliases: []
+  definition: null
+  description: null
+  formula: null
+  formulaCitation: []
+  identifier: 78
+  informationSources: []
+  name: Geographic/geocentric conversion
+  parameters: []
+  remarks: This is a parameter-less conversion. In applications it is often concatenated
+    with 3-, 7- or 10-parameter transformations to form a geographic to geographic
+    transformation.
+dateAccepted: 2018-11-17
+id: 1019c9aa-a8c9-43a7-859b-8c0b15839e70
+status: valid

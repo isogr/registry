@@ -13,13 +13,9 @@ data:
     seriesPage: '5348.0'
     title: Refinement of values for the yard and the pound
     uuid: 8b9c9d2c-2a15-4d47-bb39-a3e61ecdf369
-  maxValue: ''
-  minValue: ''
   name: Gravity-related height
-  rangeMeaning: ''
   remarks: Used in a 1D vertical coordinate system.
-  unit:
-    classID: unit-of-measurement
-    itemID: 9e560831-7481-46c0-b54b-bf19f589ab5f
+  unit: 9e560831-7481-46c0-b54b-bf19f589ab5f
+dateAccepted: 2018-11-17
 id: 1dcb9318-cf33-4f7d-9b10-2f9e7a007adb
 status: valid

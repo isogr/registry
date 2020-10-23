@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - GDA2020
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian

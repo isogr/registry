@@ -1,5 +1,7 @@
 data:
-  alias: []
+  aliases:
+  - North American Datum of 1983 (PA11)
+  - NAD83(PA11)
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal
@@ -17,7 +19,7 @@ data:
   identifier: 207
   informationSources:
   - edition: null
-    editionDate: 1990-08-10 00:00:00
+    editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
@@ -27,7 +29,7 @@ data:
     title: Notice to Adopt Standard Method for Horizontal Datum Transformation
     uuid: fdc1c7e4-7244-460a-b19e-02430ef97ac5
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
@@ -39,7 +41,7 @@ data:
       Reference System'
     uuid: 8f6798cb-c637-4721-81b8-968832e5b606
   - edition: null
-    editionDate: 2013-08-08 00:00:00
+    editionDate: 2013-08-08
     isbn: null
     issn: null
     otherDetails: null
@@ -52,7 +54,7 @@ data:
       (MA2011) Epoch 2010.00
     uuid: bc5227a2-5b1a-4bca-889b-e2c2b4b41d2b
   - edition: null
-    editionDate: 2009-01-22 00:00:00
+    editionDate: 2009-01-22
     isbn: null
     issn: null
     otherDetails: Mandates use of NMVD03

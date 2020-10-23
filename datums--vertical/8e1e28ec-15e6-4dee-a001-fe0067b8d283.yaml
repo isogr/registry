@@ -3,8 +3,10 @@ data:
   - CGVD28
   - CVD28
   - Canadian Vertical Datum of 1928
+  - GSC Datum
+  - Canadian Geodetic Datum
   coordinateReferenceEpoch: null
-  definition: null
+  definition: Canadian Geodetic Vertical Datum of 1928
   extent:
     e: -59.73
     n: 69.8
@@ -47,7 +49,7 @@ data:
     \ using geodetic levelling measurements. The vertical datum is accessible through\
     \ some 94,000 bench marks anchored to the ground and stable structures. Heights\
     \ in  CGVD28 are normal-orthometric based on normal gravity."
-  releaseDate: '1935'
+  releaseDate: '1928'
   remarks: Adopted by Federal Order in Council in 1935. Replaced by CGVD2013 November
     2013. Normal orthometric heights.
   scope: Spatial referencing

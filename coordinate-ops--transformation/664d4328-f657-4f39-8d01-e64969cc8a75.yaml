@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.1
   coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
   description: null
   extent:
@@ -41,10 +45,17 @@ data:
     uuid: a330e010-7411-4d57-b4e0-5d22db4c6bbf
   name: NAD83(Original) to NAD83(CSRS) v4 [BCv1]
   operationVersion: BCv1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Latitude and Longitude difference file
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: ' BC_93_05.GSB'
   remarks: Grid tranformation in NTv2 format adopted for use in British Columbia,
     Canada, excluding Vancouver Island.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db

@@ -1,5 +1,8 @@
 data:
-  alias: []
+  aliases:
+  - NAD27
+  - NAD27(MAY76)
+  - North American Datum 1927
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

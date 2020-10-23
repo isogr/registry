@@ -1,7 +1,6 @@
 data:
   coordinateSystemAxes:
-  - classID: coordinate-sys-axis
-    itemID: 1dcb9318-cf33-4f7d-9b10-2f9e7a007adb
+  - 1dcb9318-cf33-4f7d-9b10-2f9e7a007adb
   identifier: 41
   informationSources:
   - edition: Second Edition
@@ -24,8 +23,9 @@ data:
     seriesPage: '5348.0'
     title: Refinement of values for the yard and the pound
     uuid: 4721de9d-c6b7-4068-be08-7c60a80b9ebf
+  information_source: []
   name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: ftUS.'
   remarks: Used in vertical coordinate reference systems.
-dateAccepted: ''
+dateAccepted: 2018-11-17
 id: ae712530-3beb-45d5-ae5b-494ed61c122b
 status: valid

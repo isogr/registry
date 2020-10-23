@@ -1,5 +1,5 @@
 data:
-  alias: []
+  aliases: []
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian
@@ -17,7 +17,7 @@ data:
   identifier: 315
   informationSources:
   - edition: null
-    editionDate: 2003-01-01 00:00:00
+    editionDate: 2003-01-01
     isbn: null
     issn: null
     otherDetails: MARP00, PACP00

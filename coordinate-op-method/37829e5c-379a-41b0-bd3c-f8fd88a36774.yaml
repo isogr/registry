@@ -1,0 +1,14 @@
+data:
+  aliases: []
+  definition: null
+  description: null
+  formula: null
+  formulaCitation: []
+  identifier: 86
+  informationSources: []
+  name: Geographic3D to 2D conversion
+  parameters: []
+  remarks: This is a parameter-less conversion.
+dateAccepted: 2018-11-17
+id: 37829e5c-379a-41b0-bd3c-f8fd88a36774
+status: valid

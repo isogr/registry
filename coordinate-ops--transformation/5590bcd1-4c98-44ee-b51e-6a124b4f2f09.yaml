@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.15
   coordOperationMethod: e0a8fc2b-2414-4ba5-a6c8-5c880a42ae81
   description: null
   extent:
@@ -13,7 +17,7 @@ data:
   identifier: 532
   informationSources:
   - edition: null
-    editionDate: 1930-06-30 00:00:00
+    editionDate: 1930-06-30
     isbn: null
     issn: null
     otherDetails: NGVD29
@@ -24,7 +28,7 @@ data:
       to the Secretary of Commerce for the Fiscal Year Ended June 30, 1930
     uuid: 18ee178d-1039-423d-a7e4-1e0d1b6203d0
   - edition: null
-    editionDate: 1973-05-16 00:00:00
+    editionDate: 1973-05-16
     isbn: null
     issn: null
     otherDetails: Proposed use of NGVD 29 to replace SLD 29
@@ -34,7 +38,7 @@ data:
     title: National Vertical Control Network - Proposed Action
     uuid: e3f64412-8129-4aba-aa5d-1963694d3639
   - edition: null
-    editionDate: 2007-07-11 00:00:00
+    editionDate: 2007-07-11
     isbn: null
     issn: null
     otherDetails: Mandates use of VERTCON for official transformations between datums
@@ -44,7 +48,7 @@ data:
     title: Notice to Adopt a Standard Model for Mathematical Vertical Datum Transformations
     uuid: d69fdb6e-88c5-49da-ae39-b2961535fd47
   - edition: null
-    editionDate: 1993-06-24 00:00:00
+    editionDate: 1993-06-24
     isbn: null
     issn: null
     otherDetails: Mandates use of NAVD 88
@@ -54,7 +58,7 @@ data:
     title: Affirmation of Vertical Datum for Surveying and Mapping Activities
     uuid: b6da4356-5b00-44e8-9265-26ccd0474e9f
   - edition: null
-    editionDate: 1976-05-17 00:00:00
+    editionDate: 1976-05-17
     isbn: null
     issn: null
     otherDetails: Formally adopted usage of NGVD 29 as datum name
@@ -64,7 +68,7 @@ data:
     title: National Vertical Control Network - Notice of Final Action
     uuid: 7b74ecb4-2df2-4e70-8450-e6e6e93016fb
   - edition: null
-    editionDate: 1992-03-01 00:00:00
+    editionDate: 1992-03-01
     isbn: null
     issn: null
     otherDetails: One of many NAVD 88 publiations. Nothing definitive was every written,
@@ -76,7 +80,7 @@ data:
       of 1988
     uuid: ae913419-d9e1-40f1-b9ff-f3690dfb24d0
   - edition: null
-    editionDate: 2003-09-29 00:00:00
+    editionDate: 2003-09-29
     isbn: null
     issn: null
     otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
@@ -88,9 +92,16 @@ data:
     uuid: b3000a61-e787-4a1a-a3b8-27d37dbac4e9
   name: NGVD29 - NOHt to NAVD88 - OHt [v3]
   operationVersion: v3
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Height difference file
+    parameter: d0e6143c-dfc2-4796-932b-ab6b67954582
+    type: parameter file name
+    unitOfMeasurement: null
+    value: vertcone.94
   remarks: Grid Transformation
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS: null
   targetCRS: null
 dateAccepted: 2018-11-17

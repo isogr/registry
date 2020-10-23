@@ -1,5 +1,6 @@
 data:
-  aliases: []
+  aliases:
+  - Zero meridian
   identifier: 25
   informationSources:
   - edition: null
@@ -23,9 +24,12 @@ data:
     title: Why the Greenwich meridian moved
     uuid: aa5fa72e-1739-4503-9485-1f16fdd504a9
   longitudeFromGreenwich: 0.0
+  longitudeFromGreenwichUoM: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
   name: Greenwich
   remarks: ''
-  unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
+  unit:
+    name: degree
+    uuid: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
 dateAccepted: 2018-11-17
 id: cbc22008-33fd-4e8e-9663-a36306adf105
 status: valid

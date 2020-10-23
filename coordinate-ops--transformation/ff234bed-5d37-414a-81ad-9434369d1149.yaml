@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.02
   coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
   description: null
   extent:
@@ -27,9 +31,16 @@ data:
     uuid: 121366f9-9749-41cf-988f-aa797ac3c18a
   name: NAD 83 (FBN) to NAVD88 - OHt [v1]
   operationVersion: v1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Geoid (height correction) model file
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: geoid03_conus.bin
   remarks: Grid Transformation
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: 0f3edaed-095e-41aa-9829-3b0cc5731072

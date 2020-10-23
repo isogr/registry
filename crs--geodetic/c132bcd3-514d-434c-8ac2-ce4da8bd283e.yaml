@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - North American Datum of 1983 (CORS96) Epoch 2002.0
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian
@@ -22,7 +23,7 @@ data:
   identifier: 294
   informationSources:
   - edition: null
-    editionDate: 2017-03-16 00:00:00
+    editionDate: 2017-03-16
     isbn: null
     issn: null
     otherDetails: webpage
@@ -33,7 +34,7 @@ data:
       Frames
     uuid: b169bc8c-c621-4c5b-8a9a-56f1edfbb72e
   - edition: null
-    editionDate: 2013-01-01 00:00:00
+    editionDate: 2013-01-01
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
@@ -44,7 +45,7 @@ data:
       frames
     uuid: fe447f3f-33e6-41f7-8cf4-39c34a4a09b0
   - edition: null
-    editionDate: 2008-04-01 00:00:00
+    editionDate: 2008-04-01
     isbn: null
     issn: null
     otherDetails: NAD83 (CORS96) Epoch 1996.0,NAD83 (CORS96) Epoch 1997.0,NAD83 (CORS96)

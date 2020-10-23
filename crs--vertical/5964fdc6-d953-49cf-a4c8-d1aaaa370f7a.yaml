@@ -1,5 +1,7 @@
 data:
-  alias: []
+  aliases:
+  - ' NZVD2016'
+  - New Zealand Vertical Datum 2016
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical

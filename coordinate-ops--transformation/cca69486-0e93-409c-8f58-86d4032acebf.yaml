@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.02
   coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
   description: null
   extent:
@@ -21,9 +25,16 @@ data:
     uuid: 67218003-850f-484c-9299-baeaa1c1ca8f
   name: NAD 83 (MA11) Epoch 2010 to NMVD03 - NOHt [v1]
   operationVersion: v1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Geoid (height correction) model file
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: g2012bg0.bin
   remarks: Grid Transformation
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: 59bc0828-3e5d-473e-b246-54b96cc59a60

@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.02
   coordOperationMethod: 1ec40630-37a6-4af1-8b25-a2f860b4965f
   description: null
   extent:
@@ -43,7 +47,13 @@ data:
     uuid: 70f9679f-8cc3-45c8-89d1-aa067e3be310
   name: ITRF96 to NZGD2000 [LINZ v20150101]
   operationVersion: LINZ v20150101
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: NZGD2000 deformation model files
+    parameter: 1df0907d-ac5b-4263-8d90-18d0f3c0d19c
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nzgd2000_deformation_20150101_full.zip
   remarks: Uses LINZ NZGD2000 deformation model. The deformation model transforms
     an ITRF96 coordinate at a specified epoch to NZGD2000. NZGD2000 is equivalent
     to ITRF96 epoch 2000 in areas unaffected by earthquakes and other localised deformation.
@@ -52,7 +62,8 @@ data:
     than this one exists. The nominal operation accuracy is 0.02m horizontally and
     vertically, which represents the expected consistency of NZGD2000 coordinates
     calculated at different epochs, in the absence of significant local deformation.
-  scope: []
+  scope:
+  - Spatial referencing.
   sourceCRS:
     classID: crs--geodetic
     itemID: 2f821c74-946e-4e2e-b263-a491a1379bac

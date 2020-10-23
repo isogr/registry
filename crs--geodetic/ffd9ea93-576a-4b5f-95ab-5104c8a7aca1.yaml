@@ -1,5 +1,7 @@
 data:
-  alias: []
+  aliases:
+  - North American Datum of 1983 (MA11)
+  - NAD83(MA11)
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian
@@ -26,7 +28,7 @@ data:
     title: CORS Coordinates
     uuid: 3d57b7de-f018-40f8-b974-80e901ba6753
   - edition: null
-    editionDate: 2013-01-01 00:00:00
+    editionDate: 2013-01-01
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
@@ -37,7 +39,7 @@ data:
       frames
     uuid: 2699cb76-b573-4290-837f-ca167cdb3330
   - edition: null
-    editionDate: 2013-08-08 00:00:00
+    editionDate: 2013-08-08
     isbn: null
     issn: null
     otherDetails: null

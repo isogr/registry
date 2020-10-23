@@ -1,5 +1,11 @@
 data:
-  alias: []
+  aliases:
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - SIR17P01
+  - Geocentric Reference System for the Americas
+  - SIRGAS Multi-Year Solution 2017
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

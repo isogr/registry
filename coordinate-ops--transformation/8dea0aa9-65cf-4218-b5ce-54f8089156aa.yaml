@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.05
   coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
   description: null
   extent:
@@ -25,9 +29,16 @@ data:
     uuid: 3af92853-43a9-4b52-b802-8bfe138c6ff7
   name: NAD 83 (HARN) to NAVD88 - OHt [v7]
   operationVersion: v7
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Geoid (height correction) model file
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: g1999u07.bin
   remarks: Grid transformation
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: fe0ef0a0-b436-4793-b978-514f9fdd045f

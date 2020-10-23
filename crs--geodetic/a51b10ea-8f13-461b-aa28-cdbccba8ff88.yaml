@@ -1,5 +1,11 @@
 data:
-  alias: []
+  aliases:
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - SIR13P01
+  - SIRGAS Multi-Year Solution 2013
+  - Geocentric Reference System for the Americas
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian

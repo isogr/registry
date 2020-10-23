@@ -1,5 +1,11 @@
 data:
-  alias: []
+  aliases:
+  - SIRGAS2000
+  - SIRGAS 2000
+  - Sistema de Referencia Geocentrico para las Americas
+  - South American Geocentric Reference System 2000
+  - Geocentric Reference System for the Americas
+  - Geocentric Reference System for South America
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

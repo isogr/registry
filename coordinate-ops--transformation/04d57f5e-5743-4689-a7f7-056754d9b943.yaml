@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.05
   coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
   description: null
   extent:
@@ -10,7 +14,7 @@ data:
   identifier: 710
   informationSources:
   - edition: null
-    editionDate: 1990-08-10 00:00:00
+    editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
@@ -20,7 +24,7 @@ data:
     title: Notice to Adopt Standard Method for Horizontal Datum Transformation
     uuid: ebb4c21f-7afe-4bda-84ff-676610695ccc
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
@@ -33,9 +37,22 @@ data:
     uuid: 6ba56a97-3784-4ef9-9db4-68f5a37dce50
   name: NAD 83 (1986) to NAD 83 (HARN) [v3]
   operationVersion: v3
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Latitude difference file
+    parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_1986.nad83_1993.hawaii.lat.trn.20160901.b
+  - fileCitation: null
+    name: Longitude difference file
+    parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_1986.nad83_1993.hawaii.lon.trn.20160901.b
   remarks: Grid Transformation
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db

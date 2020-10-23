@@ -1,5 +1,7 @@
 data:
-  alias: []
+  aliases:
+  - North American Datum of 1983 (PA11)
+  - NAD83(PA11)
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian
@@ -17,7 +19,7 @@ data:
   identifier: 449
   informationSources:
   - edition: null
-    editionDate: 2013-08-08 00:00:00
+    editionDate: 2013-08-08
     isbn: null
     issn: null
     otherDetails: null
@@ -30,7 +32,7 @@ data:
       (MA2011) Epoch 2010.00
     uuid: 6c38f175-138d-4c8e-ac12-d68d2359c744
   - edition: null
-    editionDate: 2013-01-01 00:00:00
+    editionDate: 2013-01-01
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08

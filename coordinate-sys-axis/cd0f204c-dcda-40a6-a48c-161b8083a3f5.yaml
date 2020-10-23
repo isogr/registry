@@ -13,13 +13,9 @@ data:
     seriesPage: null
     title: ISO 19111 Geographical information - Spatial referencing by coordinates
     uuid: a1bc4602-6d4f-4bec-9851-5e0002ccc858
-  maxValue: ''
-  minValue: ''
   name: Geocentric Z
-  rangeMeaning: ''
   remarks: ''
-  unit:
-    classID: unit-of-measurement
-    itemID: 932dce03-daeb-4762-ac71-81c69c41746b
+  unit: 932dce03-daeb-4762-ac71-81c69c41746b
+dateAccepted: 2018-11-17
 id: cd0f204c-dcda-40a6-a48c-161b8083a3f5
 status: valid

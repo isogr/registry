@@ -1,0 +1,15 @@
+data:
+  aliases: []
+  definition: null
+  description: null
+  formula: null
+  formulaCitation: []
+  identifier: 85
+  informationSources: []
+  name: PatchJGD HV
+  parameters: []
+  remarks: GSI application with grid of both horizontal coordinate and orthometric
+    height shifts in proprietary format.
+dateAccepted: 2018-11-17
+id: 9a8bc426-f56b-423a-b9fb-030955d22887
+status: valid

@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.1
   coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
   description: null
   extent:
@@ -21,9 +25,16 @@ data:
     uuid: a798dd5f-df0c-46ef-b9c3-72718f7392b6
   name: AGD84 to GDA94 [v2]
   operationVersion: GA v2
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Latitude and Longitude difference file
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: National 84 (02.07.01).gsb
   remarks: Defined at epoch 1994.0.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: a549e6be-be4c-40c5-9d79-9fac360e3a5e

@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - AGD66
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

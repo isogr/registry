@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - North American Datum of 1983 (2007)
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal
@@ -22,7 +23,7 @@ data:
   identifier: 397
   informationSources:
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
@@ -34,7 +35,7 @@ data:
       Reference System'
     uuid: 278f03f9-d73a-4955-920f-0e5f38641d28
   - edition: null
-    editionDate: 1990-08-10 00:00:00
+    editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums

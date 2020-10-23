@@ -18,7 +18,7 @@ data:
   identifier: 193
   informationSources:
   - edition: null
-    editionDate: 2007-07-11 00:00:00
+    editionDate: 2007-07-11
     isbn: null
     issn: null
     otherDetails: Mandates use of VERTCON for official transformations between datums
@@ -28,7 +28,7 @@ data:
     title: Notice to Adopt a Standard Model for Mathematical Vertical Datum Transformations
     uuid: 9635890e-016a-42aa-80ce-bb5c485cd1dd
   - edition: null
-    editionDate: 1993-06-24 00:00:00
+    editionDate: 1993-06-24
     isbn: null
     issn: null
     otherDetails: Mandates use of NAVD 88
@@ -38,7 +38,7 @@ data:
     title: Affirmation of Vertical Datum for Surveying and Mapping Activities
     uuid: 87a54484-37da-4c92-ae2a-0470da828431
   - edition: null
-    editionDate: 1992-03-01 00:00:00
+    editionDate: 1992-03-01
     isbn: null
     issn: null
     otherDetails: One of many NAVD 88 publiations. Nothing definitive was every written,
@@ -50,7 +50,7 @@ data:
       of 1988
     uuid: 7d58bc17-838f-495b-bff9-8847b5ab4427
   - edition: null
-    editionDate: 2003-09-29 00:00:00
+    editionDate: 2003-09-29
     isbn: null
     issn: null
     otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for

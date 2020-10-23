@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.5
   coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
   description: null
   extent:
@@ -21,9 +25,16 @@ data:
     uuid: 528b185e-dc8a-46fc-8428-4104aefe0bd2
   name: ATS77 to NAD27 [NBv1]
   operationVersion: NBv1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Latitude and Longitude difference file
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: TRNB7727.DAT
   remarks: Grid tranformation in NTv2 format adopted for use in New Brunswick.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: 369e1fef-6901-49d5-be7e-668c25c73866

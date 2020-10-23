@@ -1,5 +1,15 @@
 data:
-  alias: []
+  aliases:
+  - North American Datum 1983 v5
+  - CSRS
+  - NAD83(CSRS)
+  - Canadian Spatial Reference System 1998
+  - Canadian Spatial Reference System
+  - NAD83(CSRS98)
+  - NAD83v5
+  - CSRS98
+  - NAD83
+  - NAD83(CSRS)v5
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian

@@ -1,5 +1,8 @@
 data:
-  alias: []
+  aliases:
+  - WGS84
+  - EGM2008
+  - WGS 84
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical
@@ -15,7 +18,7 @@ data:
   identifier: 436
   informationSources:
   - edition: null
-    editionDate: 2013-05-09 00:00:00
+    editionDate: 2013-05-09
     isbn: null
     issn: null
     otherDetails: null
@@ -26,7 +29,7 @@ data:
       \ Model 2008 (EGM2008)\u201D"
     uuid: d6300b73-34bc-4436-b36d-235fc27ccfa8
   - edition: null
-    editionDate: 2012-04-19 00:00:00
+    editionDate: 2012-04-19
     isbn: null
     issn: null
     otherDetails: null

@@ -1,5 +1,12 @@
 data:
-  alias: []
+  aliases:
+  - DGFI00P01
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - SIRGAS Multi-Year Solution 2000
+  - Geocentric Reference System for the Americas
+  - DGF00P01
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian

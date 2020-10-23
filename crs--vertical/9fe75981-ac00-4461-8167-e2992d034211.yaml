@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - Virgin Islands Vertical Datum of 2009
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical
@@ -15,7 +16,7 @@ data:
   identifier: 219
   informationSources:
   - edition: null
-    editionDate: 2011-12-12 00:00:00
+    editionDate: 2011-12-12
     isbn: null
     issn: null
     otherDetails: Mandates use of VIVD09

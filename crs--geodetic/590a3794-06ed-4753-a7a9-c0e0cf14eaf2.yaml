@@ -1,5 +1,7 @@
 data:
-  alias: []
+  aliases:
+  - WGS84
+  - WGS 84
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal
@@ -25,7 +27,7 @@ data:
     title: World Geodetic System 1984
     uuid: bf3c571c-263d-4ab4-811a-7d594465a205
   - edition: Second Edition
-    editionDate: 1991-09-01 00:00:00
+    editionDate: 1991-09-01
     isbn: null
     issn: null
     otherDetails: null
@@ -36,7 +38,7 @@ data:
       with Local Geodetic Systems'
     uuid: 93a834a1-1039-47de-bf6d-c036283b7f2b
   - edition: null
-    editionDate: 1987-09-30 00:00:00
+    editionDate: 1987-09-30
     isbn: null
     issn: null
     otherDetails: null

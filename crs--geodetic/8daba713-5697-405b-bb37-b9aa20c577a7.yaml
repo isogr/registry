@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - AGD66
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal
@@ -32,4 +33,4 @@ data:
   scope: Spatial referencing.
 dateAccepted: 2018-11-17
 id: 8daba713-5697-405b-bb37-b9aa20c577a7
-status: valid
+status: invalid

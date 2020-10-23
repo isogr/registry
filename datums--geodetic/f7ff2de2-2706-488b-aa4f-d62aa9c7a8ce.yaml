@@ -15,7 +15,7 @@ data:
   identifier: 113
   informationSources:
   - edition: null
-    editionDate: 2017-03-16 00:00:00
+    editionDate: 2017-03-16
     isbn: null
     issn: null
     otherDetails: webpage
@@ -26,7 +26,7 @@ data:
       Frames
     uuid: 61a15db3-8101-4e1b-98a8-28907e84568f
   - edition: null
-    editionDate: 2013-01-01 00:00:00
+    editionDate: 2013-01-01
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
@@ -37,7 +37,7 @@ data:
       frames
     uuid: eafd6e37-f50a-482c-84c2-fd75a27e2e0e
   - edition: null
-    editionDate: 2003-01-01 00:00:00
+    editionDate: 2003-01-01
     isbn: null
     issn: null
     otherDetails: MARP00, PACP00

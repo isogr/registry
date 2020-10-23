@@ -1,0 +1,15 @@
+data:
+  aliases: []
+  definition: null
+  description: null
+  formula: null
+  formulaCitation: []
+  identifier: 91
+  informationSources: []
+  name: PatchJGD
+  parameters: []
+  remarks: GSI application with grid of horizontal coordinate shifts in proprietary
+    format.
+dateAccepted: 2018-11-17
+id: ea144e91-b722-4b93-928d-5fc40fd88e6b
+status: valid

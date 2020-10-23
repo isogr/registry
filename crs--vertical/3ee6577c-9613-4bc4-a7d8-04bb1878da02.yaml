@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - American Samoa Vertical Datum of 2002
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical
@@ -15,7 +16,7 @@ data:
   identifier: 452
   informationSources:
   - edition: null
-    editionDate: 2009-01-01 00:00:00
+    editionDate: 2009-01-01
     isbn: null
     issn: null
     otherDetails: ASVD02, GUVD04, NMVD03
@@ -26,7 +27,7 @@ data:
       Pacific Territories of American Samoa, Guam, and the Northern Marianas
     uuid: a0650629-91de-4218-8233-fa3bbafe27f0
   - edition: null
-    editionDate: 2009-01-22 00:00:00
+    editionDate: 2009-01-22
     isbn: null
     issn: null
     otherDetails: Mandates use of ASVD02

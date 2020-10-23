@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.5
   coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
   description: null
   extent:
@@ -31,9 +35,16 @@ data:
     uuid: 7f1bdd73-9ee5-4089-b363-9eb4e6e4544f
   name: ATS77 to NAD83(CSRS) v2 [NBv1]
   operationVersion: NBv1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Latitude and Longitude difference file
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: NB7783v2.GSB
   remarks: Grid tranformation in NTv2 format adopted for use in New Brunswick.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: 369e1fef-6901-49d5-be7e-668c25c73866

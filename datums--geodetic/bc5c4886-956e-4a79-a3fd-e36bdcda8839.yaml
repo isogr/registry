@@ -30,7 +30,7 @@ data:
     title: CORS Coordinates
     uuid: 2423ec69-ac56-4d01-91d4-195be5c7f3d8
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
@@ -42,7 +42,7 @@ data:
       Reference System'
     uuid: 8d6b3722-806c-456a-8edb-4415e62a9190
   - edition: null
-    editionDate: 2013-08-08 00:00:00
+    editionDate: 2013-08-08
     isbn: null
     issn: null
     otherDetails: null
@@ -55,7 +55,7 @@ data:
       (MA2011) Epoch 2010.00
     uuid: 58e59160-601d-45d1-9c4f-73bcc6b439e1
   - edition: null
-    editionDate: 1990-08-10 00:00:00
+    editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums

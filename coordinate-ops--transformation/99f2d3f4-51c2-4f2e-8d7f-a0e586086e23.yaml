@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.0
   coordOperationMethod: 6958648f-9e35-45fd-ac15-b1fcad9dab80
   description: null
   extent:
@@ -33,10 +37,17 @@ data:
     uuid: a296e6bc-0a28-4e09-936f-0d9fa6b7d1a9
   name: WGS 84 (G730) to WGS 84 EGM84 - OHt [2]
   operationVersion: '2.0'
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Spherical harmonic coefficient file
+    parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
+    type: parameter file name
+    unitOfMeasurement: null
+    value: egm180.nor
   remarks: Transformation from WGS 84 (G730) ellipsoidal heights to EGM84 orthometric
     heights using the EGM84 geoid model defind by spherical harmonic coeffcients.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: aaab5663-29a6-4873-9b46-7ddf9a488894

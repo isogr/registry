@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - International GPS Service 2000
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

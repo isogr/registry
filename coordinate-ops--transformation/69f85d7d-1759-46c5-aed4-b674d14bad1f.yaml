@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.06
   coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
   description: null
   extent:
@@ -11,7 +15,7 @@ data:
   identifier: 633
   informationSources:
   - edition: null
-    editionDate: 2010-11-19 00:00:00
+    editionDate: 2010-11-19
     isbn: null
     issn: null
     otherDetails: null
@@ -22,12 +26,19 @@ data:
     uuid: f8e5caaf-6faf-4ac3-ab5a-883219511fcf
   name: GDA94 to AHD [GA-mainland v1]
   operationVersion: GA-mainland v1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Geoid (height correction) model file
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: AUSGeoid09_GDA94_V1.01_DOV_windows.gsb
   remarks: Implemented 2009. Replaces AusGeoid98 model. Uses AusGeoid09 model which
     uses bi-cubic interpolation; bi-linear interpolation of the grid file will give
     results agreeing to within 1cm 99.97% of the time. May be used for transformations
     from WGS 84 to AHD.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: 25cbff2e-d781-4614-88dc-cdf593e49ec6

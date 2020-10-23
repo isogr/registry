@@ -1,5 +1,5 @@
 data:
-  alias: []
+  aliases: []
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal
@@ -16,7 +16,7 @@ data:
   identifier: 305
   informationSources:
   - edition: null
-    editionDate: 2017-03-16 00:00:00
+    editionDate: 2017-03-16
     isbn: null
     issn: null
     otherDetails: webpage
@@ -27,7 +27,7 @@ data:
       Frames
     uuid: 24ac91e9-aca0-48d7-8f38-4fe071820b13
   - edition: null
-    editionDate: 2003-01-01 00:00:00
+    editionDate: 2003-01-01
     isbn: null
     issn: null
     otherDetails: MARP00, PACP00
@@ -37,7 +37,7 @@ data:
     title: Introducing Two Spatial Reference Frames for Regions of the Pacific Ocean
     uuid: e96f1c3c-146d-48d3-a77c-8db965d20de7
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
@@ -49,7 +49,7 @@ data:
       Reference System'
     uuid: 274cc4d4-eef4-440c-a5eb-78a8172479ed
   - edition: null
-    editionDate: 1990-08-10 00:00:00
+    editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums

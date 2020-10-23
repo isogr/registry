@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.0
   coordOperationMethod: 3905157c-48fe-48b2-abcd-c1ad81ac206c
   description: null
   extent:
@@ -34,11 +38,24 @@ data:
     uuid: 5e8e6552-6f0a-4509-8e41-555088f577db
   name: WGS 84 (G1150) to WGS 84 EGM96 - OHt [2]
   operationVersion: '2.0'
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Spherical harmonic coefficient file
+    parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
+    type: parameter file name
+    unitOfMeasurement: null
+    value: egm96.exe
+  - fileCitation: null
+    name: Spherical harmonic correction coefficients file
+    parameter: f5cb1159-d48d-4f8e-b907-824a07b3f5ad
+    type: parameter file name
+    unitOfMeasurement: null
+    value: CORRCOEF.EXE
   remarks: Transformation from WGS 84 (G1150) ellipsoidal heights to EGM96 orthometric
     heights using the EGM96 geoid model defind by spherical harmonic coeffcients and
     corrections using harmonic synthesis.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: a6219eb2-d620-46c5-b699-0f5fdaac4853

@@ -25,7 +25,7 @@ data:
   identifier: 119
   informationSources:
   - edition: null
-    editionDate: 1990-08-10 00:00:00
+    editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
@@ -35,7 +35,7 @@ data:
     title: Notice to Adopt Standard Method for Horizontal Datum Transformation
     uuid: 11d0b7b2-5205-40fd-8c51-1cf56b373f3c
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,

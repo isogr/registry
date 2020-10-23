@@ -1,5 +1,9 @@
 data:
-  alias: []
+  aliases:
+  - EUREF89
+  - ETRS89 / (X, Y, Z)
+  - ETRF89
+  - ETRS89-XYZ
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

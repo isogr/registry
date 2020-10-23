@@ -25,7 +25,7 @@ data:
       based on time series of station positions and Earth Orientation Parameters'
     uuid: 91e158ef-29ee-4aa0-92f5-4c199eb805d3
   - edition: null
-    editionDate: 1976-05-17 00:00:00
+    editionDate: 1976-05-17
     isbn: null
     issn: null
     otherDetails: Formally adopted usage of NGVD 29 as datum name

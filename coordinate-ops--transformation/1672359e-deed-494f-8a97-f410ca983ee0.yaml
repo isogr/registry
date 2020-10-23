@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.03
   coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
   description: null
   extent:
@@ -23,12 +27,19 @@ data:
     uuid: cf373a3e-bf77-4c48-8f91-98cfb0f1ab53
   name: ITRF2008 to CGVD2013(CGG2013) - OHt [v1]
   operationVersion: v1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Geoid (height correction) model file
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: CGG2013i08.byn
   remarks: Grid transformation from ITRF2008 ellipsoidal heights to CGVD2013(CGG2013)
     orthometric heights using the CGG2013 geoid model upon which CGVD2013(CGG2013)
     is defined. Bi-linear interpolation of the grid file will give results agreeing
     to within 1cm 99.97% of the time.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: ff08fe41-933b-4930-83c5-ff67ae08e20f

@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.0
   coordOperationMethod: 94162bc4-60b7-40eb-a0b8-1c21d0a2881e
   description: null
   extent:
@@ -32,10 +36,17 @@ data:
     uuid: 01698ebd-c86e-482d-ac33-5d7c11dfb5af
   name: WGS 84 (G1674) to WGS 84 EGM96 - OHt [1]
   operationVersion: '1.0'
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Geoid (height correction) model file
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: WW15MGH.GRD
   remarks: Transformation from WGS 84 (G1674) ellipsoidal heights to EGM96 orthometric
     heights using the EGM 96 geoid grid.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: 83f9b452-ab4b-43de-923c-e317518f036a

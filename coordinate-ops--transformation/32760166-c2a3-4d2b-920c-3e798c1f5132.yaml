@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.01
   coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
   description: null
   extent:
@@ -21,9 +25,16 @@ data:
     uuid: 8cf9253a-ed92-422b-98dc-21f34880853f
   name: GDA94 to GDA2020 [GA v5]
   operationVersion: GA v5
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Latitude and Longitude difference file
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: GDA94_GDA2020_conformal_christmas_island.gsb
   remarks: Defined at epoch 2020.0.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: e4050664-82bd-45fa-8643-b0abdfa794c4

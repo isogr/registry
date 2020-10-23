@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.05
   coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
   description: null
   extent:
@@ -10,7 +14,7 @@ data:
   identifier: 575
   informationSources:
   - edition: null
-    editionDate: 1990-08-10 00:00:00
+    editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
@@ -20,7 +24,7 @@ data:
     title: Notice to Adopt Standard Method for Horizontal Datum Transformation
     uuid: 6bc8bb23-9ef6-4681-ae8b-54fc47682602
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
@@ -33,9 +37,28 @@ data:
     uuid: 65634b00-1065-4fe6-b4aa-f66f7ea78f75
   name: NAD 83 (HARN) to NAD 83 (FBN) [v2]
   operationVersion: V2
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Latitude difference file
+    parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_1993.nad83_2002.as.lat.trn.20160901.b
+  - fileCitation: null
+    name: Longitude difference file
+    parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_1993.nad83_2002.as.lon.trn.20160901.b
+  - fileCitation: null
+    name: Height difference file
+    parameter: d0e6143c-dfc2-4796-932b-ab6b67954582
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_1993.nad83_2002.as.eht.trn.20160901.b
   remarks: Grid Transformation
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: fe0ef0a0-b436-4793-b978-514f9fdd045f

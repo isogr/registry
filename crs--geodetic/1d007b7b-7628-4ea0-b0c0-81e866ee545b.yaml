@@ -1,5 +1,7 @@
 data:
-  alias: []
+  aliases:
+  - WGS84
+  - WGS 84
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian
@@ -15,7 +17,7 @@ data:
   identifier: 272
   informationSources:
   - edition: Second Edition
-    editionDate: 1991-09-01 00:00:00
+    editionDate: 1991-09-01
     isbn: null
     issn: null
     otherDetails: null
@@ -36,7 +38,7 @@ data:
     title: World Geodetic System 1984
     uuid: b303991a-3d4d-44af-80b4-702b8f80595a
   - edition: null
-    editionDate: 1987-09-30 00:00:00
+    editionDate: 1987-09-30
     isbn: null
     issn: null
     otherDetails: null

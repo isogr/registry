@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - Average Terrestrial System 1977
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

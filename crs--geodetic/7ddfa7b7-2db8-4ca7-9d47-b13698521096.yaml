@@ -1,5 +1,8 @@
 data:
-  alias: []
+  aliases:
+  - NAD27(CGQ77)
+  - NAD27
+  - North American Datum 1927
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

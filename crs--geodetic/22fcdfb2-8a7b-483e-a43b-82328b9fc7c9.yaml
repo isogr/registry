@@ -1,5 +1,7 @@
 data:
-  alias: []
+  aliases:
+  - International Terrestrial Reference Frame 1994
+  - IERS Terrestrial Reference Frame 1994
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian

@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.03
   coordOperationMethod: 9a8bc426-f56b-423a-b9fb-030955d22887
   description: null
   extent:
@@ -33,7 +37,8 @@ data:
   operationVersion: GSIv2
   parameters: []
   remarks: PatchJGD HV application from GSI. Replaces PatchJGD for Height.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS: null
   targetCRS: null
 dateAccepted: 2018-11-17

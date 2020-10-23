@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 3.0
   coordOperationMethod: f2d8e58d-a889-4386-9a3a-f79dfcac86bd
   description: null
   extent:
@@ -23,9 +27,28 @@ data:
     uuid: 42b9ad8e-3bf2-44cd-9b63-b50bf3b726a2
   name: GDA2020 to WGS 84 TRANSIT [GA v1]
   operationVersion: GA v1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: X-axis translation
+    parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.0
+  - fileCitation: null
+    name: Y-axis translation
+    parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.0
+  - fileCitation: null
+    name: Z-axis translation
+    parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.0
   remarks: null
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: c100e793-17fd-450b-b872-008569dae0af

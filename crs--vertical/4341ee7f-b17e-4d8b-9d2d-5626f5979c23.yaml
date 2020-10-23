@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - European Vertical Reference Frame 2007,EVRF2007_AMST / NH
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical

@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - North American Vertical Datum of 1988 height (m)
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical
@@ -21,7 +22,7 @@ data:
   identifier: 256
   informationSources:
   - edition: null
-    editionDate: 2003-09-29 00:00:00
+    editionDate: 2003-09-29
     isbn: null
     issn: null
     otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
@@ -32,7 +33,7 @@ data:
     title: VERTCON User Manual
     uuid: 3c35cc4a-6b43-4078-9c04-c031dd336d4e
   - edition: null
-    editionDate: 2007-07-11 00:00:00
+    editionDate: 2007-07-11
     isbn: null
     issn: null
     otherDetails: Mandates use of VERTCON for official transformations between datums
@@ -42,7 +43,7 @@ data:
     title: Notice to Adopt a Standard Model for Mathematical Vertical Datum Transformations
     uuid: 00b908be-455f-435e-8c87-609a710a3e3d
   - edition: null
-    editionDate: 1992-03-01 00:00:00
+    editionDate: 1992-03-01
     isbn: null
     issn: null
     otherDetails: One of many NAVD 88 publiations. Nothing definitive was every written,
@@ -54,7 +55,7 @@ data:
       of 1988
     uuid: 053af9c7-2f19-48cd-9706-e8bb5d6d795c
   - edition: null
-    editionDate: 1993-06-24 00:00:00
+    editionDate: 1993-06-24
     isbn: null
     issn: null
     otherDetails: Mandates use of NAVD 88

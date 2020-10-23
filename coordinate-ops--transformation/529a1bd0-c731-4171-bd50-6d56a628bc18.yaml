@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.004
   coordOperationMethod: ea144e91-b722-4b93-928d-5fc40fd88e6b
   description: null
   extent:
@@ -33,7 +37,8 @@ data:
   operationVersion: GSIv1
   parameters: []
   remarks: PatchJGD application from GSI.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: 341a9595-5c5e-4cdc-9abb-252905d18baa

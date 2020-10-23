@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.0
   coordOperationMethod: 6958648f-9e35-45fd-ac15-b1fcad9dab80
   description: null
   extent:
@@ -10,7 +14,7 @@ data:
   identifier: 480
   informationSources:
   - edition: Third Edition
-    editionDate: 1997-07-04 00:00:00
+    editionDate: 1997-07-04
     isbn: null
     issn: null
     otherDetails: null
@@ -43,7 +47,7 @@ data:
     title: Refinements to The World Geodetic System 1984
     uuid: ff053c49-ea60-41da-bbf3-90f2821bc597
   - edition: Third Edition, Amendment 2
-    editionDate: 2004-06-23 00:00:00
+    editionDate: 2004-06-23
     isbn: null
     issn: null
     otherDetails: null
@@ -54,7 +58,7 @@ data:
       with Local Geodetic Systems'
     uuid: 67922c1d-eac7-4422-afbd-0a70413ba237
   - edition: Third Edition, Amendment 1
-    editionDate: 2000-01-03 00:00:00
+    editionDate: 2000-01-03
     isbn: null
     issn: null
     otherDetails: null
@@ -66,10 +70,17 @@ data:
     uuid: 545c4389-20a1-4c70-95f7-6f40c851f7ac
   name: WGS 84 (G873) to WGS 84 EGM84 - OHt [2]
   operationVersion: '2.0'
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Spherical harmonic coefficient file
+    parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
+    type: parameter file name
+    unitOfMeasurement: null
+    value: egm180.nor
   remarks: Transformation from WGS 84 (G873) ellipsoidal heights to EGM84 orthometric
     heights using the EGM84 geoid model defind by spherical harmonic coeffcients.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: 5da438aa-1147-4945-8642-52cfef8bd7a8

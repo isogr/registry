@@ -20,7 +20,7 @@ data:
   identifier: 139
   informationSources:
   - edition: null
-    editionDate: 2008-04-01 00:00:00
+    editionDate: 2008-04-01
     isbn: null
     issn: null
     otherDetails: NAD83 (CORS96) Epoch 1996.0,NAD83 (CORS96) Epoch 1997.0,NAD83 (CORS96)
@@ -32,7 +32,7 @@ data:
       and Future Enhancements'
     uuid: 35bb826e-7b0e-4054-986d-baa3dec2531d
   - edition: null
-    editionDate: 2017-03-16 00:00:00
+    editionDate: 2017-03-16
     isbn: null
     issn: null
     otherDetails: webpage

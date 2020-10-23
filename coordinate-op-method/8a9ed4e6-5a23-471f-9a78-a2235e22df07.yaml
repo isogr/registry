@@ -1,0 +1,18 @@
+data:
+  aliases: []
+  definition: null
+  description: null
+  formula: null
+  formulaCitation: []
+  identifier: 83
+  informationSources: []
+  name: Geographic3D to GravityRelatedHeight (Ausgeoid v2)
+  parameters:
+  - 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+  remarks: The Information Source references software which offers both bi-cubic and
+    bi-linear interpolation methods. Unlike earlier Australian models which used bi-linear
+    interpolation, Ausgeoid09 uses the bi-cubic method.  See Info Source for file
+    format doc.
+dateAccepted: 2018-11-17
+id: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
+status: valid

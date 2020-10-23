@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.5
   coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
   description: null
   extent:
@@ -41,9 +45,16 @@ data:
     uuid: 4254a487-3fbb-4230-b795-4e8c37d997ee
   name: NAD27 to NAD83(Original) [SKv1]
   operationVersion: SKv1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Latitude and Longitude difference file
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: SK27-83.GSB
   remarks: Grid tranformation in NTv2 format adopted for use in Saskatchewan.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: a0c01a52-f404-48f3-951a-900aba820bd7

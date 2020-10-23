@@ -1,5 +1,11 @@
 data:
-  alias: []
+  aliases:
+  - South American Geocentric Reference System 1995
+  - SIRGAS
+  - SIRGAS95
+  - SIRGAS 1995
+  - SIRGAS1995
+  - Geocentric Reference System for South America
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian

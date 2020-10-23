@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - International GPS Service 1997
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian

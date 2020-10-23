@@ -7,7 +7,7 @@ data:
   - SIRGAS Multi-Year Solution 2011
   - Geocentric Reference System for the Americas
   coordinateReferenceEpoch: '2005.0'
-  definition: null
+  definition: SIRGAS Continuously Operating Network SIR11P01
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: -25.28
@@ -58,8 +58,7 @@ data:
     reprocessing campaign products (IG1) of the International GNSS Service and absolute
     phase centre calibrations referring to the IGS05/IGb05 reference frame. Velocity
     model VEMOS2009 used to propagate coordinates from an arbitrary epoch to the 2005.0
-    reference epoch. Velocity model VEMOS2009 used to propagate coordinates from an
-    arbitrary epoch to the 2005.0 reference epoch.
+    reference epoch.
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '2011'
   remarks: Replaces SIR10P01. Replaced by SIR13P01. Last multi-year solution without

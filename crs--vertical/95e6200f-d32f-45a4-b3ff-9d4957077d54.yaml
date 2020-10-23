@@ -1,5 +1,8 @@
 data:
-  alias: []
+  aliases:
+  - ' AHD71'
+  - Australian Height Datum
+  - ' Australian Height Datum 1971'
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical

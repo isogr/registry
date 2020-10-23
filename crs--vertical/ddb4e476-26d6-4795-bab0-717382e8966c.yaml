@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - National Geodetic Vertical Datum of 1929 height (ftUS),Sea Level Datum of 1928
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical
@@ -21,7 +22,7 @@ data:
   identifier: 214
   informationSources:
   - edition: null
-    editionDate: 1930-06-30 00:00:00
+    editionDate: 1930-06-30
     isbn: null
     issn: null
     otherDetails: NGVD29
@@ -32,7 +33,7 @@ data:
       to the Secretary of Commerce for the Fiscal Year Ended June 30, 1930
     uuid: fb63c87b-44cb-43fe-b9ac-db05e1efa682
   - edition: null
-    editionDate: 2007-07-11 00:00:00
+    editionDate: 2007-07-11
     isbn: null
     issn: null
     otherDetails: Mandates use of VERTCON for official transformations between datums
@@ -42,7 +43,7 @@ data:
     title: Notice to Adopt a Standard Model for Mathematical Vertical Datum Transformations
     uuid: 9b2e8525-6e6c-4a48-996a-3be84f25fc27
   - edition: null
-    editionDate: 2003-09-29 00:00:00
+    editionDate: 2003-09-29
     isbn: null
     issn: null
     otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
@@ -53,7 +54,7 @@ data:
     title: VERTCON User Manual
     uuid: 18d7e718-6428-447e-8850-bfb30b28f399
   - edition: null
-    editionDate: 1973-05-16 00:00:00
+    editionDate: 1973-05-16
     isbn: null
     issn: null
     otherDetails: Proposed use of NGVD 29 to replace SLD 29
@@ -63,7 +64,7 @@ data:
     title: National Vertical Control Network - Proposed Action
     uuid: b700fbf6-f86b-46b0-a14c-2d75d59ebe1d
   - edition: null
-    editionDate: 1976-05-17 00:00:00
+    editionDate: 1976-05-17
     isbn: null
     issn: null
     otherDetails: Formally adopted usage of NGVD 29 as datum name

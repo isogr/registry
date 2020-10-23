@@ -11,8 +11,8 @@ data:
   - NAD83
   - NAD83CSRS
   - NAD83(CSRS)v5
-  coordinateReferenceEpoch: '2005.0'
-  definition: null
+  coordinateReferenceEpoch: '2006.0'
+  definition: North American Datum of 1983 (CSRS) version 5
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: -47.74

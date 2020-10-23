@@ -2,7 +2,7 @@ data:
   aliases:
   - International GNSS Service 2014
   coordinateReferenceEpoch: '2010.0'
-  definition: null
+  definition: IGS14
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: 180.0
@@ -30,7 +30,8 @@ data:
     (igs14.atx) and post-seismic deformation models (psd_IGS14.snx).
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '2017-01-29'
-  remarks: Replaces IGb08. Used by  IGS products from 2017-01-29.
+  remarks: Replaces IGb08. Replaced by IGb14. Used by IGS products from 2017-01-29
+    to 2020-05-17.
   scope: Spatial referencing
 dateAccepted: 2018-11-17
 id: d61ae2ab-8cca-438b-81e5-646be15531ce

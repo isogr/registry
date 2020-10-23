@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.1
   coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
   description: null
   extent:
@@ -22,9 +26,16 @@ data:
     uuid: 690bbd16-3f3a-4b58-9eb5-f69b33de714d
   name: GDA2020 to AHD [GA v1]
   operationVersion: GA v1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Geoid (height correction) model file
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: AUSGeoid2020_20170908.gsb
   remarks: Derivation of gravity-related heights from GPS observations.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: b864475e-07ce-4bc7-8322-e25163b63ca2

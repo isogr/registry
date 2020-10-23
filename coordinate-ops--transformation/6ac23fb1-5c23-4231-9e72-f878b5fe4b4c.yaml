@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 5.0
   coordOperationMethod: ba7dac5d-4f79-4ac1-a7aa-96ccebc6093d
   description: null
   extent:
@@ -22,12 +26,31 @@ data:
     uuid: 3d2ebe96-7081-4a2d-8c57-6dab3e9b8c9d
   name: NZGD1949 to NZGD2000 [LINZv1]
   operationVersion: LINZv1
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: X-axis translation
+    parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: null
+  - fileCitation: null
+    name: Y-axis translation
+    parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: null
+  - fileCitation: null
+    name: Z-axis translation
+    parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: null
   remarks: Lowest accuracy three parameter version of NZGD1949 to NZGD2000 transformation
     by LINZ. For slightly higher (4 m) accuracy accuracy use seven parameter transformation
     version LINZv2. For highest (0.1-1 m) accuracy use grid transformation version
     LINZv3.
-  scope: []
+  scope:
+  - Spatial referencing.
   sourceCRS:
     classID: crs--geodetic
     itemID: 82cbab29-43bb-4598-a0b3-a93ccf482a18

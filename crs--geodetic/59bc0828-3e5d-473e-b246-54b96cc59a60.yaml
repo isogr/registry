@@ -1,5 +1,7 @@
 data:
-  alias: []
+  aliases:
+  - North American Datum of 1983 (MA11)
+  - NAD83(MA11)
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal
@@ -16,7 +18,7 @@ data:
   identifier: 231
   informationSources:
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
@@ -28,7 +30,7 @@ data:
       Reference System'
     uuid: 41043bf7-0678-438b-9f6a-fe684b921d47
   - edition: null
-    editionDate: 1990-08-10 00:00:00
+    editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
@@ -38,7 +40,7 @@ data:
     title: Notice to Adopt Standard Method for Horizontal Datum Transformation
     uuid: c29abd8e-6e7b-4424-b7ed-837fc69770ef
   - edition: null
-    editionDate: 2013-08-08 00:00:00
+    editionDate: 2013-08-08
     isbn: null
     issn: null
     otherDetails: null

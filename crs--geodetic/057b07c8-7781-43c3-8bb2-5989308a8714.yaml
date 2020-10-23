@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - Japanese Geodetic Datum 2011
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

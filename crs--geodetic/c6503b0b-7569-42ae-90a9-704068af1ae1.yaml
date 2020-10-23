@@ -1,5 +1,5 @@
 data:
-  alias: []
+  aliases: []
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian
@@ -16,7 +16,7 @@ data:
   identifier: 408
   informationSources:
   - edition: null
-    editionDate: 2009-01-22 00:00:00
+    editionDate: 2009-01-22
     isbn: null
     issn: null
     otherDetails: Mandates use of NMVD03
@@ -28,7 +28,7 @@ data:
       Islands (CNMI)
     uuid: 78725800-3eed-41d2-85f1-131de64fc209
   - edition: null
-    editionDate: 2003-01-01 00:00:00
+    editionDate: 2003-01-01
     isbn: null
     issn: null
     otherDetails: MARP00, PACP00
@@ -38,7 +38,7 @@ data:
     title: Introducing Two Spatial Reference Frames for Regions of the Pacific Ocean
     uuid: 9f574c3c-a5c3-479a-ac02-c1c815622175
   - edition: null
-    editionDate: 2013-01-01 00:00:00
+    editionDate: 2013-01-01
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
@@ -49,7 +49,7 @@ data:
       frames
     uuid: decf796b-bdc9-4f59-b8e2-5908555363e5
   - edition: null
-    editionDate: 2017-03-16 00:00:00
+    editionDate: 2017-03-16
     isbn: null
     issn: null
     otherDetails: webpage

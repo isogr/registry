@@ -24,7 +24,7 @@ data:
     title: World Geodetic System 1984
     uuid: 89d7dccb-c3df-417b-8b8e-7fec864ebf06
   - edition: null
-    editionDate: 1987-09-30 00:00:00
+    editionDate: 1987-09-30
     isbn: null
     issn: null
     otherDetails: null
@@ -35,7 +35,7 @@ data:
       with Local Geodetic Systems'
     uuid: 626c77e5-281f-4818-a581-54212b1dbcab
   - edition: Second Edition
-    editionDate: 1991-09-01 00:00:00
+    editionDate: 1991-09-01
     isbn: null
     issn: null
     otherDetails: null

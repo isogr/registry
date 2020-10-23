@@ -1,5 +1,7 @@
 data:
-  alias: []
+  aliases:
+  - IERS Terrestrial Reference Frame 1996
+  - International Terrestrial Reference Frame 1996
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

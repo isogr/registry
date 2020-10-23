@@ -1,0 +1,16 @@
+data:
+  aliases: []
+  definition: null
+  description: null
+  formula: null
+  formulaCitation: []
+  identifier: 93
+  informationSources: []
+  name: Geographic3D to Gravity Related Height (US)
+  parameters:
+  - 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+  remarks: Transformation of the vertical component of a Geographic 3D CRS to a Vertical
+    CRS.
+dateAccepted: 2018-11-17
+id: 685474b9-98af-48bf-80d1-8beef082f1cf
+status: valid

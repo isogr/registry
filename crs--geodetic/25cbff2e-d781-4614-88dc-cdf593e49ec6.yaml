@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - GDA94
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

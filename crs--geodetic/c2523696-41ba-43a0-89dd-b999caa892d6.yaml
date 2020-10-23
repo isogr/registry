@@ -1,5 +1,5 @@
 data:
-  alias: []
+  aliases: []
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal
@@ -17,7 +17,7 @@ data:
   identifier: 357
   informationSources:
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
@@ -39,7 +39,7 @@ data:
     title: CORS Coordinates
     uuid: c1aa2262-7929-4526-94af-4afe4079c771
   - edition: null
-    editionDate: 2003-01-01 00:00:00
+    editionDate: 2003-01-01
     isbn: null
     issn: null
     otherDetails: MARP00, PACP00
@@ -49,7 +49,7 @@ data:
     title: Introducing Two Spatial Reference Frames for Regions of the Pacific Ocean
     uuid: 69be71ad-ba6d-4afa-b921-33db3dfc24cb
   - edition: null
-    editionDate: 1990-08-10 00:00:00
+    editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums

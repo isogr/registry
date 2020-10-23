@@ -1,5 +1,5 @@
 data:
-  alias: []
+  aliases: []
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian
@@ -15,7 +15,7 @@ data:
   identifier: 325
   informationSources:
   - edition: Third Edition
-    editionDate: 1997-07-04 00:00:00
+    editionDate: 1997-07-04
     isbn: null
     issn: null
     otherDetails: null
@@ -38,7 +38,7 @@ data:
     title: Refinements to The World Geodetic System 1984
     uuid: b14f1608-3fa2-4434-a7b9-f9bb6d1f2fef
   - edition: Third Edition, Amendment 1
-    editionDate: 2000-01-03 00:00:00
+    editionDate: 2000-01-03
     isbn: null
     issn: null
     otherDetails: null
@@ -49,7 +49,7 @@ data:
       with Local Geodetic Systems'
     uuid: d9189a01-f03f-4df6-87cf-4c1ebf365fce
   - edition: Third Edition, Amendment 2
-    editionDate: 2004-06-23 00:00:00
+    editionDate: 2004-06-23
     isbn: null
     issn: null
     otherDetails: null

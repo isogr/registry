@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.5
   coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
   description: null
   extent:
@@ -42,10 +46,17 @@ data:
     uuid: 6c6cd802-f5ad-44fe-bd83-40f03a36a417
   name: NAD27 to NAD83(CSRS) v3 [BCv2]
   operationVersion: BCv2
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Latitude and Longitude difference file
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: NVI27_05.GSB
   remarks: Grid tranformation in NTv2 format adopted for use on Vancouver Island,
     outside the Capital Regional District, British Columbia, Canada.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: a0c01a52-f404-48f3-951a-900aba820bd7

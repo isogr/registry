@@ -1,5 +1,7 @@
 data:
-  alias: []
+  aliases:
+  - NZGD49
+  - GD49
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

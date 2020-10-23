@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.5
   coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
   description: null
   extent:
@@ -10,7 +14,7 @@ data:
   identifier: 675
   informationSources:
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
@@ -23,9 +27,22 @@ data:
     uuid: a50acf04-0b86-4a3d-a393-1ff107144f4b
   name: NAD27 to NAD 83 (1986) [USA v2]
   operationVersion: USA v2
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Latitude difference file
+    parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad27.nad83_1986.alaska.lat.trn.20160901.b
+  - fileCitation: null
+    name: Longitude difference file
+    parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad27.nad83_1986.alaska.lon.trn.20160901.b
   remarks: Grid Transformation
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: a0c01a52-f404-48f3-951a-900aba820bd7

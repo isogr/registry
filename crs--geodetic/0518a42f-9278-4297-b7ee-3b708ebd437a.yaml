@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - International GNSS Service 2008 (v2)
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

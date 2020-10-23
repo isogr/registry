@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - European Terrestrial Reference Frame 1992
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal

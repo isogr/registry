@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.5
   coordOperationMethod: 3905157c-48fe-48b2-abcd-c1ad81ac206c
   description: null
   extent:
@@ -10,7 +14,7 @@ data:
   identifier: 671
   informationSources:
   - edition: null
-    editionDate: 2012-04-19 00:00:00
+    editionDate: 2012-04-19
     isbn: null
     issn: null
     otherDetails: null
@@ -31,7 +35,7 @@ data:
       with Local Geodetic Systems, Version 1.0.0'
     uuid: 2a4b9561-c3d3-457c-99f5-1a44aed8c88e
   - edition: null
-    editionDate: 2013-05-09 00:00:00
+    editionDate: 2013-05-09
     isbn: null
     issn: null
     otherDetails: null
@@ -43,11 +47,24 @@ data:
     uuid: 46f8e6db-e2cd-4ed6-a4a8-a912186e940b
   name: WGS 84 (G1762) to WGS 84 EGM2008 - OHt [3]
   operationVersion: '2.0'
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Spherical harmonic coefficient file
+    parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
+    type: parameter file name
+    unitOfMeasurement: null
+    value: EGM2008_to2190_TideFree.gz
+  - fileCitation: null
+    name: Spherical harmonic correction coefficients file
+    parameter: f5cb1159-d48d-4f8e-b907-824a07b3f5ad
+    type: parameter file name
+    unitOfMeasurement: null
+    value: Zeta-to-N_to2160_egm2008.gz
   remarks: Transformation from WGS 84 (G1762) ellipsoidal heights to EGM2008 orthometric
     heights using the EGM2008 geoid model defind by spherical harmonic coeffcients
     and corrections using harmonic synthesis.
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: ed902837-d0f7-45b4-b780-c2be3a5337d3

@@ -1,4 +1,8 @@
 data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.05
   coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
   description: null
   extent:
@@ -10,7 +14,7 @@ data:
   identifier: 599
   informationSources:
   - edition: null
-    editionDate: 2017-03-27 00:00:00
+    editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
@@ -22,7 +26,7 @@ data:
       Reference System'
     uuid: d12f1e6f-8032-4d5b-b9c9-3fcf761a1de6
   - edition: null
-    editionDate: 1990-08-10 00:00:00
+    editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
@@ -33,9 +37,28 @@ data:
     uuid: 2c98fea7-dc05-4fde-b36e-d9bf777d35a5
   name: NAD 83 (FBN) to NAD 83 (2007) [v2]
   operationVersion: v2
-  parameters: []
+  parameters:
+  - fileCitation: null
+    name: Latitude difference file
+    parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_2002.nad83_2007.prvi.lat.trn.20160901.b
+  - fileCitation: null
+    name: Longitude difference file
+    parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_2002.nad83_2007.prvi.lon.trn.20160901.b
+  - fileCitation: null
+    name: Height difference file
+    parameter: d0e6143c-dfc2-4796-932b-ab6b67954582
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_2002.nad83_2007.prvi.eht.trn.20160901.b
   remarks: Grid Transformation
-  scope: []
+  scope:
+  - Spatial referencing
   sourceCRS:
     classID: crs--geodetic
     itemID: 0f3edaed-095e-41aa-9829-3b0cc5731072

@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - Japanese Geodetic Datum 2011 (vertical)
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical

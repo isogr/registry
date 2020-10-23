@@ -1,5 +1,6 @@
 data:
-  alias: []
+  aliases:
+  - Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimetric Geoid of 2013)
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical

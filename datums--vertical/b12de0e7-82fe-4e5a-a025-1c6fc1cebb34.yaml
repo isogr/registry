@@ -14,7 +14,7 @@ data:
   identifier: 187
   informationSources:
   - edition: null
-    editionDate: 2013-05-09 00:00:00
+    editionDate: 2013-05-09
     isbn: null
     issn: null
     otherDetails: null
@@ -25,7 +25,7 @@ data:
       \ Model 2008 (EGM2008)\u201D"
     uuid: 1c9bbc51-916b-4e97-b27e-e9a6b20f4fb4
   - edition: null
-    editionDate: 2012-04-19 00:00:00
+    editionDate: 2012-04-19
     isbn: null
     issn: null
     otherDetails: null

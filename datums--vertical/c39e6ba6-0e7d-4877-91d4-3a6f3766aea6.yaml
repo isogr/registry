@@ -19,7 +19,7 @@ data:
   identifier: 117
   informationSources:
   - edition: null
-    editionDate: 1973-05-16 00:00:00
+    editionDate: 1973-05-16
     isbn: null
     issn: null
     otherDetails: Proposed use of NGVD 29 to replace SLD 29
@@ -29,7 +29,7 @@ data:
     title: National Vertical Control Network - Proposed Action
     uuid: 736a65c1-7d38-4fae-9823-1749d7a38437
   - edition: null
-    editionDate: 1930-06-30 00:00:00
+    editionDate: 1930-06-30
     isbn: null
     issn: null
     otherDetails: NGVD29
@@ -40,7 +40,7 @@ data:
       to the Secretary of Commerce for the Fiscal Year Ended June 30, 1930
     uuid: 82b8e663-33a0-4a91-862e-eb37976acd96
   - edition: null
-    editionDate: 2007-07-11 00:00:00
+    editionDate: 2007-07-11
     isbn: null
     issn: null
     otherDetails: Mandates use of VERTCON for official transformations between datums
@@ -50,7 +50,7 @@ data:
     title: Notice to Adopt a Standard Model for Mathematical Vertical Datum Transformations
     uuid: f48a4d5d-8e23-44e6-bdae-9bc37a87b951
   - edition: null
-    editionDate: 1976-05-17 00:00:00
+    editionDate: 1976-05-17
     isbn: null
     issn: null
     otherDetails: Formally adopted usage of NGVD 29 as datum name
@@ -60,7 +60,7 @@ data:
     title: National Vertical Control Network - Notice of Final Action
     uuid: 5c5c63e5-023c-4cb2-8aa3-72679b5ae626
   - edition: null
-    editionDate: 2003-09-29 00:00:00
+    editionDate: 2003-09-29
     isbn: null
     issn: null
     otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
