@@ -50,8 +50,8 @@ proposals:
       description: null
       extent:
         e: -167
-        'n': -13
-        name: American Samoa - onshore and offshore.
+        'n': '-132'
+        name: American Samoa - onshore and offshore. Test!
         s: -16
         w: -172
       identifier: 466
