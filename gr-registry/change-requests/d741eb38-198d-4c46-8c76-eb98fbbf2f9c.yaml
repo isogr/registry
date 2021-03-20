@@ -36,6 +36,7 @@ proposals:
         Prime Meridian | X in the equatorial plane at the Prime Meridian]. UoM:
         m.
       remarks: Used in geocentric coordinate reference systems.
+      description: ',mk'
     classID: coordinate-sys--cartesian
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
 sponsor:
