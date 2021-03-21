@@ -312,7 +312,7 @@ proposals:
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
     amendmentType: supersession
-    supersedingItemID: ''
+    supersedingItemID: 74ad9e17-c1a0-47f6-9b11-fac9b5543b65
 sponsor:
   role: submitter
   name: Demo user
