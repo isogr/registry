@@ -307,6 +307,12 @@ proposals:
         subregisterID: ''
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+  7498bd96-eb7c-4156-969e-dfea6143a66d:
+    type: amendment
+    classID: coordinate-ops--transformation
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+    amendmentType: supersession
+    supersedingItemID: ''
 sponsor:
   role: submitter
   name: Demo user
