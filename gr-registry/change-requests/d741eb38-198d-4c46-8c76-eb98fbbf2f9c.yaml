@@ -268,7 +268,16 @@ proposals:
     payload:
       name: some new transformation!
       identifier: 1314
-      informationSources: []
+      informationSources:
+        - title: Test
+          seriesIssueID: '123'
+          seriesName: null
+          seriesPage: null
+          edition: null
+          editionDate: null
+          otherDetails: ''
+          isbn: null
+          issn: null
       remarks: ''
       description: Test description
       extent:
