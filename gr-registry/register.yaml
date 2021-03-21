@@ -24,3 +24,6 @@ stakeholders:
         contacts:
           - label: email
             value: vladimir.yablokov@gmail.com
+  - role: owner
+    name: Demo user
+    gitServerUsername: demouser
