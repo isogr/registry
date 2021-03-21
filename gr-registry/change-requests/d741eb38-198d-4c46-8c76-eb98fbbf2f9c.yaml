@@ -184,7 +184,7 @@ proposals:
           name: Z-axis rotation
           parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
           type: measure (w/ UoM)
-          unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+          unitOfMeasurement: 168a60b2-b4d9-4420-91e7-a2f65a8fb0af
           value: null
         - fileCitation: null
           name: Scale difference
