@@ -228,6 +228,7 @@ proposals:
         subregisterID: ''
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+    accepted: true
   7498bd96-eb7c-4156-969e-dfea6143a66d:
     type: amendment
     classID: coordinate-ops--transformation
