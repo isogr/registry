@@ -1,7 +1,13 @@
 id: 88e200d4-a475-4332-9bb8-1efb4e3f53ba
 justification: Test!
 timeStarted: 2021-03-21T21:26:44.735Z
-proposals: {}
+proposals:
+  1425ae92-91fa-49ce-a98e-c0fa29c21837:
+    type: amendment
+    classID: coordinate-ops--transformation
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+    amendmentType: supersession
+    supersedingItemID: ''
 sponsor:
   role: manager
   name: Demo user
