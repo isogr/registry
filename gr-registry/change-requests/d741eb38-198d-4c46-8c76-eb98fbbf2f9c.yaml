@@ -247,6 +247,6 @@ sponsor:
       contacts:
         - label: email
           value: ''
-status: pending
-disposition: !<tag:yaml.org,2002:js/undefined> ''
+status: tentative
+disposition: accepted
 timeProposed: 2021-03-21T21:10:48.346Z
