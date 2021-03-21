@@ -263,6 +263,27 @@ proposals:
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
     amendmentType: supersession
     supersedingItemID: ''
+  1527dfe4-d886-4a94-bead-d63a8dc16703:
+    type: addition
+    payload:
+      name: some new transformation!
+      identifier: 1314
+      informationSources: []
+      remarks: ''
+      description: Test description
+      extent:
+        name: ''
+        'n': -231.2
+        e: 0
+        s: 0
+        w: 0
+      operationVersion: ''
+      parameters: []
+      accuracy:
+        value: 0
+        unitOfMeasurement: ''
+    classID: coordinate-ops--transformation
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
 sponsor:
   role: submitter
   name: Demo user
