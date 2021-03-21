@@ -2,43 +2,6 @@ id: d741eb38-198d-4c46-8c76-eb98fbbf2f9c
 justification: Test 1
 timeStarted: 2021-03-20T23:24:49.967Z
 proposals:
-  c3cd36f9-6530-4432-93d7-051bed567297:
-    type: clarification
-    payload:
-      aliases:
-        - >-
-          Earth centred, earth fixed, right-handed 3D coordinate system,
-          consisting of 3 orthogonal axes with X and Y axes in the equatorial
-          plane, positive Z-axis parallel to mean earth rotation axis and
-          pointing towards North Pole. UoM: m.
-        - ECEF
-      coordinateSystemAxes:
-        - 1f95ce1f-2155-4cb9-a415-e73a4b5b1ad0
-        - ab143abe-d350-4401-bd42-55e96a479423
-        - cd0f204c-dcda-40a6-a48c-161b8083a3f5
-      identifier: 45
-      informationSources:
-        - edition: Second Edition
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          seriesIssueID: 'ISO 19111:2007'
-          seriesName: International Standard
-          seriesPage: null
-          title: >-
-            ISO 19111 Geographical information - Spatial referencing by
-            coordinates
-          uuid: a49d96ee-8243-43aa-b721-6856d1e5fa5f
-      name: >-
-        Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z.
-        Orientation: Z to North Pole, [X and Y in the equatorial plane, X at
-        Prime Meridian | X in the equatorial plane at the Prime Meridian]. UoM:
-        m.
-      remarks: Used in geocentric coordinate reference systems.
-      description: ',mk'
-    classID: coordinate-sys--cartesian
-    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
   bc5efd55-999d-445f-bd33-2494f80f147e:
     type: clarification
     payload:
@@ -47,7 +10,7 @@ proposals:
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      description: ew
+      description: Test!
       extent:
         e: -74.35
         'n': -21
@@ -55,37 +18,7 @@ proposals:
         s: 41.67
         w: -95.16
       identifier: 460
-      informationSources:
-        - edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          seriesIssueID: 'Article ID: 000011846'
-          seriesName: null
-          seriesPage: null
-          title: 'FAQ: What are some of the transformation methods for Canada?'
-          uuid: ffd27ae3-5e9b-4a83-9005-4ebcae6970ef
-        - edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: NTv2 Grid Shift Files for Ontario
-          uuid: ac6042c8-7f62-4848-9f16-a34ed8ebc756
-        - edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: 'Desktop Applications: NTv2'
-          uuid: 245cd33c-cabb-457b-a1c5-eaef8eab073f
+      informationSources: []
       name: 'NAD27(MAY76) to NAD83(CSRS) v3 [ONv1]'
       operationVersion: ONv1
       parameters:
@@ -251,18 +184,6 @@ proposals:
         itemID: c537094b-d5f2-491b-8fd5-d19518db8154
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
-  1d86d720-ff1a-47ef-819e-2fb3524c9ce9:
-    type: amendment
-    classID: unit-of-measurement
-    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
-    amendmentType: supersession
-    supersedingItemID: '31'
-  932dce03-daeb-4762-ac71-81c69c41746b:
-    type: amendment
-    classID: unit-of-measurement
-    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
-    amendmentType: supersession
-    supersedingItemID: ''
   1527dfe4-d886-4a94-bead-d63a8dc16703:
     type: addition
     payload:
