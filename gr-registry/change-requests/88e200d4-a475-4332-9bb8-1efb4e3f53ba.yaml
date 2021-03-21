@@ -178,6 +178,29 @@ proposals:
       scope: Spatial referencing
     classID: datums--vertical
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+  78262ffb-7e76-4b7a-b7d8-8465290cd4e4:
+    type: addition
+    payload:
+      name: ''
+      identifier: 0
+      informationSources: []
+      remarks: ''
+      description: ''
+      aliases: []
+      scope: ''
+      extent:
+        name: ''
+        'n': 0
+        e: 0
+        s: 0
+        w: 0
+      originDescription: ''
+      releaseDate: ''
+      coordinateReferenceEpoch: null
+      ellipsoid: bebbfb24-0705-4b44-88fe-652d3e6b99bb
+      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+    classID: datums--geodetic
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
 sponsor:
   role: manager
   name: Demo user
