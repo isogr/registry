@@ -18,7 +18,7 @@ export default {
       '@riboseinc/react-static-plugin-paneron-registry',
       {
         datasetSourcePath: DATASET_ROOT,
-        iconURL: 'http://www.electropedia.org/img/logo.jpg',
+        iconURL: 'https://isotc211.geolexica.org/assets/logo-iso-noninverted.svg',
         urlPrefix: '',
         itemClassConfiguration,
         subregisters: {},
