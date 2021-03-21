@@ -184,6 +184,7 @@ proposals:
         itemID: c537094b-d5f2-491b-8fd5-d19518db8154
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+    accepted: true
   1527dfe4-d886-4a94-bead-d63a8dc16703:
     type: addition
     payload:
