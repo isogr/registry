@@ -256,7 +256,7 @@ proposals:
     classID: unit-of-measurement
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
     amendmentType: supersession
-    supersedingItemID: ''
+    supersedingItemID: '31'
   932dce03-daeb-4762-ac71-81c69c41746b:
     type: amendment
     classID: unit-of-measurement
