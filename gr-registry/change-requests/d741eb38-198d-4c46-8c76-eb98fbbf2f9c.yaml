@@ -39,6 +39,7 @@ proposals:
         itemID: 9ac5ba39-0f9c-4602-857e-122a38a17c72
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+    accepted: true
   74ad9e17-c1a0-47f6-9b11-fac9b5543b65:
     type: clarification
     payload:
