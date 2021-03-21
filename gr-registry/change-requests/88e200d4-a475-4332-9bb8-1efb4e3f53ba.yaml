@@ -75,6 +75,16 @@ proposals:
         itemID: c8c9838e-0b73-4674-9866-5f27dfdc5461
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+  1742fc53-f4f9-4f84-ac1c-26a70a6651c2:
+    type: addition
+    payload:
+      name: ''
+      identifier: 0
+      informationSources: []
+      remarks: ''
+      description: ''
+    classID: ellipsoid
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
 sponsor:
   role: manager
   name: Demo user
