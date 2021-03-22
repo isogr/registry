@@ -85,6 +85,7 @@ proposals:
         subregisterID: ''
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+    accepted: true
   aa41a5e0-9d7c-403a-a583-a91085fa7430:
     type: addition
     payload:
