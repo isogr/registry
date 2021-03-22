@@ -43,6 +43,15 @@ proposals:
           seriesPage: '32681.0'
           title: Notice to Adopt Standard Method for Horizontal Datum Transformation
           uuid: 7c2c52d3-d0cc-4703-a2ce-eccdda844649
+        - title: New Source
+          seriesIssueID: null
+          seriesName: null
+          seriesPage: null
+          edition: null
+          editionDate: null
+          otherDetails: ''
+          isbn: null
+          issn: null
       name: 'NAD 83 (FBN) to NAD 83 (PA11) [v1]'
       operationVersion: v1
       parameters:
@@ -67,12 +76,13 @@ proposals:
       remarks: Grid Transformation
       scope:
         - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 0f3edaed-095e-41aa-9829-3b0cc5731072
       targetCRS:
         classID: crs--geodetic
         itemID: c8c9838e-0b73-4674-9866-5f27dfdc5461
+      sourceCRS:
+        itemID: 56d1c052-65a7-4cbf-a666-0cd7c5b4d50b
+        classID: crs--geodetic
+        subregisterID: ''
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
 sponsor:
