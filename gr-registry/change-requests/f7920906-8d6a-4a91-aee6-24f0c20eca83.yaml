@@ -138,6 +138,6 @@ sponsor:
       contacts:
         - label: email
           value: open@ribose.com
-status: pending
-disposition: !<tag:yaml.org,2002:js/undefined> ''
+status: tentative
+disposition: accepted
 timeProposed: 2021-03-22T09:45:29.632Z
