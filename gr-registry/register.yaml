@@ -27,4 +27,8 @@ stakeholders:
   - role: owner
     name: Demo user
     gitServerUsername: demouser
-    parties: []
+    parties:
+      - name: ''
+        contacts:
+          - label: email
+            value: 'open@ribose.com'
