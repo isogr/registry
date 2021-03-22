@@ -47,6 +47,12 @@ proposals:
       datum: 1349c163-fda2-46d0-a1d5-07f8a7273b0b
     classID: crs--vertical
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+  ecc34aae-3cdb-462b-93be-89caae6bbbea:
+    type: amendment
+    classID: coordinate-ops--transformation
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+    amendmentType: supersession
+    supersedingItemID: ''
 sponsor:
   role: owner
   name: Demo user
