@@ -106,6 +106,12 @@ proposals:
         unitOfMeasurement: ''
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+  559b9972-e7d9-409f-b5d8-46d94dfdaf24:
+    type: amendment
+    classID: coordinate-ops--transformation
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+    amendmentType: supersession
+    supersedingItemID: ''
 sponsor:
   role: owner
   name: Demo user
