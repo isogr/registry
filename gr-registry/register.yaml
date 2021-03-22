@@ -27,3 +27,4 @@ stakeholders:
   - role: owner
     name: Demo user
     gitServerUsername: demouser
+    parties: []
