@@ -128,6 +128,7 @@ proposals:
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
     amendmentType: supersession
     supersedingItemID: aa41a5e0-9d7c-403a-a583-a91085fa7430
+    accepted: true
 sponsor:
   role: owner
   name: Demo user
