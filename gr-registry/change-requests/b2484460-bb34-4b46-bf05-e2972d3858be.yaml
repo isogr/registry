@@ -1,7 +1,52 @@
 id: b2484460-bb34-4b46-bf05-e2972d3858be
 justification: ''
 timeStarted: 2021-03-22T12:21:23.878Z
-proposals: {}
+proposals:
+  25d31ea5-0cd6-4f0b-a56a-74b416100292:
+    type: addition
+    payload:
+      name: Test Transformation
+      identifier: 999
+      informationSources: []
+      remarks: ''
+      description: ''
+      extent:
+        name: ''
+        'n': 9.8
+        e: 10
+        s: 10
+        w: 20
+      operationVersion: ''
+      parameters: []
+      accuracy:
+        value: 3
+        unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+      sourceCRS:
+        itemID: 89b896fd-6c91-4a27-91a3-03b549a13803
+        classID: crs--vertical
+        subregisterID: ''
+      targetCRS:
+        itemID: 38a6d94a-461d-4a3f-9f64-14336f4e2339
+        classID: crs--vertical
+        subregisterID: ''
+    classID: coordinate-ops--transformation
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+  211b5435-deeb-4c26-a212-9aad0dd1f92c:
+    type: addition
+    payload:
+      name: Test VCRS
+      identifier: 100000
+      informationSources: []
+      remarks: ''
+      description: ''
+      scope: ''
+      coordinateSystem:
+        itemID: c3cd36f9-6530-4432-93d7-051bed567297
+        classID: coordinate-sys--cartesian
+        subregisterID: ''
+      datum: 1349c163-fda2-46d0-a1d5-07f8a7273b0b
+    classID: crs--vertical
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
 sponsor:
   role: owner
   name: Demo user
