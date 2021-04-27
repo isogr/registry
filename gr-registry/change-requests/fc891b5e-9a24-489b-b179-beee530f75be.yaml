@@ -12,7 +12,7 @@ proposals:
           seriesIssueID: '123'
           seriesName: Series name
           seriesPage: '231'
-          edition: null
+          edition: Test
           editionDate: null
           otherDetails: ''
           isbn: null
