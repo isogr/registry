@@ -58,3 +58,4 @@ sponsor:
 status: pending
 disposition: !<tag:yaml.org,2002:js/undefined> ''
 timeProposed: 2021-04-27T02:42:11.382Z
+registerManagerNotes: Test notes
