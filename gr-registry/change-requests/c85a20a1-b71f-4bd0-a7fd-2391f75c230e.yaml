@@ -1,7 +1,56 @@
 id: c85a20a1-b71f-4bd0-a7fd-2391f75c230e
 justification: ''
 timeStarted: 2021-03-22T12:27:18.942Z
-proposals: {}
+proposals:
+  559b9972-e7d9-409f-b5d8-46d94dfdaf24:
+    type: clarification
+    payload:
+      accuracy:
+        dtype: TransformationAccuracy
+        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+        value: 0.06
+      coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
+      description: null
+      extent:
+        e: 148.44
+        'n': -40.24
+        name: Australia - onshore and nearoffshore - Tasmania.
+        s: -43.7
+        w: 144.55
+      identifier: 462
+      informationSources:
+        - edition: null
+          editionDate: 2010-11-19T00:00:00.000Z
+          isbn: null
+          issn: null
+          otherDetails: null
+          seriesIssueID: '85.0'
+          seriesName: Journal of Geodesy
+          seriesPage: '133.0'
+          title: The AUSGeoid09 model of the Australian Height Datum
+          uuid: a4fb33f9-f78b-4ffb-a3b1-056c2f41cdf2
+      name: 'GDA94 to AHD [GA-Tas v1]'
+      operationVersion: GA-Tas v1
+      parameters:
+        - fileCitation: null
+          name: Geoid (height correction) model file
+          parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+          type: parameter file name
+          unitOfMeasurement: null
+          value: AUSGeoid09_GDA94_V1.01_DOV_windows.gsb
+      remarks: >-
+        Implemented 2009. Replaces AusGeoid98 model. Uses AusGeoid09 model which
+        uses bi-cubic interpolation; bi-linear interpolation of the grid file
+        will give results agreeing to within 1cm 99.97% of the time. May be used
+        for transformations from WGS 84 to AHD (Tasmania).
+      scope:
+        - Spatial referencing
+      sourceCRS:
+        classID: crs--geodetic
+        itemID: 25cbff2e-d781-4614-88dc-cdf593e49ec6
+      targetCRS: null
+    classID: coordinate-ops--transformation
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
 sponsor:
   role: owner
   name: Demo user
