@@ -46,6 +46,7 @@ proposals:
         subregisterID: ''
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+    accepted: true
 sponsor:
   role: owner
   name: Demo user
