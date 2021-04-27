@@ -7,7 +7,16 @@ proposals:
     payload:
       name: Test transformation
       identifier: 123456
-      informationSources: []
+      informationSources:
+        - title: Title
+          seriesIssueID: '123'
+          seriesName: Series name
+          seriesPage: '231'
+          edition: null
+          editionDate: null
+          otherDetails: ''
+          isbn: null
+          issn: null
       remarks: A remark
       description: Test description
       extent:
