@@ -2,7 +2,7 @@ id: 15b82001-c2e8-4501-a88a-a26b26afaa4e
 status: valid
 dateAccepted: 2021-04-27T02:46:46.457Z
 data:
-  name: Test transformation
+  name: Test transformation (fixed)
   identifier: 123456
   informationSources:
     - title: Title
@@ -28,7 +28,7 @@ data:
       unitOfMeasurement: null
       name: ''
       type: parameter file name
-      value: TestFile.txt
+      value: TestFileNew.txt
       fileCitation: null
   accuracy:
     value: 1
