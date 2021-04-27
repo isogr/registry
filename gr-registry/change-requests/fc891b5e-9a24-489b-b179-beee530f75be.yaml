@@ -5,22 +5,36 @@ proposals:
   15b82001-c2e8-4501-a88a-a26b26afaa4e:
     type: addition
     payload:
-      name: ''
-      identifier: 0
+      name: Test transformation
+      identifier: 123456
       informationSources: []
-      remarks: ''
-      description: ''
+      remarks: A remark
+      description: Test description
       extent:
-        name: ''
-        'n': 0
-        e: 0
-        s: 0
-        w: 0
-      operationVersion: ''
-      parameters: []
+        name: test
+        'n': 2
+        e: 6
+        s: 23
+        w: 2
+      operationVersion: '123'
+      parameters:
+        - parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
+          unitOfMeasurement: null
+          name: ''
+          type: parameter file name
+          value: TestFile.txt
+          fileCitation: null
       accuracy:
-        value: 0
-        unitOfMeasurement: ''
+        value: 1
+        unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
+      sourceCRS:
+        itemID: 5c14482b-375b-473f-b79d-c8fd47c53cc9
+        classID: crs--vertical
+        subregisterID: ''
+      targetCRS:
+        itemID: 74d1f672-7973-4462-bc58-cb51153f74f9
+        classID: crs--vertical
+        subregisterID: ''
     classID: coordinate-ops--transformation
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
 sponsor:
