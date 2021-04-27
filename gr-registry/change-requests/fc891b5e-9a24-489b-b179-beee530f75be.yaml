@@ -56,3 +56,5 @@ sponsor:
         - label: email
           value: open@ribose.com
 status: pending
+disposition: !<tag:yaml.org,2002:js/undefined> ''
+timeProposed: 2021-04-27T02:39:23.581Z
