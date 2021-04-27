@@ -56,7 +56,8 @@ sponsor:
       contacts:
         - label: email
           value: open@ribose.com
-status: tentative
+status: final
 disposition: accepted
 timeProposed: 2021-04-27T02:42:11.382Z
 registerManagerNotes: Test notes
+timeDisposed: 2021-04-27T02:50:00.207Z
