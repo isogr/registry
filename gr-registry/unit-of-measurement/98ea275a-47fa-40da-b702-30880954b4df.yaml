@@ -1,0 +1,14 @@
+id: 98ea275a-47fa-40da-b702-30880954b4df
+data:
+  name: Unit 3241
+  identifier: 3241
+  informationSources: []
+  remarks: ''
+  description: This is a test register item.
+  measureType: LENGTH
+  aliases: []
+  symbol: null
+  denominator: null
+  numerator: null
+status: valid
+dateAccepted: 2021-06-07T10:04:31.815Z
