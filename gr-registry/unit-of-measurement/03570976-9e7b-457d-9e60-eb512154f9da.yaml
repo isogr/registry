@@ -1,0 +1,14 @@
+id: 03570976-9e7b-457d-9e60-eb512154f9da
+data:
+  name: Test 2
+  identifier: 32
+  informationSources: []
+  remarks: ''
+  description: some description for the second test.
+  measureType: LENGTH
+  aliases: []
+  symbol: null
+  denominator: null
+  numerator: null
+status: valid
+dateAccepted: 2021-06-07T09:17:50.878Z
