@@ -1,0 +1,32 @@
+justification: 'Add unit: test 7'
+controlBodyNotes: ''
+proposals:
+  /unit-of-measurement/7b22bdf0-d432-4456-b323-d257e3cf5308.yaml:
+    type: addition
+    payload:
+      name: Test 7
+      identifier: 3413
+      informationSources: []
+      remarks: ''
+      description: ''
+      measureType: LENGTH
+      aliases: []
+      symbol: null
+      denominator: null
+      numerator: null
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: e66af3cb-76bc-47fe-abdf-86ade9fc2e3e
+timeStarted: 2021-06-07T09:43:54.450Z
+timeProposed: 2021-06-07T09:43:54.450Z
+timeDisposed: 2021-06-07T09:43:54.450Z
+status: final
+disposition: accepted
