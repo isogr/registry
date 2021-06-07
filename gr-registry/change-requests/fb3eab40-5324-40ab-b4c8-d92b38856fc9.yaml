@@ -1,0 +1,32 @@
+justification: 'add unit: test 9'
+controlBodyNotes: ''
+proposals:
+  /unit-of-measurement/0c1fa792-bbad-4220-a6fc-04cd53a83c49.yaml:
+    type: addition
+    payload:
+      name: Test 9
+      identifier: 341
+      informationSources: []
+      remarks: ''
+      description: ''
+      measureType: LENGTH
+      aliases: []
+      symbol: null
+      denominator: null
+      numerator: null
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: fb3eab40-5324-40ab-b4c8-d92b38856fc9
+timeStarted: 2021-06-07T09:53:25.865Z
+timeProposed: 2021-06-07T09:53:25.865Z
+timeDisposed: 2021-06-07T09:53:25.865Z
+status: final
+disposition: accepted
