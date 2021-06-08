@@ -99,6 +99,7 @@ proposals:
       releaseDate: '1929'
       remarks: Normal orthometric heights.
       scope: Spatial referencing
+    disposition: accepted
 sponsor:
   role: submitter
   gitServerUsername: demouser
@@ -110,5 +111,7 @@ sponsor:
           value: open.source@ribose.com
 id: 6d26e228-1b15-4ff0-a592-a4c408c3432a
 timeStarted: 2021-06-08T12:26:06.695Z
-status: pending
+status: final
 timeProposed: 2021-06-08T12:26:06.695Z
+timeDisposed: 2021-06-08T12:26:08.365Z
+disposition: accepted
