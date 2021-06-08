@@ -1,0 +1,34 @@
+id: aa41a5e0-9d7c-403a-a583-a91085fa7430
+status: valid
+dateAccepted: 2021-03-22T09:46:09.844Z
+data:
+  name: New item
+  identifier: 10
+  informationSources: []
+  remarks: ''
+  description: ''
+  extent:
+    name: ''
+    'n': 0
+    e: 0
+    s: 0
+    w: 0
+  operationVersion: ''
+  parameters:
+    - parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
+      unitOfMeasurement: null
+      name: ''
+      type: measure (w/ UoM)
+      value: null
+      fileCitation: null
+  accuracy:
+    value: 0
+    unitOfMeasurement: ''
+  sourceCRS:
+    itemID: baf275e3-cd35-4393-8f4c-f8433c2c0210
+    classID: crs--vertical
+    subregisterID: ''
+  targetCRS:
+    itemID: 6be50632-0cf3-4899-a7fb-1fc0923783dd
+    classID: crs--vertical
+    subregisterID: ''

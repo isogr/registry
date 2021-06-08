@@ -1,0 +1,63 @@
+id: fc891b5e-9a24-489b-b179-beee530f75be
+justification: Test
+timeStarted: 2021-04-27T02:20:34.274Z
+proposals:
+  15b82001-c2e8-4501-a88a-a26b26afaa4e:
+    type: addition
+    payload:
+      name: Test transformation
+      identifier: 123456
+      informationSources:
+        - title: Title
+          seriesIssueID: '123'
+          seriesName: Series name
+          seriesPage: '231'
+          edition: Test1
+          editionDate: null
+          otherDetails: ''
+          isbn: null
+          issn: null
+      remarks: A remark
+      description: Test description
+      extent:
+        name: test
+        'n': 2
+        e: 6
+        s: 23
+        w: 2
+      operationVersion: '123'
+      parameters:
+        - parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
+          unitOfMeasurement: null
+          name: ''
+          type: parameter file name
+          value: TestFile.txt
+          fileCitation: null
+      accuracy:
+        value: 1
+        unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
+      sourceCRS:
+        itemID: 5c14482b-375b-473f-b79d-c8fd47c53cc9
+        classID: crs--vertical
+        subregisterID: ''
+      targetCRS:
+        itemID: 74d1f672-7973-4462-bc58-cb51153f74f9
+        classID: crs--vertical
+        subregisterID: ''
+    classID: coordinate-ops--transformation
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+    accepted: true
+sponsor:
+  role: owner
+  name: Demo user
+  gitServerUsername: demouser
+  parties:
+    - name: ''
+      contacts:
+        - label: email
+          value: open@ribose.com
+status: final
+disposition: accepted
+timeProposed: 2021-04-27T02:42:11.382Z
+registerManagerNotes: Test notes
+timeDisposed: 2021-04-27T02:50:00.207Z

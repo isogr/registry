@@ -1,0 +1,15 @@
+id: 211b5435-deeb-4c26-a212-9aad0dd1f92c
+status: valid
+dateAccepted: 2021-03-22T12:25:59.838Z
+data:
+  name: Test VCRS
+  identifier: 100000
+  informationSources: []
+  remarks: ''
+  description: ''
+  scope: ''
+  coordinateSystem:
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+    classID: coordinate-sys--cartesian
+    subregisterID: ''
+  datum: 1349c163-fda2-46d0-a1d5-07f8a7273b0b
