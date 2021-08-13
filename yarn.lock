@@ -1234,10 +1234,10 @@
   resolved "https://registry.yarnpkg.com/@riboseinc/paneron-registry-kit/-/paneron-registry-kit-2.0.0-dev17.tgz#994406868ef3e0e234fc938d95a7dcca197ec827"
   integrity sha512-Gh8bZxsl6H1vRAiRWTQPqmhcK5dwuBuvjFpDU83kyVLqZ+qXjcQ980d9Y3+g1G7Q6B+9k/P3CZf4u1ESj+PNpw==
 
-"@riboseinc/react-static-plugin-paneron-registry@^1.1.4":
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/@riboseinc/react-static-plugin-paneron-registry/-/react-static-plugin-paneron-registry-1.1.4.tgz#b6b4bb78dc064de17dc3c6d9d6df15bd0cee04e2"
-  integrity sha512-cMPXNy09+gGrRZXsmrZXEdCCKIszIvHcaUwzLljD1e1eRTmBWoYAKS2EYY9oorXEM7mqNAC1qV8TgaZN/ulKBA==
+"@riboseinc/react-static-plugin-paneron-registry@^1.1.5":
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/@riboseinc/react-static-plugin-paneron-registry/-/react-static-plugin-paneron-registry-1.1.5.tgz#a622d0a57cbe32dfb2b20192ab1313ebff4111b3"
+  integrity sha512-62Nkl/jJgyKc//9TNEiFD72qJm5IBsK1pYAuHgoKGCt8gPsVn0Ay7kXRTHAbrucSJmK8IqiwCoAd8rw2FHWFyg==
   dependencies:
     "@blueprintjs/core" "^3.42.0"
     "@blueprintjs/datetime" "^3.22.0"
@@ -3482,9 +3482,9 @@ diffie-hellman@^5.0.0:
     randombytes "^2.0.0"
 
 directory-tree@^2.2.4:
-  version "2.2.9"
-  resolved "https://registry.yarnpkg.com/directory-tree/-/directory-tree-2.2.9.tgz#702c193f8b19f1076b585bcf8a2db3b49b11a11c"
-  integrity sha512-BOHxPNvP+XWijPkzoSBvr164IiNxRzvyAiWelbJsU/wG5OYXByer0+Aqo74G1qU+nRKC4yU/czmkmunkWdPPvQ==
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/directory-tree/-/directory-tree-2.3.1.tgz#78b8aa84878eb84dd29a51dcd664ded4cd0247c7"
+  integrity sha512-hxolIHCtQ/a56CUywaLzGD/V78zPwFihI+UK/4ZjOp7GoV4Mptmtv95yavOn/RlnTi7cCMjszvfcNrwCoWLH+Q==
 
 dns-equal@^1.0.0:
   version "1.0.0"
@@ -7517,9 +7517,9 @@ react-universal-component@^4.0.0:
     prop-types "^15.7.2"
 
 react-virtualized-auto-sizer@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/react-virtualized-auto-sizer/-/react-virtualized-auto-sizer-1.0.5.tgz#9eeeb8302022de56fbd7a860b08513120ce36509"
-  integrity sha512-kivjYVWX15TX2IUrm8F1jaCEX8EXrpy3DD+u41WGqJ1ZqbljWpiwscV+VxOM1l7sSIM1jwi2LADjhhAJkJ9dxA==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/react-virtualized-auto-sizer/-/react-virtualized-auto-sizer-1.0.6.tgz#66c5b1c9278064c5ef1699ed40a29c11518f97ca"
+  integrity sha512-7tQ0BmZqfVF6YYEWcIGuoR3OdYe8I/ZFbNclFlGOC3pMqunkYF/oL30NCjSGl9sMEb17AnzixDz98Kqc3N76HQ==
 
 react-window@^1.8.6:
   version "1.8.6"
