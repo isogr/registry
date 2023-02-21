@@ -1,0 +1,21 @@
+controlBodyDecisionEvent: ''
+controlBodyNotes: ''
+id: 074d1775-7c65-4b10-a53b-a99c705e48ec
+items:
+  /coordinate-ops--transformation/559b9972-e7d9-409f-b5d8-46d94dfdaf24.yaml:
+    disposition: accepted
+    type: clarification
+justification: test edit parameter
+sponsor:
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+  - contacts:
+    - label: email
+      value: open.source@ribose.com
+    name: Ribose inc.
+  role: submitter
+state: accepted
+timeDisposed: 2021-06-08 03:43:55.802000+00:00
+timeEdited: 2021-06-08 03:43:55.802000+00:00
+timeProposed: 2021-06-08 03:43:55.802000+00:00

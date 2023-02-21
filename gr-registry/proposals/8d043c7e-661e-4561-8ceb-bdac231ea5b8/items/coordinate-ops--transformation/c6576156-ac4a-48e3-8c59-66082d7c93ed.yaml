@@ -1,0 +1,34 @@
+accuracy:
+  unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
+  value: 123
+description: ''
+extent:
+  e: 123
+  n: 34
+  name: ''
+  s: 12
+  w: 0
+identifier: 1234
+informationSources:
+- edition: null
+  editionDate: null
+  isbn: null
+  issn: null
+  otherDetails: ''
+  seriesIssueID: ''
+  seriesName: Series 123
+  seriesPage: '5'
+  title: Some source
+name: Test Transformation
+operationVersion: ''
+parameters:
+- fileCitation: null
+  name: ''
+  parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+  type: parameter file name
+  unitOfMeasurement: null
+  value: foobar.txt
+remarks: ''
+sourceCRS:
+  classID: crs--geodetic
+  itemID: f35d0f6f-a998-4e5e-9ffb-43a96907b803

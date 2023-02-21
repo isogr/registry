@@ -1,0 +1,19 @@
+aliases: []
+denominator: null
+description: Description goes here
+identifier: 231
+informationSources:
+- edition: '2'
+  editionDate: null
+  isbn: null
+  issn: null
+  otherDetails: Something else.
+  seriesIssueID: '34123'
+  seriesName: Wonderful series
+  seriesPage: '43'
+  title: "It\u2019s a source."
+measureType: LENGTH
+name: Test unit
+numerator: null
+remarks: ''
+symbol: null
