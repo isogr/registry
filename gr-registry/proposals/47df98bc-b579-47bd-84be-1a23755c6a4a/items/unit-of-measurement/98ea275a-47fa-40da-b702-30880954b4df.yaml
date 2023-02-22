@@ -1,0 +1,13 @@
+data:
+  aliases: []
+  denominator: null
+  description: This is a test register item.
+  identifier: 3241
+  informationSources: []
+  measureType: LENGTH
+  name: Unit 3241
+  numerator: null
+  remarks: ''
+  symbol: null
+id: 98ea275a-47fa-40da-b702-30880954b4df
+status: valid

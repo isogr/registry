@@ -1,0 +1,21 @@
+controlBodyDecisionEvent: ''
+controlBodyNotes: ''
+id: 6d26e228-1b15-4ff0-a592-a4c408c3432a
+items:
+  /datums--vertical/c39e6ba6-0e7d-4877-91d4-3a6f3766aea6.yaml:
+    disposition: accepted
+    type: clarification
+justification: Demo purposes
+sponsor:
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+  - contacts:
+    - label: email
+      value: open.source@ribose.com
+    name: Ribose inc.
+  role: submitter
+state: accepted
+timeDisposed: 2021-06-08 12:26:08.365000+00:00
+timeEdited: 2021-06-08 12:26:06.695000+00:00
+timeProposed: 2021-06-08 12:26:06.695000+00:00

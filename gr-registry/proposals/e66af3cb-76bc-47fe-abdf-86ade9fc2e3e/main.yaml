@@ -1,0 +1,21 @@
+controlBodyDecisionEvent: ''
+controlBodyNotes: ''
+id: e66af3cb-76bc-47fe-abdf-86ade9fc2e3e
+items:
+  /unit-of-measurement/7b22bdf0-d432-4456-b323-d257e3cf5308.yaml:
+    disposition: accepted
+    type: addition
+justification: 'Add unit: test 7'
+sponsor:
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+  - contacts:
+    - label: email
+      value: open.source@ribose.com
+    name: Ribose inc.
+  role: submitter
+state: accepted
+timeDisposed: 2021-06-07 09:43:54.450000+00:00
+timeEdited: 2021-06-07 09:43:54.450000+00:00
+timeProposed: 2021-06-07 09:43:54.450000+00:00
