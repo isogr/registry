@@ -1,0 +1,32 @@
+justification: 'add unit: test 3'
+controlBodyNotes: ''
+proposals:
+  /unit-of-measurement/5cc256e5-2b18-4e4c-b0d0-eadfbfab616d.yaml:
+    type: addition
+    payload:
+      name: test 3
+      identifier: 434
+      informationSources: []
+      remarks: ''
+      description: ''
+      measureType: LENGTH
+      aliases: []
+      symbol: null
+      denominator: null
+      numerator: null
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: 9011b09d-1358-4489-bfdc-11b5847ca605
+timeStarted: 2021-06-07T09:23:43.731Z
+timeProposed: 2021-06-07T09:23:43.731Z
+timeDisposed: 2021-06-07T09:23:43.731Z
+status: final
+disposition: accepted

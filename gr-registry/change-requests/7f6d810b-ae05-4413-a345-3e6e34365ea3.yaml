@@ -1,0 +1,32 @@
+justification: test add units
+controlBodyNotes: ''
+proposals:
+  /unit-of-measurement/24157a87-1e1e-49b3-905b-85e0ef2488ec.yaml:
+    type: addition
+    payload:
+      name: Unit 9533
+      identifier: 9533
+      informationSources: []
+      remarks: ''
+      description: ''
+      measureType: LENGTH
+      aliases: []
+      symbol: null
+      denominator: null
+      numerator: null
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: 7f6d810b-ae05-4413-a345-3e6e34365ea3
+timeStarted: 2021-06-07T10:23:49.775Z
+timeProposed: 2021-06-07T10:23:49.775Z
+timeDisposed: 2021-06-07T10:23:49.775Z
+status: final
+disposition: accepted
