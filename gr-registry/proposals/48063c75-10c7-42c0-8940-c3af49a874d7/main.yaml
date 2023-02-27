@@ -3,11 +3,6 @@ timeStarted: 2023-02-26T03:29:34.761Z
 justification: ''
 submittingStakeholderGitServerUsername: strogonoff
 items:
-  /coordinate-ops--transformation/0d4186bf-0734-416c-9b2b-3ca1e1c97f30.yaml:
-    type: amendment
-    amendmentType: supersession
-    supersedingItemIDs:
-      - 98ea275a-47fa-40da-b702-30880954b4df
   /coordinate-ops--transformation/b9badedc-c241-468b-a587-ae3a0b98e1c4.yaml:
     type: amendment
     amendmentType: supersession
