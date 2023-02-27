@@ -2,10 +2,5 @@ id: 48063c75-10c7-42c0-8940-c3af49a874d7
 timeStarted: 2023-02-26T03:29:34.761Z
 justification: ''
 submittingStakeholderGitServerUsername: strogonoff
-items:
-  /coordinate-ops--transformation/0d4186bf-0734-416c-9b2b-3ca1e1c97f30.yaml:
-    type: amendment
-    amendmentType: supersession
-    supersedingItemIDs:
-      - 2a87032d-d51b-420b-805f-1b4d04c81332
+items: {}
 state: draft
