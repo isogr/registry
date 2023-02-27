@@ -8,4 +8,9 @@ items:
     amendmentType: supersession
     supersedingItemIDs:
       - 98ea275a-47fa-40da-b702-30880954b4df
+  /coordinate-ops--transformation/b9badedc-c241-468b-a587-ae3a0b98e1c4.yaml:
+    type: amendment
+    amendmentType: supersession
+    supersedingItemIDs:
+      - 74e0805f-1ebc-4427-ba5a-c75ac0ecde23
 state: draft
