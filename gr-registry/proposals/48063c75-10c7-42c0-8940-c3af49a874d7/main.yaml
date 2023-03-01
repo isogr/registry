@@ -7,4 +7,7 @@ items:
     type: clarification
   /crs--geodetic/4bd35f90-809c-4696-bae4-f1f9f0f30a8c.yaml:
     type: clarification
+  /coordinate-ops--transformation/b9badedc-c241-468b-a587-ae3a0b98e1c4.yaml:
+    type: amendment
+    amendmentType: retirement
 state: draft
