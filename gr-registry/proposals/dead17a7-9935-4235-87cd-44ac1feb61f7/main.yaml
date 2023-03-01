@@ -6,5 +6,7 @@ items:
   /coordinate-ops--transformation/0d4186bf-0734-416c-9b2b-3ca1e1c97f30.yaml:
     type: amendment
     amendmentType: retirement
+  /coordinate-ops--transformation/d06ca884-4612-4542-8144-5e5148ceb39b.yaml:
+    type: addition
 state: draft
 registerVersion: '1.1'
