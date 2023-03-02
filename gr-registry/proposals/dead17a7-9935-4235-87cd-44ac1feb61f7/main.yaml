@@ -5,5 +5,10 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /datums--vertical/ef5491d7-82f5-4e01-8f21-35cb89d9512a.yaml:
     type: addition
+  /coordinate-ops--transformation/0d4186bf-0734-416c-9b2b-3ca1e1c97f30.yaml:
+    type: amendment
+    amendmentType: supersession
+    supersedingItemIDs:
+      - 8e1e28ec-15e6-4dee-a001-fe0067b8d283
 state: draft
 registerVersion: '1.1'
