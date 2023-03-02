@@ -2,6 +2,8 @@ id: dead17a7-9935-4235-87cd-44ac1feb61f7
 timeStarted: 2023-02-28T17:50:20.307Z
 justification: Test this process
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /datums--geodetic/82d0d21d-bb6d-4b1c-9e44-606795f4e33a.yaml:
+    type: addition
 state: draft
 registerVersion: '1.1'
