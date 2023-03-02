@@ -8,7 +8,5 @@ items:
     amendmentType: retirement
   /datums--vertical/8e97786f-bd09-4424-a963-86e5a8c67945.yaml:
     type: addition
-  /unit-of-measurement/87127d57-027e-4b8e-97ca-a075dbde1f44.yaml:
-    type: addition
 state: draft
 registerVersion: '1.1'
