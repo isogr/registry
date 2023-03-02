@@ -9,6 +9,7 @@ items:
     type: amendment
     amendmentType: supersession
     supersedingItemIDs:
+      - 8dea0aa9-65cf-4218-b5ce-54f8089156aa
       - 8e1e28ec-15e6-4dee-a001-fe0067b8d283
 state: draft
 registerVersion: '1.1'
