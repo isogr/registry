@@ -6,7 +6,7 @@ data:
   identifier: 124
   informationSources: []
   remarks: ''
-  description: ''
+  description: Test
   measureType: LENGTH
   aliases: []
   symbol: null
