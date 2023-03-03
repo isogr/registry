@@ -5,5 +5,8 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /unit-of-measurement/297650f6-557c-4b19-bb8b-a625659d902d.yaml:
     type: addition
+  /coordinate-ops--transformation/265ada46-0961-4629-bf4f-7748fee7ff02.yaml:
+    type: amendment
+    amendmentType: retirement
 state: draft
 registerVersion: '1.1'
