@@ -5,5 +5,10 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /unit-of-measurement/297650f6-557c-4b19-bb8b-a625659d902d.yaml:
     type: addition
+  /coordinate-ops--transformation/0d4186bf-0734-416c-9b2b-3ca1e1c97f30.yaml:
+    type: amendment
+    amendmentType: supersession
+    supersedingItemIDs:
+      - b0419846-e9f4-48bf-b6b6-27cba674b029
 state: draft
 registerVersion: '1.1'
