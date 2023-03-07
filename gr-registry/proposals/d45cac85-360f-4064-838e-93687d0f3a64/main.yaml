@@ -1,0 +1,9 @@
+id: d45cac85-360f-4064-838e-93687d0f3a64
+timeStarted: 2023-03-07T09:02:20.731Z
+justification: >-
+  Very long justification to be used as a test of conditional string
+  ellipsization logic
+submittingStakeholderGitServerUsername: strogonoff
+items: {}
+state: draft
+registerVersion: '1.1'
