@@ -12,5 +12,7 @@ items:
       - 8dea0aa9-65cf-4218-b5ce-54f8089156aa
   /unit-of-measurement/1394ad12-9e9a-4b39-913a-3e836eb72851.yaml:
     type: addition
+  /coordinate-ops--transformation/b9badedc-c241-468b-a587-ae3a0b98e1c4.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.1'
