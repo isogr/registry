@@ -2,7 +2,7 @@ id: d45cac85-360f-4064-838e-93687d0f3a64
 timeStarted: 2023-03-07T09:02:20.731Z
 justification: >-
   Very long justification to be used as a test of conditional string
-  ellipsization logic
+  ellipsization
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/0d4186bf-0734-416c-9b2b-3ca1e1c97f30.yaml:
@@ -10,5 +10,6 @@ items:
     amendmentType: retirement
   /coordinate-ops--transformation/265ada46-0961-4629-bf4f-7748fee7ff02.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: '1.1'
+timeProposed: 2023-03-17T15:49:33.534Z
