@@ -10,6 +10,7 @@ items:
     amendmentType: retirement
   /coordinate-ops--transformation/265ada46-0961-4629-bf4f-7748fee7ff02.yaml:
     type: clarification
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2023-03-17T15:49:48.865Z
+registerManagerNotes: jjj
