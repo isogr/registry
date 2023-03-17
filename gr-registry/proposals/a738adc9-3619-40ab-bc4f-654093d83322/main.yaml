@@ -8,7 +8,7 @@ items:
     amendmentType: retirement
   /coordinate-ops--transformation/b9badedc-c241-468b-a587-ae3a0b98e1c4.yaml:
     type: clarification
-state: returned-for-clarification
+state: proposed
 registerVersion: '1.1'
-timeProposed: 2023-03-17T08:14:29.559Z
+timeProposed: 2023-03-17T08:14:45.846Z
 registerManagerNotes: 'This is a test of return — #3'
