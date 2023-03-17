@@ -11,6 +11,8 @@ items:
     amendmentType: retirement
   /coordinate-ops--transformation/b9badedc-c241-468b-a587-ae3a0b98e1c4.yaml:
     type: clarification
+  /unit-of-measurement/25f8aabe-8675-4cff-891b-a22efdec4cd9.yaml:
+    type: addition
 state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2023-03-17T08:29:40.049Z
