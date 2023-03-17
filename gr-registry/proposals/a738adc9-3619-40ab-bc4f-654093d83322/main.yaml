@@ -3,7 +3,7 @@ timeStarted: 2023-03-03T08:01:13.909Z
 justification: |-
   Test 2 Jeffrey — #3
 
-  > extra 3
+  > extra 4
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/265ada46-0961-4629-bf4f-7748fee7ff02.yaml:
@@ -11,7 +11,7 @@ items:
     amendmentType: retirement
   /coordinate-ops--transformation/b9badedc-c241-468b-a587-ae3a0b98e1c4.yaml:
     type: clarification
-state: returned-for-clarification
+state: proposed
 registerVersion: '1.1'
-timeProposed: 2023-03-17T08:26:01.412Z
+timeProposed: 2023-03-17T08:28:07.985Z
 registerManagerNotes: 'This is a test of return — #4'
