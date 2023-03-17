@@ -1,0 +1,35 @@
+data:
+  aliases:
+  - Zero meridian
+  identifier: 25
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'ISSN: 1019-4568'
+    seriesIssueID: '36.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS Conventions (2010)
+    uuid: cf91efc9-bdc4-4bc9-85b7-1d8a878fe9e8
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 89, No. 12
+    seriesName: Journal of Geodesy
+    seriesPage: "1263\u20131272"
+    title: Why the Greenwich meridian moved
+    uuid: aa5fa72e-1739-4503-9485-1f16fdd504a9
+  longitudeFromGreenwich: 0.0
+  longitudeFromGreenwichUoM: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
+  name: Greenwich
+  remarks: ''
+  unit:
+    name: degree
+    uuid: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
+dateAccepted: 2018-11-17
+id: cbc22008-33fd-4e8e-9663-a36306adf105
+status: valid

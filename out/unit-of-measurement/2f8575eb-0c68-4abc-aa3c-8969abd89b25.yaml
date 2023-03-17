@@ -1,0 +1,27 @@
+data:
+  aliases:
+  - yr
+  - annus
+  denominator: 1.0
+  identifier: 12
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: Volume 83, No. 5
+    seriesName: Pure and Applied Chemistry
+    seriesPage: 1159-1162
+    title: IUPAC-IUGS common definition and convention on the use of the year as a
+      derived unit of time (IUPAC Recommendations 2011)
+    uuid: 66dcc379-ca83-4086-8621-2dc522b5b73f
+  measureType: TIME
+  name: year
+  numerator: 31556925.45
+  remarks: null
+  standardUnit: 168a60b2-b4d9-4420-91e7-a2f65a8fb0af
+  symbol: a
+dateAccepted: 2018-11-17
+id: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+status: valid

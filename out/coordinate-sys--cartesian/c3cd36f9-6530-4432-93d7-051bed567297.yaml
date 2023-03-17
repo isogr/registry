@@ -1,0 +1,29 @@
+data:
+  aliases:
+  - 'Earth centred, earth fixed, right-handed 3D coordinate system, consisting of
+    3 orthogonal axes with X and Y axes in the equatorial plane, positive Z-axis parallel
+    to mean earth rotation axis and pointing towards North Pole. UoM: m.'
+  - ECEF
+  coordinateSystemAxes:
+  - 1f95ce1f-2155-4cb9-a415-e73a4b5b1ad0
+  - ab143abe-d350-4401-bd42-55e96a479423
+  - cd0f204c-dcda-40a6-a48c-161b8083a3f5
+  identifier: 45
+  informationSources:
+  - edition: Second Edition
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: ISO 19111:2007
+    seriesName: International Standard
+    seriesPage: null
+    title: ISO 19111 Geographical information - Spatial referencing by coordinates
+    uuid: a49d96ee-8243-43aa-b721-6856d1e5fa5f
+  name: 'Geocentric 3D right-handed Cartesian CS. Axes: Geocentric X,Y,Z. Orientation:
+    Z to North Pole, [X and Y in the equatorial plane, X at Prime Meridian | X in
+    the equatorial plane at the Prime Meridian]. UoM: m.'
+  remarks: Used in geocentric coordinate reference systems.
+dateAccepted: 2018-11-17
+id: c3cd36f9-6530-4432-93d7-051bed567297
+status: valid

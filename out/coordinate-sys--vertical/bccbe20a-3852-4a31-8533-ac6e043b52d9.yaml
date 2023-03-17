@@ -1,0 +1,21 @@
+data:
+  coordinateSystemAxes:
+  - f8339102-4078-4da1-a310-d544ae581cea
+  identifier: 42
+  informationSources:
+  - edition: Second Edition
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: ISO 19111:2007
+    seriesName: International Standard
+    seriesPage: null
+    title: ISO 19111 Geographical information - Spatial referencing by coordinates
+    uuid: a3d1134c-5217-4ccb-8734-93bc9eb039a8
+  information_source: []
+  name: 'Vertical CS. Axis: height (H). Orientation: up. UoM: m.'
+  remarks: Used in vertical coordinate reference systems.
+dateAccepted: 2018-11-17
+id: bccbe20a-3852-4a31-8533-ac6e043b52d9
+status: valid
