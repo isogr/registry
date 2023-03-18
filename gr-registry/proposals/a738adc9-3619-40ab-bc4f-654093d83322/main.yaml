@@ -13,7 +13,7 @@ items:
     type: clarification
   /unit-of-measurement/25f8aabe-8675-4cff-891b-a22efdec4cd9.yaml:
     type: addition
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2023-03-17T15:54:28.415Z
 registerManagerNotes: 'This is a test of return — #4'
