@@ -1,7 +1,7 @@
 data:
   accuracy:
     dtype: TransformationAccuracy
-    unitOfMeasurement: 297650f6-557c-4b19-bb8b-a625659d902d
+    unitOfMeasurement: 25f8aabe-8675-4cff-891b-a22efdec4cd9
     value: 0.001
   coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
   description: t
