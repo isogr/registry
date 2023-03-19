@@ -2,6 +2,9 @@ id: d04708d0-95ff-4f25-80d5-3b291bba0cff
 timeStarted: 2023-03-19T17:15:57.383Z
 justification: Test filtered index
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /coordinate-ops--transformation/b9badedc-c241-468b-a587-ae3a0b98e1c4.yaml:
+    type: amendment
+    amendmentType: retirement
 state: draft
 registerVersion: '1.1'
