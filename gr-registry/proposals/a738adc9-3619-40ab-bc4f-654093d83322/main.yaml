@@ -10,9 +10,10 @@ items:
     type: clarification
   /unit-of-measurement/25f8aabe-8675-4cff-891b-a22efdec4cd9.yaml:
     type: addition
-state: pending-control-body-review
+state: accepted
 registerVersion: '1.1'
 timeProposed: 2023-03-19T11:01:56.321Z
 registerManagerNotes: 'This is a test of return — #4'
-controlBodyNotes: missing unit of measuremenet
-controlBodyDecisionEvent: test
+controlBodyNotes: LGTM
+controlBodyDecisionEvent: Sunday
+timeDisposed: 2023-03-19T12:09:49.860Z
