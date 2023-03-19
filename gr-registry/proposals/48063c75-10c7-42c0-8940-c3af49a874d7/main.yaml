@@ -1,6 +1,6 @@
 id: 48063c75-10c7-42c0-8940-c3af49a874d7
 timeStarted: 2023-02-26T03:29:34.761Z
-justification: ''
+justification: dfsdfa
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/0d4186bf-0734-416c-9b2b-3ca1e1c97f30.yaml:
@@ -12,4 +12,5 @@ items:
     amendmentType: retirement
   /datums--vertical/6a2453fb-c82b-46c8-b51a-8d84359c8bb8.yaml:
     type: addition
-state: draft
+state: proposed
+timeProposed: 2023-03-19T16:54:04.141Z
