@@ -1,9 +1,6 @@
 id: a738adc9-3619-40ab-bc4f-654093d83322
 timeStarted: 2023-03-03T08:01:13.909Z
-justification: |-
-  Test 2 Jeffrey — #3
-
-  > extra 5
+justification: Fixed unit
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/265ada46-0961-4629-bf4f-7748fee7ff02.yaml:
@@ -13,9 +10,9 @@ items:
     type: clarification
   /unit-of-measurement/25f8aabe-8675-4cff-891b-a22efdec4cd9.yaml:
     type: addition
-state: returned-for-clarification
+state: proposed
 registerVersion: '1.1'
-timeProposed: 2023-03-18T15:48:33.760Z
+timeProposed: 2023-03-19T11:01:56.321Z
 registerManagerNotes: 'This is a test of return — #4'
 controlBodyNotes: missing unit of measuremenet
 controlBodyDecisionEvent: test
