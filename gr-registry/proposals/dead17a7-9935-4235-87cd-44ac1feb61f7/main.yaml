@@ -1,6 +1,6 @@
 id: dead17a7-9935-4235-87cd-44ac1feb61f7
 timeStarted: 2023-02-28T17:50:20.307Z
-justification: Test this process
+justification: blahblah
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /datums--vertical/ef5491d7-82f5-4e01-8f21-35cb89d9512a.yaml:
@@ -17,5 +17,6 @@ items:
   /coordinate-ops--transformation/265ada46-0961-4629-bf4f-7748fee7ff02.yaml:
     type: amendment
     amendmentType: retirement
-state: draft
+state: proposed
 registerVersion: '1.1'
+timeProposed: 2023-03-19T20:20:23.241Z
