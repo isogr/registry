@@ -2,8 +2,8 @@ id: ef5491d7-82f5-4e01-8f21-35cb89d9512a
 dateAccepted: 2023-03-02T13:17:08.915Z
 status: valid
 data:
-  name: ''
-  identifier: 0
+  name: Name of the datum
+  identifier: 732
   informationSources: []
   remarks: ''
   description: ''
