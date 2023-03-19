@@ -17,5 +17,7 @@ items:
   /coordinate-ops--transformation/265ada46-0961-4629-bf4f-7748fee7ff02.yaml:
     type: amendment
     amendmentType: retirement
+  /unit-of-measurement/c4789524-0047-436d-837b-27ab09048621.yaml:
+    type: addition
 state: draft
 registerVersion: '1.1'
