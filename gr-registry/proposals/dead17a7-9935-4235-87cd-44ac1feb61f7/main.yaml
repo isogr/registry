@@ -17,6 +17,7 @@ items:
   /coordinate-ops--transformation/265ada46-0961-4629-bf4f-7748fee7ff02.yaml:
     type: amendment
     amendmentType: retirement
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2023-03-19T20:20:23.241Z
+registerManagerNotes: test from manager
