@@ -4,7 +4,7 @@ data:
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.001
   coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
-  description: null
+  description: Test
   extent:
     e: 180
     'n': 90
