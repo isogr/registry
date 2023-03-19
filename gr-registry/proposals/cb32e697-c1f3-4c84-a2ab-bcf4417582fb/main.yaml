@@ -1,10 +1,11 @@
 id: cb32e697-c1f3-4c84-a2ab-bcf4417582fb
 timeStarted: 2023-03-19T18:40:24.575Z
-justification: index3
+justification: index3 f
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/b9badedc-c241-468b-a587-ae3a0b98e1c4.yaml:
     type: amendment
     amendmentType: retirement
-state: draft
+state: proposed
 registerVersion: '1.1'
+timeProposed: 2023-03-19T18:40:33.776Z
