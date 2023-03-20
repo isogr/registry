@@ -133,4 +133,5 @@ data:
     itemID: 5777362f-a633-4bdb-8a4c-6b1d539211f9
 dateAccepted: 2018-11-17T00:00:00.000Z
 id: b9badedc-c241-468b-a587-ae3a0b98e1c4
-status: valid
+status: invalid
+amendedInCR: db4ecd77-fa65-4e6b-b7b5-f71d9ee889c9
