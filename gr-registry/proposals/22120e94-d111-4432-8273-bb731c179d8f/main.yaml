@@ -1,8 +1,11 @@
 id: 22120e94-d111-4432-8273-bb731c179d8f
 timeStarted: 2023-03-20T10:35:54.411Z
-timeEdited: 2023-03-20T10:35:54.411Z
+timeEdited: 2023-03-20T10:36:00.173Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /unit-of-measurement/b7dd2252-91de-4646-b5db-8d481c9f3648.yaml:
+    type: amendment
+    amendmentType: invalidation
 state: draft
 registerVersion: '1.1'
