@@ -16,7 +16,7 @@ items:
     type: clarification
   /crs--geodetic/953ea194-31a9-405d-bcd4-a5583c868c1f.yaml:
     type: addition
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2023-03-20T13:11:33.538Z
-registerManagerNotes: Missing transformation data
+registerManagerNotes: .
