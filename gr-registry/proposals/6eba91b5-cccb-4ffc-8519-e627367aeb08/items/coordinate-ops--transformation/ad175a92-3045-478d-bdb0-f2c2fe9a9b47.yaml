@@ -9,13 +9,13 @@ data:
       seriesIssueID: null
       seriesName: null
       seriesPage: null
-      edition: null
+      edition: '2'
       editionDate: null
       otherDetails: ''
       isbn: null
       issn: null
   remarks: ''
-  description: ''
+  description: Description goes here.
   extent:
     name: ''
     'n': 12
@@ -30,9 +30,15 @@ data:
       type: parameter file name
       value: test
       fileCitation: null
+    - parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
+      unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
+      name: ''
+      type: measure (w/ UoM)
+      value: Test
+      fileCitation: null
   accuracy:
-    value: 0
-    unitOfMeasurement: ''
+    value: 2
+    unitOfMeasurement: 76550c5a-b72a-4e88-8c3e-33c2668e99f7
   targetCRS:
     classID: crs--geodetic
     itemID: 953ea194-31a9-405d-bcd4-a5583c868c1f
