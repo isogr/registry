@@ -1,11 +1,13 @@
 id: 18f0552a-045e-43a4-a4d2-e79f0f8d1e1c
 timeStarted: 2023-03-20T02:10:52.604Z
-timeEdited: 2023-03-20T02:11:04.860Z
+timeEdited: 2023-03-20T10:17:08.291Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /datums--geodetic/600dae84-bdd5-4d7e-b8fa-c5ff7e526f53.yaml:
     type: amendment
     amendmentType: invalidation
+  /coordinate-ops--conversion/13f7f39a-5e5e-4523-95c1-b4bc44a6ee07.yaml:
+    type: addition
 state: draft
 registerVersion: '1.1'
