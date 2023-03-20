@@ -18,3 +18,6 @@ data:
   accuracy:
     value: 0
     unitOfMeasurement: ''
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 953ea194-31a9-405d-bcd4-a5583c868c1f
