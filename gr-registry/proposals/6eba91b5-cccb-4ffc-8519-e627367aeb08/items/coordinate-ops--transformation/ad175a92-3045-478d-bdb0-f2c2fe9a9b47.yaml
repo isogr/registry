@@ -9,12 +9,18 @@ data:
   description: ''
   extent:
     name: ''
-    'n': 0
-    e: 0
-    s: 0
-    w: 0
+    'n': 12
+    e: 13
+    s: 14
+    w: 15
   operationVersion: ''
-  parameters: []
+  parameters:
+    - parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+      unitOfMeasurement: null
+      name: ''
+      type: parameter file name
+      value: test
+      fileCitation: null
   accuracy:
     value: 0
     unitOfMeasurement: ''
