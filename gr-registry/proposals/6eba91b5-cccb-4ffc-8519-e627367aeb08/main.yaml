@@ -16,7 +16,10 @@ items:
     type: clarification
   /crs--geodetic/953ea194-31a9-405d-bcd4-a5583c868c1f.yaml:
     type: addition
-state: pending-control-body-review
+state: rejected
 registerVersion: '1.1'
 timeProposed: 2023-03-20T13:11:33.538Z
 registerManagerNotes: .
+controlBodyNotes: Rejection reason
+controlBodyDecisionEvent: Rejected at March 20 meeting.
+timeDisposed: 2023-03-20T13:27:13.630Z
