@@ -1,8 +1,10 @@
 id: 0db6a898-5a69-4828-9a32-91b66070ca8b
 timeStarted: 2023-03-20T14:21:21.074Z
-timeEdited: 2023-03-20T14:21:21.074Z
+timeEdited: 2023-03-20T14:21:26.594Z
 justification: draft
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /coordinate-ops--transformation/a0a9e518-5b76-4815-a201-86fab41484c5.yaml:
+    type: addition
 state: draft
 registerVersion: '1.1'
