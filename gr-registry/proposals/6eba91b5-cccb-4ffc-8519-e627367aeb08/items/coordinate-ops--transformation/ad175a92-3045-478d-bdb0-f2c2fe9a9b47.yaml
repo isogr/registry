@@ -4,7 +4,16 @@ status: valid
 data:
   name: Test transformation
   identifier: 1315
-  informationSources: []
+  informationSources:
+    - title: Personal communication
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
   remarks: ''
   description: ''
   extent:
