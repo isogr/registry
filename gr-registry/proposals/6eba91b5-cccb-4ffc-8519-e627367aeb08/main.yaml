@@ -1,6 +1,6 @@
 id: 6eba91b5-cccb-4ffc-8519-e627367aeb08
 timeStarted: 2023-03-20T12:07:41.161Z
-timeEdited: 2023-03-20T12:25:50.647Z
+timeEdited: 2023-03-20T12:26:52.448Z
 justification: Demo test
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -11,5 +11,7 @@ items:
     amendmentType: invalidation
   /coordinate-ops--transformation/1527dfe4-d886-4a94-bead-d63a8dc16703.yaml:
     type: clarification
+  /crs--geodetic/953ea194-31a9-405d-bcd4-a5583c868c1f.yaml:
+    type: addition
 state: draft
 registerVersion: '1.1'
