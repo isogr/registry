@@ -6,6 +6,7 @@ items:
   /coordinate-ops--transformation/b9badedc-c241-468b-a587-ae3a0b98e1c4.yaml:
     type: amendment
     amendmentType: invalidation
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2023-03-20T01:06:11.441Z
+registerManagerNotes: test
