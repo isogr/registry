@@ -1,0 +1,43 @@
+id: 1527dfe4-d886-4a94-bead-d63a8dc16703
+status: valid
+dateAccepted: 2021-03-21T21:13:40.462Z
+data:
+  name: some new transformation!
+  identifier: 1314
+  informationSources:
+    - title: Test
+      seriesIssueID: '123'
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
+  remarks: ''
+  description: Test description 2
+  extent:
+    name: Description of extent
+    'n': -231.2
+    e: 0
+    s: 0
+    w: 0
+  operationVersion: GA
+  parameters:
+    - parameter: 88228e9d-3b44-41ff-8ca7-a73a8acdc881
+      unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+      name: ''
+      type: measure (w/ UoM)
+      value: null
+      fileCitation: null
+  accuracy:
+    value: 2
+    unitOfMeasurement: c49bbe64-099d-4b23-9907-85f4dc15cff4
+  sourceCRS:
+    itemID: baf275e3-cd35-4393-8f4c-f8433c2c0210
+    classID: crs--vertical
+    subregisterID: ''
+  targetCRS:
+    itemID: e3212b5a-c373-4c39-8243-4bc4d60bf497
+    classID: crs--vertical
+    subregisterID: ''
