@@ -5,7 +5,6 @@ data:
     classID: coordinate-sys--cartesian
     itemID: 618628cb-4ec1-4da9-aad0-e902078e0778
   datum: 0d8b39b8-0bba-435b-b4f5-2aa151d0bcf1
-  description: null
   extent:
     e: 42.0
     n: 31.15
