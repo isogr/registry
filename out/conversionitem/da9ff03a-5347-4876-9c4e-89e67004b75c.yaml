@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - UTM zone 42
+  definition: null
+  extent:
+    e: 72.0
+    n: 84.0
+    name: "World - onshore and offshore - between 66\xB0E and 72\xB0E, northern hemisphere\
+      \ between equator and 84\xB0N."
+    s: 0.0
+    w: 66.0
+  identifier: 947
+  informationSources:
+  - edition: '61'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 08af1a8e-8130-4552-b798-fcbef1f95c48
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
+      (accessed 2022-04-20)
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: cfc4096b-4e9b-409c-8abf-b10d883fc023
+  name: UTM zone 42N
+  remarks: null
+dateAccepted: 2022-06-06
+id: da9ff03a-5347-4876-9c4e-89e67004b75c
+status: valid

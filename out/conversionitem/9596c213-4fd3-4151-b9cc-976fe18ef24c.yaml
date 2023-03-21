@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - UTM zone -24
+  definition: null
+  extent:
+    e: -36.0
+    n: -80.0
+    name: "World - onshore and offshore - between  42\xB0W and  36\xB0W, southern\
+      \ hemisphere between equator and 80\xB0S."
+    s: 0.0
+    w: -42.0
+  identifier: 857
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
+      (accessed 2022-04-20)
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: f9ee3e22-6194-4348-88f2-0ee7fe1db2cf
+  - edition: '61'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 77899b52-e1b5-473e-9644-4092c5196044
+  name: UTM zone 24S
+  remarks: null
+dateAccepted: 2022-06-06
+id: 9596c213-4fd3-4151-b9cc-976fe18ef24c
+status: valid

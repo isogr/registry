@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - UTM zone 6
+  definition: null
+  extent:
+    e: -144.0
+    n: 84.0
+    name: "World - onshore and offshore - between 150\xB0W and 144\xB0W, northern\
+      \ hemisphere between equator and 84\xB0N."
+    s: 0.0
+    w: -150.0
+  identifier: 846
+  informationSources:
+  - edition: '61'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: e8fbb466-a341-41fc-a08d-2764ec6f2154
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
+      (accessed 2022-04-20)
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: 7c5d2150-f47f-4984-94a5-9bdcc0bb7f48
+  name: UTM zone 6N
+  remarks: null
+dateAccepted: 2022-06-06
+id: 2b44ea93-7df0-423d-a7bb-65fdc03d7c52
+status: valid

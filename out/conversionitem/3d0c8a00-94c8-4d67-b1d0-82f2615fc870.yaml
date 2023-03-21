@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - UTM zone 22
+  definition: null
+  extent:
+    e: -48.0
+    n: 84.0
+    name: "World - onshore and offshore - between 54\xB0W and 48\xB0W, northern hemisphere\
+      \ between equator and 84\xB0N."
+    s: 0.0
+    w: -54.0
+  identifier: 871
+  informationSources:
+  - edition: '61'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 730501e1-7a91-4e55-b2e7-8b3705641094
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
+      (accessed 2022-04-20)
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: f38bad11-bde1-4648-994a-f73a7c468856
+  name: UTM zone 22N
+  remarks: null
+dateAccepted: 2022-06-06
+id: 3d0c8a00-94c8-4d67-b1d0-82f2615fc870
+status: valid

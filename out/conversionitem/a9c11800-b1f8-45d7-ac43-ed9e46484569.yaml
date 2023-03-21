@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - UTM zone -5
+  definition: null
+  extent:
+    e: -150.0
+    n: -80.0
+    name: "World - onshore and offshore - between 156\xB0W and 150\xB0W, southern\
+      \ hemisphere between equator and 80\xB0S."
+    s: 0.0
+    w: -156.0
+  identifier: 922
+  informationSources:
+  - edition: '61'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 7fb03e94-340d-408a-abcd-6f26ef10583a
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
+      (accessed 2022-04-20)
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: 6e34aabd-2392-4b8c-892e-d1eb4c791d01
+  name: UTM zone 5S
+  remarks: null
+dateAccepted: 2022-06-06
+id: a9c11800-b1f8-45d7-ac43-ed9e46484569
+status: valid

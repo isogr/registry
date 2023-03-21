@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - UTM zone 52
+  definition: null
+  extent:
+    e: 132.0
+    n: 84.0
+    name: "World - onshore and offshore - between 126\xB0E and 132\xB0E, northern\
+      \ hemisphere between equator and 84\xB0N."
+    s: 0.0
+    w: 126.0
+  identifier: 921
+  informationSources:
+  - edition: '61'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: fde1e64e-f534-4265-8c03-0c651a669ba4
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
+      (accessed 2022-04-20)
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: f54ab1d6-81d6-42e8-90c0-a1da0689c54f
+  name: UTM zone 52N
+  remarks: null
+dateAccepted: 2022-06-06
+id: d47d7ea8-4e5f-46b2-a0bc-b0d0300ba303
+status: valid

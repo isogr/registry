@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - UTM zone 43
+  definition: null
+  extent:
+    e: 78.0
+    n: 84.0
+    name: "World - onshore and offshore - between 72\xB0E and 78\xB0E, northern hemisphere\
+      \ between equator and 84\xB0N."
+    s: 0.0
+    w: 72.0
+  identifier: 889
+  informationSources:
+  - edition: '61'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 73949059-6082-47c1-bec1-dc8bb4ff8472
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
+      (accessed 2022-04-20)
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: f2461a45-c1a8-434e-b9a0-75ff0b2cff2f
+  name: UTM zone 43N
+  remarks: null
+dateAccepted: 2022-06-06
+id: 121951a7-1b13-4fee-a912-19a14db1aa79
+status: valid

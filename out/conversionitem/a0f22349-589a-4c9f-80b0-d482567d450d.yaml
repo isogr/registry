@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - UTM zone 10
+  definition: null
+  extent:
+    e: -120.0
+    n: 84.0
+    name: "World - onshore and offshore - between 126\xB0W and 120\xB0W, northern\
+      \ hemisphere between equator and 84\xB0N."
+    s: 0.0
+    w: -126.0
+  identifier: 940
+  informationSources:
+  - edition: '61'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 2fcae502-b45b-4bdf-b3ca-e93f348139be
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
+      (accessed 2022-04-20)
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: fb24545a-9fa6-433d-9fbe-4571a214b3c2
+  name: UTM zone 10N
+  remarks: null
+dateAccepted: 2022-06-06
+id: a0f22349-589a-4c9f-80b0-d482567d450d
+status: valid

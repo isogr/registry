@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - UTM zone -28
+  definition: null
+  extent:
+    e: -12.0
+    n: -80.0
+    name: "World - onshore and offshore - between  18\xB0W and  12\xB0W, southern\
+      \ hemisphere between equator and 80\xB0S."
+    s: 0.0
+    w: -18.0
+  identifier: 896
+  informationSources:
+  - edition: '61'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 73218dd5-1ce6-4c8b-bbed-e762d1b03134
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
+      (accessed 2022-04-20)
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: e40f2e85-e264-4027-9378-857d07182fcc
+  name: UTM zone 28S
+  remarks: null
+dateAccepted: 2022-06-06
+id: 91a0e8b0-a074-4cf7-b063-4d0512c4eeea
+status: valid

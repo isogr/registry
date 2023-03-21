@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - UTM zone -42
+  definition: null
+  extent:
+    e: 72.0
+    n: -80.0
+    name: "World - onshore and offshore - between  66\xB0E and  72\xB0E, southern\
+      \ hemisphere between equator and 80\xB0S."
+    s: 0.0
+    w: 66.0
+  identifier: 881
+  informationSources:
+  - edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
+      (accessed 2022-04-20)
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: 780e5463-d7be-4271-8b6c-8821bcf335c0
+  - edition: '61'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 89602803-8712-440f-afe7-327e8378f5f1
+  name: UTM zone 42S
+  remarks: null
+dateAccepted: 2022-06-06
+id: eb44eb85-828b-4670-b8f1-d9ff020fe7f2
+status: valid
