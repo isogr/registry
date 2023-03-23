@@ -1,8 +1,13 @@
 id: 18f0552a-045e-43a4-a4d2-e79f0f8d1e1c
 timeStarted: 2023-03-20T02:10:52.604Z
-timeEdited: 2023-03-23T12:18:23.262Z
+timeEdited: 2023-03-23T12:29:10.339Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /datums--geodetic/efa523f0-b7a4-45ad-8e94-7c946b881472.yaml:
+    type: amendment
+    amendmentType: supersession
+    supersedingItemIDs:
+      - ae0a3486-2c4d-4c8a-a75c-3706663c0ce6
 state: draft
 registerVersion: '1.1'
