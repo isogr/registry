@@ -6,11 +6,11 @@ data:
   coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
   description: t
   extent:
-    e: 180
-    'n': 90
-    name: World.
-    s: -90
-    w: -180
+    name: ''
+    'n': 0
+    e: 0
+    s: 0
+    w: 0
   identifier: 461
   informationSources:
     - edition: null
