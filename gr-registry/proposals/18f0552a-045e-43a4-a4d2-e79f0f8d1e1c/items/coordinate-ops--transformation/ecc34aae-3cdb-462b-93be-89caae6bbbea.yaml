@@ -6,11 +6,11 @@ data:
   coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
   description: t
   extent:
-    name: ''
-    'n': 0
-    e: 0
-    s: 0
-    w: 0
+    e: 154
+    'n': 45.6
+    name: Japan - onshore and offshore
+    s: 20.4
+    w: 122.9
   identifier: 461
   informationSources:
     - edition: null
