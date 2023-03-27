@@ -1,8 +1,11 @@
 id: e47d5967-d8d2-4c39-bc82-c6f6c73abbec
 timeStarted: 2023-03-27T12:21:23.135Z
-timeEdited: 2023-03-27T12:21:23.135Z
+timeEdited: 2023-03-27T12:22:38.828Z
 justification: Meeting test
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /datums--geodetic/7c659f61-1408-462d-a2f7-20c0fded0bcb.yaml:
+    type: amendment
+    amendmentType: invalidation
 state: draft
 registerVersion: '1.1'
