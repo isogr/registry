@@ -1,12 +1,9 @@
 id: 22120e94-d111-4432-8273-bb731c179d8f
 timeStarted: 2023-03-20T10:35:54.411Z
-timeEdited: 2023-03-20T10:38:44.456Z
+timeEdited: 2023-03-27T00:42:51.249Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
 items:
-  /unit-of-measurement/b7dd2252-91de-4646-b5db-8d481c9f3648.yaml:
-    type: amendment
-    amendmentType: invalidation
   /coordinate-ops--conversion/12900cfa-cd4c-4099-b5c5-820ebc623380.yaml:
     type: addition
 state: draft
