@@ -12,8 +12,9 @@ items:
     type: addition
   /ellipsoid/2aeba6a6-39dd-400a-8072-0681642bf304.yaml:
     type: addition
-state: returned-for-clarification
+state: withdrawn
 registerVersion: '1.1'
 timeProposed: 2023-03-27T01:19:00.439Z
 registerManagerNotes: f
 controlBodyNotes: test
+timeDisposed: 2023-03-27T12:12:53.435Z
