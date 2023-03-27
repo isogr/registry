@@ -7,7 +7,7 @@ items:
   /ellipsoid/5bf14a16-f444-4105-a50d-ea006ba854b8.yaml:
     type: amendment
     amendmentType: invalidation
-state: pending-control-body-review
+state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2023-03-27T01:19:00.439Z
 registerManagerNotes: f
