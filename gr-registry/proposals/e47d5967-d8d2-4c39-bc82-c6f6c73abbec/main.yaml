@@ -1,7 +1,7 @@
 id: e47d5967-d8d2-4c39-bc82-c6f6c73abbec
 timeStarted: 2023-03-27T12:21:23.135Z
 timeEdited: 2023-03-27T12:24:23.059Z
-justification: Meeting test. Longer notes go here.
+justification: Meeting test. Longer notes go here. Proposing again
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /datums--geodetic/7c659f61-1408-462d-a2f7-20c0fded0bcb.yaml:
@@ -11,7 +11,7 @@ items:
     type: clarification
   /datums--geodetic/5c8bac72-ec67-4d43-926f-53b88c48336b.yaml:
     type: addition
-state: returned-for-clarification
+state: proposed
 registerVersion: '1.1'
-timeProposed: 2023-03-27T12:25:42.762Z
+timeProposed: 2023-03-27T12:27:14.241Z
 registerManagerNotes: Please clarify
