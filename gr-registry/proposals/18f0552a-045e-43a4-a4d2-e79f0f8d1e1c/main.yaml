@@ -6,7 +6,8 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/ecc34aae-3cdb-462b-93be-89caae6bbbea.yaml:
     type: clarification
-state: pending-control-body-review
+state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2023-03-27T00:56:52.990Z
 registerManagerNotes: ''
+controlBodyNotes: test
