@@ -1,10 +1,8 @@
 id: 69f15d92-c9c1-4117-8ace-caf68e38ee7a
 timeStarted: 2023-03-27T12:13:02.411Z
-timeEdited: 2023-03-27T12:13:25.674Z
+timeEdited: 2023-03-27T12:13:31.132Z
 justification: Meeting test
 submittingStakeholderGitServerUsername: strogonoff
-items:
-  /datums--geodetic/e4b9217a-bb8a-4532-9e6f-61e2d94eb328.yaml:
-    type: addition
+items: {}
 state: draft
 registerVersion: '1.1'
