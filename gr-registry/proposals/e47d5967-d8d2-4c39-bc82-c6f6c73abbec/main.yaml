@@ -11,7 +11,7 @@ items:
     type: clarification
   /datums--geodetic/5c8bac72-ec67-4d43-926f-53b88c48336b.yaml:
     type: addition
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2023-03-27T12:27:14.241Z
-registerManagerNotes: Please clarify
+registerManagerNotes: ''
