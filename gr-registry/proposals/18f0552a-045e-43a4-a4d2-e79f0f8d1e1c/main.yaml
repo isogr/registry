@@ -1,9 +1,11 @@
 id: 18f0552a-045e-43a4-a4d2-e79f0f8d1e1c
 timeStarted: 2023-03-20T02:10:52.604Z
-timeEdited: 2023-03-27T03:49:21.910Z
+timeEdited: 2023-03-27T04:17:12.599Z
 justification: test f
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /ellipsoid/5bf14a16-f444-4105-a50d-ea006ba854b8.yaml:
+    type: clarification
 state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2023-03-27T01:19:00.439Z
