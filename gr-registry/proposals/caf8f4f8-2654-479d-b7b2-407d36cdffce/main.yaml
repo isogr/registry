@@ -1,11 +1,8 @@
 id: caf8f4f8-2654-479d-b7b2-407d36cdffce
 timeStarted: 2023-03-28T03:59:56.780Z
-timeEdited: 2023-03-28T04:00:03.140Z
+timeEdited: 2023-03-28T04:00:04.220Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
-items:
-  /crs--geodetic/132288c0-bc35-4ab3-931c-94022ee94f50.yaml:
-    type: amendment
-    amendmentType: invalidation
+items: {}
 state: draft
 registerVersion: '1.1'
