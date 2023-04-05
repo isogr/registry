@@ -1,0 +1,26 @@
+controlBodyDecisionEvent: null
+controlBodyNotes: ''
+id: 47de4465-4d20-4869-89db-ae5383d13f18
+isConcluded: true
+items:
+  /coordinate-ops--transformation/237125e4-3f8c-4312-b5c1-97678f9b79cf.yaml:
+    amendmentType: supersession
+    type: amendment
+justification: Added "Epoch 2010" to item name and in Remarks, added original item
+  name as an alias, corrected grid file name. Submitted by M. Craymer, Canadian Geodetic
+  Survey.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: withdrawn
+status: finished
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeProposed: 2022-07-20
+title: NAD83(CSRS) v6 to CGVD2013(CGG2013) - OHt [v1]

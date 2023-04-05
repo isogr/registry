@@ -1,0 +1,26 @@
+controlBodyDecisionEvent: null
+controlBodyNotes: ''
+id: a2da93a5-015e-414a-aa1e-2aeb818ab39f
+isConcluded: true
+items:
+  /coordinate-ops--transformation/3c4a80fe-c848-4d2d-92c9-179c6ad64b5d.yaml:
+    amendmentType: supersession
+    type: amendment
+justification: Added "Epoch 2010" to item name and in Remarks, added original item
+  name as an alias, corrected grid file name. Submitted by M. Craymer, Canadian Geodetic
+  Survey.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: withdrawn
+status: finished
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeProposed: 2022-07-20
+title: ITRF2008 to CGVD2013(CGG2013a) - OHt [v1]
