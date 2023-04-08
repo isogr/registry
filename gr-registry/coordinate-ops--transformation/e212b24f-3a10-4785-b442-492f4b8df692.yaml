@@ -13,22 +13,27 @@ data:
     w: -67.82
   identifier: 736
   informationSources:
-  - edition: ''
+  - author: GIS and Mapping Division
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: ''
+    publisher: GIS and Mapping Division, Department of Fisheries and Land Resources,
+      Government of Newfoundland and Labrador, Corner Brook, NL, Canada
     seriesIssueID: ',,'
     seriesName: ',,'
     seriesPage: ',,'
     title: NLCSRSV4.GSB
     uuid: 9df62712-08cf-4d8a-afdf-2c6e66dc29d8
-  - edition: ''
+  - author: Canadian Geodetic Survey
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'Website: https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
       (last accessed 2020-07-26).'
+    publisher: Canadian Geodetic Survey, Natural Resources Canada
     seriesIssueID: ''
     seriesName: ''
     seriesPage: ''
@@ -37,8 +42,19 @@ data:
   name: NAD83(Original) to NAD83(CSRS) v6 [NLv1]
   operationVersion: NLv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      author: Canadian Geodetic Survey
+      edition: ''
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Webpage
+      publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON, Canada
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: Coordinate Transformations
+      uuid: 2f47836c-bc78-4a03-b005-94610cf7ef20
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

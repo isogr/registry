@@ -4,12 +4,14 @@ data:
   description: null
   identifier: 729
   informationSources:
-  - edition: null
+  - author: P. Cheng, H. Wen, Y Cheng,H. Wang
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Chinese; http://xb.sinomaps.com/EN/volumn/volumn_195.shtml#1
       (accessed 2020-05-19)
+    publisher: Surveying and Mapping Press
     seriesIssueID: 38(3)
     seriesName: Acta Geodaetica et Cartographica Sinica
     seriesPage: 189-194
@@ -20,8 +22,8 @@ data:
   inverseFlatteningUoM: null
   isSphere: false
   name: CGCS 2000
-  remarks: Defining parameters semi-major axis and flattening equivalent with values
-    for GRS 1980 and IERS Convensions (2010).
+  remarks: Defining parameters semi-major axis and inverse flattening equivalent with
+    values for GRS 1980 and IERS Conventions (2010).
   semiMajorAxis: 6378137.0
   semiMajorAxisUoM: null
   semiMinorAxis: null

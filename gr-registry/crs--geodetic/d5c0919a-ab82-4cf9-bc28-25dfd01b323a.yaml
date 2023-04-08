@@ -15,11 +15,13 @@ data:
     w: -180.0
   identifier: 459
   informationSources:
-  - edition: null
+  - author: AC Coordinator
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '3605.0'
     seriesName: IGSMAIL
     seriesPage: null

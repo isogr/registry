@@ -21,59 +21,69 @@ data:
     w: -122.19
   identifier: 396
   informationSources:
-  - edition: null
+  - author: L. Sanchez
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'Data for paper included in supplement: Sanchez L. (2017) SIRGAS
       reference frame realization SIR17P01, Technische Universitaet Muenchen, Deutsches
       Geodaetisches Forschungsinstitut DGFI-TUM, IGS RNAAC SIRGAS'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: Symposium SIRGAS2017. Mendoza, Argentina. November 28, 2017
     seriesPage: null
     title: Kinematics of the SIRGAS reference frame
     uuid: 8ab7af61-0f9a-4182-a953-b9fca888a03f
-  - edition: null
+  - author: L. Sanchez
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'In supplement to: Sanchez L. (2017) Kinematics of the SIRGAS reference
       frame, Symposium SIRGAS2018. Mendoza, Argentina. November 28, 2017'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: SIRGAS reference frame realization SIR17P01
     uuid: 0344d5f0-6690-426d-b39a-2da0eddc7593
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'Data for paper included in supplement: Drewes H. and Sanchez L.
       (2017): Velocity model for SIRGAS 2017: VEMOS2017, Technische Universitaet Muenchen,
       Deutsches Geodaetisches Forschungsinstitut (DGFI-TUM), IGS RNAAC'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: Symposium SIRGAS2017. Mendoza, Argentina. November 28, 2017
     seriesPage: null
     title: 'The varying surface kinematics in Latin America: VEMOS 2009, 2015, and
       2017'
     uuid: ab33d3dd-9cac-45f1-a089-944e5c5fa2f4
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'In supplement to: Drewes H. and Sanchez L. (2017) The varying surface
       kinematics in Latin America: VEMOS 2009, 2015, and 2017, Symposium SIRGAS2017.
       Mendoza, Argentina. November 28, 2017'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Velocity model for SIRGAS 2017: VEMOS2017'
     uuid: f83874ee-33db-44eb-ad20-b7af875975b5
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null

@@ -16,21 +16,26 @@ data:
     w: 157.47
   identifier: 315
   informationSources:
-  - edition: null
+  - author: R.A. Snay
+    edition: null
     editionDate: 2003-01-01
     isbn: null
     issn: null
     otherDetails: MARP00, PACP00
+    publisher: American Cobgress on Surveying and Mapping
     seriesIssueID: Volume 63, No. 1
     seriesName: Surveying and Land Information Systems
     seriesPage: ' 5-12'
     title: Introducing Two Spatial Reference Frames for Regions of the Pacific Ocean
     uuid: b3f34ec3-8096-4cff-8fe5-8809efc08fb5
-  - edition: null
+  - author: National Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: webpage
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: NGS Online listing of transformation parameters
     seriesPage: null

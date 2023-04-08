@@ -14,11 +14,13 @@ data:
     w: 165.87
   identifier: 590
   informationSources:
-  - edition: null
+  - author: Office of the Surveyor General
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: LINZS25000
     seriesName: null
     seriesPage: null
@@ -28,19 +30,16 @@ data:
   operationVersion: LINZv1
   parameters:
   - fileCitation: null
-    name: X-axis translation
     parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: null
   - fileCitation: null
-    name: Y-axis translation
     parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: null
   - fileCitation: null
-    name: Z-axis translation
     parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b

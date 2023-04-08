@@ -3,21 +3,25 @@ data:
   definition: null
   identifier: 64
   informationSources:
-  - edition: null
+  - author: NGA Office of Geomatics
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
     uuid: 1219268b-a4c1-43bb-9934-cb1dc2594f5b
-  - edition: null
+  - author: NGA Office of Geomatics
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null

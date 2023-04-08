@@ -18,7 +18,8 @@ data:
     w: -122.19
   identifier: 109
   informationSources:
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -27,43 +28,50 @@ data:
       to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.862536; Sanchez L., Drewes H (2016):
       VEMOS2015: Velocity and deformation model for Latin America and the Caribbean,
       link to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.863131.'
+    publisher: Elsevier
     seriesIssueID: '102.0'
     seriesName: Journal of Geodynamics
     seriesPage: '2023-01-01'
     title: Crustal deformation and surface kinematics after the 2010 earthquakes in
       Latin America
     uuid: f3f4e5dd-2021-4e5f-b1d8-a2f4be882d89
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal deformation\
       \ and surface kinematics after the 2010 earthquakes in Latin America. Journal\
       \ of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
+    publisher: PANGAEA
     seriesIssueID: 10.1594/PANGAEA.862536
     seriesName: PANGAEA
     seriesPage: null
     title: 'SIR15P01: Multiyear solution for the SIRGAS Reference Frame, link to ZIP
       archive'
     uuid: 7e1d8654-f888-49e3-b904-2a9d0188976a
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal deformation\
       \ and surface kinematics after the 2010 earthquakes in Latin America. Journal\
       \ of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
+    publisher: PANGAEA
     seriesIssueID: 10.1594/PANGAEA.863131
     seriesName: PANGAEA
     seriesPage: null
     title: 'VEMOS2015: Velocity and deformation model for Latin America and the Caribbean,
       link to ZIP archive'
     uuid: 36c4093c-9513-4ab7-9e49-eae30405a66e
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null

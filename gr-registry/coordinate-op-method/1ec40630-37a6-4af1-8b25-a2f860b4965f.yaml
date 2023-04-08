@@ -3,7 +3,19 @@ data:
   definition: null
   description: null
   formula: null
-  formulaCitation: []
+  formulaCitation:
+    author: Office of the Surveyor General
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Land Information New Zealand
+    seriesIssueID: LINZS25000
+    seriesName: null
+    seriesPage: null
+    title: Standard for New Zealand Geodetic Datum 2000
+    uuid: cacae747-3618-42e8-9bc2-26c3cc824c98
   identifier: 81
   informationSources: []
   name: NZGD2000 Deformation Model

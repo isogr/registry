@@ -26,22 +26,28 @@ data:
     w: -141.01
   identifier: 243
   informationSources:
-  - edition: null
+  - author: M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada
     seriesIssueID: null
     seriesName: Presentation to Canadian Geodetic Reference Systems Committee Meeting,
       Ottawa, May 1-2, 2017
     seriesPage: null
     title: 'Reference Frames: National & International'
     uuid: facf317e-6f18-4d7d-840b-28cad81c62fd
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null

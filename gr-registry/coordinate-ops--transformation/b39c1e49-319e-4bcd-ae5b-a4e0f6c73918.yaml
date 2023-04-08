@@ -13,31 +13,38 @@ data:
     w: -139.04
   identifier: 616
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Desktop Applications: NTv2'
     uuid: 95b64068-16ac-490c-a2b0-23cedd817e44
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
     title: 'FAQ: What are some of the transformation methods for Canada?'
     uuid: d713ce60-cbf9-46f2-b531-1f98474902be
-  - edition: null
+  - author: GeoBC
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: GeoBC, Government of British Columbia
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -46,8 +53,19 @@ data:
   name: NAD83(CSRS) v2 to NAD83(CSRS) v4 [BCv1]
   operationVersion: BCv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      author: GeoBC
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: GeoBC, Government of British Columbia
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
+      uuid: 35231676-a5b5-425e-a1ac-29e220407a6c
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

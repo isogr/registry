@@ -26,33 +26,40 @@ data:
     w: -141.01
   identifier: 285
   informationSources:
-  - edition: null
+  - author: M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 60, No. 2
     seriesName: Geomatica
     seriesPage: 151-164
     title: The Evolution of NAD83 in Canada
     uuid: 7b696568-2bbd-4369-81b2-b08de3bbb355
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: The Canadian Spatial Reference System (CSRS)
     uuid: ca125eb0-062c-4b83-85c4-9b2c49e74b86
-  - edition: null
+  - author: M. Craymer, R. Ferland, R. Snay
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Rummel R., Drewes H., Bosch W., Hornik H. (eds) Towards an Integrated
       Global Geodetic Observing System (IGGOS). International Association of Geodesy
       Symposia, Vol 120. Springer, Berlin, Heidelberg
+    publisher: Springer, Berlin - Heidelberg
     seriesIssueID: Volume 120
     seriesName: International Association of Geodesy Symposia
     seriesPage: "118\u2013121"

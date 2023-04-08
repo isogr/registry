@@ -16,7 +16,8 @@ data:
     w: -180.0
   identifier: 269
   informationSources:
-  - edition: null
+  - author: IERS
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -26,11 +27,13 @@ data:
     seriesPage: null
     title: ITRF2005 on line 2006-10-05
     uuid: bac70087-f5d3-4f52-a997-674d8b7bb273
-  - edition: null
+  - author: Z. Altamimi, X. Collilieux, J. Legrand, B. Garayt, C. Boucher
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Vol 112
     seriesName: ' Journal of Geophysical Research'
     seriesPage: null

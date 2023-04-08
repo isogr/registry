@@ -19,23 +19,28 @@ data:
     w: 167.65
   identifier: 139
   informationSources:
-  - edition: null
+  - author: R.A. Snay, T. Soler
+    edition: null
     editionDate: 2008-04-01
     isbn: null
     issn: null
     otherDetails: NAD83 (CORS96) Epoch 1996.0,NAD83 (CORS96) Epoch 1997.0,NAD83 (CORS96)
       Epoch 2002.0
+    publisher: ASCE
     seriesIssueID: Volume 134, No. 4
     seriesName: Journal of Surveying Engineering
     seriesPage: 95-104
     title: 'Continuously Operating Reference Station (CORS): History, Applications,
       and Future Enhancements'
     uuid: 35bb826e-7b0e-4054-986d-baa3dec2531d
-  - edition: null
+  - author: National Geodetic Survey
+    edition: null
     editionDate: 2017-03-16
     isbn: null
     issn: null
     otherDetails: webpage
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: NGS Online listing of transformation parameters
     seriesPage: null

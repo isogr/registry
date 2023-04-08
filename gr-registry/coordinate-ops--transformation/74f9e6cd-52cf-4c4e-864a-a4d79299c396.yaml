@@ -13,31 +13,38 @@ data:
     w: -128.45
   identifier: 654
   informationSources:
-  - edition: null
+  - author: GeoBC
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: GeoBC, Government of British Columbia
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
     uuid: 79fe9e0d-f6cd-4df3-b2fb-8f4c31e0265b
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Desktop Applications: NTv2'
     uuid: e3a5e0cf-6a21-4d10-a24f-7761b7f54335
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
@@ -46,8 +53,19 @@ data:
   name: NAD27 to NAD83(CSRS) v3 [BCv1]
   operationVersion: BCv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      author: GeoBC
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: GeoBC, Government of British Columbia
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
+      uuid: 9e9bb370-875a-4995-9b4d-8008f569e687
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

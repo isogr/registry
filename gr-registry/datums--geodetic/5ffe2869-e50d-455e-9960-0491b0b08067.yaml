@@ -17,34 +17,41 @@ data:
     w: -113.21
   identifier: 150
   informationSources:
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 544-549
     title: Deformation of the South American crust estimated from finite element and
       collocation methods
     uuid: 04ac2813-bcbf-4acd-b2e2-0b82caacffee
-  - edition: null
+  - author: SIRGAS Working Groups I and II
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Report in both English and Spanish.
+    publisher: Instituto Brasileiro de Geografia e Estatistica (IBGE), Rio de Janeiro,
+      Brasil
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'South American Geocentric Reference System: Final Report, Working Groups
       I and II'
     uuid: ca80d47b-724a-4794-ac09-cd19f61a3298
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null

@@ -12,22 +12,29 @@ data:
     w: 122.9
   identifier: 111
   informationSources:
-  - edition: null
+  - author: Geographical Survey Institute
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
     seriesIssueID: Volume 50
     seriesName: Bulletin of the Geographical Survey Institute
     seriesPage: 33-36
     title: "The New Geodetic Reference System of Japan \u2212 Its adoption and application\
       \ to our products"
     uuid: 04a0d781-0c78-41dc-a7e8-424ef4c32f6d
-  - edition: null
+  - author: Y. Hiyama, A. Yamagiwa, T. Kawahara, M. Iwata, Y. Fukuzaki, Y. Shouji,
+      Y. Sato, T. Yutsudo, T. Sasaki, H. Shigematsu, H. Yamao, T. Inukai, M. Ohtaki,
+      K. Kokado, S. Kurihara, I. Kimura, T. Tsutsumi, T. Yahagi, Y. Furuya, I. Kageyama,
+      S. Kawamoto, K. Yamaguchi, H. Tsuji, S. Matsumura
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
     seriesIssueID: Volume 51
     seriesName: Bulletin of the Geographical Survey Institute
     seriesPage: "1\u20139"

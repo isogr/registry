@@ -21,33 +21,39 @@ data:
     w: -122.19
   identifier: 211
   informationSources:
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
     uuid: 0949fc16-ca92-40bd-80cc-35fb72e046fa
-  - edition: null
+  - author: W. Seemueller, L. Sanchez, M. Seitz, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
     seriesIssueID: No. 86
     seriesName: DGFI Report
     seriesPage: null
     title: The position and velocity solution SIR10P01 of the IGS Regional Network
       Associate Analysis Centre for SIRGAS (IGS RNAAC SIR)
     uuid: 63fa8f72-87ea-4332-99bc-a9d712581148
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
       International Association of Geodesy Symposia, Vol 136. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '136.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 657-664

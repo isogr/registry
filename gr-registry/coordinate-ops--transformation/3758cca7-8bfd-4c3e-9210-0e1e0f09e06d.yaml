@@ -13,11 +13,14 @@ data:
     w: -64.49
   identifier: 528
   informationSources:
-  - edition: null
+  - author: W. Tremblay
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Personal email communication.
+    publisher: Land and Environment Surveys, Department of Transportation, Infrastructure
+      and Energy, Government of Prince Edward Island
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -26,8 +29,20 @@ data:
   name: NAD27 to ATS77 [PEv1]
   operationVersion: PEv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      author: W. Tremblay
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Personal email communication.
+      publisher: Land and Environment Surveys, Department of Transportation, Infrastructure
+        and Energy, Government of Prince Edward Island
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: 'Re: ATS77 - NAD27 transformation grids'
+      uuid: f9fc7e3d-71a5-445e-b99d-1b49e47025fa
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

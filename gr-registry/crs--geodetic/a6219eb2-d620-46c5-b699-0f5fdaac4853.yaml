@@ -14,22 +14,26 @@ data:
     w: -180.0
   identifier: 414
   informationSources:
-  - edition: null
+  - author: National Imagery and Mapping Agency
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Imagery and Mapping Agency
     seriesIssueID: TR8350.2
     seriesName: Technical Report
     seriesPage: null
     title: 'Addendum to NIMA TR 8350.2: Implementation of the World Geodetic System
       1984 (WGS 84) Reference Frame G1150'
     uuid: 709cfaeb-d01c-48c2-b3ce-74fecec02655
-  - edition: null
+  - author: M. J. Merrigan, E.R. Swift, R.F. Wong, Saffel J.T.
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 15th International Technical Meeting of the Satellite
       Division of The Institue of Navigation (ION-GPS-2002), Portland, OR, September

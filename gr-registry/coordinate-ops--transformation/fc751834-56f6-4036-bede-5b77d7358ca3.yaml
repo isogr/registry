@@ -15,11 +15,14 @@ data:
     w: -112.0
   identifier: 717
   informationSources:
-  - edition: null
+  - author: National Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -28,8 +31,20 @@ data:
   name: NAD 83 (HARN) to NAVD88 - OHt [v2]
   operationVersion: v2
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      author: National Geodetic Survey
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+      publisher: National Oceanic and Atmospheric Administration (NOAA), National
+        Geodetic Survey (NGS)
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: National Geodetic Survey Geoid Homepage
+      uuid: 0f8e4490-4de3-4f96-90ff-023866e8345d
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null

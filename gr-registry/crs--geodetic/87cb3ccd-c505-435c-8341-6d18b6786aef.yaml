@@ -16,11 +16,14 @@ data:
     w: -180.0
   identifier: 361
   informationSources:
-  - edition: null
+  - author: C. Boucher, Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
     seriesIssueID: '6.0'
     seriesName: IERS Technical Notes
     seriesPage: null

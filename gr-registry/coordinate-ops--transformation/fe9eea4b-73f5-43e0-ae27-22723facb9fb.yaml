@@ -13,31 +13,38 @@ data:
     w: -95.16
   identifier: 511
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Desktop Applications: NTv2'
     uuid: ae9ea861-5480-4e86-ab85-85e054c293b0
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
     title: 'FAQ: What are some of the transformation methods for Canada?'
     uuid: 1cac944f-24e9-4676-bc2f-a4dcb2acec05
-  - edition: null
+  - author: Land Information Ontario
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information Ontario, Metadata Tool
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -46,8 +53,19 @@ data:
   name: NAD27 to NAD83(CSRS) v3 [ONv1]
   operationVersion: ONv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      author: Land Information Ontario
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: Land Information Ontario, Metadata Tool
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: NTv2 Grid Shift Files for Ontario
+      uuid: a1867eae-180d-4872-ab33-5bca47f0fced
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

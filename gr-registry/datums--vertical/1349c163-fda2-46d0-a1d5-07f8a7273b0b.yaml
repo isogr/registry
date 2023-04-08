@@ -15,11 +15,14 @@ data:
     w: 93.0
   identifier: 120
   informationSources:
-  - edition: null
+  - author: Permanent Committee on Geodesy of the Intergovernmental Committee on Surveying
+      and Mapping
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Intergovernmental Committee on Surveying and Mapping
     seriesIssueID: null
     seriesName: null
     seriesPage: null

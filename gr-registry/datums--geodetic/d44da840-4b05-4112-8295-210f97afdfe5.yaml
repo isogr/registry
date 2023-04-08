@@ -22,27 +22,33 @@ data:
     w: -141.01
   identifier: 148
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: The Canadian Spatial Reference System (CSRS)
     uuid: 3216bd08-bb66-4afb-a605-5a58bfec38a9
-  - edition: null
+  - author: M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 60, No. 4
     seriesName: Geomatica
     seriesPage: '433.0'
     title: 'The Evolution of NAD83 in Canada: Addendum'
     uuid: a78a4583-c787-4279-8a07-c3313a8789d9
-  - edition: null
+  - author: J. Kouba, J. Popelar
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -54,11 +60,13 @@ data:
     title: Modern Geodetic Reference Frames for Precise Satellite Positioning and
       Navigation
     uuid: 7b2a470c-be1c-4f80-ad4f-35067fe61561
-  - edition: null
+  - author: M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 60, No. 2
     seriesName: Geomatica
     seriesPage: 151-164

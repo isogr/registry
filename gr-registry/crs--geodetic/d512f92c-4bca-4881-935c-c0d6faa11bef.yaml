@@ -16,7 +16,8 @@ data:
     w: -180.0
   identifier: 419
   informationSources:
-  - edition: null
+  - author: C. Boucher, Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -26,22 +27,28 @@ data:
     seriesPage: null
     title: 'IERS Message No. 5: ITRF2000 Primary Solution'
     uuid: 3346288c-4551-4cbe-b514-61d2c63db944
-  - edition: null
+  - author: C.S. DeMets, R.G. Gordon, D.F. Argus, S. Stein
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume 21, Issue 20
     seriesName: Geophysical Research Letters
     seriesPage: null
     title: Effect of recent revisions to the geomagnetic reversal time scale on estimates
       of current plate motions
     uuid: 02a970de-1f17-4c9f-ba0a-1bea9b277440
-  - edition: null
+  - author: C. Boucher, Z. Altamimi, P. Sillard, M. Feissel-Vernier
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Earth Rotation and Reference Systems Service Central
+      Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
+      Germany
     seriesIssueID: '31.0'
     seriesName: IERS Technical Notes
     seriesPage: null

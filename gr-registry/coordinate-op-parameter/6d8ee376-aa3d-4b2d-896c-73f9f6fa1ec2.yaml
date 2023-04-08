@@ -3,31 +3,37 @@ data:
   definition: null
   identifier: 49
   informationSources:
-  - edition: null
+  - author: NGA Office of Geomatics
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: WGS 84, N=M=180 Earth Gravitational Model
     uuid: 28e9b166-4330-403e-baec-9713cfbc9013
-  - edition: null
+  - author: NGA Office of Geomatics
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: EGM2008 - WGS 84 Version
     uuid: e324286c-a7f4-42fd-bd95-d5dce8dfcf5f
-  - edition: null
+  - author: NGA Office of Geomatics
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null

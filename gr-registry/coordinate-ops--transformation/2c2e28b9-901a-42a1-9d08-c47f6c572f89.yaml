@@ -15,11 +15,13 @@ data:
     w: -141.01
   identifier: 618
   informationSources:
-  - edition: null
+  - author: M. Veronneau, A. Mainville, M.R. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -29,8 +31,21 @@ data:
   name: NAD83(CSRS) v3 to CGVD28 - NOHt [v1]
   operationVersion: v1
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      author: M. Veronneau, A. Mainville, M.R. Craymer
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of
+        Canada
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: 'The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height Transformation
+        for Use With GPS in Canada'
+      uuid: 03b4fc56-05f9-4c49-895f-a4099a2ae7ce
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null

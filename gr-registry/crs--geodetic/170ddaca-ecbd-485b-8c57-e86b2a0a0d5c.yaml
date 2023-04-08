@@ -16,28 +16,35 @@ data:
     w: -180.0
   identifier: 355
   informationSources:
-  - edition: null
+  - author: C. Boucher, Z. Altamimi, P. Sillard, M. Feissel-Vernier
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Earth Rotation and Reference Systems Service Central
+      Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
+      Germany
     seriesIssueID: '31.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: The ITRF2000
     uuid: be737649-8a8a-44b6-8e36-056829e7f778
-  - edition: null
+  - author: C.S. DeMets, R.G. Gordon, D.F. Argus, S. Stein
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume 21, Issue 20
     seriesName: Geophysical Research Letters
     seriesPage: null
     title: Effect of recent revisions to the geomagnetic reversal time scale on estimates
       of current plate motions
     uuid: 2967baab-7901-4204-92d0-9c2b143c3181
-  - edition: null
+  - author: C. Boucher, Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null

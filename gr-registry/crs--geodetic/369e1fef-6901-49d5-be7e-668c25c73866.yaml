@@ -16,32 +16,39 @@ data:
     w: -69.05
   identifier: 225
   informationSources:
-  - edition: null
+  - author: J. Bond, W. Robertson
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 69, No. 4
     seriesName: Geomatica
     seriesPage: 407-418
     title: "The Evolution of Nova Scotia\u2019s Spatial Referencing System from its\
       \ Origins until 2012"
     uuid: d642e268-6d92-4eb4-903a-5bac6c69164f
-  - edition: null
+  - author: GeoNOVA Reference Coordinate System Policy Node
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: GeoNOVA, Service Nova Scotia and Municipal Relations
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'A spatial referencing policy for the Province of Nova Scotia: Policy Document'
     uuid: a5367af7-8ef1-4622-b6d8-1e35a4a675f8
-  - edition: null
+  - author: D. Gillis, A. Hamilton, R.J. Gaudet, J. Ramsay, B. Seely, S. Blackie,
+      A. Flemming, C. Carlin, S. Bernard, L.G. LeBlanc
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 54, No. 1
     seriesName: Geomatica
     seriesPage: 25-41

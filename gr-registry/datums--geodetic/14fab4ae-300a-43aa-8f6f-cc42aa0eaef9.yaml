@@ -18,32 +18,38 @@ data:
     w: -122.19
   identifier: 189
   informationSources:
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
       International Association of Geodesy Symposia, Vol 136. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '136.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 657-664
     title: The 2009 Horizontal Velocity Field for South America and the Caribbean
     uuid: 8c05bb61-4249-4f1f-a0ca-670c6126e330
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
     uuid: 6f387b04-619a-4de3-8ee4-965423070fd9
-  - edition: null
+  - author: L. Sanchez
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service
     seriesIssueID: null
     seriesName: International GNSS Service Technical Report 2014
     seriesPage: 101-110

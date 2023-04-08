@@ -26,7 +26,8 @@ data:
     w: -141.01
   identifier: 447
   informationSources:
-  - edition: null
+  - author: J. Kouba, J. Popelar
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -38,11 +39,14 @@ data:
     title: Modern Geodetic Reference Frames for Precise Satellite Positioning and
       Navigation
     uuid: 3129ebfe-da93-4fec-8fc6-19a24db1f6e2
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null

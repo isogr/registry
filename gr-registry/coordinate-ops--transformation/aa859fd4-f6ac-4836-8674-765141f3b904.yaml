@@ -13,32 +13,38 @@ data:
     w: -180.0
   identifier: 671
   informationSources:
-  - edition: null
+  - author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
+    edition: null
     editionDate: 2012-04-19
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume  117, Issue B4
     seriesName: 'Journal of Geophysical Research: Solid Earth'
     seriesPage: null
     title: The development and evaluation of the Earth Gravitational Model 2008 (EGM2008)
     uuid: daaee064-ee99-4b9f-9bf2-c611a2fa00e0
-  - edition: null
+  - author: National Geospatial-Intelligence Agency
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: NGA.STND.0036_1.0.0_WGS84
     seriesName: Standardization Document
     seriesPage: null
     title: 'Department of Defense World Geodetic System 1984: Its Definition and Relationships
       with Local Geodetic Systems, Version 1.0.0'
     uuid: 2a4b9561-c3d3-457c-99f5-1a44aed8c88e
-  - edition: null
+  - author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
+    edition: null
     editionDate: 2013-05-09
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume  118, Issue 5
     seriesName: 'Journal of Geophysical Research: Solid Earth'
     seriesPage: '2633.0'
@@ -48,14 +54,38 @@ data:
   name: WGS 84 (G1762) to WGS 84 EGM2008 - OHt [3]
   operationVersion: '2.0'
   parameters:
-  - fileCitation: null
-    name: Spherical harmonic coefficient file
+  - fileCitation:
+      author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
+      edition: null
+      editionDate: 2012-04-19
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: American Geophysical Union
+      seriesIssueID: Volume  117, Issue B4
+      seriesName: 'Journal of Geophysical Research: Solid Earth'
+      seriesPage: null
+      title: The development and evaluation of the Earth Gravitational Model 2008
+        (EGM2008)
+      uuid: c712b377-5478-4489-ad5c-b2372ee7fa0a
     parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
     type: parameter file name
     unitOfMeasurement: null
     value: EGM2008_to2190_TideFree.gz
-  - fileCitation: null
-    name: Spherical harmonic correction coefficients file
+  - fileCitation:
+      author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
+      edition: null
+      editionDate: 2012-04-19
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: American Geophysical Union
+      seriesIssueID: Volume  117, Issue B4
+      seriesName: 'Journal of Geophysical Research: Solid Earth'
+      seriesPage: null
+      title: The development and evaluation of the Earth Gravitational Model 2008
+        (EGM2008)
+      uuid: 29e74a82-32ad-4d5d-9270-68387e16cbdb
     parameter: f5cb1159-d48d-4f8e-b907-824a07b3f5ad
     type: parameter file name
     unitOfMeasurement: null

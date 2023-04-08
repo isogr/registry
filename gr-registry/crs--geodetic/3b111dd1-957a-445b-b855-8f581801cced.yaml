@@ -16,7 +16,8 @@ data:
     w: -180.0
   identifier: 392
   informationSources:
-  - edition: null
+  - author: IERS
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -26,11 +27,15 @@ data:
     seriesPage: null
     title: ITRF2008 is available on line
     uuid: fbb57a8a-4033-4dca-9adf-0b11a277792a
-  - edition: null
+  - author: Z. Altamimi, X. Collilieux, L. Metivier
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Earth Rotation and Reference Systems Service Central
+      Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
+      Germany
     seriesIssueID: '37.0'
     seriesName: IERS Technical Notes
     seriesPage: null

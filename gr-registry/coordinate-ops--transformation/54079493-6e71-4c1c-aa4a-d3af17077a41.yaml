@@ -13,11 +13,13 @@ data:
     w: -180.0
   identifier: 573
   informationSources:
-  - edition: null
+  - author: R.F. Wong, C.M. Rollins, C.F. Minter
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 25th International Technical Meeting of the Satellite
       Division of The Institue of Navigation (ION-GNSS-2012), Nashville, TN, September
@@ -25,21 +27,27 @@ data:
     seriesPage: 1164-1172
     title: Recent Updates to the WGS 84 Reference Frame
     uuid: 2bbe4088-b700-4067-89ad-4ffbdc3cbbc0
-  - edition: null
+  - author: NGA Office of Geomatics
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
     uuid: b046a504-5db0-478a-839e-e9b6f2beade1
-  - edition: null
+  - author: F.G. Lemoine, S. C. Kenyon, J. K. Factor, R.G. Trimmer, N. K. Pavlis,
+      D. S. Chinn, C. M. Cox, S. M. Klosko, S. B. Luthcke, M. H. Torrence, Y. M. Wang,
+      R. G. Williamson, E. C. Pavlis, R. H. Rapp, T. R. Olson,
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Aeronautics and Space Administration
     seriesIssueID: NASA/TP-1998-206861
     seriesName: Technical Paper
     seriesPage: null
@@ -49,14 +57,36 @@ data:
   name: WGS 84 (G1674) to WGS 84 EGM96 - OHt [2]
   operationVersion: '2.0'
   parameters:
-  - fileCitation: null
-    name: Spherical harmonic coefficient file
+  - fileCitation:
+      author: NGA Office of Geomatics
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: National Geospatial-Intelligence Agency
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
+      uuid: 03971510-a91f-46b1-8c4c-db9cb66b53d2
     parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
     type: parameter file name
     unitOfMeasurement: null
     value: egm96.exe
-  - fileCitation: null
-    name: Spherical harmonic correction coefficients file
+  - fileCitation:
+      author: NGA Office of Geomatics
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: National Geospatial-Intelligence Agency
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
+      uuid: 048fccd1-d600-4ddb-84ea-cccd605ff621
     parameter: f5cb1159-d48d-4f8e-b907-824a07b3f5ad
     type: parameter file name
     unitOfMeasurement: null

@@ -13,27 +13,34 @@ data:
     w: -180.0
   identifier: 179
   informationSources:
-  - edition: null
+  - author: Z. Altamimi, X. Collilieux, L. Metivier
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Earth Rotation and Reference Systems Service Central
+      Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
+      Germany
     seriesIssueID: '37.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: Analysis and results of ITRF2008
     uuid: 1ca9ed7d-c03d-481c-86c4-26f9e5fa79ff
-  - edition: null
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
     seriesIssueID: '36.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: IERS Conventions (2010)
     uuid: 12f67f72-61d1-4358-82bd-88bd2d74816d
-  - edition: null
+  - author: IERS
+    edition: null
     editionDate: null
     isbn: null
     issn: null

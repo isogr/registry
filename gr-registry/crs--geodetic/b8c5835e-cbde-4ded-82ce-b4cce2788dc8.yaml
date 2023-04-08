@@ -15,12 +15,14 @@ data:
     w: -180.0
   identifier: 725
   informationSources:
-  - edition: ''
+  - author: P. Rebischung
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: "https://lists.igs.org/pipermail/igsmail/2020/007917.html\r\n(accessed\
       \ 2020-06-03)"
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '7921'
     seriesName: ISGMAIL
     seriesPage: ''

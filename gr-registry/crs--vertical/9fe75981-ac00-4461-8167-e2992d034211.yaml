@@ -15,11 +15,13 @@ data:
     w: -65.5
   identifier: 219
   informationSources:
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 2011-12-12
     isbn: null
     issn: null
     otherDetails: Mandates use of VIVD09
+    publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 76, No. 238, Document: 2011-31592, Citation: 76 FR 77208'
     seriesName: Federal Register Notice
     seriesPage: 77208-77209

@@ -4,11 +4,13 @@ data:
   description: null
   identifier: 30
   informationSources:
-  - edition: null
+  - author: S. Malys, J.A. Slater, R.W. Smith, L.E. Kunz, S.C. Kenyon
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 10th International Technical Meeting of the Satellite
       Division of The Institue of Navigation (ION-GPS-1997), Kansas City, MO, September
@@ -16,21 +18,25 @@ data:
     seriesPage: 841-850
     title: Refinements to The World Geodetic System 1984
     uuid: 07a33546-a009-47f8-af2c-a50b6811bbcc
-  - edition: null
+  - author: L.B. Decker, Defense  Mapping Agency Aerospace Center
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Defense Mapping Agency Aerospace Center
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: World Geodetic System 1984
     uuid: 75d92b25-7f6b-4645-a504-a5012d9a2ff7
-  - edition: null
+  - author: National Geospatial-Intelligence Agency
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: NGA.STND.0036_1.0.0_WGS84
     seriesName: Standardization Document
     seriesPage: null

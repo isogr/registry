@@ -13,11 +13,14 @@ data:
     w: 143.0
   identifier: 700
   informationSources:
-  - edition: null
+  - author: National Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -26,8 +29,20 @@ data:
   name: NAD 83 (MA11) Epoch 2010 to NMVD03 - NOHt [v1]
   operationVersion: v1
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      author: National Geodetic Survey
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+      publisher: National Oceanic and Atmospheric Administration (NOAA), National
+        Geodetic Survey (NGS)
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: National Geodetic Survey Geoid Homepage
+      uuid: 3507d95c-e0a7-4ac1-b1ca-fa97d378b207
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null

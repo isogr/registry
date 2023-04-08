@@ -13,32 +13,38 @@ data:
     w: -66.28
   identifier: 503
   informationSources:
-  - edition: null
+  - author: J. Bond, W. Robertson
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 69, No. 4
     seriesName: Geomatica
     seriesPage: 407-418
     title: "The Evolution of Nova Scotia\u2019s Spatial Referencing System from its\
       \ Origins until 2012"
     uuid: 2652886c-a240-4120-a047-4b85d024eb35
-  - edition: null
+  - author: GeoNOVA Reference Coordinate System Policy Node
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: GeoNOVA, Service Nova Scotia and Municipal Relations
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'A spatial referencing policy for the Province of Nova Scotia: Policy Document'
     uuid: 4c2caf1b-e687-4e11-8b44-5fe1dbd067e6
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
@@ -47,8 +53,20 @@ data:
   name: ATS77 to NAD83(Original) [NSv1]
   operationVersion: NSv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      author: J. Bond, W. Robertson
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: Canadian Institute of Geomatics
+      seriesIssueID: Volume 69, No. 4
+      seriesName: Geomatica
+      seriesPage: 407-418
+      title: "The Evolution of Nova Scotia\u2019s Spatial Referencing System from\
+        \ its Origins until 2012"
+      uuid: 17d2d3a3-9be7-4457-a9f2-7c99745ca399
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

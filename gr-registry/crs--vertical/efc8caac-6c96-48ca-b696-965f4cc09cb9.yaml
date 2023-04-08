@@ -15,11 +15,13 @@ data:
     w: 129.5
   identifier: 390
   informationSources:
-  - edition: null
+  - author: T. Imakiire, E. Hakoiwa
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
     seriesIssueID: Volume 51
     seriesName: Bulletin of the Geographical Survey Institute
     seriesPage: "31\u201351"

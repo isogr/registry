@@ -19,32 +19,38 @@ data:
     w: -122.19
   identifier: 136
   informationSources:
-  - edition: null
+  - author: W. Seemueller, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GPS Service
     seriesIssueID: JPL Publication 04-017
     seriesName: IGS 2001-2002 Technical Reports
     seriesPage: 285-290
     title: Annual Report 2001 of IGS RNAAC SIR
     uuid: 10b2c7d1-454d-4129-b55e-b7918550a8ee
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
     uuid: 05d2f746-6b24-4d1e-9634-e32add38e6db
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 544-549

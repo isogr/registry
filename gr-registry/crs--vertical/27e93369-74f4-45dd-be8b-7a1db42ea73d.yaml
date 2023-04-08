@@ -15,11 +15,13 @@ data:
     w: -67.5
   identifier: 360
   informationSources:
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 2012-07-23
     isbn: null
     issn: null
     otherDetails: Mandates use of PRVD02
+    publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 77, No. 141, Document: 2012-17600, Citation: 77 FR 43063'
     seriesName: Federal Register Notice
     seriesPage: 43063-43064

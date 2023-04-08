@@ -13,11 +13,13 @@ data:
     w: -180.0
   identifier: 470
   informationSources:
-  - edition: null
+  - author: NGA Office of Geomatics
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -26,8 +28,19 @@ data:
   name: WGS 84 (G1762) to WGS 84 EGM2008 - OHt [2]
   operationVersion: '2.0'
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      author: NGA Office of Geomatics
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: National Geospatial-Intelligence Agency
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: EGM2008 - WGS 84 Version
+      uuid: 587b03de-a10f-4d60-bc25-ab3a0ebc8f07
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null

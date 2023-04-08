@@ -13,18 +13,21 @@ data:
     w: -180.0
   identifier: 165
   informationSources:
-  - edition: null
+  - author: C.S. DeMets, R.G. Gordon, D.F. Argus, S. Stein
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume 21, Issue 20
     seriesName: Geophysical Research Letters
     seriesPage: null
     title: Effect of recent revisions to the geomagnetic reversal time scale on estimates
       of current plate motions
     uuid: 5416d129-92d6-437e-b663-ee1a70258c0a
-  - edition: null
+  - author: C. Boucher, Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -34,21 +37,27 @@ data:
     seriesPage: null
     title: 'IERS Message No. 5: ITRF2000 Primary Solution'
     uuid: 4c74adfa-7713-4544-8d63-b130cc50a1ab
-  - edition: null
+  - author: C. Boucher, Z. Altamimi, P. Sillard, M. Feissel-Vernier
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Earth Rotation and Reference Systems Service Central
+      Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
+      Germany
     seriesIssueID: '31.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: The ITRF2000
     uuid: 05110255-fe3b-4360-a75d-2a32516abed8
-  - edition: null
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
     seriesIssueID: '36.0'
     seriesName: IERS Technical Notes
     seriesPage: null

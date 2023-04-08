@@ -14,21 +14,25 @@ data:
     w: 157.47
   identifier: 188
   informationSources:
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
     seriesName: 'Federal Register Notice '
     seriesPage: '32681.0'
     title: Notice to Adopt Standard Method for Horizontal Datum Transformation
     uuid: 3d6244ed-576c-46f9-8c60-b6e2f6f168b5
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 2013-08-08
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Office of Federal Register, NARA
     seriesIssueID: "Volume 78, No. 153, Document: 2013\u201319167, Citation: 78 FR\
       \ 48421"
     seriesName: Federal Register Notice
@@ -37,22 +41,27 @@ data:
       American Datum of 1983 (PA2011) Epoch 2010.00 and North American Datum of 1983
       (MA2011) Epoch 2010.00
     uuid: b65891ae-d28d-4512-8804-8210fa90f306
-  - edition: null
+  - author: National Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: webpage
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: NGS Online listing of transformation parameters
     seriesPage: null
     title: CORS Coordinates
     uuid: e55a259e-a32c-4bb2-b158-7f0aa5e7d2ce
-  - edition: null
+  - author: D. Smith, A. Bilich
+    edition: null
     editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
       datum transformations, and extents of covnversion grids.
+    publisher: NOAA's National Geodetic Survey
     seriesIssueID: null
     seriesName: NGS Technical Report
     seriesPage: null

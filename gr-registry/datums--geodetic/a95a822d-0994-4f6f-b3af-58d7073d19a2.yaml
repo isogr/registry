@@ -12,7 +12,7 @@ data:
   - NAD83CSRS
   - NAD83(CSRS)v3
   coordinateReferenceEpoch: null
-  definition: null
+  definition: North American Datum of 1983 (CSRS) version 3
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: -47.74
@@ -24,31 +24,38 @@ data:
     w: -141.01
   identifier: 123
   informationSources:
-  - edition: null
+  - author: M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 60, No. 4
     seriesName: Geomatica
     seriesPage: '433.0'
     title: 'The Evolution of NAD83 in Canada: Addendum'
     uuid: f67d1498-0915-4097-ab89-fcbd32e81f97
-  - edition: null
+  - author: M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 60, No. 2
     seriesName: Geomatica
     seriesPage: 151-164
     title: The Evolution of NAD83 in Canada
     uuid: 8dfe02a7-c938-471e-91cf-7269855412c6
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -67,9 +74,8 @@ data:
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '1999-01-01'
   remarks: Adopted by the Canadian federal government for use in Canada, and by provincial
-    governments in Alberta, British Columbia, Manitoba, Newfoundland and Labrador,
-    Nova Scotia, Ontario and Saskatchewan. Replaces NAD83(CSRS) v2. Replaced by NAD83(CSRS)
-    v4.
+    governments in British Columbia, Nova Scotia and Ontario. Replaces NAD83(CSRS)
+    v2. Replaced by NAD83(CSRS) v4.
   scope: Spatial referencing
 dateAccepted: 2018-11-17
 id: a95a822d-0994-4f6f-b3af-58d7073d19a2

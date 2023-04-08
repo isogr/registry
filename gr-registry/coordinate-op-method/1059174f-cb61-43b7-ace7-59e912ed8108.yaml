@@ -5,7 +5,19 @@ data:
   definition: null
   description: null
   formula: null
-  formulaCitation: []
+  formulaCitation:
+    author: US Government
+    edition: null
+    editionDate: 1990-08-10
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of NADCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+    seriesName: 'Federal Register Notice '
+    seriesPage: '32681.0'
+    title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+    uuid: 229b6841-add9-422f-9618-90cd67f5c81d
   identifier: 73
   informationSources: []
   name: NADCON 5 (2D)

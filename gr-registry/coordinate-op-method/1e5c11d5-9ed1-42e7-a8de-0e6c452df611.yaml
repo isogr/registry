@@ -3,7 +3,19 @@ data:
   definition: null
   description: null
   formula: null
-  formulaCitation: []
+  formulaCitation:
+    author: M. Tobita
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Japanese with English abstract.
+    publisher: Journal of the Geodetic Society of Japan
+    seriesIssueID: Volume 55, Number 4
+    seriesName: Journal of the Geodetic Society of Japan
+    seriesPage: 355-367
+    title: PatchJGD, Software for Correcting Geodetic Coordinates for Coseismic Displacements
+    uuid: ae44583c-35ef-4fae-aee7-c1ad37525e67
   identifier: 71
   informationSources: []
   name: PatchJGD for Height

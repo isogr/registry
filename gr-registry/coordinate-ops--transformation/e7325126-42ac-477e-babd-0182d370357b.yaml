@@ -15,11 +15,14 @@ data:
     w: 93.41
   identifier: 657
   informationSources:
-  - edition: null
+  - author: Permanent Committee on Geodesy of the Intergovernmental Committee on Surveying
+      and Mapping
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Intergovernmental Committee on Surveying and Mapping
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -28,8 +31,20 @@ data:
   name: AGD66 to GDA94 [GA v2]
   operationVersion: GA v2
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      author: Permanent Committee on Geodesy of the Intergovernmental Committee on
+        Surveying and Mapping
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: Intergovernmental Committee on Surveying and Mapping
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: Geocentric Datum of Australia Technical Manual Version 2.4
+      uuid: ce4ccdb6-6e25-4d7f-88f9-c20eb477e4ae
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

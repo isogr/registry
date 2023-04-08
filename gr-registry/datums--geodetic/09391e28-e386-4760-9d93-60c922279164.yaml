@@ -12,11 +12,13 @@ data:
     w: -180.0
   identifier: 116
   informationSources:
-  - edition: null
+  - author: S. Malys, J.A. Slater
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 7th International Technical Meeting of the Satellite
       Division of The Institue of Navigation (ION-GPS-1994), Salt Lake City, UT, September

@@ -14,22 +14,26 @@ data:
     w: -180.0
   identifier: 325
   informationSources:
-  - edition: Third Edition
+  - author: National Imagery and Mapping Agency
+    edition: Third Edition
     editionDate: 1997-07-04
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Imagery and Mapping Agency
     seriesIssueID: TR8350.2
     seriesName: Technical Report
     seriesPage: null
     title: 'Department of Defense World Geodetic System 1984: Its Definition and Relationships
       with Local Geodetic Systems'
     uuid: d9a889d1-5a7c-451d-afb9-672eda58ddc0
-  - edition: null
+  - author: S. Malys, J.A. Slater, R.W. Smith, L.E. Kunz, S.C. Kenyon
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 10th International Technical Meeting of the Satellite
       Division of The Institue of Navigation (ION-GPS-1997), Kansas City, MO, September
@@ -37,22 +41,26 @@ data:
     seriesPage: 841-850
     title: Refinements to The World Geodetic System 1984
     uuid: b14f1608-3fa2-4434-a7b9-f9bb6d1f2fef
-  - edition: Third Edition, Amendment 1
+  - author: National Imagery and Mapping Agency
+    edition: Third Edition, Amendment 1
     editionDate: 2000-01-03
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Imagery and Mapping Agency
     seriesIssueID: TR8350.2
     seriesName: Technical Report
     seriesPage: null
     title: 'Department of Defense World Geodetic System 1984: Its Definition and Relationships
       with Local Geodetic Systems'
     uuid: d9189a01-f03f-4df6-87cf-4c1ebf365fce
-  - edition: Third Edition, Amendment 2
+  - author: National Imagery and Mapping Agency
+    edition: Third Edition, Amendment 2
     editionDate: 2004-06-23
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Imagery and Mapping Agency
     seriesIssueID: TR8350.2
     seriesName: Technical Report
     seriesPage: null

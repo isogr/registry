@@ -4,22 +4,27 @@ data:
   description: null
   identifier: 26
   informationSources:
-  - edition: null
+  - author: Service New Brunswick
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Service New Brunswick, Government of New Brunswick
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'New Brunswick Control Monument Database Information: Explanation of Fields
       and Glossary of Terms'
     uuid: 10c046aa-578d-4dd3-b5ca-d7a684e51a1b
-  - edition: null
+  - author: D. Gillis, A. Hamilton, R.J. Gaudet, J. Ramsay, B. Seely, S. Blackie,
+      A. Flemming, C. Carlin, S. Bernard, L.G. LeBlanc
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 54, No. 1
     seriesName: Geomatica
     seriesPage: 25-41

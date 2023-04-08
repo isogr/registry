@@ -14,11 +14,13 @@ data:
     w: 165.87
   identifier: 640
   informationSources:
-  - edition: null
+  - author: Office of the Surveyor General
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: LINZS25000
     seriesName: null
     seriesPage: null
@@ -27,8 +29,19 @@ data:
   name: NZGD1949 to NZGD2000 [LINZv3]
   operationVersion: LINZv3
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      author: Office of the Surveyor General
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: Land Information New Zealand
+      seriesIssueID: LINZS25000
+      seriesName: null
+      seriesPage: null
+      title: Standard for New Zealand Geodetic Datum 2000
+      uuid: 4c1ab196-a61f-40b8-8222-d5232aa12aea
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

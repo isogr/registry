@@ -13,11 +13,13 @@ data:
     w: -64.49
   identifier: 523
   informationSources:
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
@@ -26,8 +28,19 @@ data:
   name: ATS77 to NAD83(CSRS) v2 [PEv1]
   operationVersion: PEv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      author: Esri Canada
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: Esri, Redlands, CA
+      seriesIssueID: 'Article ID: 000011846'
+      seriesName: null
+      seriesPage: null
+      title: 'FAQ: What are some of the transformation methods for Canada?'
+      uuid: d6a33e8f-7152-4a5c-8eff-f570983dfd03
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

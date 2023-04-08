@@ -19,22 +19,26 @@ data:
     w: -135.0
   identifier: 714
   informationSources:
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
     seriesName: 'Federal Register Notice '
     seriesPage: '32681.0'
     title: Notice to Adopt Standard Method for Horizontal Datum Transformation
     uuid: 6441134e-7cf5-475c-9c9b-8ee67e68f053
-  - edition: null
+  - author: D. Smith, A. Bilich
+    edition: null
     editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
       datum transformations, and extents of covnversion grids.
+    publisher: NOAA's National Geodetic Survey
     seriesIssueID: null
     seriesName: NGS Technical Report
     seriesPage: null
@@ -44,20 +48,53 @@ data:
   name: NAD 83 (HARN) to NAD 83 (FBN) [v1]
   operationVersion: V1
   parameters:
-  - fileCitation: null
-    name: Latitude difference file
+  - fileCitation:
+      author: US Government
+      edition: null
+      editionDate: 1990-08-10
+      isbn: null
+      issn: null
+      otherDetails: Mandates use of NADCON for official transformations between datums
+      publisher: Office of Federal Register, NARA
+      seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+      seriesName: 'Federal Register Notice '
+      seriesPage: '32681.0'
+      title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+      uuid: d9fcf75c-0f3c-4c4d-b565-6d8b6be47ca4
     parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
     type: parameter file name
     unitOfMeasurement: null
     value: nadcon5.nad83_harn.nad83_fbn.conus.lat.trn.20160901.b
-  - fileCitation: null
-    name: Longitude difference file
+  - fileCitation:
+      author: US Government
+      edition: null
+      editionDate: 1990-08-10
+      isbn: null
+      issn: null
+      otherDetails: Mandates use of NADCON for official transformations between datums
+      publisher: Office of Federal Register, NARA
+      seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+      seriesName: 'Federal Register Notice '
+      seriesPage: '32681.0'
+      title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+      uuid: 5916a11f-0534-45be-b1d8-d46bfbc5fc14
     parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
     type: parameter file name
     unitOfMeasurement: null
     value: nadcon5.nad83_harn.nad83_fbn.conus.lon.trn.20160901.b
-  - fileCitation: null
-    name: Height difference file
+  - fileCitation:
+      author: US Government
+      edition: null
+      editionDate: 1990-08-10
+      isbn: null
+      issn: null
+      otherDetails: Mandates use of NADCON for official transformations between datums
+      publisher: Office of Federal Register, NARA
+      seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+      seriesName: 'Federal Register Notice '
+      seriesPage: '32681.0'
+      title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+      uuid: 066c191f-54da-4165-97fd-e9840e045ca1
     parameter: d0e6143c-dfc2-4796-932b-ab6b67954582
     type: parameter file name
     unitOfMeasurement: null

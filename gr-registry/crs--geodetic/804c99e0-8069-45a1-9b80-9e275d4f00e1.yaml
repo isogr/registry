@@ -16,21 +16,27 @@ data:
     w: -180.0
   identifier: 400
   informationSources:
-  - edition: null
+  - author: C. Boucher, Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
     seriesIssueID: '1.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: The initial IERS Terrestrial Reference Frame
     uuid: 1b50b5e8-ca08-49bd-8f08-298b0f116f0f
-  - edition: null
+  - author: IERS
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
     seriesIssueID: null
     seriesName: null
     seriesPage: null

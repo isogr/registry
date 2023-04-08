@@ -3,21 +3,25 @@ data:
   definition: null
   identifier: 66
   informationSources:
-  - edition: null
+  - author: Land Information New Zealand
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: NZGD2000 Deformation Model Format (Version 1.0)
     uuid: 63a72001-3484-43fe-919e-8f37c03a87e5
-  - edition: null
+  - author: Office of the Surveyor General
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: LINZS25000
     seriesName: null
     seriesPage: null

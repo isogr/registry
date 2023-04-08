@@ -12,31 +12,38 @@ data:
     w: -180.0
   identifier: 106
   informationSources:
-  - edition: null
+  - author: International GNSS Service Analysis Centre Coordinator
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National  Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Chronology of IGS Reference Frame Usage
     uuid: 51d13e23-708c-4fba-9f1c-0e777fb7b3c4
-  - edition: null
+  - author: P. Rebischung
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Springer
     seriesIssueID: Volume 16, Issue 4
     seriesName: GPS Solutions
     seriesPage: null
     title: 'IGS08: the IGS realization of ITRF2008'
     uuid: 78c28667-3cbe-4400-90ef-10c69ab155f7
-  - edition: null
+  - author: P. Rebischung, R. Schmid, J. Ray
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '6354.0'
     seriesName: IGSMAIL
     seriesPage: null

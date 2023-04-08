@@ -17,22 +17,26 @@ data:
     w: -180.0
   identifier: 436
   informationSources:
-  - edition: null
+  - author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
+    edition: null
     editionDate: 2013-05-09
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume  118, Issue 5
     seriesName: 'Journal of Geophysical Research: Solid Earth'
     seriesPage: '2633.0'
     title: "Correction to \u201CThe Development and Evaluation of the Earth Gravitational\
       \ Model 2008 (EGM2008)\u201D"
     uuid: d6300b73-34bc-4436-b36d-235fc27ccfa8
-  - edition: null
+  - author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
+    edition: null
     editionDate: 2012-04-19
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume  117, Issue B4
     seriesName: 'Journal of Geophysical Research: Solid Earth'
     seriesPage: null

@@ -13,31 +13,40 @@ data:
     w: -79.85
   identifier: 472
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Desktop Applications: NTv2'
     uuid: da613fdc-4ccf-4e01-9c4a-d9d90129f18b
-  - edition: null
+  - author: Y. Theriault
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Personal email communication.
+    publisher: "Service de la geodesie et des leves geospatiaux, Direction de la reference\
+      \ geographique, Direction generale de l\u2019information geospatiale, Ministere\
+      \ de l\u2019Energie et des Ressources naturelles, Gouvernement du Quebec"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'RE: GSD file'
     uuid: edfef7c3-6afa-4ea7-bba7-ed476f4b8f66
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
@@ -46,8 +55,22 @@ data:
   name: NAD27 to NAD83(CSRS) v2 [QCv1]
   operationVersion: QCv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      author: Y. Theriault
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Personal email communication.
+      publisher: "Service de la geodesie et des leves geospatiaux, Direction de la\
+        \ reference geographique, Direction generale de l\u2019information geospatiale,\
+        \ Ministere de l\u2019Energie et des Ressources naturelles, Gouvernement du\
+        \ Quebec"
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: 'RE: GSD file'
+      uuid: 0b896e14-9a95-49c7-8cb9-2c9cb77a322a
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

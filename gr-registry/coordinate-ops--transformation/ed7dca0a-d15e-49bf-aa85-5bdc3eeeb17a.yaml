@@ -13,31 +13,39 @@ data:
     w: -110.0
   identifier: 529
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Desktop Applications: NTv2'
     uuid: dc9cdae2-a152-4c5d-b0dc-3fe7fa43e1ad
-  - edition: null
+  - author: Saskatchewan Information Services Corporation (ISC)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Saskatchewan Information Services Corporation (ISC), Geomatics Distribution
+      Centre, Regina, Saskatchewan
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Grid shift files
     uuid: b27f9297-2085-43a1-b8cb-05df4afa8b81
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
@@ -46,8 +54,20 @@ data:
   name: NAD27 to NAD83(Original) [SKv1]
   operationVersion: SKv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      author: Saskatchewan Information Services Corporation (ISC)
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: Saskatchewan Information Services Corporation (ISC), Geomatics Distribution
+        Centre, Regina, Saskatchewan
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: Grid shift files
+      uuid: a5c80f1e-5bed-49b8-8e0b-94d296f4e668
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null
