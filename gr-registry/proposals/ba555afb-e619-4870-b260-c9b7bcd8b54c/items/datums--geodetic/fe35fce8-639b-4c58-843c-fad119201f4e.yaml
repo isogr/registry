@@ -1,0 +1,86 @@
+data:
+  aliases:
+  - SIRGAS Multi-Year Solution 2009
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - Geocentric Reference System for the Americas
+  - SIR09P01
+  coordinateReferenceEpoch: '2005.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 181
+  informationSources:
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
+      International Association of Geodesy Symposia, Vol 136. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '136.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 657-664
+    title: The 2009 Horizontal Velocity Field for South America and the Caribbean
+    uuid: 1e92954f-afc8-47d9-925a-b7e705abf4c2
+  - author: W. Seemueller, L. Sanchez, M. Seitz
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '136.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 675-680
+    title: The new Multi-year Position and Velocity Solution SIR09P01 of the IGS Regional
+      Network Associate Analysis Centre (IGS RNAAC SIR)
+    uuid: 5d85b474-1934-4de3-8e38-338f8253268e
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 19352a7e-b7ab-42d7-95eb-585245dc482d
+  - author: W. Seemueller, M. Seitz, L. Sanchez, H. Drewes
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
+    seriesIssueID: No. 85
+    seriesName: DGFI Report
+    seriesPage: null
+    title: The position and velocity solution SIR09P01 of the IGS Regional Network
+      Associate Analysis Centre for SIRGAS (IGS RNAAC SIR)
+    uuid: 169ba3b7-2596-462e-a8db-89743d3e8b37
+  name: SIRGAS Continuously Operating Network SIR09P01
+  originDescription: Realized by a frame of 128 continuously operating stations using
+    GPS observations from January 2000 to January 2009 and aligned to IGS05 at epoch
+    2005.0. GPS data from January 2000 to November 2006 reprocessed using the first
+    reprocessing campaign products (IG1) of the International GNSS Service and absolute
+    phase centre calibrations referring to the IGS05/IGb05 reference frame. Velocity
+    model VEMOS2009 used to propagate coordinates from an arbitrary epoch to the 2005.0
+    reference epoch.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '2009'
+  remarks: Replaces DGF08P01. Replaced by SIR10P01.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: fe35fce8-639b-4c58-843c-fad119201f4e
+status: valid

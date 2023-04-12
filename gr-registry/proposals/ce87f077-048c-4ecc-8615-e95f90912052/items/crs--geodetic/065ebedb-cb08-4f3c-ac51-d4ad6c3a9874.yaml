@@ -1,0 +1,63 @@
+data:
+  aliases:
+  - IERS Terrestrial Reference Frame 2014
+  - International Terrestrial Reference Frame 2014
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: ae0a3486-2c4d-4c8a-a75c-3706663c0ce6
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 226
+  informationSources:
+  - author: Z. Altamimi, P. Rebischung, L. Metivier, X. Collilieux
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: American Geophysical Union
+    seriesIssueID: Volume 121, Issue 8
+    seriesName: Journal of Geophysical Research Solid Earth
+    seriesPage: null
+    title: 'ITRF2014: A new release of the International Terrestrial Reference Frame
+      modeling nonlinear station motions'
+    uuid: 86aa0d4c-8a1a-43d4-9b89-8fa9bffd1bcd
+  - author: IERS
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '289.0'
+    seriesName: IERS Message
+    seriesPage: null
+    title: ITRF2014 is available on line
+    uuid: 3fd2d58f-9903-4e77-8835-75674ae5e776
+  - author: Z. Altamimi, P. Rebischung, L. Metivier, X. Collilieux
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Earth Rotation and Reference Systems Service Central
+      Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
+      Germany
+    seriesIssueID: '38.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: Analysis and results of ITRF2014
+    uuid: 6968b948-46f5-4c42-8251-6b7f9b4e5b44
+  name: ITRF2014 - LatLonEHt
+  operation: null
+  remarks: Replaces ITRF2008 - LatLonEHt.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 065ebedb-cb08-4f3c-ac51-d4ad6c3a9874
+status: valid

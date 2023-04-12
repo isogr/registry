@@ -26,8 +26,17 @@ data:
   name: GDA94 to GDA2020 [GA v5]
   operationVersion: GA v5
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
+      uuid: 57d4b31f-854b-4fa3-b5c3-177616a33130
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

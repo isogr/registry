@@ -2,7 +2,7 @@ data:
   aliases:
   - ETRF96
   coordinateReferenceEpoch: '1989.0'
-  definition: null
+  definition: European Terrestrial Reference Frame 1996
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: 39.65
@@ -52,11 +52,14 @@ data:
     title: 'ETRS89 realization: Current status, ETRF2005 and Future Development'
     uuid: 9138710e-c3b4-4f49-92a1-1976e6cea5bc
   name: European Terrestrial Reference Frame 1996
-  originDescription: Realization of ETRS89 through a transformation formula from ITRF96
-    to ETRF96.
+  originDescription: "Coincides with ITRF96 in orientation and scale at epoch 1989.0\
+    \ realigned to ITRF89 at epoch 1989.0 using 3 translations and is fixed to the\
+    \ stable part of the Eurasian tectonic plate through 3 rotation rates derived\
+    \ from the NNR-NUVEL-1A geophysical model, representing the Eurasian plate\u2019\
+    s angular velocity about its Euler pole."
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: null
-  remarks: null
+  remarks: The ETRF96 reference frame is a realisation of the ETRS89 reference system.
   scope: Spatial referencing
 dateAccepted: 2018-11-17
 id: c89da5d3-6a7e-4033-91ad-cdec95f62a72

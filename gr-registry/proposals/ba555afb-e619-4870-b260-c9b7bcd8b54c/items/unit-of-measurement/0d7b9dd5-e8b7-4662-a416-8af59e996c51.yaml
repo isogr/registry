@@ -1,0 +1,29 @@
+data:
+  aliases:
+  - seca
+  - angular second
+  - sec
+  denominator: 648000.0
+  identifier: 5
+  informationSources:
+  - author: International Organization for Standardization (ISO)
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Organization for Standardization (ISO)
+    seriesIssueID: ISO 80000-3:2006
+    seriesName: International Standard
+    seriesPage: null
+    title: "ISO 80000-3 Quantities and units \u2014 Part 3: Space and time"
+    uuid: c2a5fd68-bd1c-4244-bddd-b57ec0fdfd2d
+  measureType: ANGLE
+  name: arc-second
+  numerator: 3.141592654
+  remarks: 1/60th arc-minute = ((pi/180) / 3600) radians
+  standardUnit: 0fed4bdf-47b5-4dc3-a421-f8ef26a40ab9
+  symbol: null
+dateAccepted: 2018-11-17
+id: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+status: valid

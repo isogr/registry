@@ -26,8 +26,17 @@ data:
   name: WGS 84 (G873) to WGS 84 EGM84 - OHt [1]
   operationVersion: '1.0'
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Website
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: WGS 84, N=M=180 Earth Gravitational Model
+      uuid: dd73f6d4-7d5e-4a83-a0f9-5dffd0657588
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null

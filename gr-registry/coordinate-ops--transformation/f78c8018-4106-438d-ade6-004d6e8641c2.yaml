@@ -46,8 +46,17 @@ data:
   name: NAD27 to NAD83(CSRS) v3 [ONv2]
   operationVersion: ONv2
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: NTv2 Grid Shift Files for Ontario
+      uuid: b2b880b8-e296-4c3b-962d-73eec509bd3d
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

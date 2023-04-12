@@ -1,0 +1,43 @@
+data:
+  aliases:
+  - ANS
+  description: null
+  identifier: 29
+  informationSources:
+  - author: Working Party of the National Mapping Council of Australia
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: National Mapping Council of Australia
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Australian Geodetic Datum Technical Manual
+    uuid: b196d750-81fe-43fa-9157-7c821f5e67fd
+  - author: Technical Sub-Committee of the National Mapping Council of Australia
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: National Mapping Council of Australia
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Australian Map Grid Technical Manual
+    uuid: 7040c275-68bc-4427-bfda-e1211d5c0b29
+  inverseFlattening: 298.25
+  inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  isSphere: false
+  name: Australian National Spheroid
+  remarks: Based on the spheroid used by the International Astronomical Union in 1965
+    and adopted by the National Mapping Council of Australia in April 1965.
+  semiMajorAxis: 6378160.0
+  semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  semiMinorAxis: null
+  semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+dateAccepted: 2018-11-17
+id: bebbfb24-0705-4b44-88fe-652d3e6b99bb
+status: valid

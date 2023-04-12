@@ -1,0 +1,73 @@
+data:
+  aliases:
+  - DGFI00P01
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - SIRGAS Multi-Year Solution 2000
+  - Geocentric Reference System for the Americas
+  - DGF00P01
+  coordinateReferenceEpoch: '2000.4'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 133
+  informationSources:
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 0f9577e8-cfa4-422a-81dc-c2dda206e71d
+  - author: W. Seemueller, K. Kaniuth, H. Drewes
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '124.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: '2018-10-07'
+    title: Velocity estimates of IGS RNAAC SIRGAS stations
+    uuid: ac99f69c-6099-4f7e-aedc-e16bc57c6a45
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: c9f5d148-61d6-45dd-8a22-a2feb6a5c258
+  name: SIRGAS Continuously Operating Network DGF00P01
+  originDescription: Realized by a frame of 31 continuously operating stations using
+    GPS observations from June 1996 to February 2000 and aligned to ITRF97 at epoch
+    2000.4. Velocity model VEMOS2003 used to propagate coordinates from an arbitrary
+    epoch to the 2000.4 reference epoch.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '2002'
+  remarks: DGF00P01 is included in ITRF2000 as a regional densification for South
+    America. Replaces SIRGAS2000 for continuous stations in some SIRGAS countries.
+    Replaced by DGF01P01.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 971feff6-296c-4c7a-bc4d-3ee25b857ff9
+status: valid

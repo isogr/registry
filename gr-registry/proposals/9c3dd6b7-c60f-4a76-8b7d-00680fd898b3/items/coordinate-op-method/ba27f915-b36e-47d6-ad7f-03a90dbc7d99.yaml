@@ -1,0 +1,57 @@
+data:
+  aliases:
+  - ' NADCON'
+  - NADCON 5
+  definition: null
+  description: null
+  formula: null
+  formulaCitation:
+    author: US Government
+    edition: null
+    editionDate: 1990-08-10
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of NADCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+    seriesName: 'Federal Register Notice '
+    seriesPage: '32681.0'
+    title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+    uuid: e566d886-45f0-4824-b7f3-3ca6e8c843fe
+  identifier: 87
+  informationSources: []
+  name: NADCON 5 (3D)
+  parameters:
+  - a9663049-694d-49ec-a9eb-7d847e6ed826
+  - b5c0a15f-605e-435c-b762-a3c8139fe171
+  - d0e6143c-dfc2-4796-932b-ab6b67954582
+  remarks: 'The latitude, longitude and height offsets at a point are derived by interpolation
+    within the gridded data. Separate grid files are given for latitude, longitude
+    and height offsets. The grid file format is given in documentation available from
+    the information source. Biquadratic interpolation is used to derive the offset
+    values. For the forward calculation the interpolated value of the offset is then
+    added to the source CRS coordinate value to give the coordinates in the target
+    CRS. Transformations between NAD83(HARN) and all subsequent realizations of NAD83
+    are expressed in 3D with latitude, longitude and height offsets. This operational
+    method is designed to use all three operational parameters. Previous realizations
+    of NAD83 were only 2D and use a different operational method. NADCON includes
+    all versions from 1 through 5 (released in 2017). While the first and the last
+    used slightly different grids and interpolation methods, the differences are deemed
+    to be within the errors of the methods and considered equivalent. Hence users
+    of NADCON 2.1 should generate equivalent results for transformations using NADCON
+    5.0. Note that this operational method is for 3D transformation. Another method
+    uses only a 2D transformation (latitude and longitude only).
+
+
+    Reversibility: Iteration is required for the reverse transformation. The coordinate
+    reference system for the coordinates of the grid nodes is the source coordinate
+    reference system for the forward transformation. Then in forward transformations
+    the offset is obtained through straightforward interpolation of the grid file.
+    But for the reverse transformation the first grid interpolation entry will be
+    the value of the point in the second coordinate reference system, the offsets
+    are interpolated and applied with sign reversed, and the result used in further
+    iterations of interpolation and application of offset until the difference between
+    results from successive iterations is insignificant. '
+dateAccepted: 2018-11-17
+id: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
+status: valid

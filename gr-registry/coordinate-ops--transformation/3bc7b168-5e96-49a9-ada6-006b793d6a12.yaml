@@ -47,8 +47,17 @@ data:
   name: NAD27 to NAD83(CSRS) v3 [BCv2]
   operationVersion: BCv2
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
+      uuid: ed5a71ae-2e73-4abf-849e-40fd9c83ede4
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

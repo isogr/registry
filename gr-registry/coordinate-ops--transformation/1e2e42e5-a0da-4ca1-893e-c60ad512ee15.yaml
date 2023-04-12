@@ -36,8 +36,17 @@ data:
   name: ATS77 to NAD83(CSRS) v2 [NBv1]
   operationVersion: NBv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: 'Article ID: 000011846'
+      seriesName: null
+      seriesPage: null
+      title: 'FAQ: What are some of the transformation methods for Canada?'
+      uuid: f670b3d1-9f44-4730-95f6-78f4f822d926
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

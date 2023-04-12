@@ -1,0 +1,52 @@
+data:
+  aliases:
+  - Japanese Geodetic Datum 2000
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 26064ebd-187a-4205-ab67-e8f2ff72750a
+  description: null
+  extent:
+    e: 154.0
+    n: 45.6
+    name: Japan - onshore and offshore
+    s: 20.4
+    w: 122.9
+  identifier: 394
+  informationSources:
+  - author: Geographical Survey Institute
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
+    seriesIssueID: Volume 50
+    seriesName: Bulletin of the Geographical Survey Institute
+    seriesPage: 33-36
+    title: "The New Geodetic Reference System of Japan \u2212 Its adoption and application\
+      \ to our products"
+    uuid: 3005f30b-1921-4264-bdef-a1111334d5e8
+  - author: Y. Hiyama, A. Yamagiwa, T. Kawahara, M. Iwata, Y. Fukuzaki, Y. Shouji,
+      Y. Sato, T. Yutsudo, T. Sasaki, H. Shigematsu, H. Yamao, T. Inukai, M. Ohtaki,
+      K. Kokado, S. Kurihara, I. Kimura, T. Tsutsumi, T. Yahagi, Y. Furuya, I. Kageyama,
+      S. Kawamoto, K. Yamaguchi, H. Tsuji, S. Matsumura
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
+    seriesIssueID: Volume 51
+    seriesName: Bulletin of the Geographical Survey Institute
+    seriesPage: "1\u20139"
+    title: Concept of the New Japanese Geodetic System
+    uuid: 11a03cc9-af4b-4e1d-9e08-b429d92eac8c
+  name: JGD2000 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 341a9595-5c5e-4cdc-9abb-252905d18baa
+status: valid

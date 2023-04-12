@@ -1,0 +1,28 @@
+data:
+  aliases:
+  - s
+  - sec
+  denominator: 1.0
+  identifier: 4
+  informationSources:
+  - author: International Organization for Standardization (ISO)
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Organization for Standardization (ISO)
+    seriesIssueID: ISO 80000-3:2006
+    seriesName: International Standard
+    seriesPage: null
+    title: "ISO 80000-3 Quantities and units \u2014 Part 3: Space and time"
+    uuid: 23b48807-7432-423a-bdc1-f0f7ab8102f2
+  measureType: TIME
+  name: second
+  numerator: 1.0
+  remarks: SI base unit for time. Not to be confused with the angle unit arc-second.
+  standardUnit: 168a60b2-b4d9-4420-91e7-a2f65a8fb0af
+  symbol: s
+dateAccepted: 2018-11-17
+id: 168a60b2-b4d9-4420-91e7-a2f65a8fb0af
+status: valid

@@ -1,0 +1,71 @@
+data:
+  aliases:
+  - NAD83 (PACP00)
+  coordinateReferenceEpoch: '1993.6'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: -151.27
+    n: 31.8
+    name: American Samoa - onshore and offshore. Marshall Islands - onshore and offshore.
+      United States (USA) - onshore and offshore - Hawaii. United States Minor Outlying
+      Islands - onshore and offshore.
+    s: -17.56
+    w: 157.47
+  identifier: 113
+  informationSources:
+  - author: National Geodetic Survey
+    edition: null
+    editionDate: 2017-03-16
+    isbn: null
+    issn: null
+    otherDetails: webpage
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
+    seriesIssueID: null
+    seriesName: NGS Online listing of transformation parameters
+    seriesPage: null
+    title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
+      Frames
+    uuid: 61a15db3-8101-4e1b-98a8-28907e84568f
+  - author: C. Pearson, R.A. Snay
+    edition: null
+    editionDate: 2013-01-01
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    publisher: Springer-Verlag
+    seriesIssueID: Volume 17, No. 1
+    seriesName: GPS Solutions
+    seriesPage: 1-15
+    title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
+      frames
+    uuid: eafd6e37-f50a-482c-84c2-fd75a27e2e0e
+  - author: R.A. Snay
+    edition: null
+    editionDate: 2003-01-01
+    isbn: null
+    issn: null
+    otherDetails: MARP00, PACP00
+    publisher: American Cobgress on Surveying and Mapping
+    seriesIssueID: Volume 63, No. 1
+    seriesName: Surveying and Land Information Systems
+    seriesPage: ' 5-12'
+    title: Introducing Two Spatial Reference Frames for Regions of the Pacific Ocean
+    uuid: f3d0d04a-488c-4dd1-92d4-16cdd5f5af67
+  name: North American Datum of 1983 (PACP00)
+  originDescription: Realization of the NAD83. The frame is defined by a time-dependent
+    seven parameter transformation of ITRF2000 3D geocentric Cartesian coordinates
+    and velocities at reference epoch  1993.62. The frame is kept aligned to the Pacific
+    plate at other epochs based on an Euler pole calculated from 16 sites located
+    on the North American, Mariana, and Pacific plates. The original web listing erroneously
+    showed values for this frame as being identical to  NAD83 (CORS96) Epoch 2002.
+    However, the original HTDP (version 2.7) implementation used the transformation
+    given in the reference.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '2003'
+  remarks: 'Replaces NAD83 (HARN). Replaced by NAD83(PA11) from 2011-09-06. '
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: f7ff2de2-2706-488b-aa4f-d62aa9c7a8ce
+status: valid

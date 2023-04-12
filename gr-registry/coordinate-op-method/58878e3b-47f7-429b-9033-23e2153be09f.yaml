@@ -3,10 +3,22 @@ data:
   - Coordinate Frame Transformation
   - Bursa-Wolf Transformation
   - 7-Parameter Transformation
-  definition: null
+  definition: Coordinate Frame Transformation (geocentric Cartesian domain)
   description: null
-  formula: null
-  formulaCitation: []
+  formula: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+    including Formulas'
+  formulaCitation:
+    edition: '51.0'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: ea205a0b-13fd-44f7-a3e0-857486e44a23
   identifier: 74
   informationSources: []
   name: Coordinate Frame Transformation (geocentric Cartesian domain)
@@ -18,10 +30,10 @@ data:
   - ce8ddaf4-68b2-43d1-baa9-88656ee12322
   - 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
   - d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
-  remarks: This method is a specific case of the Molodensky-Badekas (CF) method (code
-    1034) in which the evaluation point is at the geocentre with coordinate values
-    of zero. Note the analogy with the Position Vector method (code 1033) but beware
-    of the differences!
+  remarks: This method is a specific case of the Molodensky-Badekas (CF) method in
+    which the evaluation point is at the geocentre with coordinate values of zero.
+    Note the analogy with the Position Vector transformation method but beware of
+    the differences!
 dateAccepted: 2018-11-17
 id: 58878e3b-47f7-429b-9033-23e2153be09f
 status: valid

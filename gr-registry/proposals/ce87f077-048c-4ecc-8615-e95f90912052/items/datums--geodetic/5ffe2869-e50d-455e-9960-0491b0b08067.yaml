@@ -1,0 +1,70 @@
+data:
+  aliases:
+  - South American Geocentric Reference System 1995
+  - SIRGAS
+  - SIRGAS95
+  - SIRGAS 1995
+  - SIRGAS1995
+  - Geocentric Reference System for South America
+  coordinateReferenceEpoch: '1995.4'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: -26.0
+    n: 16.75
+    name: South America - onshore and offshore
+    s: -59.87
+    w: -113.21
+  identifier: 150
+  informationSources:
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 04ac2813-bcbf-4acd-b2e2-0b82caacffee
+  - author: SIRGAS Working Groups I and II
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Report in both English and Spanish.
+    publisher: Instituto Brasileiro de Geografia e Estatistica (IBGE), Rio de Janeiro,
+      Brasil
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'South American Geocentric Reference System: Final Report, Working Groups
+      I and II'
+    uuid: ca80d47b-724a-4794-ac09-cd19f61a3298
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 8019a552-2107-49a7-aba5-8c140b1b416b
+  name: Sistema de Referencia Geocentrico para America del Sur 1995
+  originDescription: Realized by a frame of 58 stations observed in 1995 and aligned
+    to ITRF94 at epoch 1995.4. Velocity model VEMOS2003 used to propagate coordinates
+    from an arbitrary epoch to the 1995.4 reference epoch.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '1997'
+  remarks: Replaced by SIRGAS2000.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 5ffe2869-e50d-455e-9960-0491b0b08067
+status: valid

@@ -1,6 +1,5 @@
 data:
   abbreviation: Y
-  direction: "Geocentre > equator/90\xB0E"
   identifier: 37
   informationSources:
   - edition: Second Edition
@@ -13,9 +12,12 @@ data:
     seriesPage: null
     title: ISO 19111 Geographical information - Spatial referencing by coordinates
     uuid: a17951e4-6139-45b7-a2b1-9fb5d8c7dec0
+  maxValue: null
+  minValue: null
   name: Geocentric Y
-  remarks: ''
-  unit: 932dce03-daeb-4762-ac71-81c69c41746b
+  orientation: "Geocentre > equator/90\xB0E"
+  remarks: null
+  unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
 dateAccepted: 2018-11-17
 id: ab143abe-d350-4401-bd42-55e96a479423
 status: valid

@@ -2,7 +2,7 @@ data:
   aliases:
   - WGS 84 (G873)
   coordinateReferenceEpoch: '1997.0'
-  definition: null
+  definition: World Geodetic System 1984 (G873)
   ellipsoid: 41c8f1a8-76fd-4edf-9bdb-6eca1931c5fb
   extent:
     e: 180.0
@@ -58,9 +58,9 @@ data:
       with Local Geodetic Systems'
     uuid: 9f872ae6-6311-4830-821b-1ff515a36bc6
   name: World Geodetic System 1984 (G873)
-  originDescription: Defined through coordinates of 12 GPS tracking stations adjusted
-    to a subset of ITRF92 stations at epoch 1997.0. The reference epoch for ITRF92
-    is 1988.0; the station coordinates were propagated to 1997.0 using the NNR-NUVEL-1A
+  originDescription: Defined through coordinates of 13 GPS tracking stations adjusted
+    to a subset of ITRF94 stations at epoch 1997.0. The reference epoch for the adjustment
+    was 1994.0 and the station coordinates were propagated to 1997.0 using the NNR-NUVEL-1A
     plate motion model.
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '1997-01-29'

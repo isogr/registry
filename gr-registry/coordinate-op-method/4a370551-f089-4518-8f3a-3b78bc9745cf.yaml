@@ -3,7 +3,17 @@ data:
   definition: null
   description: null
   formula: null
-  formulaCitation: []
+  formulaCitation:
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: LINZS25009
+    seriesName: null
+    seriesPage: null
+    title: Standard for New Zealand Vertical Datum 2016
+    uuid: 53c38a81-ebec-405b-b224-4cd6821eb36c
   identifier: 92
   informationSources: []
   name: Geographic3D to Gravity Related Height (NZgeoid)

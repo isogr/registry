@@ -46,8 +46,17 @@ data:
   name: NAD27 to NAD83(Original) [SKv1]
   operationVersion: SKv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: Grid shift files
+      uuid: a5c80f1e-5bed-49b8-8e0b-94d296f4e668
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

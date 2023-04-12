@@ -1,0 +1,74 @@
+data:
+  aliases:
+  - ETRF2005
+  coordinateReferenceEpoch: '2000.0'
+  definition: European Terrestrial Reference Frame 2005
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: 39.65
+    n: 84.17
+    name: 'Europe - onshore and offshore: Albania, Andorra, Austria, Belgium, Bosnia
+      and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+      Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Hungary, Ireland,
+      Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco,
+      Montenegro, Netherlands, Norway including Svalbard and Jan Mayen, Poland, Portugal,
+      Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland,
+      United Kingdom (UK) including Channel Islands and Isle of Man, Vatican City
+      State.'
+    s: 32.88
+    w: -16.1
+  identifier: 100
+  informationSources:
+  - author: C. Boucher, Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Institute National de l'Information Geographique et Forestiere (IGN),
+      Laboratoire de Recherche en Geodesie (LAREG)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Memo : Specifications for reference frame fixing in the analysis of a
+      EUREF GPS campaign (version 8)'
+    uuid: 5ff53120-1405-480e-9d85-e6f7faf26740
+  - author: Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
+      re (IGN), France"
+    seriesIssueID: '1.0'
+    seriesName: IERS Technical Note
+    seriesPage: null
+    title: 'EUREF Technical Note 1: Relationship and Transformation between the International
+      and the European Terrestrial Reference Systems'
+    uuid: 8309b6fb-649c-41ce-84c9-9610c263ffae
+  - author: Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'ETRS89 realization: Current status, ETRF2005 and Future Development'
+    uuid: 4998a008-21c6-4f54-8a25-ab0a6eab2af3
+  name: European Terrestrial Reference Frame 2005
+  originDescription: "Coincides with ITRF2005 in orientation and scale at epoch 1989.0\
+    \ realigned to ITRF89 at epoch 1989.0 using 3 translations and is fixed to the\
+    \ stable part of the Eurasian tectonic plate through 3 rotation rates derived\
+    \ from the ITRF2005 velocity field, representing the Eurasian plate\u2019s angular\
+    \ velocity about its Euler pole."
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: null
+  remarks: The EUREF Technical Working Group (TWG) recommends not to use the ETRF2005
+    and rather to adopt the ETRF2000 as a conventional frame of the ETRS89 system.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 5d6d3b29-29b5-46d4-91be-96bdd228639c
+status: valid

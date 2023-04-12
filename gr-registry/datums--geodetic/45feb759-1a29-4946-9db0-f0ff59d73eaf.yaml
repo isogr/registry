@@ -2,7 +2,7 @@ data:
   aliases:
   - ETRF91
   coordinateReferenceEpoch: '1989.0'
-  definition: null
+  definition: European Terrestrial Reference Frame 1991
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: 39.65
@@ -52,11 +52,14 @@ data:
     title: 'ETRS89 realization: Current status, ETRF2005 and Future Development'
     uuid: 9d99c1a9-3a1a-4a93-b1e7-3dacffdfb179
   name: European Terrestrial Reference Frame 1991
-  originDescription: Realization of ETRS89 through a transformation formula from ITRF91
-    to ETRF91.
+  originDescription: "Coincides with ITRF91 in orientation and scale at epoch 1989.0\
+    \ realigned to ITRF89 at epoch 1989.0 using 3 translations and is fixed to the\
+    \ stable part of the Eurasian tectonic plate through 3 rotation rates derived\
+    \ from the AM02 geophysical model, representing the Eurasian plate\u2019s angular\
+    \ velocity about its Euler pole."
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: null
-  remarks: null
+  remarks: The ETRF91 reference frame is a realization of the ETRS89 reference system.
   scope: Spatial referencing
 dateAccepted: 2018-11-17
 id: 45feb759-1a29-4946-9db0-f0ff59d73eaf

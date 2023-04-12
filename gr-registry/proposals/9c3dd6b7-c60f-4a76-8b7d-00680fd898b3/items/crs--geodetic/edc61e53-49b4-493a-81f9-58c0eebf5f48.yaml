@@ -1,0 +1,70 @@
+data:
+  aliases:
+  - European Terrestrial Reference Frame 2000
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: 8c68a51b-297f-4147-961e-4fc687073abc
+  description: null
+  extent:
+    e: 39.65
+    n: 84.17
+    name: 'Europe - onshore and offshore: Albania, Andorra, Austria, Belgium, Bosnia
+      and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+      Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Hungary, Ireland,
+      Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco,
+      Montenegro, Netherlands, Norway including Svalbard and Jan Mayen, Poland, Portugal,
+      Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland,
+      United Kingdom (UK) including Channel Islands and Isle of Man, Vatican City
+      State.'
+    s: 32.88
+    w: -16.1
+  identifier: 457
+  informationSources:
+  - author: C. Boucher, Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Institute National de l'Information Geographique et Forestiere (IGN),
+      Laboratoire de Recherche en Geodesie (LAREG)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Memo : Specifications for reference frame fixing in the analysis of a
+      EUREF GPS campaign (version 8)'
+    uuid: 9f8663e9-d701-434a-8962-cfc3159060ec
+  - author: Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
+      re (IGN), France"
+    seriesIssueID: '1.0'
+    seriesName: IERS Technical Note
+    seriesPage: null
+    title: 'EUREF Technical Note 1: Relationship and Transformation between the International
+      and the European Terrestrial Reference Systems'
+    uuid: e5092089-0b53-4c30-a6df-b23b22779de0
+  - author: Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'ETRS89 realization: Current status, ETRF2005 and Future Development'
+    uuid: de471590-d2dd-4fcc-89ff-7808bc3bb2f7
+  name: ETRF2000 - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: edc61e53-49b4-493a-81f9-58c0eebf5f48
+status: valid

@@ -1,0 +1,70 @@
+data:
+  aliases:
+  - European Terrestrial Reference Frame 1993
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: 2a0a2042-e111-4aee-ac6b-c923b7124613
+  description: null
+  extent:
+    e: 39.65
+    n: 84.17
+    name: 'Europe - onshore and offshore: Albania, Andorra, Austria, Belgium, Bosnia
+      and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+      Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Hungary, Ireland,
+      Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco,
+      Montenegro, Netherlands, Norway including Svalbard and Jan Mayen, Poland, Portugal,
+      Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland,
+      United Kingdom (UK) including Channel Islands and Isle of Man, Vatican City
+      State.'
+    s: 32.88
+    w: -16.1
+  identifier: 244
+  informationSources:
+  - author: Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'ETRS89 realization: Current status, ETRF2005 and Future Development'
+    uuid: a8f524bb-f33d-448e-b3f2-534c5441cfef
+  - author: C. Boucher, Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Institute National de l'Information Geographique et Forestiere (IGN),
+      Laboratoire de Recherche en Geodesie (LAREG)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Memo : Specifications for reference frame fixing in the analysis of a
+      EUREF GPS campaign (version 8)'
+    uuid: 6011d767-b75b-4b6b-ba57-53c5f14b9a10
+  - author: Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
+      re (IGN), France"
+    seriesIssueID: '1.0'
+    seriesName: IERS Technical Note
+    seriesPage: null
+    title: 'EUREF Technical Note 1: Relationship and Transformation between the International
+      and the European Terrestrial Reference Systems'
+    uuid: b8fc52d2-361b-4cb7-87db-09d400dab3c6
+  name: ETRF93 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 02e8efb9-ee83-4169-af9b-d1501e3f17ab
+status: valid

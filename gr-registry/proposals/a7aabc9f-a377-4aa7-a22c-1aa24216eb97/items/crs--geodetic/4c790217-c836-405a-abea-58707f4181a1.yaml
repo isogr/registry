@@ -1,0 +1,69 @@
+data:
+  aliases:
+  - SIRGAS
+  - SIRGAS-CON
+  - DGFI06P01
+  - Sistema de Referencia Geocentrico para las Americas
+  - DGF06P01
+  - Geocentric Reference System for the Americas
+  - SIRGAS Multi-Year Solution 2006
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 600dae84-bdd5-4d7e-b8fa-c5ff7e526f53
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 223
+  informationSources:
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: d314cf2c-5701-433d-8237-a9edda8b74be
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: b5495eae-a5d3-43e8-8a5d-630c6e2f4dec
+  - author: W. Seemueller
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '134.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 167-172
+    title: The Position and Velocity Solution DGF06P01 for SIRGAS
+    uuid: 34005f32-60c0-4d44-a679-d8779ca61bf5
+  name: SIRGAS-CON DGF06P01 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 4c790217-c836-405a-abea-58707f4181a1
+status: valid

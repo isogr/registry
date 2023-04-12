@@ -2,7 +2,7 @@ data:
   aliases:
   - ETRF2005
   coordinateReferenceEpoch: '2000.0'
-  definition: null
+  definition: European Terrestrial Reference Frame 2005
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: 39.65
@@ -52,8 +52,11 @@ data:
     title: 'ETRS89 realization: Current status, ETRF2005 and Future Development'
     uuid: 4998a008-21c6-4f54-8a25-ab0a6eab2af3
   name: European Terrestrial Reference Frame 2005
-  originDescription: Realization of ETRS89 through a transformation formula from ITRF2005
-    to ETRF2005.
+  originDescription: "Coincides with ITRF2005 in orientation and scale at epoch 1989.0\
+    \ realigned to ITRF89 at epoch 1989.0 using 3 translations and is fixed to the\
+    \ stable part of the Eurasian tectonic plate through 3 rotation rates derived\
+    \ from the ITRF2005 velocity field, representing the Eurasian plate\u2019s angular\
+    \ velocity about its Euler pole."
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: null
   remarks: The EUREF Technical Working Group (TWG) recommends not to use the ETRF2005

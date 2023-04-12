@@ -1,0 +1,18 @@
+data:
+  aliases: []
+  definition: EVRF2019 zero-tide normal height to mean-tide normal height
+  description: null
+  formula: "EVRF2019mean = EVRF2019 + 0.29541\u2219sin^2(lat) + 0.00042\u2219sin^4(lat)\
+    \ - 0.0994 - 0.08593 [m]"
+  formulaCitation: null
+  identifier: 762
+  informationSources: []
+  name: EVRF2019 zero-tide normal height to mean-tide normal height
+  parameters: []
+  remarks: The transformation formula applies to normal heights. A constant offset
+    of -0.08593 m was added to the transformation of zero-tide normal height to mean-tide
+    normal height in order to maintain a zero normal height at the EVRF2000 origin
+    in Amsterdam.
+dateAccepted: 2021-04-29
+id: 907d9606-a4c1-4d91-8259-aa62386e0145
+status: valid

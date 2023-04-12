@@ -71,8 +71,17 @@ data:
   name: WGS 84 (G873) to WGS 84 EGM84 - OHt [2]
   operationVersion: '2.0'
   parameters:
-  - fileCitation: null
-    name: Spherical harmonic coefficient file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Website
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: WGS 84, N=M=180 Earth Gravitational Model
+      uuid: a20d12dc-1145-46ec-bc53-0aff994a70f2
     parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
     type: parameter file name
     unitOfMeasurement: null

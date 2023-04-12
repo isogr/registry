@@ -92,8 +92,18 @@ data:
   name: NGVD29 - NOHt to NAVD88 - OHt [v2]
   operationVersion: v2
   parameters:
-  - fileCitation: null
-    name: Height difference file
+  - fileCitation:
+      edition: null
+      editionDate: 2003-09-29
+      isbn: null
+      issn: null
+      otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
+        transformations between NGVD 29 and NAVD 88
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: VERTCON User Manual
+      uuid: e3bfdd02-f329-4645-8cb4-622d7aa0a380
     parameter: d0e6143c-dfc2-4796-932b-ab6b67954582
     type: parameter file name
     unitOfMeasurement: null

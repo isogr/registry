@@ -1,0 +1,140 @@
+data:
+  aliases:
+  - NAD83 (1986)
+  - ' NAD83(Original)'
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: fe7342e5-304b-472c-b56e-d430b717e2cf
+  description: null
+  extent:
+    e: -47.74
+    n: 86.46
+    name: "North America - onshore and offshore: Canada - Alberta, British Columbia,\
+      \ Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories,\
+      \ Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan,\
+      \ Yukon. Puerto Rico. United States (USA) \u2013 Alaska, CONUS (Alabama, Arizona,\
+      \ Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Idaho,\
+      \ Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts,\
+      \ Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New\
+      \ Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota,\
+      \ Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South\
+      \ Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,\
+      \ Wisconsin, Wyoming), Hawaii. Virgin Islands (British). Virgin Islands (US)."
+    s: 14.92
+    w: 167.65
+  identifier: 270
+  informationSources:
+  - author: C.R. Schwarz (ed)
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration,
+      National Ocean Service, Charting and Geodetic Services, Rockville, MD
+    seriesIssueID: NOS 2
+    seriesName: NOAA Professional Paper
+    seriesPage: null
+    title: North American Datum of 1983
+    uuid: 8e56da9d-89e4-4cb7-8d28-1bd15124ccdb
+  - author: US Government
+    edition: null
+    editionDate: 1990-08-10
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of NADCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+    seriesName: 'Federal Register Notice '
+    seriesPage: '32681.0'
+    title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+    uuid: 894dd51f-89b3-4337-8ab3-a9d3d25b3d23
+  - author: R.A. Snay, M.W. Cline, E.L. Timmerman
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration,
+      National Ocean Service, Charting and Geodetic Services, Rockville, MD
+    seriesIssueID: NOS 125 NGS 42
+    seriesName: NOAA Technical Report
+    seriesPage: null
+    title: 'Project REDEAM: Models for Historical Horizontal Deformation'
+    uuid: ddb4247f-34eb-4941-b2a0-b29a15c49b1d
+  - author: D. Smith, A. Bilich
+    edition: null
+    editionDate: 2017-03-27
+    isbn: null
+    issn: null
+    otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+      datum transformations, and extents of covnversion grids.
+    publisher: NOAA's National Geodetic Survey
+    seriesIssueID: null
+    seriesName: NGS Technical Report
+    seriesPage: null
+    title: 'NADCON 5.0: Geometric Transformation Tool for points in the National Spatial
+      Reference System'
+    uuid: 154eccaa-dfb6-4f2e-8f5d-77638a0c3da4
+  - author: M. Craymer
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Canadian Institute of Geomatics
+    seriesIssueID: Volume 60, No. 2
+    seriesName: Geomatica
+    seriesPage: 151-164
+    title: The Evolution of NAD83 in Canada
+    uuid: ca3bcfd5-5d07-46b4-8ed1-a16678d52462
+  - author: J.D. Boal, J.P. Henderson
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Canadian Institute of Geomatics
+    seriesIssueID: null
+    seriesName: Papers for the CISM Seminars on the NAD '83 Redefinition in Canada
+      and the Impact on Users
+    seriesPage: null
+    title: The NAD 83 Project - Status and Background
+    uuid: c8d36aef-d441-44aa-b694-1fba21c06ef6
+  - author: R.A. Snay
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: American Society of Civil Engineers
+    seriesIssueID: Volume 138, No. 4
+    seriesName: Journal of Surveying Engineering
+    seriesPage: 161-171
+    title: 'Evolution of NAD 83 in the United States: Journey from 2D toward 4D'
+    uuid: 225dff32-dcad-49d5-9fde-6a052eacdc0d
+  - author: Canadian Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: c1969c84-cf0f-420d-afce-234fa186b849
+  name: NAD 83 (1986) - LatLon
+  operation: null
+  remarks: This CRS includes longitudes which are POSITIVE EAST. The adjustment included
+    connections to Greenland and Mexico but the system has not been adopted there.
+    Except in Alaska, for applications with an accuracy of better than 1m replaced
+    by NAD83(HARN).
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: bcac1a3a-6240-48b7-b67a-83a019ad35db
+status: valid

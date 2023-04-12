@@ -38,14 +38,32 @@ data:
   name: NAD 83 (1986) to NAD 83 (HARN) [v2]
   operationVersion: v2
   parameters:
-  - fileCitation: null
-    name: Latitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: 1990-08-10
+      isbn: null
+      issn: null
+      otherDetails: Mandates use of NADCON for official transformations between datums
+      seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+      seriesName: 'Federal Register Notice '
+      seriesPage: '32681.0'
+      title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+      uuid: 0576da3b-2744-426a-b1c8-92a4aedfb4ae
     parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
     type: parameter file name
     unitOfMeasurement: null
     value: nadcon5.nad83_1986.nad83_1992.alaska.lat.trn.20160901.b
-  - fileCitation: null
-    name: Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: 1990-08-10
+      isbn: null
+      issn: null
+      otherDetails: Mandates use of NADCON for official transformations between datums
+      seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+      seriesName: 'Federal Register Notice '
+      seriesPage: '32681.0'
+      title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+      uuid: d3069ee8-61c2-4eb3-99ee-eb2e24530c47
     parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
     type: parameter file name
     unitOfMeasurement: null

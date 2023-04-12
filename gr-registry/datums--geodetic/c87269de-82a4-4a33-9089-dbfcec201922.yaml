@@ -12,7 +12,7 @@ data:
   - NAD83CSRS
   - North American Datum 1983 v7
   coordinateReferenceEpoch: '2010.0'
-  definition: null
+  definition: North American Datum of 1983 (CSRS) version 7
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: -47.74
@@ -77,7 +77,8 @@ data:
     (BTS84).
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '2017-05-01'
-  remarks: Replaces NAD83(CSRS) v6.
+  remarks: Adopted by the Canadian federal government for Canada, and by the provincial
+    governments in Alberta and Prince Edward Island. Replaces NAD83(CSRS) v6.
   scope: Spatial referencing
 dateAccepted: 2018-11-17
 id: c87269de-82a4-4a33-9089-dbfcec201922

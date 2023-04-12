@@ -1,0 +1,53 @@
+data:
+  aliases:
+  - Australian Terrestrial Reference Frame 2014
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: 75161bc6-a6db-43c3-9fe2-afaecd2a8156
+  description: null
+  extent:
+    e: 173.34
+    n: -8.47
+    name: Australia including Lord Howe Island, Macquarie Island, Ashmore and Cartier
+      Islands, Christmas Island, Cocos (Keeling) Islands, Norfolk Island. All onshore
+      and offshore.
+    s: -60.56
+    w: 93.41
+  identifier: 786
+  informationSources:
+  - author: Geoscience Australia
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website. https://www.icsm.gov.au/australian-terrestrial-reference-frame
+      (accessed 2021-09-27)
+    publisher: Geoscience Australia
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Australian Terrestrial Reference Frame
+    uuid: c2b20b3d-4688-41eb-94b4-9bc816c3b6f1
+  - author: Intergovernmental Committee on Surveying and Mapping (ICSM)
+    edition: Version 2.3
+    editionDate: 2020-02-12
+    isbn: null
+    issn: null
+    otherDetails: https://www.icsm.gov.au/sites/default/files/2020-02/ATRF%20Technical%20Implementation%20Plan%20v2.3_1.pdf
+      (accessed 2021-09-27)
+    publisher: Geoscience Australia
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Australian Terrestrial Reference Frame (ATRF): Technical Implementation
+      Plan'
+    uuid: de4ef40f-adea-43d8-8413-5170f6949c18
+  name: ATRF2014 - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2021-11-19
+id: 26ad3f61-bfcd-4181-ac4e-af6a3dbb9da3
+status: valid

@@ -26,8 +26,17 @@ data:
   name: ATS77 to NAD27 [NBv1]
   operationVersion: NBv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Personal email communication.
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: 'RE: ATS77 - NAD27 transformation grids'
+      uuid: 103b07d7-e043-44ea-a703-5eb2eb766a60
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

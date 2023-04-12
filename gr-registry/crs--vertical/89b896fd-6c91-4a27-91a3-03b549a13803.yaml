@@ -4,6 +4,8 @@ data:
   - CVD28
   - Canadian Vertical Datum of 1928
   - Canadian Geodetic Vertical Datum of 1928
+  - GSC Datum
+  - Canadian Geodetic Datum
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical

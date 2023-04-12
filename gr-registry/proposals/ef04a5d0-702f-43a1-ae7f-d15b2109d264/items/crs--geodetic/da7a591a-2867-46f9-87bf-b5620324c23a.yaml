@@ -1,0 +1,38 @@
+data:
+  aliases:
+  - International Terrestrial Reference Frame 1993
+  - IERS Terrestrial Reference Frame 1993
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: c883a655-87e4-4697-adab-f75bd0f56976
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 263
+  informationSources:
+  - author: C. Boucher, Z. Altamimi, L. Duhem
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
+    seriesIssueID: '18.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: Results and Analysis of the ITRF93
+    uuid: ebe9f8c1-afb7-473e-9a6e-8264a3eb7747
+  name: ITRF93 - XYZ
+  operation: null
+  remarks: Replaces ITRF92 - XYZ. Replaced by ITRF94 - XYZ.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: da7a591a-2867-46f9-87bf-b5620324c23a
+status: valid

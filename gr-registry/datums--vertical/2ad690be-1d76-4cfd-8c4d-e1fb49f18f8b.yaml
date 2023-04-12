@@ -3,9 +3,12 @@ data:
   - CGVD2013(CGG2013a)
   - CGVD2013
   - CGG2013a
+  - Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimetric Geoid of 2013a)
+  - CGVD2013(CGG2013a) Epoch 2010
+  - CGVD2013 Epoch 2010
   coordinateReferenceEpoch: '2010.0'
   definition: Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimetric Geoid
-    of 2013a)
+    of 2013a) Epoch 2010
   extent:
     e: -47.74
     n: 90.0
@@ -47,18 +50,19 @@ data:
     title: Canadian Geodetic Vertical Datum of 2013
     uuid: 5a50a75d-54bc-4007-95ba-6024f3f6f57a
   name: Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimetric Geoid of 2013a)
+    Epoch 2010
   originDescription: CGVD2013(CGG2013a) is a gravimetric datum realized by the Canadian
     Gravimetric Geoid of 2013 Version A (CGG2013a), referenced to the NAD83(CSRS)
-    v6 geodetic datum. The geoid-based datum is defined by the equipotential surface
-    Wo=62,636,856.0 m*m/s/s, representing by convention the coastal mean sea level
-    for North America. The definition and geopotential value comes from an agreement
+    v6 geodetic datum at epoch 2010.0. The geoid-based datum is defined by the equipotential
+    surface Wo=62,636,856.0 m*m/s/s, representing by convention the coastal mean sea
+    level for North America. The definition and geopotential value comes from an agreement
     between Canada and the USA. The Canadian Gravimetric Geoid of 2013a (CGG2013a)
-    is the second realization of the CGVD2013 vertical datum. CGG2013a is defined
-    at epoch 2011.0 and is considered static. It is available in both the NAD83(CSRS)
-    and ITRF2008 geometric reference frames using the GRS80 ellipsoid, making it compatible
-    with space-based positioning techniques. Heights in CGVD2013(CGG2013a) are orthometric
-    and can be obtained from NAD83(CSRS) v6 or ITRF2008 ellipsoidal heights by subtracting
-    the CGG2013a geoid height in either NAD83(CSRS) v6 or ITRF2008, respectively.
+    is the second realization of the CGVD2013 vertical datum and is considered static.
+    It is available in both the NAD83(CSRS) and ITRF2008 geometric reference frames
+    using the GRS80 ellipsoid, making it compatible with space-based positioning techniques.
+    Heights in CGVD2013(CGG2013a) are orthometric and can be obtained from NAD83(CSRS)
+    v6 or ITRF2008 ellipsoidal heights by subtracting the CGG2013a geoid height in
+    either NAD83(CSRS) v6 or ITRF2008, respectively.
   releaseDate: '2015'
   remarks: Second realization of CGVD2013. Replaces CGVD2013(CGG2013). Orthometric
     heights.

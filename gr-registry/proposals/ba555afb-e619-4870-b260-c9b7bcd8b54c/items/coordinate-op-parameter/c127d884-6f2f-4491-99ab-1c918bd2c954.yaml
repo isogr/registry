@@ -1,0 +1,25 @@
+data:
+  aliases:
+  - d(rX)
+  definition: null
+  identifier: 50
+  informationSources:
+  - author: International Association of Oil and Gas Producers (IOGP)
+    edition: '51.0'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Association of Oil and Gas Producers (IOGP)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: a6e2b5e2-bfa6-4fef-a0fd-1e1bf4e8b46c
+  minimumOccurs: null
+  name: Rate of change of X-axis rotation
+  remarks: null
+dateAccepted: 2018-11-17
+id: c127d884-6f2f-4491-99ab-1c918bd2c954
+status: valid

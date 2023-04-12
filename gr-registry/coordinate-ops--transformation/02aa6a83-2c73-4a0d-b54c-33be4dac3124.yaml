@@ -26,8 +26,17 @@ data:
   name: ATS77 to NAD27 [NSv1]
   operationVersion: NSv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Personal email communication.
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: 'RE: NAD27 - ATS77 transformation?'
+      uuid: 3b890d68-3b11-4d37-a2d8-9a5f560fc7a9
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

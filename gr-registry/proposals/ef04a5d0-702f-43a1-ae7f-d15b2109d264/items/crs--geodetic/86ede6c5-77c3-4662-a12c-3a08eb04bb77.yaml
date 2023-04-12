@@ -1,0 +1,67 @@
+data:
+  aliases:
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - SIR13P01
+  - SIRGAS Multi-Year Solution 2013
+  - Geocentric Reference System for the Americas
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: fe541505-57a6-4ac6-92a7-d455623504fc
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 399
+  informationSources:
+  - author: L. Sanchez, H. Drewes, C. Brunini, M.V. Mackern, W. Martinez-Diaz
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '143.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 183-190
+    title: SIRGAS core network stability
+    uuid: 8830f39e-4db3-4f3a-9c4f-e2593bbd8694
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
+      International Association of Geodesy Symposia, Vol 136. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '136.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 657-664
+    title: The 2009 Horizontal Velocity Field for South America and the Caribbean
+    uuid: ff069ce0-11f9-4609-a106-d5c05665c031
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 49143a25-b6b5-446e-89fa-8e28254c80f9
+  name: SIRGAS-CON SIR13P01 - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 86ede6c5-77c3-4662-a12c-3a08eb04bb77
+status: valid

@@ -28,8 +28,17 @@ data:
   name: ITRF2008 to CGVD2013(CGG2013) - OHt [v1]
   operationVersion: v1
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: Volume 70, No. 1
+      seriesName: Geomatica
+      seriesPage: '9.0'
+      title: The Canadian Geodetic Vertical Datum of 2013 (CGVD2013)
+      uuid: 39dd4478-c9a3-44d0-8544-d2aa64b93de1
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null

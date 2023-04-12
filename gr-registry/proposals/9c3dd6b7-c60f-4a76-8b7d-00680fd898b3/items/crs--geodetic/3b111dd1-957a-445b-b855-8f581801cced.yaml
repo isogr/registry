@@ -1,0 +1,50 @@
+data:
+  aliases:
+  - International Terrestrial Reference Frame 2008
+  - IERS Terrestrial Reference Frame 2008
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: d60ba1b6-fae6-4563-b0c7-5f463a5ccda9
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 392
+  informationSources:
+  - author: IERS
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '164.0'
+    seriesName: IERS Message
+    seriesPage: null
+    title: ITRF2008 is available on line
+    uuid: fbb57a8a-4033-4dca-9adf-0b11a277792a
+  - author: Z. Altamimi, X. Collilieux, L. Metivier
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Earth Rotation and Reference Systems Service Central
+      Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
+      Germany
+    seriesIssueID: '37.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: Analysis and results of ITRF2008
+    uuid: cfd51613-284b-4b33-9b27-9a6a6ad41fb4
+  name: ITRF2008 - LatLon
+  operation: null
+  remarks: Replaces ITRF2005 - LatLon. Replaced by ITRF2014 - LatLon.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 3b111dd1-957a-445b-b855-8f581801cced
+status: valid

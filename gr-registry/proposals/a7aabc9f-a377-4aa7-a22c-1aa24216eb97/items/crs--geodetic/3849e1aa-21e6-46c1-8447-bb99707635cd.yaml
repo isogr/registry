@@ -1,0 +1,89 @@
+data:
+  aliases:
+  - SIR15P01
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - Geocentric Reference System for the Americas
+  - SIRGAS Multi-Year Solution 2015
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: efa523f0-b7a4-45ad-8e94-7c946b881472
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 446
+  informationSources:
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 90e977e6-da91-4c7d-897d-aae3e91fb677
+  - author: L. Sanchez, H. Drewes
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal deformation\
+      \ and surface kinematics after the 2010 earthquakes in Latin America. Journal\
+      \ of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
+    publisher: PANGAEA
+    seriesIssueID: 10.1594/PANGAEA.863131
+    seriesName: PANGAEA
+    seriesPage: null
+    title: 'VEMOS2015: Velocity and deformation model for Latin America and the Caribbean,
+      link to ZIP archive'
+    uuid: b8272ccb-1789-403f-baed-089f0d2e868a
+  - author: L. Sanchez, H. Drewes
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'Data for paper included in two supplements: Sanchez L., Drewes
+      H (2016): SIR15P01: Multiyear solution for the SIRGAS Reference Frame, link
+      to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.862536; Sanchez L., Drewes H (2016):
+      VEMOS2015: Velocity and deformation model for Latin America and the Caribbean,
+      link to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.863131.'
+    publisher: Elsevier
+    seriesIssueID: '102.0'
+    seriesName: Journal of Geodynamics
+    seriesPage: '2023-01-01'
+    title: Crustal deformation and surface kinematics after the 2010 earthquakes in
+      Latin America
+    uuid: 4a5626a7-1c4a-45ec-a62e-b3cc59bc37d5
+  - author: L. Sanchez, H. Drewes
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal deformation\
+      \ and surface kinematics after the 2010 earthquakes in Latin America. Journal\
+      \ of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
+    publisher: PANGAEA
+    seriesIssueID: 10.1594/PANGAEA.862536
+    seriesName: PANGAEA
+    seriesPage: null
+    title: 'SIR15P01: Multiyear solution for the SIRGAS Reference Frame, link to ZIP
+      archive'
+    uuid: 6a49c3a5-0cad-4d9e-9314-a341755de52c
+  name: SIRGAS-CON SIR15P01 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 3849e1aa-21e6-46c1-8447-bb99707635cd
+status: valid

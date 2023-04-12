@@ -1,0 +1,104 @@
+data:
+  aliases:
+  - ETRF89
+  - EUREF 89
+  - ETRS 89
+  - European Terrestrial Reference System 1989
+  - ETRS89
+  coordinateReferenceEpoch: '1989.0'
+  definition: European Terrestrial Reference Frame 1989
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: 39.65
+    n: 84.17
+    name: 'Europe - onshore and offshore: Albania, Andorra, Austria, Belgium, Bosnia
+      and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+      Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Hungary, Ireland,
+      Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco,
+      Montenegro, Netherlands, Norway including Svalbard and Jan Mayen, Poland, Portugal,
+      Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland,
+      United Kingdom (UK) including Channel Islands and Isle of Man, Vatican City
+      State.'
+    s: 32.88
+    w: -16.1
+  identifier: 128
+  informationSources:
+  - author: IAG
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Verlag des Bayerischen Akademie der Wissenschaften
+    seriesIssueID: '1.0'
+    seriesName: IAG Subcommission for the European Reference Frame (EUREF) Publication
+    seriesPage: null
+    title: Report on the Symposium of the IAG Subcommission for the EUREF held in
+      Florence 28 - 31 May 1990
+    uuid: df06127b-b019-4857-a4b2-e0cc77fe118f
+  - author: IAG
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Verlag des Bayerischen Akademie der Wissenschaften
+    seriesIssueID: '1.0'
+    seriesName: IAG Subcommission for the European Reference Frame (EUREF) Publication
+    seriesPage: null
+    title: Report on the Symposium of the IAG Subcommission for the EUREF held in
+      Vienna 14 and 16 August 1991
+    uuid: 927c4766-1665-4880-98be-dd6018095bc8
+  - author: Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
+      re (IGN), France"
+    seriesIssueID: '1.0'
+    seriesName: IERS Technical Note
+    seriesPage: null
+    title: 'EUREF Technical Note 1: Relationship and Transformation between the International
+      and the European Terrestrial Reference Systems'
+    uuid: 296f9d75-bf53-475c-96d1-74b97cfa33d6
+  - author: IAG
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Verlag des Bayerischen Akademie der Wissenschaften
+    seriesIssueID: '1.0'
+    seriesName: IAG Subcommission for the European Reference Frame (EUREF) Publication
+    seriesPage: null
+    title: Report on the Symposium of the IAG Subcommission for the EUREF held in
+      Berne 4 - 6 March 1992
+    uuid: 99e69f6f-29bc-44ef-a970-fbc192d1ac47
+  - author: Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'ETRS89 realization: Current status, ETRF2005 and Future Development'
+    uuid: 645adf41-d73a-418e-95f7-f89a554d26b2
+  name: European Terrestrial Reference Frame 1989
+  originDescription: "Coincides with ITRF89 at epoch 1989.0 and is fixed to the stable\
+    \ part of the Eurasian tectonic plate through 3 rotation rates derived from the\
+    \ AM02 geophysical model, representing the Eurasian plate\u2019s angular velocity\
+    \ about its Euler pole."
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '1990'
+  remarks: ETRS89 is the reference system and ETRF89 is its first realization. Unfortunately
+    the two terms have been used synonymously, which has caused some confusion amongst
+    users. The reference frame should be referred to as ETRF89 to distinguish it from
+    other realizations of ETRS89.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: c416269e-8148-4f59-a137-6c122e10e18a
+status: valid

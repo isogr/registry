@@ -28,7 +28,7 @@ data:
   name: IGb08 - LatLon
   operation: null
   remarks: Replaces IGS08 - LatLon. Replaced by IGS14 - LatLon. Used by IGS products
-    within the period 2012-10-07 thru 2017-01-29.
+    within the period 2012-10-07 thru 2017-01-28.
   scope: Spatial referencing
 dateAccepted: 2018-11-17
 id: 0518a42f-9278-4297-b7ee-3b708ebd437a

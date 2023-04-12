@@ -1,0 +1,85 @@
+data:
+  aliases:
+  - North American Datum of 1983 (CORS96) Epoch 2002.0
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 3df6ee5f-e359-4ca4-b23b-855eb0ae0b77
+  description: null
+  extent:
+    e: -63.88
+    n: 74.71
+    name: 'United States and Territories - onshore and offshore: Puerto Rico. United
+      States (USA) - Alaska, CONUS (Alabama, Arizona, Arkansas, California, Colorado,
+      Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas,
+      Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi,
+      Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico,
+      New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania,
+      Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont,
+      Virginia, Washington, West Virginia, Wisconsin, Wyoming). Virgin Islands (US).'
+    s: 14.92
+    w: 167.65
+  identifier: 338
+  informationSources:
+  - author: D. Smith, A. Bilich
+    edition: null
+    editionDate: 2017-03-27
+    isbn: null
+    issn: null
+    otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+      datum transformations, and extents of covnversion grids.
+    publisher: NOAA's National Geodetic Survey
+    seriesIssueID: null
+    seriesName: NGS Technical Report
+    seriesPage: null
+    title: 'NADCON 5.0: Geometric Transformation Tool for points in the National Spatial
+      Reference System'
+    uuid: f36fc654-eddf-4b9d-ac95-46f791d0b3c6
+  - author: US Government
+    edition: null
+    editionDate: 1990-08-10
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of NADCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+    seriesName: 'Federal Register Notice '
+    seriesPage: '32681.0'
+    title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+    uuid: 0e2227e5-c373-44cf-abd9-5c64850b652f
+  - author: National Geodetic Survey
+    edition: null
+    editionDate: 2017-03-16
+    isbn: null
+    issn: null
+    otherDetails: webpage
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
+    seriesIssueID: null
+    seriesName: NGS Online listing of transformation parameters
+    seriesPage: null
+    title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
+      Frames
+    uuid: 808bb98f-c7cc-4dc6-b78d-222e653b0438
+  - author: R.A. Snay, T. Soler
+    edition: null
+    editionDate: 2008-04-01
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (CORS96) Epoch 1996.0,NAD83 (CORS96) Epoch 1997.0,NAD83 (CORS96)
+      Epoch 2002.0
+    publisher: ASCE
+    seriesIssueID: Volume 134, No. 4
+    seriesName: Journal of Surveying Engineering
+    seriesPage: 95-104
+    title: 'Continuously Operating Reference Station (CORS): History, Applications,
+      and Future Enhancements'
+    uuid: f7bfc39f-f426-4fb3-a055-3ca16c678d8b
+  name: NAD 83 (CORS96) Epoch 2002.0 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 93d292e4-5a47-481d-9598-083da023bab6
+status: valid

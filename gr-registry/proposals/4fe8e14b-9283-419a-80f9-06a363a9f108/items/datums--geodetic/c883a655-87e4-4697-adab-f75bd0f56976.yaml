@@ -1,0 +1,72 @@
+data:
+  aliases:
+  - IERS Terrestrial Reference Frame 1993
+  - ITRF93
+  coordinateReferenceEpoch: '1993.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 122
+  informationSources:
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
+    seriesIssueID: '36.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS Conventions (2010)
+    uuid: cfa854f0-3b57-471e-94b4-57d92aed58e9
+  - author: C. Boucher, Z. Altamimi, L. Duhem
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
+    seriesIssueID: '18.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: Results and Analysis of the ITRF93
+    uuid: be25e79b-1a21-40b9-abb9-9db4ac22bc48
+  name: International Terrestrial Reference Frame 1993
+  originDescription: 'Realisation of the IERS Terrestrial Reference System (ITRS)
+    at reference epoch 1993.0.
+
+    Origin and orientation constrained to those of ITRF91.
+
+    The time evolution of the orientation follows the geophysical model NNR-NUVEL1A.
+
+    Datum defined by a set of 3 dimensional Cartesian station coordinates and velocities
+    given by the citations.
+
+    The ITRF93 global combined solution is divided into three parts: a set of station
+    coordinates at epoch 1988.0 (not published), a set of station coordinates at epoch
+    1993.0, and a velocity field consistent with the above two sets.
+
+    The consistency of the ITRF93 with the IERS series of EOP at the two epochs 1988.0
+    and 1993.0 defines the orientation and time evolution of the ITRF93.
+
+    The origin and the scale of the ITRF93 are defined by holding to zero the three
+    translations and the scale factor of the SLR Solution SSC(CSR) 94 L 01 in the
+    two coordinates sets at the two epochs.'
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '1994-10-01'
+  remarks: 'Replaces ITRF92. Replaced by ITRF94.
+
+    This is a purely Cartesian reference frame with no ellipsoid defined.
+
+    GRS80 is the ellipsoid recommended by the IAG and IERS.'
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: c883a655-87e4-4697-adab-f75bd0f56976
+status: valid

@@ -1,0 +1,62 @@
+data:
+  aliases:
+  - NAD83v7
+  - CSRS
+  - NAD83(CSRS)
+  - Canadian Spatial Reference System 1998
+  - Canadian Spatial Reference System
+  - NAD83(CSRS98)
+  - NAD83(CSRS)v7
+  - CSRS98
+  - NAD83
+  - North American Datum 1983 v7
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: c87269de-82a4-4a33-9089-dbfcec201922
+  description: null
+  extent:
+    e: -47.74
+    n: 90.0
+    name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut,
+      Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: 40.04
+    w: -141.01
+  identifier: 448
+  informationSources:
+  - author: M. Craymer
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada
+    seriesIssueID: null
+    seriesName: Presentation to Canadian Geodetic Reference Systems Committee Meeting,
+      Ottawa, May 1-2, 2017
+    seriesPage: null
+    title: 'Reference Frames: National & International'
+    uuid: 5dd7a15f-a2e0-40c7-83db-f4cbff040c26
+  - author: Canadian Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Canadian Spatial Reference System (CSRS)
+    uuid: 4c94043b-d2fe-4099-80e4-ac161232bf47
+  name: NAD83(CSRS) v7 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: aae1069b-f4ff-4cf7-9de0-08977dc1ca29
+status: valid

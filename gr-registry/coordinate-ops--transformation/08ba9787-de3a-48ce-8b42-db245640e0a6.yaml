@@ -28,8 +28,17 @@ data:
   name: NAD 83 (HARN) to NAVD88 - OHt [v8]
   operationVersion: v8
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: National Geodetic Survey Geoid Homepage
+      uuid: a47d294d-1fc4-4ac2-b9d8-e744adb74db4
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null

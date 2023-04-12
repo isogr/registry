@@ -7,7 +7,7 @@ data:
   - Geocentric Reference System for the Americas
   - Geocentric Reference System for South America
   coordinateReferenceEpoch: '2000.4'
-  definition: null
+  definition: Sistema de Referencia Geocentrico para America del Sur 2000
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: -25.28
@@ -55,7 +55,7 @@ data:
   originDescription: Realized by a frame of 184 continuously operating and campaign
     stations using GPS observations from ten days in May 2000 and aligned to ITRF2000
     at epoch 2000.4. Velocity model VEMOS2003 used to propagate coordinates from an
-    arbitrary epoch to the 2000.4 reference epoch.G104
+    arbitrary epoch to the 2000.4 reference epoch.
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '2005'
   remarks: Name changed from "South American Geocentric Reference System" to "Geocentric

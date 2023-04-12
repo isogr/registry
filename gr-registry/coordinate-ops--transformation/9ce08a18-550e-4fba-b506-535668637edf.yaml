@@ -59,8 +59,19 @@ data:
   name: NAD27 to NAD83(Original) [CAv1]
   operationVersion: CAv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: null
+      seriesName: 'Moving to NAD ''83: the new address for georeferenced data in Canada,
+        D.C. Barnes (ed.)'
+      seriesPage: 16-40
+      title: The National Transformation for Converting Between NAD27 and NAD83 in
+        Canada
+      uuid: f4677fda-d888-49f7-bad6-6618bafe6ca3
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

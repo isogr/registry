@@ -1,0 +1,39 @@
+data:
+  aliases:
+  - GDA2020
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: ca368c22-d3b7-4f7c-a447-7b7bae1c44d1
+  description: null
+  extent:
+    e: 173.4
+    n: -8.47
+    name: Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
+      Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore. Cocos
+      (Keeling) Islands - onshore and offshore.
+    s: -60.56
+    w: 93.41
+  identifier: 404
+  informationSources:
+  - author: Permanent Committee on Geodesy of the Intergovernmental Committee on Surveying
+      and Mapping
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Intergovernmental Committee on Surveying and Mapping
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
+    uuid: 7808263a-de05-4ec1-9876-8c28fab22e92
+  name: GDA2020 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing.
+dateAccepted: 2018-11-17
+id: c100e793-17fd-450b-b872-008569dae0af
+status: valid

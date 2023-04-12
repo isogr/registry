@@ -1,0 +1,36 @@
+data:
+  aliases: []
+  definition: null
+  identifier: 66
+  informationSources:
+  - author: Land Information New Zealand
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Land Information New Zealand
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: NZGD2000 Deformation Model Format (Version 1.0)
+    uuid: 63a72001-3484-43fe-919e-8f37c03a87e5
+  - author: Office of the Surveyor General
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Land Information New Zealand
+    seriesIssueID: LINZS25000
+    seriesName: null
+    seriesPage: null
+    title: Standard for New Zealand Geodetic Datum 2000
+    uuid: 3d84a838-fb56-4071-bf3d-5fd17050c764
+  minimumOccurs: null
+  name: NZGD2000 deformation model files
+  remarks: The name of the zip file containing all the files required to apply a deformation
+    model consisting of one or more sub-models.
+dateAccepted: 2018-11-17
+id: 1df0907d-ac5b-4263-8d90-18d0f3c0d19c
+status: valid

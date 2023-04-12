@@ -1,0 +1,63 @@
+data:
+  aliases:
+  - IERS Terrestrial Reference Frame 2000
+  - International Terrestrial Reference Frame 2000
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: f0f0d6cf-c4ad-4a7a-bda1-bbe3517e5779
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 300
+  informationSources:
+  - author: C.S. DeMets, R.G. Gordon, D.F. Argus, S. Stein
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: American Geophysical Union
+    seriesIssueID: Volume 21, Issue 20
+    seriesName: Geophysical Research Letters
+    seriesPage: null
+    title: Effect of recent revisions to the geomagnetic reversal time scale on estimates
+      of current plate motions
+    uuid: e467414d-2f43-4014-ba33-65f5bd3876be
+  - author: C. Boucher, Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '5.0'
+    seriesName: IERS Message
+    seriesPage: null
+    title: 'IERS Message No. 5: ITRF2000 Primary Solution'
+    uuid: c9da2ff5-7c12-4bec-b54d-79a58ea9e643
+  - author: C. Boucher, Z. Altamimi, P. Sillard, M. Feissel-Vernier
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Earth Rotation and Reference Systems Service Central
+      Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
+      Germany
+    seriesIssueID: '31.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: The ITRF2000
+    uuid: 5e90177d-6b61-4ea4-b657-12518221d095
+  name: ITRF2000 - LatLon
+  operation: null
+  remarks: Replaces ITRF97 - LatLon . Replaced by ITRF2005 - LatLon .
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: b9403da3-5dba-4a7e-8b40-29961b40250a
+status: valid

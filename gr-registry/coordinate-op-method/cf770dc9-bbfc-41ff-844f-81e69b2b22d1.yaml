@@ -4,7 +4,18 @@ data:
   description: null
   formula: 'The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height Transformation
     for Use With GPS in Canada'
-  formulaCitation: []
+  formulaCitation:
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height Transformation
+      for Use With GPS in Canada'
+    uuid: 4e373cbc-b9ed-4c3a-ba7c-793e493e5c83
   identifier: 89
   informationSources: []
   name: Geographic3D to Gravity Related Height (Canada)
