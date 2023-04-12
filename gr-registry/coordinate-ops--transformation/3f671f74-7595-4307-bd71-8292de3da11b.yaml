@@ -26,8 +26,17 @@ data:
   name: NAD 83 (2011) Epoch 2010 to NAVD88 - OHt [v2]
   operationVersion: v2
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: National Geodetic Survey Geoid Homepage
+      uuid: b24b7e24-76cf-4877-a121-0b1fdcc646cb
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null

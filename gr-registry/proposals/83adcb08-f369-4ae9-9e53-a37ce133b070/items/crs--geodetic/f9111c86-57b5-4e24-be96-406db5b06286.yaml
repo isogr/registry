@@ -1,0 +1,70 @@
+data:
+  aliases:
+  - European Terrestrial Reference Frame 1992
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: c883d52e-0e62-4b3e-ac50-a447ba54c16c
+  description: null
+  extent:
+    e: 39.65
+    n: 84.17
+    name: 'Europe - onshore and offshore: Albania, Andorra, Austria, Belgium, Bosnia
+      and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+      Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Hungary, Ireland,
+      Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco,
+      Montenegro, Netherlands, Norway including Svalbard and Jan Mayen, Poland, Portugal,
+      Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland,
+      United Kingdom (UK) including Channel Islands and Isle of Man, Vatican City
+      State.'
+    s: 32.88
+    w: -16.1
+  identifier: 369
+  informationSources:
+  - author: Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
+      re (IGN), France"
+    seriesIssueID: '1.0'
+    seriesName: IERS Technical Note
+    seriesPage: null
+    title: 'EUREF Technical Note 1: Relationship and Transformation between the International
+      and the European Terrestrial Reference Systems'
+    uuid: 3ac5db4c-bf8c-4bf7-a978-f4aaeea59b75
+  - author: Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'ETRS89 realization: Current status, ETRF2005 and Future Development'
+    uuid: c6d019dd-baf7-41c7-acc3-8b862b5e9d60
+  - author: C. Boucher, Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Institute National de l'Information Geographique et Forestiere (IGN),
+      Laboratoire de Recherche en Geodesie (LAREG)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Memo : Specifications for reference frame fixing in the analysis of a
+      EUREF GPS campaign (version 8)'
+    uuid: ccad50c8-f9ff-46d6-99c9-768d0e963efd
+  name: ETRF92 - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: f9111c86-57b5-4e24-be96-406db5b06286
+status: valid

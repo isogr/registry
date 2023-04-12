@@ -2,7 +2,7 @@ data:
   aliases:
   - ETRF94
   coordinateReferenceEpoch: '1989.0'
-  definition: null
+  definition: European Terrestrial Reference Frame 1994
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: 39.65
@@ -52,11 +52,14 @@ data:
       EUREF GPS campaign (version 8)'
     uuid: 4a98deb3-005a-4464-90e9-29089a82e026
   name: European Terrestrial Reference Frame 1994
-  originDescription: Realization of ETRS89 through a transformation formula from ITRF94
-    to ETRF94.
+  originDescription: "Coincides with ITRF94 in orientation and scale at epoch 1989.0\
+    \ realigned to ITRF89 at epoch 1989.0 using 3 translations and is fixed to the\
+    \ stable part of the Eurasian tectonic plate through 3 rotation rates derived\
+    \ from the NNR-NUVEL-1A geophysical model, representing the Eurasian plate\u2019\
+    s angular velocity about its Euler pole."
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: null
-  remarks: null
+  remarks: The ETRF94 reference frame is a realisation of the ETRS89 reference system.
   scope: Spatial referencing
 dateAccepted: 2018-11-17
 id: 347c46db-801e-4d78-bb48-9e98c9ec8bf2

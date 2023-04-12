@@ -34,20 +34,53 @@ data:
   name: NAD 83 (2007) to NAD 83 (2011) [v1]
   operationVersion: v1
   parameters:
-  - fileCitation: null
-    name: Latitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: 2017-03-27
+      isbn: null
+      issn: null
+      otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+        datum transformations, and extents of covnversion grids.
+      seriesIssueID: null
+      seriesName: NGS Technical Report
+      seriesPage: null
+      title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
+        Spatial Reference System'
+      uuid: b263c313-31d6-4eac-a870-b3d5dc8ceb53
     parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
     type: parameter file name
     unitOfMeasurement: null
     value: nadcon5.nad83_2007.nad83_2011.conus.lat.trn.20160901.b
-  - fileCitation: null
-    name: Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: 2017-03-27
+      isbn: null
+      issn: null
+      otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+        datum transformations, and extents of covnversion grids.
+      seriesIssueID: null
+      seriesName: NGS Technical Report
+      seriesPage: null
+      title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
+        Spatial Reference System'
+      uuid: 3d3830b5-dfd6-4117-b6a2-a427676b5d41
     parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
     type: parameter file name
     unitOfMeasurement: null
     value: nadcon5.nad83_2007.nad83_2011.conus.lon.trn.20160901.b
-  - fileCitation: null
-    name: Height difference file
+  - fileCitation:
+      edition: null
+      editionDate: 2017-03-27
+      isbn: null
+      issn: null
+      otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+        datum transformations, and extents of covnversion grids.
+      seriesIssueID: null
+      seriesName: NGS Technical Report
+      seriesPage: null
+      title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
+        Spatial Reference System'
+      uuid: d9d9d2fd-b762-4bda-91de-a428b6fbe446
     parameter: d0e6143c-dfc2-4796-932b-ab6b67954582
     type: parameter file name
     unitOfMeasurement: null

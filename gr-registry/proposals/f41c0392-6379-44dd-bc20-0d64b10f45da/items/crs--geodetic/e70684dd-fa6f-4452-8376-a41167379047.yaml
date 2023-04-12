@@ -1,0 +1,69 @@
+data:
+  aliases:
+  - SIRGAS2000
+  - SIRGAS 2000
+  - Sistema de Referencia Geocentrico para las Americas
+  - South American Geocentric Reference System 2000
+  - Geocentric Reference System for the Americas
+  - Geocentric Reference System for South America
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 4ded38f4-bc72-40be-9f70-d44b495522b1
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 398
+  informationSources:
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: d7248d73-51cf-47b6-844a-7dd5838db89e
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 0192bca0-2c1c-4ec1-b317-35a6e61876a2
+  - author: H. Drewes, K. Kaniuth, C. Voelksen, S.M. Alves Costa, L.P. Souto Fortes
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 32-37
+    title: Results of the SIRGAS campaign 2000 and coordinates variations with respect
+      to the 1995 South American geocentric reference frame
+    uuid: 46860a82-4ca2-4fa2-8568-553b3d1967cf
+  name: SIRGAS2000 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: e70684dd-fa6f-4452-8376-a41167379047
+status: valid

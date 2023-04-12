@@ -2,7 +2,7 @@ data:
   aliases:
   - International GNSS Service 2008 (v2)
   coordinateReferenceEpoch: '2005.0'
-  definition: null
+  definition: IGb08
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: 180.0
@@ -33,16 +33,15 @@ data:
     title: Chronology of IGS Reference Frame Usage
     uuid: 5c93c554-faf4-4484-a441-a52c0c465035
   name: IGb08
-  originDescription: 'Derived from and aligned to a subset of 232 stable, well-performing
-    IGS station coordinates and velocities in ITRF2008 at epoch 2005.0.
-
-    An update to IGS08, designed mostly to recover unuseable reference frame sites,
-    accompanied by an update to ground and satellite antenna calibrations, including
-    new estimates for Block IIF satellites.'
+  originDescription: "Derived from and aligned to a subset of 232 stable, well-performing\
+    \ IGS station coordinates and velocities in ITRF2008 at epoch 2005.0.\r\nAn update\
+    \ to IGS08, designed mostly to recover unuseable reference frame sites, accompanied\
+    \ by an update to ground and satellite antenna calibrations, including new estimates\
+    \ for Block IIF satellites."
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '2012-10-07'
   remarks: Replaces IGS08.  Replaced by IGS14. Used by IGS products within the period
-    2012-10-07 thru 2017-01-29.
+    2012-10-07 thru 2017-01-28.
   scope: Spatial Referencing
 dateAccepted: 2018-11-17
 id: a1ff2146-b586-44e7-b975-2660efb87bdf

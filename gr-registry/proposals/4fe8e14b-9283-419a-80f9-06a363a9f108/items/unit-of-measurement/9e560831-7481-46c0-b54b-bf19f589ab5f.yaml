@@ -1,0 +1,29 @@
+data:
+  aliases:
+  - ftUS
+  - American foot
+  - ft[US]
+  denominator: 39.37
+  identifier: 7
+  informationSources:
+  - author: A.V. Astin, H.A. Karo
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: 'US National Bureau of Standards '
+    seriesIssueID: Volume 24, Number 128, Document 59-5442
+    seriesName: Federal Register Notice
+    seriesPage: '5348.0'
+    title: Refinement of values for the yard and the pound
+    uuid: c1bd536d-d303-4d7a-a243-954117c06077
+  measureType: LENGTH
+  name: US survey foot
+  numerator: 12.0
+  remarks: Used in USA.
+  standardUnit: 932dce03-daeb-4762-ac71-81c69c41746b
+  symbol: ftUS
+dateAccepted: 2018-11-17
+id: 9e560831-7481-46c0-b54b-bf19f589ab5f
+status: valid

@@ -49,14 +49,32 @@ data:
   name: WGS 84 (G1674) to WGS 84 EGM96 - OHt [2]
   operationVersion: '2.0'
   parameters:
-  - fileCitation: null
-    name: Spherical harmonic coefficient file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
+      uuid: 03971510-a91f-46b1-8c4c-db9cb66b53d2
     parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
     type: parameter file name
     unitOfMeasurement: null
     value: egm96.exe
-  - fileCitation: null
-    name: Spherical harmonic correction coefficients file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
+      uuid: 048fccd1-d600-4ddb-84ea-cccd605ff621
     parameter: f5cb1159-d48d-4f8e-b907-824a07b3f5ad
     type: parameter file name
     unitOfMeasurement: null

@@ -1,0 +1,77 @@
+data:
+  aliases:
+  - Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimatric Geoid of 2013a)
+  - Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimatric Geoid of 2013a)
+    Epoch 1997
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--vertical
+    itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum: 5b0cabaa-9b8c-46fb-8362-3cefdf8670a0
+  description: null
+  extent:
+    e: -47.74
+    n: 90.0
+    name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut,
+      Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: 40.04
+    w: -141.01
+  identifier: 965
+  informationSources:
+  - author: Judith Bosse
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: http://www.gazette.gc.ca/ (accessed 2022-01-21).
+    publisher: Government of Canada
+    seriesIssueID: Part I, December 5, 2015
+    seriesName: Canada Gazette
+    seriesPage: '2587.0'
+    title: Canadian Geodetic Vertical Datum of 2013
+    uuid: 0c5338f8-f231-4e36-8030-f4c5d8412f8d
+  - author: Canadian Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
+      (accessed 2022-01-21).
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geoid Models
+    uuid: 466a0233-525d-4c37-a0ab-b7c12614173a
+  - author: 'M. Veronneau, J. Huang '
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: Internal Report
+    seriesPage: null
+    title: "Canadian Gravimetric Geoid 2013 \u2013 Version A (CGG2013a)"
+    uuid: 2c5e6f2c-bb97-44c4-afcc-f5328ef7eac5
+  - author: M. Veronneau, J. Huang
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: http://dx.doi.org/10.5623/cig2016-101 (accessed 2022-01-21).
+    publisher: Canadian Institute of Geomatics
+    seriesIssueID: Volume 70, No. 1
+    seriesName: Geomatica
+    seriesPage: '42997.0'
+    title: The Canadian Geodetic Vertical Datum of 2013 (CGVD2013)
+    uuid: 5a65c3a7-0f40-4d40-851d-aa7ca265717b
+  name: CGVD2013(CGG2013a) epoch 1997 - OHt
+  operation: null
+  remarks: CGVD2013 heights at epoch 1997.0.
+  scope: Spatial referencing.
+dateAccepted: 2022-07-25
+id: 27342547-6757-4afe-8834-bd943214df17
+status: valid

@@ -28,7 +28,7 @@ data:
   name: IGb08 - XYZ
   operation: null
   remarks: Replaces IGS08 - XYZ. Replaced by IGS14 - XYZ. Used by IGS products within
-    the period 2012-10-07 thru 2017-01-29.
+    the period 2012-10-07 thru 2017-01-28.
   scope: Spatial referencing
 dateAccepted: 2018-11-17
 id: 210b1e65-ae2d-4d77-9bd6-9746d89b3f5d

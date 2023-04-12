@@ -1,0 +1,71 @@
+data:
+  aliases:
+  - SIRGAS Multi-Year Solution 2007
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - Geocentric Reference System for the Americas
+  - DGFI07P01
+  - DGF07P01
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: 1998fb17-8e45-4936-8471-65f1d2e41ee5
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 324
+  informationSources:
+  - author: W. Seemueller, M. Kruegel, H. Drewes, A. Abolghasem
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: AGU Fall Meeting. San Francisco, USA, December 10 - 14, 2007, Abstract
+      G43C-1471
+    publisher: American Geophysical Union
+    seriesIssueID: Volume 88, No. 52, Abstract G43C-1471
+    seriesName: Eos Transactions, Fall Meeting Supplement
+    seriesPage: null
+    title: The new position and velocity solution DGF07P01 of the IGS Regional Network
+      Associate Analysis Center for SIRGAS (IGS RNAAC SIR)
+    uuid: d739a159-9d4f-42d9-be90-de971cd55f70
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: bd6c766f-29b0-4a24-b04f-e8d3ced69220
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: fc5568e3-f6ca-4ea0-afdc-a31b61b23b45
+  name: SIRGAS-CON DGF07P01 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 255b0c5b-378b-4f71-b8bc-79f3ecadf9ff
+status: valid

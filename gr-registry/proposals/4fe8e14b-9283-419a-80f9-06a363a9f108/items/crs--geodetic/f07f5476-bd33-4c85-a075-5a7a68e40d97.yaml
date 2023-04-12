@@ -1,0 +1,69 @@
+data:
+  aliases:
+  - SIRGAS
+  - SIRGAS-CON
+  - SIR11P01
+  - Sistema de Referencia Geocentrico para las Americas
+  - SIRGAS Multi-Year Solution 2011
+  - Geocentric Reference System for the Americas
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 7c659f61-1408-462d-a2f7-20c0fded0bcb
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 307
+  informationSources:
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
+      International Association of Geodesy Symposia, Vol 136. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '136.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 657-664
+    title: The 2009 Horizontal Velocity Field for South America and the Caribbean
+    uuid: 2927a960-3029-4476-bbd5-627ada5d2c6a
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 664ac2d1-ed68-4bc6-9482-ff8cfe973b86
+  - author: L. Sanchez, M. Seitz
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Data for paper included in supplement SIRGAS reference frame realization
+      SIR11P01.
+    publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany, PANGAEA
+    seriesIssueID: No. 87
+    seriesName: DGFI Report
+    seriesPage: null
+    title: Recent activities of the IGS Regional Network Associate Analysis Centre
+      for SIRGAS (IGS RNAAC SIR)
+    uuid: 46006cbb-ddcc-4998-80e3-928876932546
+  name: SIRGAS-CON SIR11P01 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: f07f5476-bd33-4c85-a075-5a7a68e40d97
+status: valid

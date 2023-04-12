@@ -46,8 +46,17 @@ data:
   name: NAD27(CGQ77) to NAD83(Original) [QCv1]
   operationVersion: QCv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Personal email communication.
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: 'RE: GSD file'
+      uuid: 60b3c8da-7f81-4637-acb7-9ffab079788b
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

@@ -27,16 +27,24 @@ data:
   name: GDA94 to AHD [GA-mainland v1]
   operationVersion: GA-mainland v1
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      edition: null
+      editionDate: 2010-11-19
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: '85.0'
+      seriesName: Journal of Geodesy
+      seriesPage: '133.0'
+      title: The AUSGeoid09 model of the Australian Height Datum
+      uuid: e3a7723a-8435-46cc-ba27-8c0ef109657c
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null
     value: AUSGeoid09_GDA94_V1.01_DOV_windows.gsb
-  remarks: Implemented 2009. Replaces AusGeoid98 model. Uses AusGeoid09 model which
+  remarks: Implemented 2009. Replaces AUSGeoid98 model. Uses AUSGeoid09 model which
     uses bi-cubic interpolation; bi-linear interpolation of the grid file will give
-    results agreeing to within 1cm 99.97% of the time. May be used for transformations
-    from WGS 84 to AHD.
+    results agreeing to within 1cm 99.97% of the time.
   scope:
   - Spatial referencing
   sourceCRS:

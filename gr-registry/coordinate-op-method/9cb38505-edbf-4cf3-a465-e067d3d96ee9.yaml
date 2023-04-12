@@ -4,7 +4,18 @@ data:
   definition: null
   description: null
   formula: null
-  formulaCitation: []
+  formulaCitation:
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: 'Moving to NAD ''83: the new address for georeferenced data in Canada,
+      D.C. Barnes (ed.)'
+    seriesPage: 16-40
+    title: The National Transformation for Converting Between NAD27 and NAD83 in Canada
+    uuid: 2d5fe996-ca7b-43a4-b2b0-0b71808a99f1
   identifier: 95
   informationSources: []
   name: NTv2

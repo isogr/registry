@@ -3,10 +3,23 @@ data:
   - Time-Dependent Coordinate Frame Transformation
   - 14-Parameter Transformation
   - Time-Dependent 7-Parameter Transformation
-  definition: null
+  definition: Time-Dependent Coordinate Frame Transformation (geocentric Cartesian
+    domain)
   description: null
-  formula: null
-  formulaCitation: []
+  formula: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+    including Formulas'
+  formulaCitation:
+    edition: '51.0'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: e542fffd-4c71-4622-9d6c-4300267ca56c
   identifier: 94
   informationSources: []
   name: Time-Dependent Coordinate Frame Transformation (geocentric Cartesian domain)
@@ -26,9 +39,9 @@ data:
   - 88228e9d-3b44-41ff-8ca7-a73a8acdc881
   - 884b428c-57f0-4c0b-a054-4a49ca76ee06
   - ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
-  remarks: Note the analogy with the Time-dependent Position Vector transformation
-    (OM9) but beware of the differences!  The Position Vector convention is used by
-    IAG.
+  remarks: Note the analogy with the Time-dependent Position Vector Transformation
+    but beware of the differences!  The Position Vector Transformation convention
+    is used by IAG.
 dateAccepted: 2018-11-17
 id: caef8cd6-8fbf-47fe-945c-3cf98193caf6
 status: valid

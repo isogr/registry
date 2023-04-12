@@ -1,0 +1,38 @@
+data:
+  aliases:
+  - Kingdom of Saudi Arabia Vertical Reference Frame Jeddah 2014
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--vertical
+    itemID: ae712530-3beb-45d5-ae5b-494ed61c122b
+  datum: 49700b99-9c9d-4e73-b787-dc6587d99ddc
+  description: null
+  extent:
+    e: 55.67
+    n: 32.16
+    name: Saudi Arabia - onshore.
+    s: 16.37
+    w: 34.51
+  identifier: 780
+  informationSources:
+  - author: General Directorate of Geodesy
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://www.gasgi.gov.sa/En/Products/Products_v1/Geodesy/Documents/Technical_Summary_for_SANSRS_v1.1.pdf
+      (accessed 2021-06-07)
+    publisher: General Directorate of Geodesy, General Authority for Survey and Geospatial
+      Information, Kingdom of Saudi Arabia
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Technical Summary for Saudi Arabia National Spatial Reference System (SANSRS).
+    uuid: aeacd760-691a-4d25-bc60-181762762344
+  name: KSA-VRF14 - OHt
+  operation: null
+  remarks: Orthometric height
+  scope: Spatial referencing.
+dateAccepted: 2021-08-30
+id: 7eaae2b1-0ad9-4749-8430-2b72cfbc374c
+status: valid

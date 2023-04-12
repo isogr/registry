@@ -3,7 +3,17 @@ data:
   definition: null
   description: null
   formula: null
-  formulaCitation: []
+  formulaCitation:
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: EGM2008 - WGS 84 Version
+    uuid: 0858d61a-4cc2-4454-a9d6-f0b38d52c1b8
   identifier: 90
   informationSources: []
   name: Geographic3D to Gravity Related Height (EGM2008)

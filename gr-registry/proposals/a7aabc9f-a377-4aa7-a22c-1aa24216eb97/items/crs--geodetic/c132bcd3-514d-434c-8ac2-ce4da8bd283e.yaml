@@ -1,0 +1,72 @@
+data:
+  aliases:
+  - North American Datum of 1983 (CORS96) Epoch 2002.0
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: 3df6ee5f-e359-4ca4-b23b-855eb0ae0b77
+  description: null
+  extent:
+    e: -63.88
+    n: 74.71
+    name: 'United States and Territories - onshore and offshore: Puerto Rico. United
+      States (USA) - Alaska, CONUS (Alabama, Arizona, Arkansas, California, Colorado,
+      Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas,
+      Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi,
+      Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico,
+      New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania,
+      Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont,
+      Virginia, Washington, West Virginia, Wisconsin, Wyoming). Virgin Islands (US).'
+    s: 14.92
+    w: 167.65
+  identifier: 294
+  informationSources:
+  - author: National Geodetic Survey
+    edition: null
+    editionDate: 2017-03-16
+    isbn: null
+    issn: null
+    otherDetails: webpage
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
+    seriesIssueID: null
+    seriesName: NGS Online listing of transformation parameters
+    seriesPage: null
+    title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
+      Frames
+    uuid: b169bc8c-c621-4c5b-8a9a-56f1edfbb72e
+  - author: C. Pearson, R.A. Snay
+    edition: null
+    editionDate: 2013-01-01
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    publisher: Springer-Verlag
+    seriesIssueID: Volume 17, No. 1
+    seriesName: GPS Solutions
+    seriesPage: 1-15
+    title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
+      frames
+    uuid: fe447f3f-33e6-41f7-8cf4-39c34a4a09b0
+  - author: R.A. Snay, T. Soler
+    edition: null
+    editionDate: 2008-04-01
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (CORS96) Epoch 1996.0,NAD83 (CORS96) Epoch 1997.0,NAD83 (CORS96)
+      Epoch 2002.0
+    publisher: ASCE
+    seriesIssueID: Volume 134, No. 4
+    seriesName: Journal of Surveying Engineering
+    seriesPage: 95-104
+    title: 'Continuously Operating Reference Station (CORS): History, Applications,
+      and Future Enhancements'
+    uuid: b8179455-e87b-4742-af4e-85006d0f426e
+  name: NAD 83 (CORS96) Epoch 2002.0 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: c132bcd3-514d-434c-8ac2-ce4da8bd283e
+status: valid

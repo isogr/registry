@@ -1,0 +1,72 @@
+data:
+  aliases:
+  - European Terrestrial Reference Frame 2014
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: 3fd9c4ad-e679-47fb-9ca9-130f43156069
+  description: null
+  extent:
+    e: 39.65
+    n: 84.17
+    name: 'Europe - onshore and offshore: Albania, Andorra, Austria, Belgium, Bosnia
+      and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+      Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Hungary, Ireland,
+      Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Monaco,
+      Montenegro, Netherlands, Norway including Svalbard and Jan Mayen, Poland, Portugal,
+      Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland,
+      United Kingdom (UK) including Channel Islands and Isle of Man, Vatican City
+      State.'
+    s: 32.88
+    w: -16.1
+  identifier: 747
+  informationSources:
+  - author: Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: http://etrs89.ensg.ign.fr/pub/EUREF-TN-1.pdf (accessed 2020-10-14)
+    publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
+      re (IGN), France"
+    seriesIssueID: null
+    seriesName: EUREF Technical Notes
+    seriesPage: null
+    title: 'EUREF Technical Note 1: Relationship and Transformation between the International
+      and the European Terrestrial Reference Systems'
+    uuid: 267d030b-4af6-4820-91b1-d46f31ac4000
+  - author: M. Greaves
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: http://www.euref.eu/symposia/2017Wroclaw/06-01-Resolutions-EUREF2017.pdf
+      (accessed 2020-10-14)
+    seriesIssueID: null
+    seriesName: Report on the Symposium of the IAG Subcommission for Europe (EUREF),
+      Wroclaw, Poland, 17-19 May 2017
+    seriesPage: null
+    title: EUREF 2017 Resolutions
+    uuid: 3ea2dc09-fbd8-4a72-929f-602b879d85de
+  - author: C. Bruyninx, Z. Altamimi, A. Caporali, A. Kenyeres, J. Legrand, M. Lidberg
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: http://www.epncb.oma.be/_documentation/guidelines/Guidelines_for_EUREF_Densifications.pdf
+      (accessed 2020-20-14)
+    publisher: "IAG sub-commission for the European Reference Frame \u2013 EUREF"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Guidelines for EUREF Densifications
+    uuid: 9e4b5b00-a92a-4916-973b-c9e1f2e26ca8
+  name: ETRF2014 - LatLonEHt
+  operation: null
+  remarks: The EUREF Governing Board recommends to use the ETRF2014 for high precision
+    applications and better consistency with the ITRF2014 precise geocentric origin.
+  scope: Spatial referencing
+dateAccepted: 2021-02-01
+id: f9fc86ea-8942-4c07-814d-b2a307e64bb7
+status: valid

@@ -46,8 +46,17 @@ data:
   name: NAD83(Original) to NAD83(CSRS) v4 [ABv1]
   operationVersion: ABv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Personal email communication.
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: Transformation Grid - NAD83(CSRS) Epoch 2002 to NAD83(Original) and v/v
+      uuid: 90e6dacf-54ba-450a-96d8-ade65f989b72
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null

@@ -1,0 +1,37 @@
+data:
+  aliases: []
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: d897f2bb-a10b-4964-8b22-19d373944c29
+  description: null
+  extent:
+    e: -170.0
+    n: -25.0
+    name: New Zealand - onshore and offshore - Antipodes Islands, Auckland Islands,
+      Bounty Islands, Campbell Island Chatham Islands, Kermadec Islands, North Island,
+      Raoul Island, Snares Islands, South Island, Stewart Island.
+    s: -60.0
+    w: 160.0
+  identifier: 287
+  informationSources:
+  - author: Office of the Surveyor General
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Land Information New Zealand
+    seriesIssueID: LINZS25000
+    seriesName: null
+    seriesPage: null
+    title: Standard for New Zealand Geodetic Datum 2000
+    uuid: 77d7129e-0143-4774-93d2-274a99d313f9
+  name: NZGD2000 - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing.
+dateAccepted: 2018-11-17
+id: 90080c83-c3a1-457b-9b8e-f2bb7b7650d1
+status: valid

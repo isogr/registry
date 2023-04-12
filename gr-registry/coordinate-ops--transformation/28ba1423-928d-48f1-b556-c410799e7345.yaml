@@ -38,20 +38,47 @@ data:
   name: NAD 83 (HARN) to NAD 83 (FBN) [v2]
   operationVersion: V2
   parameters:
-  - fileCitation: null
-    name: Latitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: 1990-08-10
+      isbn: null
+      issn: null
+      otherDetails: Mandates use of NADCON for official transformations between datums
+      seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+      seriesName: 'Federal Register Notice '
+      seriesPage: '32681.0'
+      title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+      uuid: c50917ab-dc9d-4b6e-805d-9bb29a1b5125
     parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
     type: parameter file name
     unitOfMeasurement: null
     value: nadcon5.nad83_1993.nad83_2002.as.lat.trn.20160901.b
-  - fileCitation: null
-    name: Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: 1990-08-10
+      isbn: null
+      issn: null
+      otherDetails: Mandates use of NADCON for official transformations between datums
+      seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+      seriesName: 'Federal Register Notice '
+      seriesPage: '32681.0'
+      title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+      uuid: dae1dfe9-93ad-4fc2-a3a7-61ebbb3a7c61
     parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
     type: parameter file name
     unitOfMeasurement: null
     value: nadcon5.nad83_1993.nad83_2002.as.lon.trn.20160901.b
-  - fileCitation: null
-    name: Height difference file
+  - fileCitation:
+      edition: null
+      editionDate: 1990-08-10
+      isbn: null
+      issn: null
+      otherDetails: Mandates use of NADCON for official transformations between datums
+      seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+      seriesName: 'Federal Register Notice '
+      seriesPage: '32681.0'
+      title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+      uuid: eab19177-2dfa-45c3-80e1-dc2e722d16b7
     parameter: d0e6143c-dfc2-4796-932b-ab6b67954582
     type: parameter file name
     unitOfMeasurement: null

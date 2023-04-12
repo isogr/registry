@@ -1,0 +1,38 @@
+data:
+  aliases:
+  - AGD66
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 60c8760b-3c36-47e0-8b04-65c298f06ad7
+  description: null
+  extent:
+    e: 168.0
+    n: 0.0
+    name: Australia - onshore and offshore - mainland, Lord Howe Island, Norfolk Island,
+      Macquarie Island. Christmas Island - onshore and offshore. Cocos (Keeling) Islands
+      - onshore and offshore. Papua New Guinea - onshore and offshore.
+    s: -56.0
+    w: 96.0
+  identifier: 298
+  informationSources:
+  - author: Technical Sub-Committee of the National Mapping Council of Australia
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: National Mapping Council of Australia
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Australian Map Grid Technical Manual
+    uuid: 6c965ee2-d641-4744-9882-9dd51f2d2d40
+  name: AGD66 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing.
+dateAccepted: 2018-11-17
+id: 13391025-6c47-4868-b8ab-87bd6d118b2d
+status: valid

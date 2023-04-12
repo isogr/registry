@@ -4,7 +4,18 @@ data:
   definition: null
   description: null
   formula: null
-  formulaCitation: []
+  formulaCitation:
+    edition: null
+    editionDate: 2003-09-29
+    isbn: null
+    issn: null
+    otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
+      transformations between NGVD 29 and NAVD 88
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: VERTCON User Manual
+    uuid: 9b0fa85b-80c8-4f83-b054-6ac541dce456
   identifier: 84
   informationSources: []
   name: VERTCON

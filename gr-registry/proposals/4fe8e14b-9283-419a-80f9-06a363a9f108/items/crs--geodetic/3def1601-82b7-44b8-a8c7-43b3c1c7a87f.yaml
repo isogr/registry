@@ -1,0 +1,69 @@
+data:
+  aliases:
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - DGF05P01
+  - Geocentric Reference System for the Americas
+  - SIRGAS Multi-Year Solution 2005
+  - DGFI05P01
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: 4f005b53-4b99-4211-932d-96736a777814
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 220
+  informationSources:
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: dfc9d1fa-d061-4357-a80c-a4046768d66e
+  - author: W. Seemueller
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Presented at the SIRGAS 2005 General Meeting. Caracas, Venezuela
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Report on new activities of IGS Regional Associate Analysis for SIRGAS
+      (IGS RNAAC SIR)
+    uuid: 42a810ee-e98d-4e1c-9313-31db94a17a31
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 4668aff0-5d46-43e1-bd3a-d945ad16335f
+  name: SIRGAS-CON DGF05P01 - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 3def1601-82b7-44b8-a8c7-43b3c1c7a87f
+status: valid

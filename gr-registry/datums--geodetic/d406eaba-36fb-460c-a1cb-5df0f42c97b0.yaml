@@ -12,7 +12,7 @@ data:
   - NAD83
   - NAD83CSRS
   coordinateReferenceEpoch: '2010.0'
-  definition: null
+  definition: North American Datum of 1983 (CSRS) version 6
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: -47.74
@@ -78,9 +78,8 @@ data:
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '2010-01-01'
   remarks: Adopted by the Canadian federal government for Canada, and by provincial
-    governments in Alberta, British Columbia, Manitoba, Newfoundland and Labrador,
-    Nova Scotia, Ontario, Prince Edward Island. Replaces NAD83(CSRS) v5. Replaced
-    by NAD83(CSRS) v7.
+    governments in Manitoba, Newfoundland and Labrador, Nova Scotia, Ontario, and
+    Prince Edward Island. Replaces NAD83(CSRS) v5. Replaced by NAD83(CSRS) v7.
   scope: Spatial referencing
 dateAccepted: 2018-11-17
 id: d406eaba-36fb-460c-a1cb-5df0f42c97b0

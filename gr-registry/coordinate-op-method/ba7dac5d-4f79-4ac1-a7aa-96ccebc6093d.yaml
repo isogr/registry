@@ -6,7 +6,18 @@ data:
   definition: null
   description: null
   formula: null
-  formulaCitation: []
+  formulaCitation:
+    edition: '51.0'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 71deba67-8129-43eb-8541-d0464f350cc7
   identifier: 72
   informationSources: []
   name: Geocentric Translation (geographic 2D domain)

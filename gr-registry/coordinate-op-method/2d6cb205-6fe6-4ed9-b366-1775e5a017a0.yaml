@@ -9,7 +9,18 @@ data:
   definition: null
   description: null
   formula: null
-  formulaCitation: []
+  formulaCitation:
+    edition: '51.0'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 57230a30-b599-4fcf-9c53-de331e1c3fc9
   identifier: 79
   informationSources: []
   name: Coordinate Frame Transformation (geographic 2D domain)

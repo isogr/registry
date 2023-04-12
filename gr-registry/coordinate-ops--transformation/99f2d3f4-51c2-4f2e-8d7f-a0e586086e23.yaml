@@ -38,14 +38,23 @@ data:
   name: WGS 84 (G730) to WGS 84 EGM84 - OHt [2]
   operationVersion: '2.0'
   parameters:
-  - fileCitation: null
-    name: Spherical harmonic coefficient file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Website
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: WGS 84, N=M=180 Earth Gravitational Model
+      uuid: 45d568fc-fee6-4ff1-ba7a-af1248c2c066
     parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
     type: parameter file name
     unitOfMeasurement: null
     value: egm180.nor
   remarks: Transformation from WGS 84 (G730) ellipsoidal heights to EGM84 orthometric
-    heights using the EGM84 geoid model defind by spherical harmonic coeffcients.
+    heights using the EGM84 geoid model defined by spherical harmonic coefficients.
   scope:
   - Spatial referencing
   sourceCRS:

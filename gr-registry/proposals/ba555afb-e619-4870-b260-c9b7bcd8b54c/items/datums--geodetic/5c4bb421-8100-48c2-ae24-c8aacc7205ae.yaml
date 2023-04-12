@@ -1,0 +1,53 @@
+data:
+  aliases:
+  - International GPS Service 1997
+  coordinateReferenceEpoch: '1997.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 142
+  informationSources:
+  - author: International GNSS Service Analysis Centre Coordinator
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National  Geodetic
+      Survey (NGS)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Chronology of IGS Reference Frame Usage
+    uuid: e80eb7ea-6472-47c3-9c7d-045603dbc5fe
+  - author: R. Ferland
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International GNSS Service (IGS)
+    seriesIssueID: '2899.0'
+    seriesName: IGSMAIL
+    seriesPage: null
+    title: Original / New realization of ITRF97
+    uuid: 95d4b35c-36e5-467f-85e2-ad411c852215
+  name: IGS97
+  originDescription: 'Defined from and aligned to a subset of stable IGS station coordinates
+    and velocities in ITRF97 at epoch 1997.0.
+
+    Uses relative antenna phase calibrations for ground stations and no calibrations
+    for satellite antennas.'
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '2000-06-04'
+  remarks: Replaces ITRF96. Replaced by IGS00.  Used by IGS products within the period
+    2000-06-04 thru 2001-12-01.
+  scope: Spatial Referencing
+dateAccepted: 2018-11-17
+id: 5c4bb421-8100-48c2-ae24-c8aacc7205ae
+status: valid

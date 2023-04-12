@@ -28,8 +28,17 @@ data:
   name: NZGD2000 to NZVD2016 - NOHt [LINZ]
   operationVersion: LINZ
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: LINZS25009
+      seriesName: null
+      seriesPage: null
+      title: Standard for New Zealand Vertical Datum 2016
+      uuid: ff229fb0-79bd-4056-a001-85d7ecede969
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null

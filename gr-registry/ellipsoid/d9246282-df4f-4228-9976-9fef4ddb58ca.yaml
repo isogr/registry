@@ -20,8 +20,8 @@ data:
   inverseFlatteningUoM: null
   isSphere: false
   name: CGCS 2000
-  remarks: Defining parameters semi-major axis and flattening equivalent with values
-    for GRS 1980 and IERS Convensions (2010).
+  remarks: Defining parameters semi-major axis and inverse flattening equivalent with
+    values for GRS 1980 and IERS Conventions (2010).
   semiMajorAxis: 6378137.0
   semiMajorAxisUoM: null
   semiMinorAxis: null

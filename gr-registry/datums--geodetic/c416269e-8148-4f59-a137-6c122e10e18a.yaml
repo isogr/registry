@@ -6,7 +6,7 @@ data:
   - European Terrestrial Reference System 1989
   - ETRS89
   coordinateReferenceEpoch: '1989.0'
-  definition: null
+  definition: European Terrestrial Reference Frame 1989
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
   extent:
     e: 39.65
@@ -78,17 +78,16 @@ data:
     title: 'ETRS89 realization: Current status, ETRF2005 and Future Development'
     uuid: 645adf41-d73a-418e-95f7-f89a554d26b2
   name: European Terrestrial Reference Frame 1989
-  originDescription: Fixed to the stable part of the Eurasian continental plate at
-    epoch 1989.0 and coincides with ITRF89 at the epoch 1989.0.
+  originDescription: "Coincides with ITRF89 at epoch 1989.0 and is fixed to the stable\
+    \ part of the Eurasian tectonic plate through 3 rotation rates derived from the\
+    \ AM02 geophysical model, representing the Eurasian plate\u2019s angular velocity\
+    \ about its Euler pole."
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '1990'
-  remarks: 'ETRS89 is the reference system. ETRF89 is its first realisation.
-
-    Unfortunately the two terms have been used synonimously, which has caused some
-    confusion amongst users
-
-    The reference frame should be referred to as ETRF89 to distinguish it from other
-    realisations of ETRS89.'
+  remarks: ETRS89 is the reference system and ETRF89 is its first realization. Unfortunately
+    the two terms have been used synonymously, which has caused some confusion amongst
+    users. The reference frame should be referred to as ETRF89 to distinguish it from
+    other realizations of ETRS89.
   scope: Spatial referencing
 dateAccepted: 2018-11-17
 id: c416269e-8148-4f59-a137-6c122e10e18a

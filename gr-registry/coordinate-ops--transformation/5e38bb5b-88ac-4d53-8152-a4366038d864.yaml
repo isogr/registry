@@ -26,8 +26,17 @@ data:
   name: NAD 83 (2011) Epoch 2010 to PRVD02 - NOHt [v1]
   operationVersion: v1
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: National Geodetic Survey Geoid Homepage
+      uuid: 68d173a2-107e-43f1-a641-a6d407a1efa5
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null

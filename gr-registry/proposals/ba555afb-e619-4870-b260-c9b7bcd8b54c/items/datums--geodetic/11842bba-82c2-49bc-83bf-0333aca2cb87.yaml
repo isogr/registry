@@ -1,0 +1,42 @@
+data:
+  aliases:
+  - JGD2011
+  coordinateReferenceEpoch: '2011.395'
+  definition: Japanese Geodetic Datum 2011
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: 154.0
+    n: 45.6
+    name: Japan - onshore and offshore
+    s: 20.4
+    w: 122.9
+  identifier: 138
+  informationSources:
+  - author: Y. Hiyama, A. Yamagiwa, T. Kawahara, M. Iwata, Y. Fukuzaki, Y. Shouji,
+      Y. Sato, T. Yutsudo, T. Sasaki, H. Shigematsu, H. Yamao, T. Inukai, M. Ohtaki,
+      K. Kokado, S. Kurihara, I. Kimura, T. Tsutsumi, T. Yahagi, Y. Furuya, I. Kageyama,
+      S. Kawamoto, K. Yamaguchi, H. Tsuji, S. Matsumura
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Geospatial Information Authority of Japan (GSI), Tsukuba, Japan
+    seriesIssueID: Voume 59
+    seriesName: Bulletin of the Geospatial Information Authority of Japan
+    seriesPage: 31-42
+    title: Revision of the Results of Control Points after the 2011 off the Pacific
+      coast of Tohoku Earthquake
+    uuid: b31a25e1-e32e-4b05-bee9-8ff7e96d4c44
+  name: Japanese Geodetic Datum 2011
+  originDescription: "Equivalent to ITRF2008 at epoch 2011.395 (2011-05-24, 12:00\
+    \ UTC) in Northern Honshu area. Fundamental point: Tokyo-Taisho, latitude: 35\xB0\
+    39'29.1572\"N, longitude: 139\xB044'28.8869\"E (of Greenwich). Equivalent to JGD2000\
+    \ elsewhere."
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '2011-10-21'
+  remarks: Replaces Japanese Geodetic Datum 2000 from 2011-10-21.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 11842bba-82c2-49bc-83bf-0333aca2cb87
+status: valid

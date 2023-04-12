@@ -26,8 +26,17 @@ data:
   name: WGS 84 (G1150) to WGS 84 EGM96 - OHt [1]
   operationVersion: '1.0'
   parameters:
-  - fileCitation: null
-    name: Geoid (height correction) model file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
+      uuid: 25473389-ef01-4146-908b-e662e6dd7901
     parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
     type: parameter file name
     unitOfMeasurement: null

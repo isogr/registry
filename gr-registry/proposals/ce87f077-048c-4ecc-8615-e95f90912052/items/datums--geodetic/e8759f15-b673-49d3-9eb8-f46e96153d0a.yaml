@@ -1,0 +1,38 @@
+data:
+  aliases:
+  - GDA94
+  coordinateReferenceEpoch: '1994.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: 173.4
+    n: -8.47
+    name: Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
+      Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore. Cocos
+      (Keeling) Islands - onshore and offshore.
+    s: -60.56
+    w: 93.41
+  identifier: 182
+  informationSources:
+  - author: Permanent Committee on Geodesy of the Intergovernmental Committee on Surveying
+      and Mapping
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Intergovernmental Committee on Surveying and Mapping
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geocentric Datum of Australia Technical Manual Version 2.4
+    uuid: 49b1ffac-ed96-4873-9129-df2f01317f46
+  name: Geocentric Datum of Australia 1994
+  originDescription: ITRF92 at epoch 1994.0.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '1998-01-14'
+  remarks: Replaces AGD84 except for the Australian Capital Territory.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: e8759f15-b673-49d3-9eb8-f46e96153d0a
+status: valid

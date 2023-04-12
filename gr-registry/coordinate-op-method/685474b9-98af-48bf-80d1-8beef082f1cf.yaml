@@ -3,7 +3,18 @@ data:
   definition: null
   description: null
   formula: null
-  formulaCitation: []
+  formulaCitation:
+    edition: null
+    editionDate: 2003-09-29
+    isbn: null
+    issn: null
+    otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
+      transformations between NGVD 29 and NAVD 88
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: VERTCON User Manual
+    uuid: 77a86c98-60e3-4b49-93b0-a5c1216974ca
   identifier: 93
   informationSources: []
   name: Geographic3D to Gravity Related Height (US)

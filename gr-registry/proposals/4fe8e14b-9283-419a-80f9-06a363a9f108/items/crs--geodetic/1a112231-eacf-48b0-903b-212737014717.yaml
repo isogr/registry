@@ -1,0 +1,51 @@
+data:
+  aliases:
+  - IERS Terrestrial Reference Frame 1988
+  - ' International Terrestrial Reference Frame 1988'
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 08d9dadf-255e-452f-a750-4bbb172bf729
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 337
+  informationSources:
+  - author: C. Boucher, Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
+    seriesIssueID: '1.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: The initial IERS Terrestrial Reference Frame
+    uuid: d51e997e-d1f0-41db-ab53-6aa1d005c77c
+  - author: IERS
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: IERS Annual Report for 1988
+    uuid: 38b1eee4-ce92-4d97-b9ef-10df2a980b53
+  name: ITRF88 - LatLon
+  operation: null
+  remarks: Replaced by ITRF89 - LatLon.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 1a112231-eacf-48b0-903b-212737014717
+status: valid

@@ -46,8 +46,17 @@ data:
   name: NAD83(Original) to NAD83(CSRS) v3 [SKv1]
   operationVersion: SKv1
   parameters:
-  - fileCitation: null
-    name: Latitude and Longitude difference file
+  - fileCitation:
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: Grid shift files
+      uuid: f6d3155f-d89d-4aa7-bca6-d9b1bd173721
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name
     unitOfMeasurement: null
@@ -63,4 +72,4 @@ data:
     itemID: 9ac5ba39-0f9c-4602-857e-122a38a17c72
 dateAccepted: 2018-11-17
 id: cd839341-6a73-402b-a88a-9d580f46a207
-status: valid
+status: invalid

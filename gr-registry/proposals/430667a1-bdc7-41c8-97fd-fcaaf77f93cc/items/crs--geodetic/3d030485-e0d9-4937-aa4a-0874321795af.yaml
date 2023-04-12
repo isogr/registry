@@ -1,0 +1,38 @@
+data:
+  aliases:
+  - Kingdom of Saudi Arabia Geodetic Reference Frame 2017
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 0d8b39b8-0bba-435b-b4f5-2aa151d0bcf1
+  description: null
+  extent:
+    e: 55.67
+    n: 32.16
+    name: Saudi Arabia - onshore and offshore.
+    s: 16.29
+    w: 34.44
+  identifier: 779
+  informationSources:
+  - author: General Directorate of Geodesy
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://www.gasgi.gov.sa/En/Products/Products_v1/Geodesy/Documents/Technical_Summary_for_SANSRS_v1.1.pdf
+      (accessed 2021-06-07)
+    publisher: General Directorate of Geodesy, General Authority for Survey and Geospatial
+      Information, Kingdom of Saudi Arabia
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Technical Summary for Saudi Arabia National Spatial Reference System (SANSRS).
+    uuid: 2f6abeac-e32b-418d-af8c-61f50ada4eb6
+  name: KSA-GRF17 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing.
+dateAccepted: 2021-08-30
+id: 3d030485-e0d9-4937-aa4a-0874321795af
+status: valid
