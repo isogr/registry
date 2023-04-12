@@ -13,31 +13,38 @@ data:
     w: -95.16
   identifier: 460
   informationSources:
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
     title: 'FAQ: What are some of the transformation methods for Canada?'
     uuid: ffd27ae3-5e9b-4a83-9005-4ebcae6970ef
-  - edition: null
+  - author: Land Information Ontario
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information Ontario, Metadata Tool
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: NTv2 Grid Shift Files for Ontario
     uuid: ac6042c8-7f62-4848-9f16-a34ed8ebc756
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -47,11 +54,13 @@ data:
   operationVersion: ONv1
   parameters:
   - fileCitation:
+      author: Land Information Ontario
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Land Information Ontario, Metadata Tool
       seriesIssueID: null
       seriesName: null
       seriesPage: null

@@ -11,11 +11,16 @@ data:
     w: 129.5
   identifier: 167
   informationSources:
-  - edition: null
+  - author: Y. Hiyama, A. Yamagiwa, T. Kawahara, M. Iwata, Y. Fukuzaki, Y. Shouji,
+      Y. Sato, T. Yutsudo, T. Sasaki, H. Shigematsu, H. Yamao, T. Inukai, M. Ohtaki,
+      K. Kokado, S. Kurihara, I. Kimura, T. Tsutsumi, T. Yahagi, Y. Furuya, I. Kageyama,
+      S. Kawamoto, K. Yamaguchi, H. Tsuji, S. Matsumura
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geospatial Information Authority of Japan (GSI), Tsukuba, Japan
     seriesIssueID: Voume 59
     seriesName: Bulletin of the Geospatial Information Authority of Japan
     seriesPage: 31-42

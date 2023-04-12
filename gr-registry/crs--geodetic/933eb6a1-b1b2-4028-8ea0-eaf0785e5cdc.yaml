@@ -16,21 +16,25 @@ data:
     w: -180.0
   identifier: 802
   informationSources:
-  - edition: null
+  - author: International Earth Rotation and Reference Systems Service (IERS)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'Webpage: https://itrf.ign.fr/en/solutions/itrf2020 (accessed 2022-04-18)'
+    publisher: Institut National de l'Information Geographique et Forestiere (IGN)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: ITRF2020
     uuid: 79e944d3-db8c-4f43-b596-a01f8bc1319d
-  - edition: null
+  - author: Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: https://datacenter.iers.org/data/2/message_456.txt (accessed 2022-04-19)
+    publisher: International Earth Rotation and Reference Systems Service (IERS)
     seriesIssueID: '456'
     seriesName: IERS Message
     seriesPage: null

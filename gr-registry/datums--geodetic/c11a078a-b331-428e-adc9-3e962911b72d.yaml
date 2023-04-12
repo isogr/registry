@@ -14,7 +14,8 @@ data:
     w: -95.16
   identifier: 155
   informationSources:
-  - edition: null
+  - author: D.S. Beattie, J.A.R. Blais, M.C. Pinch
+    edition: null
     editionDate: null
     isbn: null
     issn: null

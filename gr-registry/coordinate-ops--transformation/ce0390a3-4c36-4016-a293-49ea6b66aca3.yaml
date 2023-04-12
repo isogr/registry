@@ -13,11 +13,13 @@ data:
     w: -180.0
   identifier: 492
   informationSources:
-  - edition: null
+  - author: National Geospatial-Intelligence Agency
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: NGA.STND.0036_1.0.0_WGS84
     seriesName: Standardization Document
     seriesPage: null

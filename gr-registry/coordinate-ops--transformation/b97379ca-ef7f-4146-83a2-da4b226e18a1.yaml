@@ -13,11 +13,13 @@ data:
     w: -180.0
   identifier: 589
   informationSources:
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
     seriesName: 'Federal Register Notice '
     seriesPage: '32681.0'

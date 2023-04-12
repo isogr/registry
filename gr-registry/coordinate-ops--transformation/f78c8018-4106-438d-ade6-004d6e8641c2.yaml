@@ -13,31 +13,38 @@ data:
     w: -79.64
   identifier: 572
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Desktop Applications: NTv2'
     uuid: 89659ab7-1859-46b8-888a-b985092d6397
-  - edition: null
+  - author: Land Information Ontario
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information Ontario, Metadata Tool
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: NTv2 Grid Shift Files for Ontario
     uuid: 7a4a46aa-60e2-476d-992d-89f41f2f2f7c
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
@@ -47,11 +54,13 @@ data:
   operationVersion: ONv2
   parameters:
   - fileCitation:
+      author: Land Information Ontario
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Land Information Ontario, Metadata Tool
       seriesIssueID: null
       seriesName: null
       seriesPage: null

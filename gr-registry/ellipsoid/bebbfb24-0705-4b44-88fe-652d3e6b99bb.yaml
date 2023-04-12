@@ -4,21 +4,25 @@ data:
   description: null
   identifier: 29
   informationSources:
-  - edition: null
+  - author: Working Party of the National Mapping Council of Australia
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Mapping Council of Australia
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: The Australian Geodetic Datum Technical Manual
     uuid: b196d750-81fe-43fa-9157-7c821f5e67fd
-  - edition: null
+  - author: Technical Sub-Committee of the National Mapping Council of Australia
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Mapping Council of Australia
     seriesIssueID: null
     seriesName: null
     seriesPage: null

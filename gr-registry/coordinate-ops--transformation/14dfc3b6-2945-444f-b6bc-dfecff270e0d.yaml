@@ -13,31 +13,40 @@ data:
     w: -79.85
   identifier: 556
   informationSources:
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
     title: 'FAQ: What are some of the transformation methods for Canada?'
     uuid: cccdcbd3-6c2e-48c6-8b10-8cbb2a74e2e4
-  - edition: null
+  - author: Y. Theriault
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Personal email communication.
+    publisher: "Service de la geodesie et des leves geospatiaux, Direction de la reference\
+      \ geographique, Direction generale de l\u2019information geospatiale, Ministere\
+      \ de l\u2019Energie et des Ressources naturelles, Gouvernement du Quebec"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'RE: GSD file'
     uuid: d1fdf117-28d1-4ada-8347-358acb44a02a
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -47,11 +56,16 @@ data:
   operationVersion: QCv1
   parameters:
   - fileCitation:
+      author: Y. Theriault
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Personal email communication.
+      publisher: "Service de la geodesie et des leves geospatiaux, Direction de la\
+        \ reference geographique, Direction generale de l\u2019information geospatiale,\
+        \ Ministere de l\u2019Energie et des Ressources naturelles, Gouvernement du\
+        \ Quebec"
       seriesIssueID: null
       seriesName: null
       seriesPage: null

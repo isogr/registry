@@ -13,32 +13,39 @@ data:
     w: -69.05
   identifier: 200
   informationSources:
-  - edition: null
+  - author: GeoNOVA Reference Coordinate System Policy Node
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: GeoNOVA, Service Nova Scotia and Municipal Relations
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'A spatial referencing policy for the Province of Nova Scotia: Policy Document'
     uuid: 984358e6-d692-467c-896d-d3f48dc00b4b
-  - edition: null
+  - author: D. Gillis, A. Hamilton, R.J. Gaudet, J. Ramsay, B. Seely, S. Blackie,
+      A. Flemming, C. Carlin, S. Bernard, L.G. LeBlanc
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 54, No. 1
     seriesName: Geomatica
     seriesPage: 25-41
     title: "The selection and implementation of a new spatial reference system for\
       \ Canada\u2019s Maritime provinces"
     uuid: 53a8a9a1-1958-4103-a37c-637aa67c3d3c
-  - edition: null
+  - author: J. Bond, W. Robertson
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 69, No. 4
     seriesName: Geomatica
     seriesPage: 407-418

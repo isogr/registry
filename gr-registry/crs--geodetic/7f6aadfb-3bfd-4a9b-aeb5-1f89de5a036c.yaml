@@ -16,18 +16,21 @@ data:
     w: -180.0
   identifier: 333
   informationSources:
-  - edition: null
+  - author: Z. Altamimi, P. Rebischung, L. Metivier, X. Collilieux
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume 121, Issue 8
     seriesName: Journal of Geophysical Research Solid Earth
     seriesPage: null
     title: 'ITRF2014: A new release of the International Terrestrial Reference Frame
       modeling nonlinear station motions'
     uuid: 2f06ee89-8271-4775-bd54-1d487f9ec2fc
-  - edition: null
+  - author: IERS
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -37,11 +40,15 @@ data:
     seriesPage: null
     title: ITRF2014 is available on line
     uuid: a8f3ccab-5817-4434-8e5e-7e2f1313015e
-  - edition: null
+  - author: Z. Altamimi, P. Rebischung, L. Metivier, X. Collilieux
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Earth Rotation and Reference Systems Service Central
+      Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
+      Germany
     seriesIssueID: '38.0'
     seriesName: IERS Technical Notes
     seriesPage: null

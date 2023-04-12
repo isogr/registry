@@ -13,32 +13,39 @@ data:
     w: -180.0
   identifier: 197
   informationSources:
-  - edition: null
+  - author: C. Boucher, Z. Altamimi, M. Feissel, P. Sillard
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
     seriesIssueID: '20.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: Results and analysis of ITRF94
     uuid: 215999cb-0db6-4359-ab87-c87b0dcc1180
-  - edition: null
+  - author: C.S. DeMets, R.G. Gordon, D.F. Argus, S. Stein
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume 21, Issue 20
     seriesName: Geophysical Research Letters
     seriesPage: null
     title: Effect of recent revisions to the geomagnetic reversal time scale on estimates
       of current plate motions
     uuid: bed7fe11-5ee1-4421-aa9b-b98c19c8b051
-  - edition: null
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
     seriesIssueID: '36.0'
     seriesName: IERS Technical Notes
     seriesPage: null

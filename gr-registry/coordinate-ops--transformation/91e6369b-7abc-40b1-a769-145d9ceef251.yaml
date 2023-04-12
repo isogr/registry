@@ -15,31 +15,37 @@ data:
     w: 160.0
   identifier: 505
   informationSources:
-  - edition: null
+  - author: Office of the Surveyor General
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: LINZS25000
     seriesName: null
     seriesPage: null
     title: Standard for New Zealand Geodetic Datum 2000
     uuid: 684bfed9-841a-49d1-a5ec-2045cae060c2
-  - edition: null
+  - author: Land Information New Zealand
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Transforming between ITRF and NZGD2000
     uuid: 300111ae-b61b-45e2-ac1b-04bdd2844758
-  - edition: null
+  - author: Land Information New Zealand
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -49,11 +55,13 @@ data:
   operationVersion: LINZ v20171201
   parameters:
   - fileCitation:
+      author: Office of the Surveyor General
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Land Information New Zealand
       seriesIssueID: LINZS25000
       seriesName: null
       seriesPage: null

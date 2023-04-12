@@ -13,12 +13,14 @@ data:
     w: -180.0
   identifier: 808
   informationSources:
-  - edition: null
+  - author: International Earth Rotation and Reference Systems Service (IERS)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'Webpage: https://itrf.ign.fr/docs/solutions/itrf2020/Transfo-ITRF2020_TRFs.txt
       (accessed 2022-04-25)'
+    publisher: Institut National de l'Information Geographique et Forestiere (IGN)
     seriesIssueID: null
     seriesName: null
     seriesPage: null

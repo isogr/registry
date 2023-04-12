@@ -13,11 +13,14 @@ data:
     w: -66.28
   identifier: 568
   informationSources:
-  - edition: null
+  - author: J. Bond
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Personal email communication.
+    publisher: GeoNOVA, Geographic Information Services, Nova Scotia Geomatics Centre,
+      Government of Nova Scotia
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -27,11 +30,14 @@ data:
   operationVersion: NSv1
   parameters:
   - fileCitation:
+      author: J. Bond
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Personal email communication.
+      publisher: GeoNOVA, Geographic Information Services, Nova Scotia Geomatics Centre,
+        Government of Nova Scotia
       seriesIssueID: null
       seriesName: null
       seriesPage: null

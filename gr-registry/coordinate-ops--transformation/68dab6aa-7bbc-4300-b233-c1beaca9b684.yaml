@@ -13,45 +13,55 @@ data:
     w: -110.0
   identifier: 794
   informationSources:
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: http://downloads2.esri.com/support/TechArticles/Grid-based_Transformation_Methods_for_Canada3.pdf
       (accessed 2021-11-26)
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
     title: 'FAQ: What are some of the transformation methods for Canada?'
     uuid: beed3c53-6ac3-467e-a952-54f6b127dfb0
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Webpage. https://webapp.geod.nrcan.gc.ca/geod/tools-outils/applications.php?locale=en
       (accessed N4 (accessed 2021-11-26)
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Desktop Applications: NTv2'
     uuid: 1f350e80-e1e4-4ac4-948e-9743539b8a77
-  - edition: null
+  - author: Saskatchewan Information Services Corporation (ISC)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Webpage. https://www.isc.ca/MapsandPhotos/GISData/Pages/Shift.aspx
       (accessed 2021-11-26)
+    publisher: Saskatchewan Information Services Corporation (ISC), Geomatics Distribution
+      Centre, Regina, Saskatchewan
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Grid shift files
     uuid: 825b6a9c-6ec1-4a44-a870-c8a98e9fc86c
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Webpage. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
       (accessed 2021-06-23)
+    publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON, Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -61,12 +71,15 @@ data:
   operationVersion: SKv1
   parameters:
   - fileCitation:
+      author: Saskatchewan Information Services Corporation (ISC)
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Webpage. https://www.isc.ca/MapsandPhotos/GISData/Pages/Shift.aspx
         (accessed 2021-11-26)
+      publisher: Saskatchewan Information Services Corporation (ISC), Geomatics Distribution
+        Centre, Regina, Saskatchewan
       seriesIssueID: null
       seriesName: null
       seriesPage: null

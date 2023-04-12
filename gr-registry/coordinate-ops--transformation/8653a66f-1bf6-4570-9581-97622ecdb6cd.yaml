@@ -14,43 +14,51 @@ data:
     w: -122.19
   identifier: 688
   informationSources:
-  - edition: null
+  - author: W. Seemueller
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '134.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 167-172
     title: The Position and Velocity Solution DGF06P01 for SIRGAS
     uuid: 83e6d29b-20a1-46ac-a90e-3dde4302a3d9
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 544-549
     title: Deformation of the South American crust estimated from finite element and
       collocation methods
     uuid: cb7a41ad-8045-465b-ae37-6fdc921a0d5a
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Use of velocities in the processing of GNSS data
     uuid: f2b46f3a-9b66-45bb-ae34-8e0e6e4354a6
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null

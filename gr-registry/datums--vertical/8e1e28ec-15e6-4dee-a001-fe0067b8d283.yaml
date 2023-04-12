@@ -19,21 +19,25 @@ data:
     w: -141.01
   identifier: 102
   informationSources:
-  - edition: null
+  - author: J.B. Canon
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Department of the Interior, Dominion of Canada, Ottawa
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Adjustment of the precise level net of Canada 1928
     uuid: aaca4e3f-3308-48e9-8bd3-4d31234a2ec1
-  - edition: null
+  - author: J.B. Canon
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Department of the Interior, Dominion of Canada, Ottawa
     seriesIssueID: null
     seriesName: null
     seriesPage: null

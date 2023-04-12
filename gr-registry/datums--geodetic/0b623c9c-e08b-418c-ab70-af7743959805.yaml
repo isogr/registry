@@ -15,11 +15,13 @@ data:
     w: 165.87
   identifier: 108
   informationSources:
-  - edition: null
+  - author: L.P. Lee
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Department of Lands and Survey, New Zealand
     seriesIssueID: '1.0'
     seriesName: Technical Series
     seriesPage: null

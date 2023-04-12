@@ -15,53 +15,63 @@ data:
     w: -141.01
   identifier: 970
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'Website: https://webapp.geod.nrcan.gc.ca/geod/tools-outils/gpsh.php'
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: GPS-H
     uuid: 90f26ea8-e86e-411f-91ec-87b5ef9d678c
-  - edition: null
+  - author: M. Veronneau
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: Internal Report
     seriesPage: null
     title: Referencing and Time Tagging Heights in Canada
     uuid: cbae79ea-7ab5-43b1-a8f3-036437234567
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
       (accessed 2022-01-21).
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Geoid Models
     uuid: b84c15c1-7bc1-41cd-8c2e-2e7d471173b4
-  - edition: null
+  - author: M. Veronneau, A. Mainville, M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: Internal Report
     seriesPage: null
     title: 'The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height Transformation
       for Use With GPS in Canada'
     uuid: c6dabb97-da9a-4714-a905-2e504f3a9ab4
-  - edition: null
+  - author: M. Veronneau
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: Internal Report
     seriesPage: null
@@ -71,12 +81,15 @@ data:
   operationVersion: v1
   parameters:
   - fileCitation:
+      author: Canadian Geodetic Survey
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Website. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
         (accessed 2022-01-21).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of
+        Canada
       seriesIssueID: null
       seriesName: null
       seriesPage: null

@@ -13,32 +13,40 @@ data:
     w: -180.0
   identifier: 673
   informationSources:
-  - edition: null
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
     seriesIssueID: '36.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: IERS Conventions (2010)
     uuid: 6a1258fc-4124-406a-9740-08a4d0e48a88
-  - edition: null
+  - author: C. Boucher, Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
     seriesIssueID: '9.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: ITRF 90 and other realizations of the IERS Terrestrial Reference System
       for 1990
     uuid: e3e1838e-dd67-4bda-abd6-f3a69603f0ce
-  - edition: null
+  - author: C. Boucher, Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute National de l'Information Geographique et Forestiere (IGN),
+      Laboratoire de Recherche en Geodesie (LAREG)
     seriesIssueID: null
     seriesName: null
     seriesPage: null

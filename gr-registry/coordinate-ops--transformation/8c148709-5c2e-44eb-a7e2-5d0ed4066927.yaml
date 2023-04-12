@@ -15,31 +15,37 @@ data:
     w: 160.0
   identifier: 737
   informationSources:
-  - edition: null
+  - author: Office of the Surveyor General
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: LINZS25000
     seriesName: null
     seriesPage: null
     title: Standard for New Zealand Geodetic Datum 2000
     uuid: 6036025a-5c29-468c-9f82-1297cdee8970
-  - edition: null
+  - author: Land Information New Zealand
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: NZGD2000 Deformation Model
     uuid: 1aec2b67-2bc5-4fff-b11f-56f29c996797
-  - edition: null
+  - author: Land Information New Zealand
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -49,11 +55,13 @@ data:
   operationVersion: LINZ v20180701
   parameters:
   - fileCitation:
+      author: Office of the Surveyor General
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Land Information New Zealand
       seriesIssueID: LINZS25000
       seriesName: null
       seriesPage: null

@@ -9,7 +9,8 @@ data:
   extent: null
   identifier: 735
   informationSources:
-  - edition: null
+  - author: Z. Chen, T. Zhou, Y. Yu, et al.
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -20,12 +21,14 @@ data:
     seriesPage: 9-14
     title: A Study on the 1985 National Dautm Level of Altitude
     uuid: 01b67d21-01ac-4a2a-b9bd-4aaf43ab68ab
-  - edition: null
+  - author: P. Zhang, Z. Li, H. Wen
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: https://unstats.un.org/unsd/geoinfo/RCC/docs/rccap19/ip/E_Conf.102_IP16_Modernization%20of%20National%20Geodetic%20Datum%20in%20China.pdf
       (accessed 2020-05-15)
+    publisher: United Nations Economic and Social Council
     seriesIssueID: E/CONF.102/IP.16
     seriesName: "Nineteenth United Nations Regional Cartographic Conference for Asia\
       \ and the Pacific, Bangkok, 29 October \u2013 1 November 2012"

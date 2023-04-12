@@ -23,33 +23,41 @@ data:
     w: 167.65
   identifier: 482
   informationSources:
-  - edition: null
+  - author: C. Pearson, R.A. Snay
+    edition: null
     editionDate: 2013-01-01
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    publisher: Springer-Verlag
     seriesIssueID: Volume 17, No. 1
     seriesName: GPS Solutions
     seriesPage: 1-15
     title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
       frames
     uuid: 54651f00-ded9-4a6a-b2fa-d6ec1c34c3ef
-  - edition: null
+  - author: M. Craymer, J. Henton, D. Hutchinson, E. Lapelle, M. Piraszewski
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada
     seriesIssueID: null
     seriesName: Presentation to Canadian Geodetic Reference Systems Committee Meeting,
       Ottawa, April 19-21, 2010
     seriesPage: null
     title: 'Reference Frames: National'
     uuid: e641637b-6d46-405c-b5c1-f092e95a33d6
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null

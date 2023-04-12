@@ -15,11 +15,13 @@ data:
     w: 129.48
   identifier: 408
   informationSources:
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 2009-01-22
     isbn: null
     issn: null
     otherDetails: Mandates use of NMVD03
+    publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 74, No. 13, Document: E9-1180, Citation: 74 FR 3990'
     seriesName: Federal Register Notice
     seriesPage: 3990-3991
@@ -27,32 +29,39 @@ data:
       the Islands of Rota, Saipan and Tinian of the Commonwealth of the Northern Mariana
       Islands (CNMI)
     uuid: 78725800-3eed-41d2-85f1-131de64fc209
-  - edition: null
+  - author: R.A. Snay
+    edition: null
     editionDate: 2003-01-01
     isbn: null
     issn: null
     otherDetails: MARP00, PACP00
+    publisher: American Cobgress on Surveying and Mapping
     seriesIssueID: Volume 63, No. 1
     seriesName: Surveying and Land Information Systems
     seriesPage: ' 5-12'
     title: Introducing Two Spatial Reference Frames for Regions of the Pacific Ocean
     uuid: 9f574c3c-a5c3-479a-ac02-c1c815622175
-  - edition: null
+  - author: C. Pearson, R.A. Snay
+    edition: null
     editionDate: 2013-01-01
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    publisher: Springer-Verlag
     seriesIssueID: Volume 17, No. 1
     seriesName: GPS Solutions
     seriesPage: 1-15
     title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
       frames
     uuid: decf796b-bdc9-4f59-b8e2-5908555363e5
-  - edition: null
+  - author: National Geodetic Survey
+    edition: null
     editionDate: 2017-03-16
     isbn: null
     issn: null
     otherDetails: webpage
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: NGS Online listing of transformation parameters
     seriesPage: null

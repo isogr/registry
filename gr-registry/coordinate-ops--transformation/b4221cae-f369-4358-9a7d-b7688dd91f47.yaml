@@ -13,21 +13,26 @@ data:
     w: -180.0
   identifier: 715
   informationSources:
-  - edition: null
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
     seriesIssueID: '36.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: IERS Conventions (2010)
     uuid: 88d1dbe8-a1aa-415e-a9bb-4fd8000000c7
-  - edition: null
+  - author: D.D. McCarthy, G. Petit
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
+      Germany
     seriesIssueID: '32.0'
     seriesName: IERS Technical Notes
     seriesPage: null

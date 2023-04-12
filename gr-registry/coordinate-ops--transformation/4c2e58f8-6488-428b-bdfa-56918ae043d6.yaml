@@ -14,37 +14,44 @@ data:
     w: -122.19
   identifier: 706
   informationSources:
-  - edition: null
+  - author: L. Sanchez
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service
     seriesIssueID: null
     seriesName: International GNSS Service Technical Report 2014
     seriesPage: 101-110
     title: SIRGAS Regional Network Associate Analysis Center, Technical Report 2014
     uuid: cc9af68a-4cfb-4c26-8b9a-7d7513a19f0c
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Use of velocities in the processing of GNSS data
     uuid: 10449a35-0960-42ed-8a8a-cdd894bf4199
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
     uuid: 883a474b-11e8-459c-8928-d57cb8f36395
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -53,6 +60,7 @@ data:
       to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.862536; Sanchez L., Drewes H (2016):
       VEMOS2015: Velocity and deformation model for Latin America and the Caribbean,
       link to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.863131.'
+    publisher: Elsevier
     seriesIssueID: '102.0'
     seriesName: Journal of Geodynamics
     seriesPage: '2023-01-01'

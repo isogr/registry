@@ -20,22 +20,28 @@ data:
     w: -16.1
   identifier: 693
   informationSources:
-  - edition: null
+  - author: C. Boucher, Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute National de l'Information Geographique et Forestiere (IGN),
+      Laboratoire de Recherche en Geodesie (LAREG)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Memo : Specifications for reference frame fixing in the analysis of a
       EUREF GPS campaign (version 8)'
     uuid: 0d5a272b-3ec9-4e52-8ab8-74347981c123
-  - edition: null
+  - author: Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
+      re (IGN), France"
     seriesIssueID: '1.0'
     seriesName: IERS Technical Note
     seriesPage: null

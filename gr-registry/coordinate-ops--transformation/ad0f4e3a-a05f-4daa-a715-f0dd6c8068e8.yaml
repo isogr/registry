@@ -13,12 +13,15 @@ data:
     w: -65.5
   identifier: 744
   informationSources:
-  - edition: ''
+  - author: National Geodetic Survey
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Webpage for GEOID18, GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99.
       https://www.ngs.noaa.gov/GEOID/ (accessed 2020-11-05)
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
+      Survey (NGS)
     seriesIssueID: ','
     seriesName: ','
     seriesPage: ','
@@ -28,12 +31,15 @@ data:
   operationVersion: v2
   parameters:
   - fileCitation:
+      author: National Geodetic Survey
       edition: ''
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Webpage for GEOID18, GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99.
         https://www.ngs.noaa.gov/GEOID/ (accessed 2020-11-05)
+      publisher: National Oceanic and Atmospheric Administration (NOAA), National
+        Geodetic Survey (NGS)
       seriesIssueID: null
       seriesName: null
       seriesPage: null

@@ -22,34 +22,40 @@ data:
     w: -122.19
   identifier: 346
   informationSources:
-  - edition: null
+  - author: Deutsches Geodaetisches Forschungsinstitut (DGFI)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
     seriesIssueID: null
     seriesName: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht\
       \ 2001/2002"
     seriesPage: null
     title: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht 2001/2002"
     uuid: f75b6e12-27e2-4f34-a031-232746641cd8
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 544-549
     title: Deformation of the South American crust estimated from finite element and
       collocation methods
     uuid: 7901bb11-216c-47c5-bf33-bebae80f7e09
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null

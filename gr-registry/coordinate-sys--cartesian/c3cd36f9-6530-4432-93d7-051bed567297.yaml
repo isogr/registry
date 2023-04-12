@@ -1,20 +1,17 @@
 data:
-  aliases:
-  - 'Earth centred, earth fixed, right-handed 3D coordinate system, consisting of
-    3 orthogonal axes with X and Y axes in the equatorial plane, positive Z-axis parallel
-    to mean earth rotation axis and pointing towards North Pole. UoM: m.'
-  - ECEF
   coordinateSystemAxes:
   - 1f95ce1f-2155-4cb9-a415-e73a4b5b1ad0
   - ab143abe-d350-4401-bd42-55e96a479423
   - cd0f204c-dcda-40a6-a48c-161b8083a3f5
   identifier: 45
   informationSources:
-  - edition: Second Edition
+  - author: International Organization for Standardization (ISO)
+    edition: Second Edition
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Organization for Standardization (ISO)
     seriesIssueID: ISO 19111:2007
     seriesName: International Standard
     seriesPage: null

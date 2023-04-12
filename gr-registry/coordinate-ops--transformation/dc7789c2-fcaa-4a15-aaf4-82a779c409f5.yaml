@@ -14,69 +14,81 @@ data:
     w: -122.19
   identifier: 630
   informationSources:
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Use of velocities in the processing of GNSS data
     uuid: 394ab8c0-2f23-40cf-8f64-7099060a07dd
-  - edition: null
+  - author: L. Sanchez
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'In supplement to: Sanchez L. (2017) Kinematics of the SIRGAS reference
       frame, Symposium SIRGAS2018. Mendoza, Argentina. November 28, 2017'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: SIRGAS reference frame realization SIR17P01
     uuid: 6f7a092e-8ff0-4b33-bce3-0b66ae925bf4
-  - edition: null
+  - author: L. Sanchez
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'Data for paper included in supplement: Sanchez L. (2017) SIRGAS
       reference frame realization SIR17P01, Technische Universitaet Muenchen, Deutsches
       Geodaetisches Forschungsinstitut DGFI-TUM, IGS RNAAC SIRGAS'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: Symposium SIRGAS2017. Mendoza, Argentina. November 28, 2017
     seriesPage: null
     title: Kinematics of the SIRGAS reference frame
     uuid: afb16d14-84b7-48b7-a8eb-d62a0a980970
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'Data for paper included in supplement: Drewes H. and Sanchez L.
       (2017): Velocity model for SIRGAS 2017: VEMOS2017, Technische Universitaet Muenchen,
       Deutsches Geodaetisches Forschungsinstitut (DGFI-TUM), IGS RNAAC'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: Symposium SIRGAS2017. Mendoza, Argentina. November 28, 2017
     seriesPage: null
     title: 'The varying surface kinematics in Latin America: VEMOS 2009, 2015, and
       2017'
     uuid: a8630eaa-19f9-4011-9bbd-c4fbb0396177
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
     uuid: c1f8b4d8-86d5-4608-8808-babeb8426026
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'In supplement to: Drewes H. and Sanchez L. (2017) The varying surface
       kinematics in Latin America: VEMOS 2009, 2015, and 2017, Symposium SIRGAS2017.
       Mendoza, Argentina. November 28, 2017'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null

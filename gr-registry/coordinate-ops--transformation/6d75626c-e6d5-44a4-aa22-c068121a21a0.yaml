@@ -14,17 +14,20 @@ data:
     w: -122.19
   identifier: 707
   informationSources:
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Use of velocities in the processing of GNSS data
     uuid: fcf3ade5-5605-42c4-80dd-da1962efa0a3
-  - edition: null
+  - author: W. Seemueller
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -35,23 +38,27 @@ data:
     title: Report on new activities of IGS Regional Associate Analysis for SIRGAS
       (IGS RNAAC SIR)
     uuid: 2f23ab03-35e4-476f-83f3-0cb37dfd32e5
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 544-549
     title: Deformation of the South American crust estimated from finite element and
       collocation methods
     uuid: 79ce09dd-ac45-4d91-a77c-fd984d4046b8
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null

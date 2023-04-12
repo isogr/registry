@@ -15,11 +15,13 @@ data:
     w: 143.0
   identifier: 391
   informationSources:
-  - edition: null
+  - author: E. Carlson, D. Doyle, D. Smith
+    edition: null
     editionDate: 2009-01-01
     isbn: null
     issn: null
     otherDetails: ASVD02, GUVD04, NMVD03
+    publisher: American Congress on Surveying and Mapping
     seriesIssueID: Volume 69, No. 1
     seriesName: Surveying and Land Information Systems
     seriesPage: 5-17

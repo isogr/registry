@@ -13,22 +13,27 @@ data:
     w: -120.0
   identifier: 773
   informationSources:
-  - edition: ''
+  - author: Canadian Geodetic Survey
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Webpage https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
       (accessed 2021-06-23)
+    publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON, Canada
     seriesIssueID: ',,'
     seriesName: ',,'
     seriesPage: ',,'
     title: Coordinate Transformations
     uuid: ef90845d-ce6d-4c93-b193-01ff26f6092a
-  - edition: ''
+  - author: Geodetic Control Unit
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: ''
+    publisher: Geodetic Control Unit, Lands Policy and Programs Branch, Lands Division,
+      Government of Alberta, Edmonton, AB, Canada
     seriesIssueID: ',,'
     seriesName: ',,'
     seriesPage: ',,'
@@ -38,12 +43,14 @@ data:
   operationVersion: ABv1
   parameters:
   - fileCitation:
+      author: Canadian Geodetic Survey
       edition: ''
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Webpage https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
         (accessed 2021-06-23)
+      publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON, Canada
       seriesIssueID: null
       seriesName: null
       seriesPage: null

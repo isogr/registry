@@ -13,33 +13,39 @@ data:
     w: -180.0
   identifier: 557
   informationSources:
-  - edition: null
+  - author: P. Rebischung
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '7399.0'
     seriesName: IGSMAIL
     seriesPage: null
     title: Upcoming switch to IGS14/igs14.atx
     uuid: 6b2077f9-4a40-49d2-a614-4cb7944a1d8d
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'In supplement to: Drewes H. and Sanchez L. (2017) The varying surface
       kinematics in Latin America: VEMOS 2009, 2015, and 2017, Symposium SIRGAS2017.
       Mendoza, Argentina. November 28, 2017'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Velocity model for SIRGAS 2017: VEMOS2017'
     uuid: cdd54d3e-b3e9-4d0a-9601-b7f5b397ce83
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null

@@ -13,11 +13,14 @@ data:
     w: 144.55
   identifier: 462
   informationSources:
-  - edition: null
+  - author: W. E. Featherstone, J. F. Kirby, C. Hirt, M. S. Filmer, S. J. Claessens,
+      N. J. Brown, G. Hu, G. M. Johnston
+    edition: null
     editionDate: 2010-11-19
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Springer
     seriesIssueID: '85.0'
     seriesName: Journal of Geodesy
     seriesPage: '133.0'
@@ -27,11 +30,14 @@ data:
   operationVersion: GA-Tas v1
   parameters:
   - fileCitation:
+      author: W. E. Featherstone, J. F. Kirby, C. Hirt, M. S. Filmer, S. J. Claessens,
+        N. J. Brown, G. Hu, G. M. Johnston
       edition: null
       editionDate: 2010-11-19
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Springer
       seriesIssueID: '85.0'
       seriesName: Journal of Geodesy
       seriesPage: '133.0'

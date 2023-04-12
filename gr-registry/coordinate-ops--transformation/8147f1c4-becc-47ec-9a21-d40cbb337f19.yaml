@@ -14,47 +14,56 @@ data:
     w: 129.48
   identifier: 738
   informationSources:
-  - edition: ''
+  - author: R.A. Snay
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: MARP00, PACP00. https://www.ngs.noaa.gov/PUBS_LIB/salis.pdf (accessed
       2020-11-05)
+    publisher: American Cobgress on Surveying and Mapping
     seriesIssueID: Volume 63, No. 1
     seriesName: Surveying and Land Information Systems
     seriesPage: ' 5-12'
     title: Introducing Two Spatial Reference Frames for Regions of the Pacific Ocean
     uuid: 4618efd6-fba3-4e63-a015-570bd1b64ca1
-  - edition: ''
+  - author: National Geodetic Survey
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Webpage https://www.ngs.noaa.gov/CORS/coord_info/coordtrans_no_support_tables.shtml
       (accessed 2020-11-05)
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
     seriesIssueID: ''
     seriesName: NGS Online listing of transformation parameters
     seriesPage: ''
     title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
       Frames
     uuid: 886ba66b-4382-44c7-b930-4f8562f07dca
-  - edition: ''
+  - author: C. Pearson, R.A. Snay
+    edition: ''
     editionDate: 2013-01-01
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08.
       http://dx.doi.org/10.1007/s10291-012-0255-y (accessed 2020-11-05)
+    publisher: Springer-Verlag
     seriesIssueID: Volume 17, No. 1
     seriesName: GPS Solutions
     seriesPage: 1-15
     title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
       frames
     uuid: 3a5ffe9e-173a-449b-8bb0-43eac9534ba2
-  - edition: ''
+  - author: T. Soler, R.A. Snay
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: http://dx.doi.org/10.1061/(ASCE)0733-9453(2004)130:2(49) (accessed
       2020-11-05)
+    publisher: American Society of Civil Engineers
     seriesIssueID: Volume 130, No. 2
     seriesName: Journal of Surveying Engineering
     seriesPage: 49-55

@@ -15,21 +15,27 @@ data:
     w: -141.01
   identifier: 554
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: The Canadian Spatial Reference System (CSRS)
     uuid: c392e667-bf75-4ae8-8a3f-bd68a20f8dc1
-  - edition: null
+  - author: M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada
     seriesIssueID: null
     seriesName: Presentation to Canadian Geodetic Reference Systems Committee Meeting,
       Ottawa, May 1-2, 2017

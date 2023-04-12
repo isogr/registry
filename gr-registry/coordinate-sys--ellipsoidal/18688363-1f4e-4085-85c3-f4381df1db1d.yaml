@@ -4,11 +4,13 @@ data:
   - addb3701-9efd-487d-93ef-9540beb175f5
   identifier: 43
   informationSources:
-  - edition: Second Edition
+  - author: International Organization for Standardization (ISO)
+    edition: Second Edition
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Organization for Standardization (ISO)
     seriesIssueID: ISO 19111:2007
     seriesName: International Standard
     seriesPage: null

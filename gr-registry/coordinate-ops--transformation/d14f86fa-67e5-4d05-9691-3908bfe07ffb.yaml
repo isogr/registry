@@ -13,11 +13,13 @@ data:
     w: -64.49
   identifier: 523
   informationSources:
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
@@ -27,11 +29,13 @@ data:
   operationVersion: PEv1
   parameters:
   - fileCitation:
+      author: Esri Canada
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Esri, Redlands, CA
       seriesIssueID: 'Article ID: 000011846'
       seriesName: null
       seriesPage: null

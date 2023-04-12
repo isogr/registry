@@ -22,7 +22,8 @@ data:
     w: -122.19
   identifier: 373
   informationSources:
-  - edition: null
+  - author: W. Seemueller
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -33,22 +34,26 @@ data:
     title: Report on new activities of IGS Regional Associate Analysis for SIRGAS
       (IGS RNAAC SIR)
     uuid: 767b6350-c0f7-4360-805d-89a52ba479ad
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
     uuid: d75b0a6f-9ebb-464b-b8ea-fa7ff4aaa3fa
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 544-549

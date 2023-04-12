@@ -13,22 +13,28 @@ data:
     w: -180.0
   identifier: 608
   informationSources:
-  - edition: null
+  - author: F.G. Lemoine, S. C. Kenyon, J. K. Factor, R.G. Trimmer, N. K. Pavlis,
+      D. S. Chinn, C. M. Cox, S. M. Klosko, S. B. Luthcke, M. H. Torrence, Y. M. Wang,
+      R. G. Williamson, E. C. Pavlis, R. H. Rapp, T. R. Olson,
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Aeronautics and Space Administration
     seriesIssueID: NASA/TP-1998-206861
     seriesName: Technical Paper
     seriesPage: null
     title: The Development of the Joint NASA GSFC and the NIMA Geopotential Model
       EGM96
     uuid: d1dbe05f-1b88-4e1b-9ae7-59517a488acf
-  - edition: null
+  - author: NGA Office of Geomatics
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -38,11 +44,13 @@ data:
   operationVersion: '1.0'
   parameters:
   - fileCitation:
+      author: NGA Office of Geomatics
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: National Geospatial-Intelligence Agency
       seriesIssueID: null
       seriesName: null
       seriesPage: null

@@ -12,31 +12,38 @@ data:
     w: -180.0
   identifier: 202
   informationSources:
-  - edition: null
+  - author: Remi Ferland
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '5438.0'
     seriesName: IGSMAIL
     seriesPage: null
     title: IGS switch to absolute antenna model and ITRF2005
     uuid: 32bcc032-dc20-4f8b-ba8e-763478f4ebf7
-  - edition: null
+  - author: R. Ferland
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '5447.0'
     seriesName: IGSMAIL
     seriesPage: null
     title: Proposed IGS05 Realization
     uuid: f553a2ce-5103-4746-ad33-0a9c2c333e8a
-  - edition: null
+  - author: International GNSS Service Analysis Centre Coordinator
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National  Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null

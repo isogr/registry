@@ -22,33 +22,39 @@ data:
     w: -122.19
   identifier: 212
   informationSources:
-  - edition: null
+  - author: "W. Seem\xFCller, K. Kaniuth, H. Drewes"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
     seriesIssueID: No. 76
     seriesName: DGFI Report
     seriesPage: null
     title: Station positions and velocities of the IGS regional network for SIRGAS
     uuid: 6bfa4eab-676f-41f5-87a9-67bb74ebcac9
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 544-549
     title: Deformation of the South American crust estimated from finite element and
       collocation methods
     uuid: 223a90d6-e80f-48bc-8933-88f4312cc01e
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null

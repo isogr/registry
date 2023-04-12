@@ -4,11 +4,13 @@ data:
   description: null
   formula: null
   formulaCitation:
+    author: Office of the Surveyor General
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: LINZS25000
     seriesName: null
     seriesPage: null

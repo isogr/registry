@@ -15,22 +15,26 @@ data:
     w: -171.0
   identifier: 452
   informationSources:
-  - edition: null
+  - author: E. Carlson, D. Doyle, D. Smith
+    edition: null
     editionDate: 2009-01-01
     isbn: null
     issn: null
     otherDetails: ASVD02, GUVD04, NMVD03
+    publisher: American Congress on Surveying and Mapping
     seriesIssueID: Volume 69, No. 1
     seriesName: Surveying and Land Information Systems
     seriesPage: 5-17
     title: Development of Comprehensive Geodetic Vertical Datums for the United States
       Pacific Territories of American Samoa, Guam, and the Northern Marianas
     uuid: a0650629-91de-4218-8233-fa3bbafe27f0
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 2009-01-22
     isbn: null
     issn: null
     otherDetails: Mandates use of ASVD02
+    publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 74, No. 13, Document: E9-1181, Citation: 74 FR 3991'
     seriesName: Federal Register Notice
     seriesPage: '3991.0'

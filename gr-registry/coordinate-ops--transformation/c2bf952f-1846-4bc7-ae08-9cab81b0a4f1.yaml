@@ -13,31 +13,39 @@ data:
     w: -120.0
   identifier: 469
   informationSources:
-  - edition: null
+  - author: G. Banham
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Personal email communication.
+    publisher: Surveys Section (Geodetic Control Unit), Provincial Programs Branch,
+      Operations Division, Alberta Environment and Parks, Government of Alberta
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Transformation Grid - NAD83(CSRS) Epoch 2002 to NAD83(Original) and v/v
     uuid: 81c5f50d-d416-46d3-91e6-3c69d7ba958f
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Desktop Applications: NTv2'
     uuid: 2b3c3a5a-fb9d-4502-ac75-3730649ceb9f
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
@@ -47,11 +55,14 @@ data:
   operationVersion: ABv1
   parameters:
   - fileCitation:
+      author: G. Banham
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Personal email communication.
+      publisher: Surveys Section (Geodetic Control Unit), Provincial Programs Branch,
+        Operations Division, Alberta Environment and Parks, Government of Alberta
       seriesIssueID: null
       seriesName: null
       seriesPage: null

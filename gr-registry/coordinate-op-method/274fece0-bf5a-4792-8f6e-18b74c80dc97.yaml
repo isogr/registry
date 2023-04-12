@@ -5,11 +5,13 @@ data:
   description: null
   formula: null
   formulaCitation:
+    author: M. Veronneau
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: Internal Report
     seriesPage: null

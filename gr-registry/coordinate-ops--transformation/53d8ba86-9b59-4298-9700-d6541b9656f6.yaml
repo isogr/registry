@@ -15,21 +15,25 @@ data:
     w: -141.01
   identifier: -881074949
   informationSources:
-  - edition: ''
+  - author: 'M. Veronneau, J. Huang '
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: ''
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: ''
     seriesName: ''
     seriesPage: ''
     title: "Canadian Gravimetric Geoid 2013 \u2013 Version A (CGG2013a)"
     uuid: 30509a42-547d-47cc-bfb3-8b29bf41d772
-  - edition: ''
+  - author: M. Veronneau, J. Huang
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: ''
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 70, No. 1
     seriesName: Geomatica
     seriesPage: '9.0'
@@ -39,11 +43,13 @@ data:
   operationVersion: v1
   parameters:
   - fileCitation:
+      author: M. Veronneau, J. Huang
       edition: ''
       editionDate: null
       isbn: null
       issn: null
       otherDetails: ''
+      publisher: Canadian Institute of Geomatics
       seriesIssueID: Volume 70, No. 1
       seriesName: Geomatica
       seriesPage: '9.0'

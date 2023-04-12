@@ -5,11 +5,14 @@ data:
   - 7578267e-1a3f-4bb8-97f6-07b9664f866d
   identifier: 44
   informationSources:
-  - edition: null
+  - author: Institut National de L'Information Geographique et Forestiere
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institut National de L'Information Geographique et Forestiere, 73 Avenue
+      de Paris, 94165 Saint-Mande Cedex, France
     seriesIssueID: null
     seriesName: null
     seriesPage: null

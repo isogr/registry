@@ -13,11 +13,13 @@ data:
     w: -180.0
   identifier: 712
   informationSources:
-  - edition: null
+  - author: S. Malys, J.A. Slater, R.W. Smith, L.E. Kunz, S.C. Kenyon
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 10th International Technical Meeting of the Satellite
       Division of The Institue of Navigation (ION-GPS-1997), Kansas City, MO, September

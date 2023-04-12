@@ -22,33 +22,39 @@ data:
     w: -122.19
   identifier: 454
   informationSources:
-  - edition: null
+  - author: W. Seemueller, K. Kaniuth, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '124.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: '2018-10-07'
     title: Velocity estimates of IGS RNAAC SIRGAS stations
     uuid: 2422da10-ec60-48ed-911b-9c0d65f341d4
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 544-549
     title: Deformation of the South American crust estimated from finite element and
       collocation methods
     uuid: 87d2de17-4304-4e26-ace2-202d363a580d
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null

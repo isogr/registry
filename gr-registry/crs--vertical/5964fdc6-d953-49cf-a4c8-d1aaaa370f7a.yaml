@@ -18,11 +18,13 @@ data:
     w: 160.0
   identifier: 328
   informationSources:
-  - edition: null
+  - author: Land Informaiton New Zealand
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: LINZS25009
     seriesName: null
     seriesPage: null

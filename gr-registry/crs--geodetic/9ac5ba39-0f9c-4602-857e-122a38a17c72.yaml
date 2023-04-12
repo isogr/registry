@@ -26,21 +26,26 @@ data:
     w: -141.01
   identifier: 320
   informationSources:
-  - edition: null
+  - author: M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 60, No. 2
     seriesName: Geomatica
     seriesPage: 151-164
     title: The Evolution of NAD83 in Canada
     uuid: 3d35ce21-4f85-4a8c-9ae8-c4d830ebd079
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null

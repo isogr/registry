@@ -1,0 +1,12 @@
+data:
+  coordinateSystemAxes:
+  - 0ada1feb-242e-4db4-9dce-41905ffc4432
+  - 77cb891c-550f-4b7f-8fc9-398149a01b52
+  identifier: 828
+  informationSources: []
+  name: 'Cartesian 2D CS. Axes: easting, northing (E,N). Orientations: east, north.
+    UoM: m.'
+  remarks: Used in projected and engineering coordinate reference systems.
+dateAccepted: 2022-06-06
+id: 618628cb-4ec1-4da9-aad0-e902078e0778
+status: valid

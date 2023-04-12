@@ -13,21 +13,26 @@ data:
     w: -180.0
   identifier: 504
   informationSources:
-  - edition: null
+  - author: R. Ferland
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '5447.0'
     seriesName: IGSMAIL
     seriesPage: null
     title: Proposed IGS05 Realization
     uuid: fd73f23b-3412-4da3-8b9c-5e546e49f108
-  - edition: null
+  - author: International GNSS Service Analysis Centre Coordinator
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National  Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null

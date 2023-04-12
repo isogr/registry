@@ -22,29 +22,36 @@ data:
     w: -16.1
   identifier: 206
   informationSources:
-  - edition: null
+  - author: C. Boucher, Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute National de l'Information Geographique et Forestiere (IGN),
+      Laboratoire de Recherche en Geodesie (LAREG)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Memo : Specifications for reference frame fixing in the analysis of a
       EUREF GPS campaign (version 8)'
     uuid: 048b1a24-15bf-49e6-8f7e-7728629cc152
-  - edition: null
+  - author: Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
+      re (IGN), France"
     seriesIssueID: '1.0'
     seriesName: IERS Technical Note
     seriesPage: null
     title: 'EUREF Technical Note 1: Relationship and Transformation between the International
       and the European Terrestrial Reference Systems'
     uuid: 99abd929-de83-4c2f-81f2-b310caffa25b
-  - edition: null
+  - author: Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -54,11 +61,13 @@ data:
     seriesPage: null
     title: 'ETRS89 realization: Current status, ETRF2005 and Future Development'
     uuid: 9e119437-e50a-4563-9100-5e9f790c523e
-  - edition: null
+  - author: C.S. DeMets, R.G. Gordon, D.F. Argus, S. Stein
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume 21, Issue 20
     seriesName: Geophysical Research Letters
     seriesPage: null

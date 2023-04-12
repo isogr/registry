@@ -12,11 +12,13 @@ data:
     w: 111.0
   identifier: 198
   informationSources:
-  - edition: null
+  - author: Working Party of the National Mapping Council of Australia
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Mapping Council of Australia
     seriesIssueID: null
     seriesName: null
     seriesPage: null

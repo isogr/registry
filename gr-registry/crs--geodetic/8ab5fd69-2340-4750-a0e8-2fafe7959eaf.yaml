@@ -15,23 +15,27 @@ data:
     w: -180.0
   identifier: -1621496600
   informationSources:
-  - edition: null
+  - author: Arturo Villiger
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: https://lists.igs.org/pipermail/igsmail/2022/008234.html (accessed
       2023-01-27)
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '8238'
     seriesName: IGSMAIL
     seriesPage: null
     title: Upcoming switch to IGS20/igs20.atx and repro3 standards
     uuid: 7b6cc903-f48f-4f76-a17f-68c137cda861
-  - edition: null
+  - author: Salim Masoumi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: https://lists.igs.org/pipermail/igsmail/2022/008278.html (accessed
       2023-01-27)
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '8282'
     seriesName: IGSMAIL
     seriesPage: null

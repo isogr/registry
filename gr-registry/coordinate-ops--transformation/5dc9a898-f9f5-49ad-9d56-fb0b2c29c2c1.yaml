@@ -23,54 +23,66 @@ data:
     w: 167.65
   identifier: 517
   informationSources:
-  - edition: null
+  - author: National Geodetic Survey
+    edition: null
     editionDate: 2017-03-16
     isbn: null
     issn: null
     otherDetails: webpage
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: NGS Online listing of transformation parameters
     seriesPage: null
     title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
       Frames
     uuid: 2e286380-aa8c-424b-b540-6f4b01ce0420
-  - edition: null
+  - author: M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 60, No. 2
     seriesName: Geomatica
     seriesPage: 151-164
     title: The Evolution of NAD83 in Canada
     uuid: 4542f508-ba9c-4675-a84d-596e49823f09
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: The Canadian Spatial Reference System (CSRS)
     uuid: f69cf894-fafb-4666-87f5-345d69003b1f
-  - edition: null
+  - author: R.A. Snay, T. Soler
+    edition: null
     editionDate: 2008-04-01
     isbn: null
     issn: null
     otherDetails: NAD83 (CORS96) Epoch 1996.0,NAD83 (CORS96) Epoch 1997.0,NAD83 (CORS96)
       Epoch 2002.0
+    publisher: ASCE
     seriesIssueID: Volume 134, No. 4
     seriesName: Journal of Surveying Engineering
     seriesPage: 95-104
     title: 'Continuously Operating Reference Station (CORS): History, Applications,
       and Future Enhancements'
     uuid: dedd0034-ad68-4e22-b57a-e592091cbb8e
-  - edition: null
+  - author: M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 60, No. 4
     seriesName: Geomatica
     seriesPage: '433.0'

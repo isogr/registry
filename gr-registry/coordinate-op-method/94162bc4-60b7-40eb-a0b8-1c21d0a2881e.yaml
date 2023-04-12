@@ -4,11 +4,13 @@ data:
   description: null
   formula: null
   formulaCitation:
+    author: NGA Office of Geomatics
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null

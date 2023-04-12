@@ -4,12 +4,14 @@ data:
   description: null
   identifier: 729
   informationSources:
-  - edition: null
+  - author: P. Cheng, H. Wen, Y Cheng,H. Wang
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Chinese; http://xb.sinomaps.com/EN/volumn/volumn_195.shtml#1
       (accessed 2020-05-19)
+    publisher: Surveying and Mapping Press
     seriesIssueID: 38(3)
     seriesName: Acta Geodaetica et Cartographica Sinica
     seriesPage: 189-194

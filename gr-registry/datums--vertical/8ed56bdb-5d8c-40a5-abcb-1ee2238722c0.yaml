@@ -16,11 +16,13 @@ data:
     w: -9.56
   identifier: 144
   informationSources:
-  - edition: null
+  - author: M. Sacher, J. Ihde, G. Liebsch, J. Makinen
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Istituto Geografico Militare, Firenze
     seriesIssueID: Volume 68, No. 1
     seriesName: Bollettino di Geodesia e Scienze Affini
     seriesPage: 35-50

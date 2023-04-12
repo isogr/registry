@@ -13,11 +13,14 @@ data:
     w: -180.0
   identifier: 653
   informationSources:
-  - edition: null
+  - author: Institut National de l'Information Geographique et Forestiere (IGN)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: Institut National de l'Information Geographique et Forestiere (IGN),
+      Laboratoire de Recherche en Geodesie (LAREG)
     seriesIssueID: null
     seriesName: null
     seriesPage: null

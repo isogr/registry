@@ -14,31 +14,38 @@ data:
     w: -128.45
   identifier: 659
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Desktop Applications: NTv2'
     uuid: d66751b1-f572-42c6-b474-d9c49413667e
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
     title: 'FAQ: What are some of the transformation methods for Canada?'
     uuid: 9c6f21a5-a394-408c-bee7-86116bedd06b
-  - edition: null
+  - author: GeoBC
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: GeoBC, Government of British Columbia
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -48,11 +55,13 @@ data:
   operationVersion: BCv2
   parameters:
   - fileCitation:
+      author: GeoBC
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: GeoBC, Government of British Columbia
       seriesIssueID: null
       seriesName: null
       seriesPage: null

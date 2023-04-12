@@ -13,21 +13,26 @@ data:
     w: -180.0
   identifier: 635
   informationSources:
-  - edition: null
+  - author: AC Coordinator
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '3605.0'
     seriesName: IGSMAIL
     seriesPage: null
     title: Towards ITRF2000
     uuid: bbbcdac8-1a38-4e26-806b-ac6d05260a10
-  - edition: null
+  - author: International GNSS Service Analysis Centre Coordinator
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National  Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null

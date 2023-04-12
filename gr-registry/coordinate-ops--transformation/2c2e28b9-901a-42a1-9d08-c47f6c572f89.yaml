@@ -15,11 +15,13 @@ data:
     w: -141.01
   identifier: 618
   informationSources:
-  - edition: null
+  - author: M. Veronneau, A. Mainville, M.R. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -30,11 +32,14 @@ data:
   operationVersion: v1
   parameters:
   - fileCitation:
+      author: M. Veronneau, A. Mainville, M.R. Craymer
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of
+        Canada
       seriesIssueID: null
       seriesName: null
       seriesPage: null

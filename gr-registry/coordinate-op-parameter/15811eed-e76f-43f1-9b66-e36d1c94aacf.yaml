@@ -3,11 +3,13 @@ data:
   definition: null
   identifier: 961
   informationSources:
-  - edition: null
+  - author: ISO/TC 211
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: ISO/TC 211
     seriesIssueID: null
     seriesName: null
     seriesPage: null

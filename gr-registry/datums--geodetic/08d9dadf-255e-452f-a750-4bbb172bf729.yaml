@@ -13,51 +13,66 @@ data:
     w: -180.0
   identifier: 154
   informationSources:
-  - edition: null
+  - author: D.D. McCarthy, C. Boucher, R. Eanes, T. Fukushima, T. Herring, J. Lieske,
+      C. Ma, H. Montag, P. Paquet, C. Reigber, J. Ries, B.E. Schutz, E.M. Standish,
+      C. Veillet, J. Wahr
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
     seriesIssueID: '3.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: IERS standards (1989)
     uuid: 76b028da-9103-45f4-928a-d6659822228c
-  - edition: null
+  - author: C. Boucher, Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
     seriesIssueID: '1.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: The initial IERS Terrestrial Reference Frame
     uuid: a55dda3d-3886-44ba-af0d-7bb04ea8e0b9
-  - edition: null
+  - author: International Association of Geodesy
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Association of Geodesy
     seriesIssueID: Publication speciale no. 3
     seriesName: "Bulletin G\xE9od\xE9sique"
     seriesPage: null
     title: Geodetic Reference System 1967
     uuid: 125ca1b2-68a9-4dac-86fb-d4c1c3457a70
-  - edition: null
+  - author: IERS
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: IERS Annual Report for 1988
     uuid: 6dc5a0a0-91db-437f-a61a-d24a4b10e80c
-  - edition: null
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
     seriesIssueID: '36.0'
     seriesName: IERS Technical Notes
     seriesPage: null

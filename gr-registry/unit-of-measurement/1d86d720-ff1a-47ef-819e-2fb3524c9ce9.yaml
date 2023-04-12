@@ -7,11 +7,13 @@ data:
   denominator: 180.0
   identifier: 8
   informationSources:
-  - edition: null
+  - author: International Organization for Standardization (ISO)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Organization for Standardization (ISO)
     seriesIssueID: ISO 80000-3:2006
     seriesName: International Standard
     seriesPage: null

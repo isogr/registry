@@ -13,11 +13,13 @@ data:
     w: -180.0
   identifier: 708
   informationSources:
-  - edition: null
+  - author: R.F. Wong, C.M. Rollins, C.F. Minter
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 25th International Technical Meeting of the Satellite
       Division of The Institue of Navigation (ION-GNSS-2012), Nashville, TN, September

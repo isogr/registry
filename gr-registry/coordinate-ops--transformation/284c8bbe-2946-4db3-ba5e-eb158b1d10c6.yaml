@@ -13,21 +13,27 @@ data:
     w: -180.0
   identifier: 690
   informationSources:
-  - edition: null
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
     seriesIssueID: '36.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: IERS Conventions (2010)
     uuid: 703b364a-ebff-4f28-aca9-4c199f3e8968
-  - edition: null
+  - author: Institute National de l'Information Geographique et Forestiere (IGN),
+      Laboratoire de Recherche en Geodesie (LAREG)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: Institute National de l'Information Geographique et Forestiere (IGN),
+      Laboratoire de Recherche en Geodesie (LAREG)
     seriesIssueID: null
     seriesName: null
     seriesPage: null

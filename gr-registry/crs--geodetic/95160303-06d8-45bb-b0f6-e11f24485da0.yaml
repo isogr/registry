@@ -22,33 +22,39 @@ data:
     w: -122.19
   identifier: 276
   informationSources:
-  - edition: null
+  - author: W. Seemueller, M. Kruegel, L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
     seriesIssueID: No. 79
     seriesName: DGFI Report
     seriesPage: null
     title: The position and velocity solution DGF08P01 of the IGS Regional Network
       Associate Analysis Centre for SIRGAS (IGS RNAAC SIR)
     uuid: 615eb436-89ee-4687-9655-dc7399631cf7
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
     uuid: e9cff979-826e-43e7-a8e7-17106cf35aa7
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 544-549

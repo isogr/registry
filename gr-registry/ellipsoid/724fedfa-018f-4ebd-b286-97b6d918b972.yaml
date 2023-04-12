@@ -4,11 +4,13 @@ data:
   description: null
   identifier: 31
   informationSources:
-  - edition: Fourth
+  - author: W Torge, J. Muller
+    edition: Fourth
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Walter de Gruyter GmbH, Berlin
     seriesIssueID: null
     seriesName: null
     seriesPage: null

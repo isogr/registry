@@ -6,11 +6,13 @@ data:
   denominator: 39.37
   identifier: 7
   informationSources:
-  - edition: null
+  - author: A.V. Astin, H.A. Karo
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: 'US National Bureau of Standards '
     seriesIssueID: Volume 24, Number 128, Document 59-5442
     seriesName: Federal Register Notice
     seriesPage: '5348.0'

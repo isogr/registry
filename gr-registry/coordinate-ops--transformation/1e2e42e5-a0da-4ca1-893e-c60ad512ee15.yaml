@@ -13,21 +13,25 @@ data:
     w: -69.05
   identifier: 647
   informationSources:
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
     title: 'FAQ: What are some of the transformation methods for Canada?'
     uuid: 7f5059a5-0ea0-4f08-a86a-fa1f33f0e6a9
-  - edition: null
+  - author: GeoNB
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Service New Brunswick, Government of New Brunswick
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -37,11 +41,13 @@ data:
   operationVersion: NBv1
   parameters:
   - fileCitation:
+      author: Esri Canada
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Esri, Redlands, CA
       seriesIssueID: 'Article ID: 000011846'
       seriesName: null
       seriesPage: null

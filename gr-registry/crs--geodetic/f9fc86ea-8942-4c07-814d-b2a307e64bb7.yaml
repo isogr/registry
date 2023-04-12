@@ -22,18 +22,22 @@ data:
     w: -16.1
   identifier: 747
   informationSources:
-  - edition: null
+  - author: Z. Altamimi
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: http://etrs89.ensg.ign.fr/pub/EUREF-TN-1.pdf (accessed 2020-10-14)
+    publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
+      re (IGN), France"
     seriesIssueID: null
     seriesName: EUREF Technical Notes
     seriesPage: null
     title: 'EUREF Technical Note 1: Relationship and Transformation between the International
       and the European Terrestrial Reference Systems'
     uuid: 267d030b-4af6-4820-91b1-d46f31ac4000
-  - edition: null
+  - author: M. Greaves
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -45,12 +49,14 @@ data:
     seriesPage: null
     title: EUREF 2017 Resolutions
     uuid: 3ea2dc09-fbd8-4a72-929f-602b879d85de
-  - edition: null
+  - author: C. Bruyninx, Z. Altamimi, A. Caporali, A. Kenyeres, J. Legrand, M. Lidberg
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: http://www.epncb.oma.be/_documentation/guidelines/Guidelines_for_EUREF_Densifications.pdf
       (accessed 2020-20-14)
+    publisher: "IAG sub-commission for the European Reference Frame \u2013 EUREF"
     seriesIssueID: null
     seriesName: null
     seriesPage: null

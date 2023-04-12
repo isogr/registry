@@ -15,12 +15,15 @@ data:
     w: 34.51
   identifier: 780
   informationSources:
-  - edition: null
+  - author: General Directorate of Geodesy
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: https://www.gasgi.gov.sa/En/Products/Products_v1/Geodesy/Documents/Technical_Summary_for_SANSRS_v1.1.pdf
       (accessed 2021-06-07)
+    publisher: General Directorate of Geodesy, General Authority for Survey and Geospatial
+      Information, Kingdom of Saudi Arabia
     seriesIssueID: null
     seriesName: null
     seriesPage: null

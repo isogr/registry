@@ -13,11 +13,13 @@ data:
     w: -69.05
   identifier: 699
   informationSources:
-  - edition: null
+  - author: D. Ouellette
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Personal email communication.
+    publisher: GeoNB, Service New Brunswick, Government of New Brunswick
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -27,11 +29,13 @@ data:
   operationVersion: NBv1
   parameters:
   - fileCitation:
+      author: D. Ouellette
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Personal email communication.
+      publisher: GeoNB, Service New Brunswick, Government of New Brunswick
       seriesIssueID: null
       seriesName: null
       seriesPage: null

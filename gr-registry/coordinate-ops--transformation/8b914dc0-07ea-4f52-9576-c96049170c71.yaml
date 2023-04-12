@@ -13,11 +13,13 @@ data:
     w: -180.0
   identifier: 508
   informationSources:
-  - edition: null
+  - author: NGA Office of Geomatics
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -27,11 +29,13 @@ data:
   operationVersion: '1.0'
   parameters:
   - fileCitation:
+      author: NGA Office of Geomatics
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: National Geospatial-Intelligence Agency
       seriesIssueID: null
       seriesName: null
       seriesPage: null

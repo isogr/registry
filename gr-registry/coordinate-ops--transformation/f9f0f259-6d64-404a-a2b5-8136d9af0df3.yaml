@@ -13,21 +13,25 @@ data:
     w: -180.0
   identifier: -1201982512
   informationSources:
-  - edition: null
+  - author: N.W. Henschel
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Personal communication
     uuid: a334f1fa-2960-4eab-8251-3a4f3ad8ab75
-  - edition: null
+  - author: K.M. Kelly, M.L. Dennis
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: https://doi.org/10.1061/(ASCE)SU.1943-5428.0000389 (accessed 2023-01-29)
+    publisher: American Society of Civil Engineers
     seriesIssueID: 148(2)
     seriesName: Journal of Surveying Engineering
     seriesPage: null

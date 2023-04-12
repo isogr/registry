@@ -15,42 +15,50 @@ data:
     w: -141.01
   identifier: 973
   informationSources:
-  - edition: null
+  - author: M. Veronneau
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: Internal Report
     seriesPage: null
     title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
     uuid: bf2686ff-bea2-48d6-8c49-fc51b651d545
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'Website: https://webapp.geod.nrcan.gc.ca/geod/tools-outils/gpsh.php'
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: GPS-H
     uuid: a4bb530d-03e2-4667-8049-4c66738a749f
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
       (accessed 2022-01-21).
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Geoid Models
     uuid: fb072f0f-b294-4ae9-9407-bf58362f6699
-  - edition: null
+  - author: M. Veronneau
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: Internal Report
     seriesPage: null
@@ -60,12 +68,15 @@ data:
   operationVersion: v1
   parameters:
   - fileCitation:
+      author: Canadian Geodetic Survey
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Website. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
         (accessed 2022-01-21).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of
+        Canada
       seriesIssueID: null
       seriesName: null
       seriesPage: null

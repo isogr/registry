@@ -15,11 +15,13 @@ data:
     w: -141.01
   identifier: 686
   informationSources:
-  - edition: null
+  - author: M. Veronneau, J. Huang
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 70, No. 1
     seriesName: Geomatica
     seriesPage: '9.0'
@@ -29,11 +31,13 @@ data:
   operationVersion: v1
   parameters:
   - fileCitation:
+      author: M. Veronneau, J. Huang
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Canadian Institute of Geomatics
       seriesIssueID: Volume 70, No. 1
       seriesName: Geomatica
       seriesPage: '9.0'

@@ -13,11 +13,13 @@ data:
     w: -180.0
   identifier: 661
   informationSources:
-  - edition: Third Edition
+  - author: National Imagery and Mapping Agency
+    edition: Third Edition
     editionDate: 1997-07-04
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Imagery and Mapping Agency
     seriesIssueID: TR8350.2
     seriesName: Technical Report
     seriesPage: null

@@ -13,11 +13,14 @@ data:
     w: -64.49
   identifier: 648
   informationSources:
-  - edition: null
+  - author: W. Tremblay
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Personal email communication.
+    publisher: Land and Environment Surveys, Department of Transportation, Infrastructure
+      and Energy, Government of Prince Edward Island
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -27,11 +30,14 @@ data:
   operationVersion: PEv1
   parameters:
   - fileCitation:
+      author: W. Tremblay
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Personal email communication.
+      publisher: Land and Environment Surveys, Department of Transportation, Infrastructure
+        and Energy, Government of Prince Edward Island
       seriesIssueID: null
       seriesName: null
       seriesPage: null

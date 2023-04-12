@@ -13,11 +13,13 @@ data:
     w: -180.0
   identifier: 573
   informationSources:
-  - edition: null
+  - author: R.F. Wong, C.M. Rollins, C.F. Minter
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 25th International Technical Meeting of the Satellite
       Division of The Institue of Navigation (ION-GNSS-2012), Nashville, TN, September
@@ -25,21 +27,27 @@ data:
     seriesPage: 1164-1172
     title: Recent Updates to the WGS 84 Reference Frame
     uuid: 2bbe4088-b700-4067-89ad-4ffbdc3cbbc0
-  - edition: null
+  - author: NGA Office of Geomatics
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
     uuid: b046a504-5db0-478a-839e-e9b6f2beade1
-  - edition: null
+  - author: F.G. Lemoine, S. C. Kenyon, J. K. Factor, R.G. Trimmer, N. K. Pavlis,
+      D. S. Chinn, C. M. Cox, S. M. Klosko, S. B. Luthcke, M. H. Torrence, Y. M. Wang,
+      R. G. Williamson, E. C. Pavlis, R. H. Rapp, T. R. Olson,
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Aeronautics and Space Administration
     seriesIssueID: NASA/TP-1998-206861
     seriesName: Technical Paper
     seriesPage: null
@@ -50,11 +58,13 @@ data:
   operationVersion: '2.0'
   parameters:
   - fileCitation:
+      author: NGA Office of Geomatics
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: National Geospatial-Intelligence Agency
       seriesIssueID: null
       seriesName: null
       seriesPage: null
@@ -65,11 +75,13 @@ data:
     unitOfMeasurement: null
     value: egm96.exe
   - fileCitation:
+      author: NGA Office of Geomatics
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: National Geospatial-Intelligence Agency
       seriesIssueID: null
       seriesName: null
       seriesPage: null

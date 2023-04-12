@@ -16,11 +16,13 @@ data:
     w: 160.0
   identifier: 287
   informationSources:
-  - edition: null
+  - author: Office of the Surveyor General
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: LINZS25000
     seriesName: null
     seriesPage: null

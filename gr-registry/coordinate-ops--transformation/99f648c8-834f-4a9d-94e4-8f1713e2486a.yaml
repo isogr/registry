@@ -15,11 +15,13 @@ data:
     w: 93.41
   identifier: 497
   informationSources:
-  - edition: null
+  - author: John Dawson and Alex Woods
+    edition: null
     editionDate: 2010-10-01
     isbn: null
     issn: null
     otherDetails: null
+    publisher: de Gruyter
     seriesIssueID: '4.0'
     seriesName: Journal of Applied Geodesy
     seriesPage: '189.0'

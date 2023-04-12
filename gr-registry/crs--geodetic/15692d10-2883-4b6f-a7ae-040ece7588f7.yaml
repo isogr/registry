@@ -21,11 +21,13 @@ data:
     w: -122.19
   identifier: 257
   informationSources:
-  - edition: null
+  - author: L. Sanchez
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service
     seriesIssueID: null
     seriesName: International GNSS Service Technical Report 2014
     seriesPage: 101-110

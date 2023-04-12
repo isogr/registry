@@ -3,64 +3,76 @@ data:
   description: null
   identifier: 28
   informationSources:
-  - edition: null
+  - author: U.S. Army Map Service
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: U.S. Army Map Service
     seriesIssueID: TM 5-241-4/2
     seriesName: Technical Manual
     seriesPage: null
     title: "Universal Transverse Mercator Grid Tables For Latitudes 0\xB0-80\xB0 Clarke\
       \ 1866 Spheroid (Meters) Volume II"
     uuid: f65acd04-2224-4ca5-a523-77195a326774
-  - edition: null
+  - author: Department of the Army
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Headquarters, Department of the Army, Washington, DC
     seriesIssueID: TM 5-241-1
     seriesName: Department of the Army Technical Manual
     seriesPage: null
     title: Grids and Grid References
     uuid: 98ab5484-6da1-4ad5-8f55-54463c36fe44
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 1930-06-30
     isbn: null
     issn: null
     otherDetails: NGVD29
+    publisher: Government Printing Office
     seriesIssueID: null
     seriesName: null
     seriesPage: '33.0'
     title: Annual Report of the Director, United States Coast and Geodetic Survey
       to the Secretary of Commerce for the Fiscal Year Ended June 30, 1930
     uuid: 57f02e82-6a3f-47b6-87df-9b344f91ae26
-  - edition: null
+  - author: Coast and Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Coast and Geodetic Survey
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Annual Report of the Superintendent of the Coast and Geodetic Survey for
       fiscal year ended June 30, 1927
     uuid: bf4ad651-c415-4095-bd98-8d9ae068ac11
-  - edition: null
+  - author: U.S. Army Map Service
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: U.S. Army Map Service
     seriesIssueID: '7.0'
     seriesName: Army Map Services Bulletin
     seriesPage: null
     title: Transformation of grid coordinates
     uuid: 93ed7697-efad-4780-9482-b1e8df3a3711
-  - edition: null
+  - author: U.S. Army Map Service
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: U.S. Army Map Service
     seriesIssueID: null
     seriesName: null
     seriesPage: null

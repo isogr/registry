@@ -17,44 +17,53 @@ data:
     w: 172.0
   identifier: 193
   informationSources:
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 2007-07-11
     isbn: null
     issn: null
     otherDetails: Mandates use of VERTCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 72, No. 132, Document: 07-3377'
     seriesName: 'Federal Register Notice '
     seriesPage: '37732.0'
     title: Notice to Adopt a Standard Model for Mathematical Vertical Datum Transformations
     uuid: 9635890e-016a-42aa-80ce-bb5c485cd1dd
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 1993-06-24
     isbn: null
     issn: null
     otherDetails: Mandates use of NAVD 88
+    publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 58, No. 120, Document: 93-14922, Docket No. 930650-3150'
     seriesName: Federal Register Notice
     seriesPage: null
     title: Affirmation of Vertical Datum for Surveying and Mapping Activities
     uuid: 87a54484-37da-4c92-ae2a-0470da828431
-  - edition: null
+  - author: D.B. Zilkoski, J.H. Richards, G.M. Young
+    edition: null
     editionDate: 1992-03-01
     isbn: null
     issn: null
     otherDetails: One of many NAVD 88 publiations. Nothing definitive was every written,
       but this is most cited
+    publisher: American Cobgress on Surveying and Mapping
     seriesIssueID: ' Volume 52, No. 3'
     seriesName: Surveying and Land Information Systems
     seriesPage: 133-149
     title: Results of the General Adjustment of the North American Vertical Datum
       of 1988
     uuid: 7d58bc17-838f-495b-bff9-8847b5ab4427
-  - edition: null
+  - author: National Geodetic Survey
+    edition: null
     editionDate: 2003-09-29
     isbn: null
     issn: null
     otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
       transformations between NGVD 29 and NAVD 88
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null

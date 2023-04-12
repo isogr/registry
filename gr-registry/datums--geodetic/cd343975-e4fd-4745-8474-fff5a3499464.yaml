@@ -13,11 +13,13 @@ data:
     w: -180.0
   identifier: 115
   informationSources:
-  - edition: null
+  - author: R. Ferland
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '4642.0'
     seriesName: IGSMAIL
     seriesPage: null

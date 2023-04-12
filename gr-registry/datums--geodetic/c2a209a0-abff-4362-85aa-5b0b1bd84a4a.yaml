@@ -12,11 +12,13 @@ data:
     w: -180.0
   identifier: 196
   informationSources:
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 2009-01-22
     isbn: null
     issn: null
     otherDetails: Mandates use of NMVD03
+    publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 74, No. 13, Document: E9-1180, Citation: 74 FR 3990'
     seriesName: Federal Register Notice
     seriesPage: 3990-3991
@@ -24,11 +26,13 @@ data:
       the Islands of Rota, Saipan and Tinian of the Commonwealth of the Northern Mariana
       Islands (CNMI)
     uuid: 2c7787b5-d524-4c00-bf18-06d30369ee5f
-  - edition: null
+  - author: R.F. Wong, C.M. Rollins, C.F. Minter
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 25th International Technical Meeting of the Satellite
       Division of The Institue of Navigation (ION-GNSS-2012), Nashville, TN, September

@@ -16,12 +16,15 @@ data:
     w: -93.17
   identifier: 769
   informationSources:
-  - edition: null
+  - author: Coordinating Committee on Great Lakes Basic Hydraulic and Hydrologic Data
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'Website: http://www.greatlakescc.org/wp36/wp-content/uploads/2017/07/EstablishmentOfInternationalGreatLakesDatum-1985.pdf
       (accesed 2021-01-30).'
+    publisher: Coordinating Committee on Great Lakes Basic Hydraulic and Hydrologic
+      Data
     seriesIssueID: null
     seriesName: null
     seriesPage: null

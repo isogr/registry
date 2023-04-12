@@ -15,44 +15,53 @@ data:
     w: 157.47
   identifier: 484
   informationSources:
-  - edition: null
+  - author: National Geodetic Survey
+    edition: null
     editionDate: 2017-03-16
     isbn: null
     issn: null
     otherDetails: webpage
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: NGS Online listing of transformation parameters
     seriesPage: null
     title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
       Frames
     uuid: e8709606-11c7-4a24-a7e2-ae5cb3e163d9
-  - edition: null
+  - author: C. Pearson, R.A. Snay
+    edition: null
     editionDate: 2013-01-01
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    publisher: Springer-Verlag
     seriesIssueID: Volume 17, No. 1
     seriesName: GPS Solutions
     seriesPage: 1-15
     title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
       frames
     uuid: 7346c254-0897-404b-8252-8e6431a1f871
-  - edition: null
+  - author: T. Soler, R.A. Snay
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Society of Civil Engineers
     seriesIssueID: Volume 130, No. 2
     seriesName: Journal of Surveying Engineering
     seriesPage: 49-55
     title: Transforming positions and velocities between the International Terrestrial
       Reference Frame of 2000 and the North American Datum of 1983
     uuid: 64d8b68a-5469-4305-9be4-c70647423ffa
-  - edition: null
+  - author: R.A. Snay
+    edition: null
     editionDate: 2003-01-01
     isbn: null
     issn: null
     otherDetails: MARP00, PACP00
+    publisher: American Cobgress on Surveying and Mapping
     seriesIssueID: Volume 63, No. 1
     seriesName: Surveying and Land Information Systems
     seriesPage: ' 5-12'

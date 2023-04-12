@@ -5,11 +5,13 @@ data:
   description: null
   formula: null
   formulaCitation:
+    author: D. Junkings
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Surveying and Mapping, Ottawa, Canada
     seriesIssueID: null
     seriesName: 'Moving to NAD ''83: the new address for georeferenced data in Canada,
       D.C. Barnes (ed.)'

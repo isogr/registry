@@ -14,30 +14,35 @@ data:
     w: -122.19
   identifier: 549
   informationSources:
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
     uuid: bd564aaa-33b8-4232-a911-4bfab1a66f59
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal deformation\
       \ and surface kinematics after the 2010 earthquakes in Latin America. Journal\
       \ of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
+    publisher: PANGAEA
     seriesIssueID: 10.1594/PANGAEA.863131
     seriesName: PANGAEA
     seriesPage: null
     title: 'VEMOS2015: Velocity and deformation model for Latin America and the Caribbean,
       link to ZIP archive'
     uuid: 0323a502-a3ed-4323-abd5-61fdbfafdcc0
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -46,29 +51,34 @@ data:
       to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.862536; Sanchez L., Drewes H (2016):
       VEMOS2015: Velocity and deformation model for Latin America and the Caribbean,
       link to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.863131.'
+    publisher: Elsevier
     seriesIssueID: '102.0'
     seriesName: Journal of Geodynamics
     seriesPage: '2023-01-01'
     title: Crustal deformation and surface kinematics after the 2010 earthquakes in
       Latin America
     uuid: c4b73b9d-1a08-420b-9b66-a011bd98071c
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Use of velocities in the processing of GNSS data
     uuid: 488f4d25-b022-46f6-acde-821a129cc5ec
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal deformation\
       \ and surface kinematics after the 2010 earthquakes in Latin America. Journal\
       \ of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
+    publisher: PANGAEA
     seriesIssueID: 10.1594/PANGAEA.862536
     seriesName: PANGAEA
     seriesPage: null

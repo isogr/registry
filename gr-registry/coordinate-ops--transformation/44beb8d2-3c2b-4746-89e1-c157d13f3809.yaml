@@ -13,31 +13,38 @@ data:
     w: -139.04
   identifier: 576
   informationSources:
-  - edition: null
+  - author: GeoBC
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: GeoBC, Government of British Columbia
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
     uuid: fd4173e6-9600-48d0-bad0-93e3f3e18aff
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
     title: 'FAQ: What are some of the transformation methods for Canada?'
     uuid: bffa222f-a09c-4281-9b7d-29e8fb6c733d
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -47,11 +54,13 @@ data:
   operationVersion: BCv1
   parameters:
   - fileCitation:
+      author: GeoBC
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: GeoBC, Government of British Columbia
       seriesIssueID: null
       seriesName: null
       seriesPage: null

@@ -13,21 +13,26 @@ data:
     w: -180.0
   identifier: 719
   informationSources:
-  - edition: null
+  - author: C. Boucher, Z. Altamimi, L. Duhem
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
     seriesIssueID: '12.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: ITRF 91 and its associated velocity field
     uuid: ecd6c3a7-92eb-410e-9896-28a566714a82
-  - edition: null
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
     seriesIssueID: '36.0'
     seriesName: IERS Technical Notes
     seriesPage: null

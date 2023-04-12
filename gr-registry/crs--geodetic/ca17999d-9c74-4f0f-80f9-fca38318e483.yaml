@@ -15,21 +15,28 @@ data:
     w: 122.9
   identifier: 281
   informationSources:
-  - edition: null
+  - author: Y. Hiyama, A. Yamagiwa, T. Kawahara, M. Iwata, Y. Fukuzaki, Y. Shouji,
+      Y. Sato, T. Yutsudo, T. Sasaki, H. Shigematsu, H. Yamao, T. Inukai, M. Ohtaki,
+      K. Kokado, S. Kurihara, I. Kimura, T. Tsutsumi, T. Yahagi, Y. Furuya, I. Kageyama,
+      S. Kawamoto, K. Yamaguchi, H. Tsuji, S. Matsumura
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
     seriesIssueID: Volume 51
     seriesName: Bulletin of the Geographical Survey Institute
     seriesPage: "1\u20139"
     title: Concept of the New Japanese Geodetic System
     uuid: 81b1a3d7-d4ca-434b-83d7-3bbdea058aae
-  - edition: null
+  - author: Geographical Survey Institute
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
     seriesIssueID: Volume 50
     seriesName: Bulletin of the Geographical Survey Institute
     seriesPage: 33-36

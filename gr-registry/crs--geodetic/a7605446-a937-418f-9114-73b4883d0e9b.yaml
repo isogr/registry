@@ -16,18 +16,21 @@ data:
     w: -180.0
   identifier: 209
   informationSources:
-  - edition: null
+  - author: Z. Altamimi, X. Collilieux, J. Legrand, B. Garayt, C. Boucher
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Vol 112
     seriesName: ' Journal of Geophysical Research'
     seriesPage: null
     title: 'ITRF2005: A new release of the International Terrestrial Reference Frame
       based on time series of station positions and Earth Orientation Parameters'
     uuid: 86c4090e-4b40-4c65-bb45-db38ba181aa2
-  - edition: null
+  - author: IERS
+    edition: null
     editionDate: null
     isbn: null
     issn: null

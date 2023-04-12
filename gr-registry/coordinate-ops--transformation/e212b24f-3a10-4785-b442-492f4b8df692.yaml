@@ -13,22 +13,27 @@ data:
     w: -67.82
   identifier: 736
   informationSources:
-  - edition: ''
+  - author: GIS and Mapping Division
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: ''
+    publisher: GIS and Mapping Division, Department of Fisheries and Land Resources,
+      Government of Newfoundland and Labrador, Corner Brook, NL, Canada
     seriesIssueID: ',,'
     seriesName: ',,'
     seriesPage: ',,'
     title: NLCSRSV4.GSB
     uuid: 9df62712-08cf-4d8a-afdf-2c6e66dc29d8
-  - edition: ''
+  - author: Canadian Geodetic Survey
+    edition: ''
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'Website: https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
       (last accessed 2020-07-26).'
+    publisher: Canadian Geodetic Survey, Natural Resources Canada
     seriesIssueID: ''
     seriesName: ''
     seriesPage: ''
@@ -38,11 +43,13 @@ data:
   operationVersion: NLv1
   parameters:
   - fileCitation:
+      author: Canadian Geodetic Survey
       edition: ''
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Webpage
+      publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON, Canada
       seriesIssueID: null
       seriesName: null
       seriesPage: null

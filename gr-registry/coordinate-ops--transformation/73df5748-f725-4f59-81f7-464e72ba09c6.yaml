@@ -15,27 +15,33 @@ data:
     w: -141.01
   identifier: 583
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: The Canadian Spatial Reference System (CSRS)
     uuid: 0398e25c-cc36-4ffc-be29-eb41c23c282c
-  - edition: null
+  - author: M. Craymer
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 60, No. 2
     seriesName: Geomatica
     seriesPage: 151-164
     title: The Evolution of NAD83 in Canada
     uuid: 46d44f0a-0b1b-4e67-bf6f-0cb28e9f4720
-  - edition: null
+  - author: J. Kouba, J. Popelar
+    edition: null
     editionDate: null
     isbn: null
     issn: null

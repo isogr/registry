@@ -7,12 +7,14 @@ data:
   description: null
   formula: null
   formulaCitation:
+    author: National Geospatial-Intelligence Agency (NGA)
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
       (accessed 2022-04-20)
+    publisher: National Geospatial-Intelligence Agency (NGA)
     seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
     seriesName: National Geospatial-Intelligence Agency Standardization Document
     seriesPage: null

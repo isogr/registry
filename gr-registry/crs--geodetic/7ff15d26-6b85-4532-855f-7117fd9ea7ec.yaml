@@ -10,36 +10,42 @@ data:
   extent: null
   identifier: 733
   informationSources:
-  - edition: null
+  - author: P. Zhang, Z. Li, H. Wen
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: https://unstats.un.org/unsd/geoinfo/RCC/docs/rccap19/ip/E_Conf.102_IP16_Modernization%20of%20National%20Geodetic%20Datum%20in%20China.pdf
       (accessed 2020-05-15)
+    publisher: United Nations Economic and Social Council
     seriesIssueID: E/CONF.102/IP.16
     seriesName: "Nineteenth United Nations Regional Cartographic Conference for Asia\
       \ and the Pacific, Bangkok, 29 October \u2013 1 November 2012"
     seriesPage: null
     title: Modernization of National Geodetic Datum in China
     uuid: 195f5992-1122-49eb-8095-e96666b06314
-  - edition: null
+  - author: J. Chen
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Chinese; http://xb.sinomaps.com/EN/Y2008/V37/I3/269 (accessed
       2020-05-19)
+    publisher: Surveying and Mapping Press
     seriesIssueID: 37(3)
     seriesName: Acta Geodaetica et Cartographica Sinica
     seriesPage: 269-271
     title: Chinese Modern Geodetic Datum - Chinese Geodetic Coordinate System 2000
       (CGCS 2000) and Its Frame
     uuid: 6c098a18-61f8-4487-86e4-5d35995f26d4
-  - edition: null
+  - author: Y. Yang
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Chinese; https://doi.org/10.1007/s11434-009-0342-9 (accessed
       2020-05-19)
+    publisher: Science China Press
     seriesIssueID: '54.0'
     seriesName: Chinese Science Bulletin
     seriesPage: 2714- 2721

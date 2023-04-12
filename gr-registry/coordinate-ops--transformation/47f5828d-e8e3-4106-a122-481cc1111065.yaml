@@ -15,21 +15,25 @@ data:
     w: 160.0
   identifier: 689
   informationSources:
-  - edition: null
+  - author: Land Information New Zealand
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: NZGD2000 Deformation Model
     uuid: c94c2d89-5830-4ca9-892f-c6fa2f9c99ad
-  - edition: null
+  - author: Office of the Surveyor General
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: LINZS25000
     seriesName: null
     seriesPage: null
@@ -39,11 +43,13 @@ data:
   operationVersion: LINZ v20160701
   parameters:
   - fileCitation:
+      author: Office of the Surveyor General
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Land Information New Zealand
       seriesIssueID: LINZS25000
       seriesName: null
       seriesPage: null

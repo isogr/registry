@@ -19,12 +19,14 @@ data:
     w: -135.0
   identifier: 696
   informationSources:
-  - edition: null
+  - author: D. Smith, A. Bilich
+    edition: null
     editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
       datum transformations, and extents of covnversion grids.
+    publisher: NOAA's National Geodetic Survey
     seriesIssueID: null
     seriesName: NGS Technical Report
     seriesPage: null
@@ -35,12 +37,14 @@ data:
   operationVersion: v1
   parameters:
   - fileCitation:
+      author: D. Smith, A. Bilich
       edition: null
       editionDate: 2017-03-27
       isbn: null
       issn: null
       otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
         datum transformations, and extents of covnversion grids.
+      publisher: NOAA's National Geodetic Survey
       seriesIssueID: null
       seriesName: NGS Technical Report
       seriesPage: null
@@ -52,12 +56,14 @@ data:
     unitOfMeasurement: null
     value: nadcon5.nad83_2007.nad83_2011.conus.lat.trn.20160901.b
   - fileCitation:
+      author: D. Smith, A. Bilich
       edition: null
       editionDate: 2017-03-27
       isbn: null
       issn: null
       otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
         datum transformations, and extents of covnversion grids.
+      publisher: NOAA's National Geodetic Survey
       seriesIssueID: null
       seriesName: NGS Technical Report
       seriesPage: null
@@ -69,12 +75,14 @@ data:
     unitOfMeasurement: null
     value: nadcon5.nad83_2007.nad83_2011.conus.lon.trn.20160901.b
   - fileCitation:
+      author: D. Smith, A. Bilich
       edition: null
       editionDate: 2017-03-27
       isbn: null
       issn: null
       otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
         datum transformations, and extents of covnversion grids.
+      publisher: NOAA's National Geodetic Survey
       seriesIssueID: null
       seriesName: NGS Technical Report
       seriesPage: null

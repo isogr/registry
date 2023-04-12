@@ -2,11 +2,13 @@ data:
   abbreviation: H
   identifier: 35
   informationSources:
-  - edition: Second Edition
+  - author: International Organization for Standardization (ISO)
+    edition: Second Edition
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Organization for Standardization (ISO)
     seriesIssueID: ISO 19111:2007
     seriesName: International Standard
     seriesPage: null

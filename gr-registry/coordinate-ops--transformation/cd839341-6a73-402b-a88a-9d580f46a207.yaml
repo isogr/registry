@@ -13,31 +13,39 @@ data:
     w: -110.0
   identifier: 628
   informationSources:
-  - edition: null
+  - author: Saskatchewan Information Services Corporation (ISC)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Saskatchewan Information Services Corporation (ISC), Geomatics Distribution
+      Centre, Regina, Saskatchewan
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Grid shift files
     uuid: a0854951-3668-49c5-8203-c708aeee9c0d
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Desktop Applications: NTv2'
     uuid: 021c8b81-232a-46f5-85c7-0464eced7eab
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
@@ -47,11 +55,14 @@ data:
   operationVersion: SKv1
   parameters:
   - fileCitation:
+      author: Saskatchewan Information Services Corporation (ISC)
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Saskatchewan Information Services Corporation (ISC), Geomatics Distribution
+        Centre, Regina, Saskatchewan
       seriesIssueID: null
       seriesName: null
       seriesPage: null

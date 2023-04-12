@@ -18,11 +18,13 @@ data:
     w: 157.47
   identifier: 449
   informationSources:
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 2013-08-08
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Office of Federal Register, NARA
     seriesIssueID: "Volume 78, No. 153, Document: 2013\u201319167, Citation: 78 FR\
       \ 48421"
     seriesName: Federal Register Notice
@@ -31,11 +33,13 @@ data:
       American Datum of 1983 (PA2011) Epoch 2010.00 and North American Datum of 1983
       (MA2011) Epoch 2010.00
     uuid: 6c38f175-138d-4c8e-ac12-d68d2359c744
-  - edition: null
+  - author: C. Pearson, R.A. Snay
+    edition: null
     editionDate: 2013-01-01
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    publisher: Springer-Verlag
     seriesIssueID: Volume 17, No. 1
     seriesName: GPS Solutions
     seriesPage: 1-15

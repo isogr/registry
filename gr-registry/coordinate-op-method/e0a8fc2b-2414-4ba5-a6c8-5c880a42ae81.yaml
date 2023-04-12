@@ -5,12 +5,15 @@ data:
   description: null
   formula: null
   formulaCitation:
+    author: National Geodetic Survey
     edition: null
     editionDate: 2003-09-29
     isbn: null
     issn: null
     otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
       transformations between NGVD 29 and NAVD 88
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null

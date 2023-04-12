@@ -15,11 +15,13 @@ data:
     w: 160.0
   identifier: 560
   informationSources:
-  - edition: null
+  - author: Land Information New Zealand
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Land Information New Zealand
     seriesIssueID: null
     seriesName: null
     seriesPage: null

@@ -17,12 +17,14 @@ data:
     w: -9.56
   identifier: 764
   informationSources:
-  - edition: null
+  - author: Bundesamt fuer Kartogrphie und Geodaesie
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website. https://evrs.bkg.bund.de/Subsites/EVRS/EN/EVRF2019/evrf2019.html
       (accessed 2020-11-30)
+    publisher: Bundesamt fuer Kartogrphie und Geodaesie
     seriesIssueID: null
     seriesName: null
     seriesPage: null

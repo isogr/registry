@@ -15,41 +15,51 @@ data:
     w: -141.01
   identifier: 637
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'Desktop Applications: NTv2'
     uuid: d7de57b8-bf6a-47be-b587-6cf9b4d48306
-  - edition: null
+  - author: D.R. Junkings, S.A. Farley
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geodetic Survey Division, Geomatics Canada, Natural Resources Canada,
+      Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'NTv2 National Transformation Version 2: User''s Guide'
     uuid: 3a2f4675-0cbf-490f-80ef-d50f89002ceb
-  - edition: null
+  - author: Esri Canada
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
     seriesPage: null
     title: 'FAQ: What are some of the transformation methods for Canada?'
     uuid: 557ba345-211d-4149-bc4f-6425aae58703
-  - edition: null
+  - author: D. Junkings
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Institute of Surveying and Mapping, Ottawa, Canada
     seriesIssueID: null
     seriesName: 'Moving to NAD ''83: the new address for georeferenced data in Canada,
       D.C. Barnes (ed.)'
@@ -60,11 +70,13 @@ data:
   operationVersion: CAv1
   parameters:
   - fileCitation:
+      author: D. Junkings
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: Canadian Institute of Surveying and Mapping, Ottawa, Canada
       seriesIssueID: null
       seriesName: 'Moving to NAD ''83: the new address for georeferenced data in Canada,
         D.C. Barnes (ed.)'

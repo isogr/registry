@@ -16,22 +16,27 @@ data:
     w: -180.0
   identifier: 259
   informationSources:
-  - edition: null
+  - author: D.F. Argus, R.G. Gordon
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume 18, Issue 11
     seriesName: Geophysical Research Letters
     seriesPage: null
     title: No-net-rotation model of current plate velocities incorporating plate motion
       model NUVEL-1
     uuid: 8eb30d52-d074-4815-b325-5c37e94b3035
-  - edition: null
+  - author: C. Boucher, Z. Altamimi, L. Duhem
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
     seriesIssueID: '12.0'
     seriesName: IERS Technical Notes
     seriesPage: null

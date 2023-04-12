@@ -26,17 +26,21 @@ data:
     w: -141.01
   identifier: 331
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: The Canadian Spatial Reference System (CSRS)
     uuid: ab77bb30-e64c-4c61-9dbe-97f6f419605d
-  - edition: null
+  - author: J. Kouba, J. Popelar
+    edition: null
     editionDate: null
     isbn: null
     issn: null

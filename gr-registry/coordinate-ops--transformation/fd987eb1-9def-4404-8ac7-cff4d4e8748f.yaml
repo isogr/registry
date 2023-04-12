@@ -15,11 +15,13 @@ data:
     w: 93.41
   identifier: 546
   informationSources:
-  - edition: null
+  - author: J. Dawson, J. Steed
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geoscience Australia
     seriesIssueID: null
     seriesName: null
     seriesPage: null

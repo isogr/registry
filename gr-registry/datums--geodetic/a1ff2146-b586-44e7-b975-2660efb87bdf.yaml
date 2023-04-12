@@ -12,21 +12,26 @@ data:
     w: -180.0
   identifier: 159
   informationSources:
-  - edition: null
+  - author: P. Rebischung
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '6663.0'
     seriesName: IGSMAIL
     seriesPage: null
     title: 'IGb08: an update on IGS08'
     uuid: 734f4f17-3302-4cc8-b52c-85965354a971
-  - edition: null
+  - author: International GNSS Service Analysis Centre Coordinator
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National  Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null

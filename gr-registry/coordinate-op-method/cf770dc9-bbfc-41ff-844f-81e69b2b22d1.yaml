@@ -5,11 +5,13 @@ data:
   formula: 'The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height Transformation
     for Use With GPS in Canada'
   formulaCitation:
+    author: M. Veronneau, A. Mainville, M.R. Craymer
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null

@@ -13,22 +13,26 @@ data:
     w: -161.0
   identifier: 710
   informationSources:
-  - edition: null
+  - author: US Government
+    edition: null
     editionDate: 1990-08-10
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
     seriesName: 'Federal Register Notice '
     seriesPage: '32681.0'
     title: Notice to Adopt Standard Method for Horizontal Datum Transformation
     uuid: ebb4c21f-7afe-4bda-84ff-676610695ccc
-  - edition: null
+  - author: D. Smith, A. Bilich
+    edition: null
     editionDate: 2017-03-27
     isbn: null
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
       datum transformations, and extents of covnversion grids.
+    publisher: NOAA's National Geodetic Survey
     seriesIssueID: null
     seriesName: NGS Technical Report
     seriesPage: null
@@ -39,11 +43,13 @@ data:
   operationVersion: v3
   parameters:
   - fileCitation:
+      author: US Government
       edition: null
       editionDate: 1990-08-10
       isbn: null
       issn: null
       otherDetails: Mandates use of NADCON for official transformations between datums
+      publisher: Office of Federal Register, NARA
       seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
       seriesName: 'Federal Register Notice '
       seriesPage: '32681.0'
@@ -54,11 +60,13 @@ data:
     unitOfMeasurement: null
     value: nadcon5.nad83_1986.nad83_1993.hawaii.lat.trn.20160901.b
   - fileCitation:
+      author: US Government
       edition: null
       editionDate: 1990-08-10
       isbn: null
       issn: null
       otherDetails: Mandates use of NADCON for official transformations between datums
+      publisher: Office of Federal Register, NARA
       seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
       seriesName: 'Federal Register Notice '
       seriesPage: '32681.0'

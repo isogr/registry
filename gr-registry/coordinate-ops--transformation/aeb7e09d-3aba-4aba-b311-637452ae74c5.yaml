@@ -13,32 +13,40 @@ data:
     w: -180.0
   identifier: 611
   informationSources:
-  - edition: null
+  - author: Z. Altamimi, P. Rebischung, L. Metivier, X. Collilieux
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Earth Rotation and Reference Systems Service Central
+      Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
+      Germany
     seriesIssueID: '38.0'
     seriesName: IERS Technical Notes
     seriesPage: null
     title: Analysis and results of ITRF2014
     uuid: db69331b-e368-41e3-95b5-f3aa52331b9f
-  - edition: null
+  - author: Z. Altamimi, P. Rebischung, L. Metivier, X. Collilieux
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume 121, Issue 8
     seriesName: Journal of Geophysical Research Solid Earth
     seriesPage: null
     title: 'ITRF2014: A new release of the International Terrestrial Reference Frame
       modeling nonlinear station motions'
     uuid: 112fe54f-40a7-48e2-af1b-db81612e5761
-  - edition: null
+  - author: P. Rebischung
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International GNSS Service (IGS)
     seriesIssueID: '7399.0'
     seriesName: IGSMAIL
     seriesPage: null

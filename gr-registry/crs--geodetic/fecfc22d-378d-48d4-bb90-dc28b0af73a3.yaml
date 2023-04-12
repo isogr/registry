@@ -21,7 +21,8 @@ data:
     w: -122.19
   identifier: 249
   informationSources:
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
@@ -30,42 +31,49 @@ data:
       to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.862536; Sanchez L., Drewes H (2016):
       VEMOS2015: Velocity and deformation model for Latin America and the Caribbean,
       link to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.863131.'
+    publisher: Elsevier
     seriesIssueID: '102.0'
     seriesName: Journal of Geodynamics
     seriesPage: '2023-01-01'
     title: Crustal deformation and surface kinematics after the 2010 earthquakes in
       Latin America
     uuid: 0a23cf77-a9f1-46ec-8ef2-aa08dd591a94
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal deformation\
       \ and surface kinematics after the 2010 earthquakes in Latin America. Journal\
       \ of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
+    publisher: PANGAEA
     seriesIssueID: 10.1594/PANGAEA.862536
     seriesName: PANGAEA
     seriesPage: null
     title: 'SIR15P01: Multiyear solution for the SIRGAS Reference Frame, link to ZIP
       archive'
     uuid: ac94b035-daee-435b-9b14-2b38a1b91f79
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
     uuid: 3ac7e217-f33f-424f-9dd1-fcfa46abde9c
-  - edition: null
+  - author: L. Sanchez, H. Drewes
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal deformation\
       \ and surface kinematics after the 2010 earthquakes in Latin America. Journal\
       \ of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
+    publisher: PANGAEA
     seriesIssueID: 10.1594/PANGAEA.863131
     seriesName: PANGAEA
     seriesPage: null

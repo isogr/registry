@@ -13,11 +13,13 @@ data:
     w: -180.0
   identifier: 473
   informationSources:
-  - edition: null
+  - author: M. J. Merrigan, E.R. Swift, R.F. Wong, Saffel J.T.
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 15th International Technical Meeting of the Satellite
       Division of The Institue of Navigation (ION-GPS-2002), Portland, OR, September
@@ -25,11 +27,15 @@ data:
     seriesPage: 1519-1529
     title: A Refinement to the World Geodetic System 1984 Reference Frame
     uuid: 0d556a16-0d2c-4c56-a23e-227d2c266538
-  - edition: null
+  - author: F.G. Lemoine, S. C. Kenyon, J. K. Factor, R.G. Trimmer, N. K. Pavlis,
+      D. S. Chinn, C. M. Cox, S. M. Klosko, S. B. Luthcke, M. H. Torrence, Y. M. Wang,
+      R. G. Williamson, E. C. Pavlis, R. H. Rapp, T. R. Olson,
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Aeronautics and Space Administration
     seriesIssueID: NASA/TP-1998-206861
     seriesName: Technical Paper
     seriesPage: null
@@ -40,11 +46,13 @@ data:
   operationVersion: '2.0'
   parameters:
   - fileCitation:
+      author: NGA Office of Geomatics
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: National Geospatial-Intelligence Agency
       seriesIssueID: null
       seriesName: null
       seriesPage: null
@@ -55,11 +63,13 @@ data:
     unitOfMeasurement: null
     value: egm96.exe
   - fileCitation:
+      author: NGA Office of Geomatics
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: null
+      publisher: National Geospatial-Intelligence Agency
       seriesIssueID: null
       seriesName: null
       seriesPage: null

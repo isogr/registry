@@ -5,11 +5,14 @@ data:
   description: null
   formula: The AUSGeoid09 model of the Australian Height Datum
   formulaCitation:
+    author: W. E. Featherstone, J. F. Kirby, C. Hirt, M. S. Filmer, S. J. Claessens,
+      N. J. Brown, G. Hu, G. M. Johnston
     edition: null
     editionDate: 2010-11-19
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Springer
     seriesIssueID: '85.0'
     seriesName: Journal of Geodesy
     seriesPage: '133.0'

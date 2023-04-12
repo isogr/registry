@@ -15,23 +15,27 @@ data:
     w: 93.41
   identifier: 790
   informationSources:
-  - edition: null
+  - author: Geoscience Australia
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website. https://www.icsm.gov.au/australian-terrestrial-reference-frame
       (accessed 2021-09-27)
+    publisher: Geoscience Australia
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Australian Terrestrial Reference Frame
     uuid: cc684bee-35a5-40fa-b183-5da17fa84486
-  - edition: Version 2.3
+  - author: Intergovernmental Committee on Surveying and Mapping (ICSM)
+    edition: Version 2.3
     editionDate: 2020-02-12
     isbn: null
     issn: null
     otherDetails: https://www.icsm.gov.au/sites/default/files/2020-02/ATRF%20Technical%20Implementation%20Plan%20v2.3_1.pdf
       (accessed 2021-09-27)
+    publisher: Geoscience Australia
     seriesIssueID: null
     seriesName: null
     seriesPage: null

@@ -4,11 +4,13 @@ data:
   description: null
   formula: null
   formulaCitation:
+    author: Geospatial Information Authority of Japan (GSI)
     edition: 1.1.0.0
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Webpage in Japanese.
+    publisher: Geospatial Information Authority of Japan (GSI), Tsukuba, Japan
     seriesIssueID: null
     seriesName: null
     seriesPage: null

@@ -13,22 +13,27 @@ data:
     w: -180.0
   identifier: 799
   informationSources:
-  - edition: null
+  - author: Office of Geomatics / GNSS Division, National Geospatial-Intelligence
+      Agency
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: https://earth-info.nga.mil/php/download.php?file=(U)WGS%2084(G2139).pdf
       (accessed 2021-09-24)
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: 21-520
     seriesName: Public Release
     seriesPage: null
     title: Recent Update to WGS 84 Reference Frame and NGA Transition to IGS ANTEX
     uuid: 299bb9ef-8f8a-4398-9f46-0b0ef6490372
-  - edition: null
+  - author: Robert Wong
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
     seriesIssueID: '2021-10-25'
     seriesName: ISOGR Control Body Meeting
     seriesPage: null

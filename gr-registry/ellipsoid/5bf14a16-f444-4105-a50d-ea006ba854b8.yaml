@@ -8,21 +8,25 @@ data:
   description: null
   identifier: 27
   informationSources:
-  - edition: null
+  - author: H. Moritz
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Springer International Publishing
     seriesIssueID: Volume 74, No. 1
     seriesName: Journal of Geodesy
     seriesPage: "128\u2013162"
     title: Geodetic Reference System 1980
     uuid: bb2ac0f5-00a7-49ef-b8b1-7b811fa718f5
-  - edition: null
+  - author: H. Moritz
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: International Association of Geodesy
     seriesIssueID: Volume 58, No. 3
     seriesName: Bulletin Geodesique
     seriesPage: 395-405

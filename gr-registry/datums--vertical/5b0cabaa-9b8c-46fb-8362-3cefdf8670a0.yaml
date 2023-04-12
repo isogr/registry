@@ -16,42 +16,50 @@ data:
     w: -141.01
   identifier: 963
   informationSources:
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
       (accessed 2022-01-21).
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Geoid Models
     uuid: 505ff945-21f1-41d2-bef3-02d6a5ba4c84
-  - edition: null
+  - author: Judith Bosse
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: http://www.gazette.gc.ca/ (accessed 2022-01-21).
+    publisher: Government of Canada
     seriesIssueID: Part I, December 5, 2015
     seriesName: Canada Gazette
     seriesPage: '2587.0'
     title: Canadian Geodetic Vertical Datum of 2013
     uuid: 613c5dd9-ff27-4303-ac4c-04185698c7f9
-  - edition: null
+  - author: 'M. Veronneau, J. Huang '
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: Internal Report
     seriesPage: null
     title: "Canadian Gravimetric Geoid 2013 \u2013 Version A (CGG2013a)"
     uuid: 204a3e32-e2c2-4bb8-a3f2-c71f4ec67775
-  - edition: null
+  - author: M. Veronneau, J. Huang
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: http://dx.doi.org/10.5623/cig2016-101 (accessed 2022-01-21).
+    publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 70, No. 1
     seriesName: Geomatica
     seriesPage: '42997.0'

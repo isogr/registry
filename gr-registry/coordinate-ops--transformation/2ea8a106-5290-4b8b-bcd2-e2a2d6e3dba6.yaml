@@ -19,11 +19,14 @@ data:
     w: -124.79
   identifier: 636
   informationSources:
-  - edition: null
+  - author: National Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -33,11 +36,14 @@ data:
   operationVersion: v1
   parameters:
   - fileCitation:
+      author: National Geodetic Survey
       edition: null
       editionDate: null
       isbn: null
       issn: null
       otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+      publisher: National Oceanic and Atmospheric Administration (NOAA), National
+        Geodetic Survey (NGS)
       seriesIssueID: null
       seriesName: null
       seriesPage: null

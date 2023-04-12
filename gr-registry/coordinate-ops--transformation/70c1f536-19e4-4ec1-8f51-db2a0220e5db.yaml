@@ -15,22 +15,28 @@ data:
     w: -141.01
   identifier: 489
   informationSources:
-  - edition: null
+  - author: M. Craymer, J. Henton, D. Hutchinson, E. Lapelle, M. Piraszewski
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada
     seriesIssueID: null
     seriesName: Presentation to Canadian Geodetic Reference Systems Committee Meeting,
       Ottawa, April 19-21, 2010
     seriesPage: null
     title: 'Reference Frames: National'
     uuid: 39696b5d-de3e-4342-b6ea-f727ef79dc18
-  - edition: null
+  - author: Canadian Geodetic Survey
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null
     seriesPage: null

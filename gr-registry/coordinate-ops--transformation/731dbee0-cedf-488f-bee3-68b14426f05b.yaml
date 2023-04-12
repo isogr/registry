@@ -20,34 +20,41 @@ data:
     w: 167.65
   identifier: 604
   informationSources:
-  - edition: null
+  - author: National Geodetic Survey
+    edition: null
     editionDate: 2017-03-16
     isbn: null
     issn: null
     otherDetails: webpage
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
     seriesIssueID: null
     seriesName: NGS Online listing of transformation parameters
     seriesPage: null
     title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
       Frames
     uuid: 155db94d-9e91-4bf5-ad20-3ad39d7008d6
-  - edition: null
+  - author: C. Pearson, R.A. Snay
+    edition: null
     editionDate: 2013-01-01
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    publisher: Springer-Verlag
     seriesIssueID: Volume 17, No. 1
     seriesName: GPS Solutions
     seriesPage: 1-15
     title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
       frames
     uuid: 7e1c6f81-43dd-4ebb-99b9-ed69dba81a27
-  - edition: null
+  - author: R.A. Snay, T. Soler
+    edition: null
     editionDate: 2008-04-01
     isbn: null
     issn: null
     otherDetails: NAD83 (CORS96) Epoch 1996.0,NAD83 (CORS96) Epoch 1997.0,NAD83 (CORS96)
       Epoch 2002.0
+    publisher: ASCE
     seriesIssueID: Volume 134, No. 4
     seriesName: Journal of Surveying Engineering
     seriesPage: 95-104

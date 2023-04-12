@@ -13,32 +13,38 @@ data:
     w: -180.0
   identifier: 491
   informationSources:
-  - edition: null
+  - author: Z. Altamimi, P. Rebischung, L. Metivier, X. Collilieux
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: American Geophysical Union
     seriesIssueID: Volume 121, Issue 8
     seriesName: Journal of Geophysical Research Solid Earth
     seriesPage: null
     title: 'ITRF2014: A new release of the International Terrestrial Reference Frame
       modeling nonlinear station motions'
     uuid: ebf45cf0-c059-488d-8968-4f33bc8f2a33
-  - edition: null
+  - author: P. Rebischung
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Springer
     seriesIssueID: Volume 16, Issue 4
     seriesName: GPS Solutions
     seriesPage: null
     title: 'IGS08: the IGS realization of ITRF2008'
     uuid: 553c1c5d-836b-470b-b1e7-f5c8d24fcd67
-  - edition: null
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
     seriesIssueID: '36.0'
     seriesName: IERS Technical Notes
     seriesPage: null

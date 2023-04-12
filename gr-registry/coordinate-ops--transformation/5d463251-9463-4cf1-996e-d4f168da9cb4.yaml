@@ -14,43 +14,51 @@ data:
     w: -122.19
   identifier: 634
   informationSources:
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
     uuid: 6db89724-5399-4930-8647-24bd29297e5e
-  - edition: null
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Use of velocities in the processing of GNSS data
     uuid: e2be1d1b-7166-4436-913b-60ca01134c58
-  - edition: null
+  - author: Deutsches Geodaetisches Forschungsinstitut (DGFI)
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: null
+    publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
     seriesIssueID: null
     seriesName: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht\
       \ 2001/2002"
     seriesPage: null
     title: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht 2001/2002"
     uuid: 6191a69e-9f77-4024-b512-2f4bb2c0c9f8
-  - edition: null
+  - author: H. Drewes, O. Heidbach
+    edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
     seriesPage: 544-549
