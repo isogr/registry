@@ -6,6 +6,7 @@ items:
   /coordinate-sys-axis/addb3701-9efd-487d-93ef-9540beb175f5.yaml:
     item_body:
       abbreviation: Lon
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 34
       informationSources:

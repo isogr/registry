@@ -3,6 +3,8 @@ data:
     dtype: TransformationAccuracy
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.2
+  aliases:
+  - KSA-GEOID17
   coordOperationMethod: c05b9dd7-4b2b-407a-b8ba-d7012e457e02
   description: null
   extent:

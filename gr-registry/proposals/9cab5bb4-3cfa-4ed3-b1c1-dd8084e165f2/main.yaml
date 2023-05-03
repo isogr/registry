@@ -6,6 +6,7 @@ items:
   /coordinate-sys-axis/c6cdd588-e667-440c-b312-f7a1867dce5d.yaml:
     item_body:
       abbreviation: y
+      aliases: []
       dateAccepted: 2022-06-06
       identifier: 822
       informationSources: []

@@ -6,6 +6,7 @@ items:
   /coordinate-sys-axis/fe748cfb-d67a-4ca9-98dd-59148cf7dcc3.yaml:
     item_body:
       abbreviation: Lat
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 38
       informationSources:

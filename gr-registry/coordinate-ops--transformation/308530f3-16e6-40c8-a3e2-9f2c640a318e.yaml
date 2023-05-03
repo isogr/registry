@@ -3,6 +3,10 @@ data:
     dtype: TransformationAccuracy
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.1
+  aliases:
+  - Australian Geodetic Quasi-Geoid
+  - AGQG_20201120
+  - AGQG
   coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
   description: null
   extent:

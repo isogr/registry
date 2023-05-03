@@ -10,6 +10,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 907d9606-a4c1-4d91-8259-aa62386e0145
       dateAccepted: 2021-04-29
       description: null

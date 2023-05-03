@@ -1957,6 +1957,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -2072,6 +2073,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -2219,6 +2221,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.06
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -2334,6 +2337,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -2399,6 +2403,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
       dateAccepted: 2018-11-17
       description: null
@@ -2496,6 +2501,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases: []
       coordOperationMethod: 1ec40630-37a6-4af1-8b25-a2f860b4965f
       dateAccepted: 2018-11-17
       description: null
@@ -2593,6 +2599,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.03
+      aliases: []
       coordOperationMethod: 9a8bc426-f56b-423a-b9fb-030955d22887
       dateAccepted: 2018-11-17
       description: null
@@ -2649,6 +2656,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -2771,6 +2779,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -2887,6 +2896,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.15
+      aliases: []
       coordOperationMethod: e0a8fc2b-2414-4ba5-a6c8-5c880a42ae81
       dateAccepted: 2018-11-17
       description: null
@@ -3028,6 +3038,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID99
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -3093,6 +3105,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -3227,6 +3240,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.03
+      aliases: []
       coordOperationMethod: 1e5c11d5-9ed1-42e7-a8de-0e6c452df611
       dateAccepted: 2018-11-17
       description: null
@@ -3282,6 +3296,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID99
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -3347,6 +3363,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -3497,6 +3514,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -3634,6 +3652,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID09
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -3697,6 +3717,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -3812,6 +3833,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -3906,6 +3928,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.03
+      aliases: []
       coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
       dateAccepted: 2018-11-17
       description: null
@@ -3972,6 +3995,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID09
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -4035,6 +4060,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.003
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -4161,6 +4187,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -4277,6 +4304,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -4439,6 +4467,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases: []
       coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
       dateAccepted: 2018-11-17
       description: null
@@ -4535,6 +4564,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -4698,6 +4728,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID99
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -4763,6 +4795,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -4838,6 +4871,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
       dateAccepted: 2018-11-17
       description: null
@@ -4921,6 +4955,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -5009,6 +5044,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.5
+      aliases: []
       coordOperationMethod: 4dd696b3-2475-4c09-837c-a7762ed98bdd
       dateAccepted: 2018-11-17
       description: null
@@ -5073,6 +5109,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -5208,6 +5245,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.03
+      aliases: []
       coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
       dateAccepted: 2018-11-17
       description: null
@@ -5274,6 +5312,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
       dateAccepted: 2018-11-17
       description: null
@@ -5356,6 +5395,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -5444,6 +5484,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -5556,6 +5597,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -5719,6 +5761,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -5857,6 +5900,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -5982,6 +6026,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -6121,6 +6166,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -6236,6 +6282,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.03
+      aliases:
+      - NAD83(CSRS) v6 to CGVD2013(CGG2013a) - OHt [v1]
       coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
       dateAccepted: 2018-11-17
       description: null
@@ -6315,6 +6363,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -6442,6 +6491,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -6592,6 +6642,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -6756,6 +6807,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -6846,6 +6898,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -7007,6 +7060,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -7132,6 +7186,9 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - Height Transformation version 2.0
+      - ' HTv2.0'
       coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
       dateAccepted: 2018-11-17
       description: null
@@ -7202,6 +7259,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.15
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -7292,6 +7350,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 2ef0db1a-c7e8-44a7-850b-d6fc6133e65e
       dateAccepted: 2018-11-17
       description: null
@@ -7387,6 +7446,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID09
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -7456,6 +7517,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -7584,6 +7646,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -7709,6 +7772,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -7799,6 +7863,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -7863,6 +7928,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -8012,6 +8078,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.03
+      aliases:
+      - NZGeoid2016
       coordOperationMethod: 4a370551-f089-4518-8f3a-3b78bc9745cf
       dateAccepted: 2018-11-17
       description: null
@@ -8076,6 +8144,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases:
+      - GEOID12B
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -8139,6 +8209,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.15
+      aliases: []
       coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
       dateAccepted: 2018-11-17
       description: null
@@ -8243,6 +8314,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -8308,6 +8380,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -8446,6 +8519,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -8574,6 +8648,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -8664,6 +8739,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.03
+      aliases:
+      - ITRF2008 to CGVD2013(CGG2013a) - OHt [v1]
       coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
       dateAccepted: 2018-11-17
       description: null
@@ -8743,6 +8820,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases:
+      - GEOID12B
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -8806,6 +8885,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.005
+      aliases: []
       coordOperationMethod: 2ef0db1a-c7e8-44a7-850b-d6fc6133e65e
       dateAccepted: 2018-11-17
       description: null
@@ -8900,6 +8980,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -8988,6 +9069,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.007
+      aliases: []
       coordOperationMethod: 2ef0db1a-c7e8-44a7-850b-d6fc6133e65e
       dateAccepted: 2018-11-17
       description: null
@@ -9082,6 +9164,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -9172,6 +9255,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID99
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -9236,6 +9321,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases: []
       coordOperationMethod: 1ec40630-37a6-4af1-8b25-a2f860b4965f
       dateAccepted: 2018-11-17
       description: null
@@ -9321,6 +9407,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -9409,6 +9496,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.2
+      aliases: []
       coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
       dateAccepted: 2018-11-17
       description: null
@@ -9491,6 +9579,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -9640,6 +9729,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -9778,6 +9868,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases: []
       coordOperationMethod: 1ec40630-37a6-4af1-8b25-a2f860b4965f
       dateAccepted: 2018-11-17
       description: null
@@ -9875,6 +9966,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -10039,6 +10131,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases:
+      - GEOID12B
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -10102,6 +10196,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -10249,6 +10344,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -10374,6 +10470,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -10501,6 +10598,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.004
+      aliases: []
       coordOperationMethod: ea144e91-b722-4b93-928d-5fc40fd88e6b
       dateAccepted: 2018-11-17
       description: null
@@ -10560,6 +10658,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -10722,6 +10821,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -10787,6 +10887,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 3905157c-48fe-48b2-abcd-c1ad81ac206c
       dateAccepted: 2018-11-17
       description: null
@@ -10896,6 +10997,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -11023,6 +11125,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.15
+      aliases: []
       coordOperationMethod: e0a8fc2b-2414-4ba5-a6c8-5c880a42ae81
       dateAccepted: 2018-11-17
       description: null
@@ -11165,6 +11268,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.06
+      aliases:
+      - AUSGeoid09
       coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
       dateAccepted: 2018-11-17
       description: null
@@ -11230,6 +11335,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -11379,6 +11485,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.004
+      aliases: []
       coordOperationMethod: 9a8bc426-f56b-423a-b9fb-030955d22887
       dateAccepted: 2018-11-17
       description: null
@@ -11439,6 +11546,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -11624,6 +11732,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -11786,6 +11895,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -11949,6 +12059,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.15
+      aliases: []
       coordOperationMethod: e0a8fc2b-2414-4ba5-a6c8-5c880a42ae81
       dateAccepted: 2018-11-17
       description: null
@@ -12090,6 +12201,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -12275,6 +12387,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases:
+      - GEOID12B
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -12338,6 +12452,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -12463,6 +12578,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -12528,6 +12644,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -12677,6 +12794,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -12793,6 +12911,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 3905157c-48fe-48b2-abcd-c1ad81ac206c
       dateAccepted: 2018-11-17
       description: null
@@ -12890,6 +13009,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -13040,6 +13160,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -13178,6 +13299,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -13328,6 +13450,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -13391,6 +13514,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -13540,6 +13664,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -13692,6 +13817,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -13781,6 +13907,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases:
+      - AUSGeoid2020
       coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
       dateAccepted: 2018-11-17
       description: null
@@ -13847,6 +13975,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -13994,6 +14123,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.06
+      aliases:
+      - AUSGeoid09
       coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
       dateAccepted: 2018-11-17
       description: null
@@ -14061,6 +14192,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -14210,6 +14342,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -14299,6 +14432,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 5.0
+      aliases: []
       coordOperationMethod: ba7dac5d-4f79-4ac1-a7aa-96ccebc6093d
       dateAccepted: 2018-11-17
       description: null
@@ -14364,6 +14498,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -14525,6 +14660,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -14592,6 +14728,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -14753,6 +14890,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -14877,6 +15015,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
       dateAccepted: 2018-11-17
       description: null
@@ -14960,6 +15099,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -15107,6 +15247,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID99
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -15172,6 +15314,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -15346,6 +15489,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -15484,6 +15628,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -15643,6 +15788,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -15793,6 +15939,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -15915,6 +16062,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.18
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -16041,6 +16189,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -16177,6 +16326,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -16305,6 +16455,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -16433,6 +16584,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -16523,6 +16675,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -16650,6 +16803,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -16788,6 +16942,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -16915,6 +17070,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 6958648f-9e35-45fd-ac15-b1fcad9dab80
       dateAccepted: 2018-11-17
       description: null
@@ -17030,6 +17186,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -17191,6 +17348,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -17326,6 +17484,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -17393,6 +17552,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases: []
       coordOperationMethod: 1ec40630-37a6-4af1-8b25-a2f860b4965f
       dateAccepted: 2018-11-17
       description: null
@@ -17490,6 +17650,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: a0832dbc-a1c2-4c39-a22e-64e0f62bd8c4
       dateAccepted: 2018-11-17
       description: null
@@ -17552,6 +17713,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.06
+      aliases:
+      - NZGeoid2009
       coordOperationMethod: 4a370551-f089-4518-8f3a-3b78bc9745cf
       dateAccepted: 2018-11-17
       description: null
@@ -17616,6 +17779,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
       dateAccepted: 2018-11-17
       description: null
@@ -17698,6 +17862,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -17825,6 +17990,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -17986,6 +18152,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.15
+      aliases: []
       coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
       dateAccepted: 2018-11-17
       description: null
@@ -18083,6 +18250,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 3.0
+      aliases: []
       coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
       dateAccepted: 2018-11-17
       description: null
@@ -18168,6 +18336,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 94162bc4-60b7-40eb-a0b8-1c21d0a2881e
       dateAccepted: 2018-11-17
       description: null
@@ -18230,6 +18399,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -18368,6 +18538,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 94162bc4-60b7-40eb-a0b8-1c21d0a2881e
       dateAccepted: 2018-11-17
       description: null
@@ -18445,6 +18616,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID99
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -18512,6 +18685,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases:
+      - GEOID12B
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -18581,6 +18756,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -18671,6 +18847,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -18820,6 +18997,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -18941,6 +19119,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -19100,6 +19279,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases: []
       coordOperationMethod: 1ec40630-37a6-4af1-8b25-a2f860b4965f
       dateAccepted: 2018-11-17
       description: null
@@ -19197,6 +19377,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -19319,6 +19500,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -19444,6 +19626,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -19593,6 +19776,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases:
+      - GEOID12B
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -19656,6 +19841,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases:
+      - GEOID06
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -19719,6 +19906,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -19872,6 +20060,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID09
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -19935,6 +20125,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 6958648f-9e35-45fd-ac15-b1fcad9dab80
       dateAccepted: 2018-11-17
       description: null
@@ -20011,6 +20202,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.06
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -20136,6 +20328,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -20243,6 +20436,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -20404,6 +20598,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: a0832dbc-a1c2-4c39-a22e-64e0f62bd8c4
       dateAccepted: 2018-11-17
       description: null
@@ -20466,6 +20661,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
       dateAccepted: 2018-11-17
       description: null
@@ -20550,6 +20746,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -20698,6 +20895,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -20836,6 +21034,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 2ef0db1a-c7e8-44a7-850b-d6fc6133e65e
       dateAccepted: 2018-11-17
       description: null
@@ -20945,6 +21144,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -21070,6 +21270,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -21197,6 +21398,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -21322,6 +21524,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -21449,6 +21652,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -21621,6 +21825,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -21757,6 +21962,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.5
+      aliases: []
       coordOperationMethod: 3905157c-48fe-48b2-abcd-c1ad81ac206c
       dateAccepted: 2018-11-17
       description: null
@@ -21866,6 +22072,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -22047,6 +22254,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -22163,6 +22371,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: f2d8e58d-a889-4386-9a3a-f79dfcac86bd
       dateAccepted: 2018-11-17
       description: null
@@ -22240,6 +22449,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -22393,6 +22603,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -22512,6 +22723,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -22634,6 +22846,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -22723,6 +22936,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -22861,6 +23075,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -22924,6 +23139,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -23071,6 +23287,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -23230,6 +23447,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.11
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -23356,6 +23574,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -23478,6 +23697,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -23639,6 +23859,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -23764,6 +23985,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -23852,6 +24074,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -23999,6 +24222,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID09
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -24062,6 +24287,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -24209,6 +24435,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -24344,6 +24571,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -24437,6 +24665,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -24575,6 +24804,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -24639,6 +24869,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -24764,6 +24995,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
       dateAccepted: 2018-11-17
       description: null
@@ -24846,6 +25078,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -24913,6 +25146,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases: []
       coordOperationMethod: 1ec40630-37a6-4af1-8b25-a2f860b4965f
       dateAccepted: 2018-11-17
       description: null
@@ -25010,6 +25244,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -25148,6 +25383,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -25295,6 +25531,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases:
+      - GEOID12B
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -25358,6 +25596,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -25448,6 +25687,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
       dateAccepted: 2018-11-17
       description: null
@@ -25530,6 +25770,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -25691,6 +25932,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -25840,6 +26082,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -25904,6 +26147,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -25994,6 +26238,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -26159,6 +26404,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -26286,6 +26532,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -26380,6 +26627,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.2
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -26504,6 +26752,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.5
+      aliases: []
       coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
       dateAccepted: 2018-11-17
       description: null
@@ -26590,6 +26839,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
       dateAccepted: 2018-11-17
       description: null
@@ -26694,6 +26944,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.01
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -26885,6 +27136,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.03
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -27010,6 +27262,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -27148,6 +27401,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -27295,6 +27549,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -27466,6 +27721,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.8
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -27554,6 +27810,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID09
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -27617,6 +27875,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 4dd696b3-2475-4c09-837c-a7762ed98bdd
       dateAccepted: 2018-11-17
       description: null
@@ -27681,6 +27940,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -27748,6 +28008,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -27886,6 +28147,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -28013,6 +28275,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -28160,6 +28423,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -28309,6 +28573,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -28437,6 +28702,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -28562,6 +28828,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -28652,6 +28919,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 4.0
+      aliases: []
       coordOperationMethod: 2d6cb205-6fe6-4ed9-b366-1775e5a017a0
       dateAccepted: 2018-11-17
       description: null
@@ -28737,6 +29005,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.007
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -28874,6 +29143,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -28968,6 +29238,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -29083,6 +29354,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -29177,6 +29449,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -29280,6 +29553,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -29429,6 +29703,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.15
+      aliases: []
       coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
       dateAccepted: 2018-11-17
       description: null
@@ -29527,6 +29802,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -29654,6 +29930,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID99
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -29718,6 +29996,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID09
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -29781,6 +30061,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.0
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -29869,6 +30150,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -30016,6 +30298,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -30106,6 +30389,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -30222,6 +30506,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases: []
       coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
       dateAccepted: 2018-11-17
       description: null
@@ -30337,6 +30622,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -30462,6 +30748,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -30556,6 +30843,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.05
+      aliases:
+      - GEOID99
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -30621,6 +30910,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.001
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -30759,6 +31049,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.1
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -30884,6 +31175,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 3.0
+      aliases: []
       coordOperationMethod: f2d8e58d-a889-4386-9a3a-f79dfcac86bd
       dateAccepted: 2018-11-17
       description: null
@@ -30948,6 +31240,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.03
+      aliases: []
       coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
       dateAccepted: 2018-11-17
       description: null
@@ -31073,6 +31366,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 1.5
+      aliases: []
       coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
       dateAccepted: 2018-11-17
       description: null
@@ -31162,6 +31456,8 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.02
+      aliases:
+      - GEOID03
       coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
       dateAccepted: 2018-11-17
       description: null
@@ -31231,6 +31527,7 @@ items:
         dtype: TransformationAccuracy
         unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
         value: 0.0
+      aliases: []
       coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
       dateAccepted: 2018-11-17
       description: null
@@ -31376,6 +31673,7 @@ items:
     type: addition
   /coordinate-sys--ellipsoidal/18688363-1f4e-4085-85c3-f4381df1db1d.yaml:
     item_body:
+      aliases: []
       coordinateSystemAxes:
       - fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
       - addb3701-9efd-487d-93ef-9540beb175f5
@@ -31407,6 +31705,7 @@ items:
     type: addition
   /coordinate-sys--ellipsoidal/2635621b-8fe0-4ef8-ba08-4415a09436ad.yaml:
     item_body:
+      aliases: []
       coordinateSystemAxes:
       - addb3701-9efd-487d-93ef-9540beb175f5
       - fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
@@ -31439,6 +31738,7 @@ items:
     type: addition
   /coordinate-sys--ellipsoidal/93163b34-3c15-4623-9771-cf03adae7c2c.yaml:
     item_body:
+      aliases: []
       coordinateSystemAxes:
       - addb3701-9efd-487d-93ef-9540beb175f5
       - fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
@@ -31471,6 +31771,7 @@ items:
     type: addition
   /coordinate-sys--ellipsoidal/c3c232d6-8e8b-4574-b6a8-85915d532cd5.yaml:
     item_body:
+      aliases: []
       coordinateSystemAxes:
       - fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
       - addb3701-9efd-487d-93ef-9540beb175f5
@@ -31503,6 +31804,7 @@ items:
   /coordinate-sys-axis/1dcb9318-cf33-4f7d-9b10-2f9e7a007adb.yaml:
     item_body:
       abbreviation: H
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 32
       informationSources:
@@ -31532,6 +31834,7 @@ items:
   /coordinate-sys-axis/1f95ce1f-2155-4cb9-a415-e73a4b5b1ad0.yaml:
     item_body:
       abbreviation: X
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 33
       informationSources:
@@ -31561,6 +31864,7 @@ items:
   /coordinate-sys-axis/7578267e-1a3f-4bb8-97f6-07b9664f866d.yaml:
     item_body:
       abbreviation: h
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 36
       informationSources:
@@ -31591,6 +31895,7 @@ items:
   /coordinate-sys-axis/ab143abe-d350-4401-bd42-55e96a479423.yaml:
     item_body:
       abbreviation: Y
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 37
       informationSources:
@@ -31620,6 +31925,7 @@ items:
   /coordinate-sys-axis/addb3701-9efd-487d-93ef-9540beb175f5.yaml:
     item_body:
       abbreviation: Lon
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 34
       informationSources:
@@ -31649,6 +31955,7 @@ items:
   /coordinate-sys-axis/cd0f204c-dcda-40a6-a48c-161b8083a3f5.yaml:
     item_body:
       abbreviation: Z
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 39
       informationSources:
@@ -31678,6 +31985,7 @@ items:
   /coordinate-sys-axis/f8339102-4078-4da1-a310-d544ae581cea.yaml:
     item_body:
       abbreviation: H
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 35
       informationSources:
@@ -31707,6 +32015,7 @@ items:
   /coordinate-sys-axis/fe748cfb-d67a-4ca9-98dd-59148cf7dcc3.yaml:
     item_body:
       abbreviation: Lat
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 38
       informationSources:

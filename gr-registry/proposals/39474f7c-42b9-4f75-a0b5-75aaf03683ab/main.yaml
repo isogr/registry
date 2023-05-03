@@ -6,6 +6,7 @@ items:
   /coordinate-sys-axis/1dcb9318-cf33-4f7d-9b10-2f9e7a007adb.yaml:
     item_body:
       abbreviation: H
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 32
       informationSources:

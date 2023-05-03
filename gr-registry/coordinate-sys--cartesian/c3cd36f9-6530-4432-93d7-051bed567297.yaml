@@ -1,4 +1,9 @@
 data:
+  aliases:
+  - ECEF
+  - 'Earth centred, earth fixed, right-handed 3D coordinate system, consisting of
+    3 orthogonal axes with X and Y axes in the equatorial plane, positive Z-axis parallel
+    to mean earth rotation axis and pointing towards North Pole. UoM: m.'
   coordinateSystemAxes:
   - 1f95ce1f-2155-4cb9-a415-e73a4b5b1ad0
   - ab143abe-d350-4401-bd42-55e96a479423

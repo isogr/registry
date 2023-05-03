@@ -6,6 +6,7 @@ items:
   /coordinate-sys-axis/cd0f204c-dcda-40a6-a48c-161b8083a3f5.yaml:
     item_body:
       abbreviation: Z
+      aliases: []
       dateAccepted: 2018-11-17
       identifier: 39
       informationSources:

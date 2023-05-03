@@ -5,6 +5,7 @@ isConcluded: true
 items:
   /coordinate-sys--ellipsoidal/93163b34-3c15-4623-9771-cf03adae7c2c.yaml:
     item_body:
+      aliases: []
       coordinateSystemAxes:
       - addb3701-9efd-487d-93ef-9540beb175f5
       - fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
