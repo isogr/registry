@@ -1,0 +1,26 @@
+data:
+  abbreviation: Lon
+  aliases: []
+  identifier: 34
+  informationSources:
+  - author: International Organization for Standardization (ISO)
+    edition: Second Edition
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Organization for Standardization (ISO)
+    seriesIssueID: ISO 19111:2007
+    seriesName: International Standard
+    seriesPage: null
+    title: ISO 19111 Geographical information - Spatial referencing by coordinates
+    uuid: 3d67e002-7847-4b11-af3a-a4c453b1ddee
+  maxValue: null
+  minValue: null
+  name: Geodetic longitude
+  orientation: east
+  remarks: Used in geographic 2D and geographic 3D coordinate reference systems.
+  unitOfMeasurement: 6a54d914-a8a0-4df8-969e-57bcdb182e3c
+dateAccepted: 2018-11-17
+id: addb3701-9efd-487d-93ef-9540beb175f5
+status: valid

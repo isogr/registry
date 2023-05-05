@@ -1,0 +1,73 @@
+data:
+  aliases:
+  - North American Datum of 1983 (2011)
+  - NAD83(2011)
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: bc5c4886-956e-4a79-a3fd-e36bdcda8839
+  description: null
+  extent:
+    e: -63.88
+    n: 74.71
+    name: 'United States and Territories - onshore and offshore: Puerto Rico. United
+      States (USA) - Alaska, CONUS (Alabama, Arizona, Arkansas, California, Colorado,
+      Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas,
+      Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi,
+      Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico,
+      New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania,
+      Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont,
+      Virginia, Washington, West Virginia, Wisconsin, Wyoming). Virgin Islands (US).'
+    s: 14.92
+    w: 167.65
+  identifier: 252
+  informationSources:
+  - author: US Government
+    edition: null
+    editionDate: 2013-08-08
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: "Volume 78, No. 153, Document: 2013\u201319167, Citation: 78 FR\
+      \ 48421"
+    seriesName: Federal Register Notice
+    seriesPage: 48421-48422
+    title: Publication of North American Datum of 1983 (2011) Epoch 2010.00, North
+      American Datum of 1983 (PA2011) Epoch 2010.00 and North American Datum of 1983
+      (MA2011) Epoch 2010.00
+    uuid: 855dfc83-c695-4d64-b162-ac4f78decf5d
+  - author: National Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: webpage
+    publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
+      Survey (NGS)
+    seriesIssueID: null
+    seriesName: NGS Online listing of transformation parameters
+    seriesPage: null
+    title: CORS Coordinates
+    uuid: d45243bc-8b77-4428-8028-06a087e6d3e1
+  - author: C. Pearson, R.A. Snay
+    edition: null
+    editionDate: 2013-01-01
+    isbn: null
+    issn: null
+    otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    publisher: Springer-Verlag
+    seriesIssueID: Volume 17, No. 1
+    seriesName: GPS Solutions
+    seriesPage: 1-15
+    title: Introducing HTDP 3.1 to transform coordinates across time and spatial reference
+      frames
+    uuid: 617ecf22-dcfc-45f4-a745-af8c57a346b1
+  name: NAD 83 (2011) Epoch 2010 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 1f320c41-aef9-45d0-8172-d31cef99a3b5
+status: valid

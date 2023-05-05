@@ -1,0 +1,28 @@
+data:
+  aliases: []
+  coordinateSystemAxes:
+  - fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
+  - addb3701-9efd-487d-93ef-9540beb175f5
+  - 7578267e-1a3f-4bb8-97f6-07b9664f866d
+  identifier: 46
+  informationSources:
+  - author: International Organization for Standardization (ISO)
+    edition: Second Edition
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Organization for Standardization (ISO)
+    seriesIssueID: ISO 19111:2007
+    seriesName: International Standard
+    seriesPage: null
+    title: ISO 19111 Geographical information - Spatial referencing by coordinates
+    uuid: e2e7bd75-9cad-4ca8-9a70-a05e176dc7a1
+  name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
+    north, east, up. UoM: degree, degree, metre.'
+  remarks: Used in geographic 3D coordinate reference systems. Horizontal coordinates
+    referenced to this CS are in degrees. Any degree representation (e.g. DMSH, decimal,
+    etc.) may be used but that used must be declared for the user.
+dateAccepted: 2018-11-17
+id: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+status: valid

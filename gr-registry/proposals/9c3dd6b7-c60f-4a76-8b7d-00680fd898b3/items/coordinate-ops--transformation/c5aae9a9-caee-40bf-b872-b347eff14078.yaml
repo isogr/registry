@@ -1,0 +1,61 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.01
+  aliases: []
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: 98.0
+    n: -11.0
+    name: Cocos (Keeling) Islands - onshore and offshore
+    s: -13.01
+    w: 95.0
+  identifier: 521
+  informationSources:
+  - author: NGA Office of Geomatics
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: National Geospatial-Intelligence Agency
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: WGS 84, N=M=180 Earth Gravitational Model
+    uuid: 207ca60b-4064-4d9f-9687-beb3ca30c6af
+  name: GDA94 to GDA2020 [GA v4]
+  operationVersion: GA v4
+  parameters:
+  - fileCitation:
+      author: Permanent Committee on Geodesy of the Intergovernmental Committee on
+        Surveying and Mapping
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: Intergovernmental Committee on Surveying and Mapping
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
+      uuid: ee42c073-1929-4156-8ccb-3c261f971c15
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: GDA94_GDA2020_conformal_cocos_island.gsb
+  remarks: Defined at epoch 2020.0.
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: e4050664-82bd-45fa-8643-b0abdfa794c4
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 401ef574-c9a3-4362-aeed-2b5ed7feb236
+dateAccepted: 2018-11-17
+id: c5aae9a9-caee-40bf-b872-b347eff14078
+status: valid

@@ -1,0 +1,26 @@
+data:
+  abbreviation: H
+  aliases: []
+  identifier: 32
+  informationSources:
+  - author: A.V. Astin, H.A. Karo
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: 'US National Bureau of Standards '
+    seriesIssueID: Volume 24, Number 128, Document 59-5442
+    seriesName: Federal Register Notice
+    seriesPage: '5348.0'
+    title: Refinement of values for the yard and the pound
+    uuid: 8b9c9d2c-2a15-4d47-bb39-a3e61ecdf369
+  maxValue: null
+  minValue: null
+  name: Gravity-related height
+  orientation: up
+  remarks: Used in a 1D vertical coordinate system.
+  unitOfMeasurement: 9e560831-7481-46c0-b54b-bf19f589ab5f
+dateAccepted: 2018-11-17
+id: 1dcb9318-cf33-4f7d-9b10-2f9e7a007adb
+status: valid

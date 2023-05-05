@@ -1,0 +1,70 @@
+data:
+  aliases:
+  - SIRGAS Multi-Year Solution 2008
+  - SIRGAS
+  - SIRGAS-CON
+  - DGF08P01
+  - Sistema de Referencia Geocentrico para las Americas
+  - Geocentric Reference System for the Americas
+  - DGFI08P01
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: 35e24cf5-8a59-4218-9115-5ad04c0986a0
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 232
+  informationSources:
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: a50707bb-a373-4bb5-b086-86b506495fcd
+  - author: W. Seemueller, M. Kruegel, L. Sanchez, H. Drewes
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
+    seriesIssueID: No. 79
+    seriesName: DGFI Report
+    seriesPage: null
+    title: The position and velocity solution DGF08P01 of the IGS Regional Network
+      Associate Analysis Centre for SIRGAS (IGS RNAAC SIR)
+    uuid: 2b3b56a6-c4a0-4680-8056-4b2832bf07cf
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 78292341-6321-48d4-bc78-267b0770a517
+  name: SIRGAS-CON DGF08P01 - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 4631e0cf-ee13-4691-9abf-f8a3860c162d
+status: valid

@@ -1,0 +1,71 @@
+data:
+  aliases:
+  - SIRGAS
+  - SIRGAS-CON
+  - DGFI06P01
+  - Sistema de Referencia Geocentrico para las Americas
+  - DGF06P01
+  - Geocentric Reference System for the Americas
+  - SIRGAS Multi-Year Solution 2006
+  coordinateReferenceEpoch: '2004.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 124
+  informationSources:
+  - author: W. Seemueller
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '134.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 167-172
+    title: The Position and Velocity Solution DGF06P01 for SIRGAS
+    uuid: b402e9a9-96be-420d-9131-c8b8a323c2e0
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 37fd9213-63cf-4722-8aa6-855ec38928d9
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: cfde2696-e287-475a-b8e9-37b80a2861c2
+  name: SIRGAS Continuously Operating Network DGF06P01
+  originDescription: Realized by a frame of 94 continuously operating stations using
+    GPS observations from June 1996 to June 2006 and aligned to ITRF2000 at epoch
+    2004.0. Velocity model VEMOS2003 used to propagate coordinates from an arbitrary
+    epoch to the 2004.0 reference epoch.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '2006'
+  remarks: Replaces DGF05P01. Replaced by DGF07P01.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 600dae84-bdd5-4d7e-b8fa-c5ff7e526f53
+status: valid

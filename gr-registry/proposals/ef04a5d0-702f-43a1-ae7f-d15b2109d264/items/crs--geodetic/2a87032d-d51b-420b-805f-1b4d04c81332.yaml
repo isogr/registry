@@ -1,0 +1,39 @@
+data:
+  aliases:
+  - NAD27
+  - NAD27(MAY76)
+  - North American Datum 1927
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: c11a078a-b331-428e-adc9-3e962911b72d
+  description: null
+  extent:
+    e: -74.35
+    n: 56.9
+    name: Canada - Ontario.
+    s: 41.67
+    w: -95.16
+  identifier: 248
+  informationSources:
+  - author: D.S. Beattie, J.A.R. Blais, M.C. Pinch
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: null
+    seriesName: Proceedings of the Second International Symposium on Problems Related
+      to the Redefinition of North American Geodetic Networks, Arlington, VA, April
+      24-28, 1978
+    seriesPage: null
+    title: Test Adjustment of the Canadian Primary Horizontal Network
+    uuid: 4315c7fd-edd9-499f-81c5-a89d9c7214f1
+  name: NAD27(MAY76) - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 2a87032d-d51b-420b-805f-1b4d04c81332
+status: valid

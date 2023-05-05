@@ -1,0 +1,121 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.01
+  aliases: []
+  coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
+  description: null
+  extent:
+    e: 173.4
+    n: -8.47
+    name: Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
+      Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore. Cocos
+      (Keeling) Islands - onshore and offshore.
+    s: -60.56
+    w: 93.41
+  identifier: 493
+  informationSources:
+  - author: Permanent Committee on Geodesy of the Intergovernmental Committee on Surveying
+      and Mapping
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Intergovernmental Committee on Surveying and Mapping
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
+    uuid: c17d9e8b-8f84-474d-95ee-3ee7cec0cd65
+  name: ITRF2014 to GDA2020 [GA v1]
+  operationVersion: GA v1
+  parameters:
+  - fileCitation: null
+    parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.0
+  - fileCitation: null
+    parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.0
+  - fileCitation: null
+    parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.0
+  - fileCitation: null
+    parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+    type: measure (w/ UoM)
+    unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    value: 0.0
+  - fileCitation: null
+    parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+    type: measure (w/ UoM)
+    unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    value: 0.0
+  - fileCitation: null
+    parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+    type: measure (w/ UoM)
+    unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    value: 0.0
+  - fileCitation: null
+    parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+    type: measure (w/ UoM)
+    unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
+    value: 0.0
+  - fileCitation: null
+    parameter: 89e37670-d103-4c57-94f5-fca410189132
+    type: measure (w/ UoM)
+    unitOfMeasurement: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
+    value: 0.0
+  - fileCitation: null
+    parameter: 76fd4ed1-3f83-47dc-839f-3ecf111c2636
+    type: measure (w/ UoM)
+    unitOfMeasurement: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
+    value: 0.0
+  - fileCitation: null
+    parameter: 42c379ed-303e-4a5f-87f2-04c95d2f4b63
+    type: measure (w/ UoM)
+    unitOfMeasurement: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
+    value: 0.0
+  - fileCitation: null
+    parameter: c127d884-6f2f-4491-99ab-1c918bd2c954
+    type: measure (w/ UoM)
+    unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    value: null
+  - fileCitation: null
+    parameter: a9e25756-e699-420d-a9be-d0f83f7115d9
+    type: measure (w/ UoM)
+    unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    value: null
+  - fileCitation: null
+    parameter: 88228e9d-3b44-41ff-8ca7-a73a8acdc881
+    type: measure (w/ UoM)
+    unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    value: null
+  - fileCitation: null
+    parameter: 884b428c-57f0-4c0b-a054-4a49ca76ee06
+    type: measure (w/ UoM)
+    unitOfMeasurement: d978906c-4d5c-42fe-8133-e36c6fa4002e
+    value: 0.0
+  - fileCitation: null
+    parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
+    type: measure (w/ UoM)
+    unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+    value: null
+  remarks: Defined at epoch 2020.0.
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 53740382-efb9-4f4d-8a99-3db85f700f02
+  targetCRS:
+    classID: crs--geodetic
+    itemID: c100e793-17fd-450b-b872-008569dae0af
+dateAccepted: 2018-11-17
+id: 6df1b80e-14bc-4941-9423-29eabcb9df02
+status: valid

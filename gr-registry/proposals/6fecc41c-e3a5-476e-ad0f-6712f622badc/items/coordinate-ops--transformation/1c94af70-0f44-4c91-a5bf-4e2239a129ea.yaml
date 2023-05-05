@@ -1,0 +1,63 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.05
+  aliases:
+  - GEOID99
+  coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
+  description: null
+  extent:
+    e: -77.99
+    n: 49.37
+    name: "United States (USA) - onshore - CONUS north of 41\xB0N and between 95\xB0\
+      W and 78\xB0W (Illinois, Indiana, Iowa, Michigan, Minnesota, New York, Ohio,\
+      \ Pennsylvania, Wisconsin)."
+    s: 41.0
+    w: -95.0
+  identifier: 538
+  informationSources:
+  - author: National Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
+      Survey (NGS)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: National Geodetic Survey Geoid Homepage
+    uuid: 8ed15bd5-bdca-42a9-aa0f-f7f95585e314
+  name: NAD 83 (HARN) to NAVD88 - OHt [v3]
+  operationVersion: v3
+  parameters:
+  - fileCitation:
+      author: National Geodetic Survey
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+      publisher: National Oceanic and Atmospheric Administration (NOAA), National
+        Geodetic Survey (NGS)
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: National Geodetic Survey Geoid Homepage
+      uuid: 4606d5f4-eb78-4126-8fe9-576384d7ed64
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: g1999u03.bin
+  remarks: Grid transformation
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: fe0ef0a0-b436-4793-b978-514f9fdd045f
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 1c94af70-0f44-4c91-a5bf-4e2239a129ea
+status: valid

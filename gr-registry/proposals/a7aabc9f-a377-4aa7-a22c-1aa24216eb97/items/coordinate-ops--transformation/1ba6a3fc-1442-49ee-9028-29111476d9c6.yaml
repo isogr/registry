@@ -1,0 +1,160 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.01
+  aliases: []
+  coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 684
+  informationSources:
+  - author: L. Sanchez, H. Drewes, C. Brunini, M.V. Mackern, W. Martinez-Diaz
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '143.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 183-190
+    title: SIRGAS core network stability
+    uuid: e2e49c62-294c-4dfb-91c1-8548e2be2a3a
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Use of velocities in the processing of GNSS data
+    uuid: ab57124f-1a07-464e-8638-5a93afc8b6cd
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 300c9509-2a0f-4600-848b-2d4c60fe9810
+  - author: L. Sanchez, H. Drewes
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'Data for paper included in two supplements: Sanchez L., Drewes
+      H (2016): SIR15P01: Multiyear solution for the SIRGAS Reference Frame, link
+      to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.862536; Sanchez L., Drewes H (2016):
+      VEMOS2015: Velocity and deformation model for Latin America and the Caribbean,
+      link to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.863131.'
+    publisher: Elsevier
+    seriesIssueID: '102.0'
+    seriesName: Journal of Geodynamics
+    seriesPage: '2023-01-01'
+    title: Crustal deformation and surface kinematics after the 2010 earthquakes in
+      Latin America
+    uuid: fa63130e-e0ae-4f68-813e-9cda2310d5f1
+  name: IGb08 to SIRGAS-CON SIR13P01 [SIRv1]
+  operationVersion: SIRv1
+  parameters:
+  - fileCitation: null
+    parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+    type: measure (w/ UoM)
+    unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    value: 0.0
+  - fileCitation: null
+    parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+    type: measure (w/ UoM)
+    unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    value: 0.0
+  - fileCitation: null
+    parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+    type: measure (w/ UoM)
+    unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    value: 0.0
+  - fileCitation: null
+    parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+    type: measure (w/ UoM)
+    unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    value: 0.0
+  - fileCitation: null
+    parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+    type: measure (w/ UoM)
+    unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    value: 0.0
+  - fileCitation: null
+    parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+    type: measure (w/ UoM)
+    unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    value: 0.0
+  - fileCitation: null
+    parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+    type: measure (w/ UoM)
+    unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
+    value: 0.0
+  - fileCitation: null
+    parameter: 89e37670-d103-4c57-94f5-fca410189132
+    type: measure (w/ UoM)
+    unitOfMeasurement: 831ce33a-56af-4acf-addc-4f1a9428a7b8
+    value: 0.0
+  - fileCitation: null
+    parameter: 76fd4ed1-3f83-47dc-839f-3ecf111c2636
+    type: measure (w/ UoM)
+    unitOfMeasurement: 831ce33a-56af-4acf-addc-4f1a9428a7b8
+    value: 0.0
+  - fileCitation: null
+    parameter: 42c379ed-303e-4a5f-87f2-04c95d2f4b63
+    type: measure (w/ UoM)
+    unitOfMeasurement: 831ce33a-56af-4acf-addc-4f1a9428a7b8
+    value: 0.0
+  - fileCitation: null
+    parameter: c127d884-6f2f-4491-99ab-1c918bd2c954
+    type: measure (w/ UoM)
+    unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    value: 0.0
+  - fileCitation: null
+    parameter: a9e25756-e699-420d-a9be-d0f83f7115d9
+    type: measure (w/ UoM)
+    unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    value: 0.0
+  - fileCitation: null
+    parameter: 88228e9d-3b44-41ff-8ca7-a73a8acdc881
+    type: measure (w/ UoM)
+    unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    value: 0.0
+  - fileCitation: null
+    parameter: 884b428c-57f0-4c0b-a054-4a49ca76ee06
+    type: measure (w/ UoM)
+    unitOfMeasurement: 0a7eb618-4789-4f1b-a5a1-107c7476867e
+    value: 0.0
+  - fileCitation: null
+    parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
+    type: measure (w/ UoM)
+    unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+    value: null
+  remarks: Null reference frame transformation between IGb08 and SIRGAS-CON SIR13P01.
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 0518a42f-9278-4297-b7ee-3b708ebd437a
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 3910b020-e85b-424b-9dad-bfcbd1944519
+dateAccepted: 2018-11-17
+id: 1ba6a3fc-1442-49ee-9028-29111476d9c6
+status: valid

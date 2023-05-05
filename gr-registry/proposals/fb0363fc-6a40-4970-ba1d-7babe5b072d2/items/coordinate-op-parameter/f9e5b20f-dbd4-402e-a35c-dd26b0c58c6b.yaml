@@ -1,0 +1,75 @@
+data:
+  aliases:
+  - 'Longitude of central meridian
+
+
+    REMARK: Used by citation CI2'
+  definition: null
+  identifier: 833
+  informationSources:
+  - author: J.P. Snyder
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://doi.org/10.3133/pp1395 (accessed 2022-01-19)
+    publisher: United States Government Printing Office, Washington, D.C.
+    seriesIssueID: '1395'
+    seriesName: U.S. Geological Survey Professional Paper
+    seriesPage: null
+    title: "Map Projections \u2013 A Working Manual"
+    uuid: 2c4e50c0-f2b6-453a-951e-8163ab9847ad
+  - author: International Association of Oil and Gas Producers (IOGP)
+    edition: '61'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
+    publisher: International Association of Oil and Gas Producers (IOGP)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 935fc626-3e9b-4238-b4bf-f992e8b47328
+  - author: National Geospatial-Intelligence Agency (NGA)
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
+      (accessed 2022-04-20)
+    publisher: National Geospatial-Intelligence Agency (NGA)
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: b81c53bd-131d-4bd1-b1c6-1bd2e92d7ac9
+  minimumOccurs: null
+  name: Longitude of natural origin
+  remarks: 'EPSG DEFINITION
+
+    The longitude of the point from which the values of both the geographical coordinates
+    on the ellipsoid and the grid coordinates on the projection are deemed to increment
+    or decrement for computational purposes. Alternatively it may be considered as
+    the longitude of the point which in the absence of application of false coordinates
+    has grid coordinates of (0,0). Sometimes known as "central meridian (CM)".
+
+
+    SIMPLIFIED DEFINITION
+
+    Is there not a simpler definition than the first sentence? For example (forget
+    where I got this from):
+
+
+    Reference meridian of longitude  (origin) from which eastings are measured in
+    a projected coordinate system. Often referred to as the Central Meridian (CM).
+
+
+    ADDTIONAL REMARK
+
+    "Latitude of central meridian" name from Snyder (1987) used as alias.'
+dateAccepted: 2022-06-06
+id: f9e5b20f-dbd4-402e-a35c-dd26b0c58c6b
+status: valid

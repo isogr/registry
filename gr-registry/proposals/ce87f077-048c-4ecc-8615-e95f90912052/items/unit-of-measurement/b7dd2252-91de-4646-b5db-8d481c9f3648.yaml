@@ -1,0 +1,31 @@
+data:
+  aliases:
+  - cm/y
+  - centimeters per year
+  - cm/a
+  - cm/yr
+  denominator: 3155692545.0
+  identifier: 18
+  informationSources:
+  - author: International Association of Oil and Gas Producers (IOGP)
+    edition: version 8.9
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Association of Oil and Gas Producers (IOGP)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: EPSG Geodetic Parameter Dataset v8.9
+    uuid: 15c91a04-79d1-45df-ab21-4c76d9629d93
+  measureType: LENGTH
+  name: centimetre per year
+  numerator: 1.0
+  remarks: Year taken to be IUGS definition of 31556925.445 seconds; see UoM code
+    1029.
+  standardUnit: 76550c5a-b72a-4e88-8c3e-33c2668e99f7
+  symbol: cm/a
+dateAccepted: 2018-11-17
+id: b7dd2252-91de-4646-b5db-8d481c9f3648
+status: valid

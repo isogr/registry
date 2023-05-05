@@ -1,0 +1,90 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.5
+  aliases: []
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: -57.1
+    n: 62.62
+    name: Canada - onshore and offshore - Quebec.
+    s: 44.99
+    w: -79.85
+  identifier: 472
+  informationSources:
+  - author: Canadian Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Desktop Applications: NTv2'
+    uuid: da613fdc-4ccf-4e01-9c4a-d9d90129f18b
+  - author: Y. Theriault
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Personal email communication.
+    publisher: "Service de la geodesie et des leves geospatiaux, Direction de la reference\
+      \ geographique, Direction generale de l\u2019information geospatiale, Ministere\
+      \ de l\u2019Energie et des Ressources naturelles, Gouvernement du Quebec"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'RE: GSD file'
+    uuid: edfef7c3-6afa-4ea7-bba7-ed476f4b8f66
+  - author: Esri Canada
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Esri, Redlands, CA
+    seriesIssueID: 'Article ID: 000011846'
+    seriesName: null
+    seriesPage: null
+    title: 'FAQ: What are some of the transformation methods for Canada?'
+    uuid: 4a5652f8-df1f-4048-8002-1f738597688a
+  name: NAD27 to NAD83(CSRS) v2 [QCv1]
+  operationVersion: QCv1
+  parameters:
+  - fileCitation:
+      author: Y. Theriault
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Personal email communication.
+      publisher: "Service de la geodesie et des leves geospatiaux, Direction de la\
+        \ reference geographique, Direction generale de l\u2019information geospatiale,\
+        \ Ministere de l\u2019Energie et des Ressources naturelles, Gouvernement du\
+        \ Quebec"
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: 'RE: GSD file'
+      uuid: 0b896e14-9a95-49c7-8cb9-2c9cb77a322a
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: NA27SCRS.GSB
+  remarks: GE47 - Canada - Quebec (QC)
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: a0c01a52-f404-48f3-951a-900aba820bd7
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 4098686c-3538-4441-b085-af045ec68ea4
+dateAccepted: 2018-11-17
+id: ef58b465-202c-4481-8bca-2864f69c3f0b
+status: valid

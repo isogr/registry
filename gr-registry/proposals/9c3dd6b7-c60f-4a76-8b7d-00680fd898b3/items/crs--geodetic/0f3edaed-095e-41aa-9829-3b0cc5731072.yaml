@@ -1,0 +1,54 @@
+data:
+  aliases:
+  - North American Datum of 1983 (FBN)
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: 0f8720f9-38d5-42fa-b840-2a612d8fb329
+  description: null
+  extent:
+    e: -64.51
+    n: 49.38
+    name: 'United States and Territories - onshore and offshore: American Samoa. Guam.
+      Northern Mariana Islands. Puerto Rico. United States (USA) - CONUS (California,
+      Connecticut, Florida, Idaho, Maine, Massachusetts, Montana, Nevada, New Hampshire,
+      New Jersey, New York, North Carolina, Oregon, Rhode Island, South Carolina,
+      Tennessee, Vermont, Washington, Wisconsin). Virgin Islands (US).'
+    s: -17.56
+    w: 144.58
+  identifier: 412
+  informationSources:
+  - author: D. Smith, A. Bilich
+    edition: null
+    editionDate: 2017-03-27
+    isbn: null
+    issn: null
+    otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+      datum transformations, and extents of covnversion grids.
+    publisher: NOAA's National Geodetic Survey
+    seriesIssueID: null
+    seriesName: NGS Technical Report
+    seriesPage: null
+    title: 'NADCON 5.0: Geometric Transformation Tool for points in the National Spatial
+      Reference System'
+    uuid: 535f9031-60c7-41f9-8e07-586153907f36
+  - author: US Government
+    edition: null
+    editionDate: 1990-08-10
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of NADCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+    seriesName: 'Federal Register Notice '
+    seriesPage: '32681.0'
+    title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+    uuid: c177ea3e-6730-4194-876e-8e912d14b64d
+  name: NAD 83 (FBN) - LatLonEHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 0f3edaed-095e-41aa-9829-3b0cc5731072
+status: valid

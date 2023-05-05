@@ -1,0 +1,94 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.0
+  aliases: []
+  coordOperationMethod: 3905157c-48fe-48b2-abcd-c1ad81ac206c
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 473
+  informationSources:
+  - author: M. J. Merrigan, E.R. Swift, R.F. Wong, Saffel J.T.
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Institute of Navigation
+    seriesIssueID: null
+    seriesName: Proceedings of the 15th International Technical Meeting of the Satellite
+      Division of The Institue of Navigation (ION-GPS-2002), Portland, OR, September
+      2002
+    seriesPage: 1519-1529
+    title: A Refinement to the World Geodetic System 1984 Reference Frame
+    uuid: 0d556a16-0d2c-4c56-a23e-227d2c266538
+  - author: F.G. Lemoine, S. C. Kenyon, J. K. Factor, R.G. Trimmer, N. K. Pavlis,
+      D. S. Chinn, C. M. Cox, S. M. Klosko, S. B. Luthcke, M. H. Torrence, Y. M. Wang,
+      R. G. Williamson, E. C. Pavlis, R. H. Rapp, T. R. Olson,
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: National Aeronautics and Space Administration
+    seriesIssueID: NASA/TP-1998-206861
+    seriesName: Technical Paper
+    seriesPage: null
+    title: The Development of the Joint NASA GSFC and the NIMA Geopotential Model
+      EGM96
+    uuid: 5e8e6552-6f0a-4509-8e41-555088f577db
+  name: WGS 84 (G1150) to WGS 84 EGM96 - OHt [2]
+  operationVersion: '2.0'
+  parameters:
+  - fileCitation:
+      author: NGA Office of Geomatics
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: National Geospatial-Intelligence Agency
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
+      uuid: 6a96b3b2-acce-4ae8-af42-37aabb453182
+    parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
+    type: parameter file name
+    unitOfMeasurement: null
+    value: egm96.exe
+  - fileCitation:
+      author: NGA Office of Geomatics
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: National Geospatial-Intelligence Agency
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
+      uuid: 061e953a-06cd-42cb-a2d2-3c445445a9c9
+    parameter: f5cb1159-d48d-4f8e-b907-824a07b3f5ad
+    type: parameter file name
+    unitOfMeasurement: null
+    value: CORRCOEF.EXE
+  remarks: Transformation from WGS 84 (G1150) ellipsoidal heights to EGM96 orthometric
+    heights using the EGM96 geoid model defind by spherical harmonic coeffcients and
+    corrections using harmonic synthesis.
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: a6219eb2-d620-46c5-b699-0f5fdaac4853
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 62125d2d-acb9-4020-86cd-e2aec76dbe8b
+status: valid

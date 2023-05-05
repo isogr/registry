@@ -1,0 +1,14 @@
+data:
+  abbreviation: N
+  aliases: []
+  identifier: 826
+  informationSources: []
+  maxValue: null
+  minValue: null
+  name: Northing
+  orientation: north
+  remarks: null
+  unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+dateAccepted: 2022-06-06
+id: 77cb891c-550f-4b7f-8fc9-398149a01b52
+status: valid

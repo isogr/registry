@@ -1,0 +1,137 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.15
+  aliases: []
+  coordOperationMethod: e0a8fc2b-2414-4ba5-a6c8-5c880a42ae81
+  description: null
+  extent:
+    e: -84.0
+    n: 50.0
+    name: United States (USA) - onshore - central CONUS (Arkansas, Illinois, Iowa,
+      Kansas, Louisiana, Minnesota, Mississippi, Missouri, Nebraska, North Dakota,
+      Oklahoma, South Dakota, Texas, Wisconsin).
+    s: 24.0
+    w: -107.0
+  identifier: 541
+  informationSources:
+  - author: US Government
+    edition: null
+    editionDate: 1976-05-17
+    isbn: null
+    issn: null
+    otherDetails: Formally adopted usage of NGVD 29 as datum name
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: Volume 41, No. 96, Document 76-14245
+    seriesName: Federal Register Notice
+    seriesPage: '20202.0'
+    title: National Vertical Control Network - Notice of Final Action
+    uuid: fb18b6a2-4cb7-407e-88dd-75e347215f88
+  - author: US Government
+    edition: null
+    editionDate: 1993-06-24
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of NAVD 88
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: 'Volume 58, No. 120, Document: 93-14922, Docket No. 930650-3150'
+    seriesName: Federal Register Notice
+    seriesPage: null
+    title: Affirmation of Vertical Datum for Surveying and Mapping Activities
+    uuid: ef4f6798-df3f-4222-8eb8-b22c18aa24b6
+  - author: National Geodetic Survey
+    edition: null
+    editionDate: 2003-09-29
+    isbn: null
+    issn: null
+    otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
+      transformations between NGVD 29 and NAVD 88
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
+      Survey (NGS)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: VERTCON User Manual
+    uuid: 9267f4e0-7e24-4865-94c2-200091cb6c53
+  - author: US Government
+    edition: null
+    editionDate: 1973-05-16
+    isbn: null
+    issn: null
+    otherDetails: Proposed use of NGVD 29 to replace SLD 29
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: Volume 38, No. 94, Document 73-9694
+    seriesName: Federal Register Notice
+    seriesPage: '12840.0'
+    title: National Vertical Control Network - Proposed Action
+    uuid: 3239031f-9d93-41e3-bf89-63642cf9c002
+  - author: US Government
+    edition: null
+    editionDate: 2007-07-11
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of VERTCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: 'Volume 72, No. 132, Document: 07-3377'
+    seriesName: 'Federal Register Notice '
+    seriesPage: '37732.0'
+    title: Notice to Adopt a Standard Model for Mathematical Vertical Datum Transformations
+    uuid: f9ba07ac-2726-44fe-a878-1b894f48dd74
+  - author: US Government
+    edition: null
+    editionDate: 1930-06-30
+    isbn: null
+    issn: null
+    otherDetails: NGVD29
+    publisher: Government Printing Office
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: '33.0'
+    title: Annual Report of the Director, United States Coast and Geodetic Survey
+      to the Secretary of Commerce for the Fiscal Year Ended June 30, 1930
+    uuid: 2685dbd7-51dc-40ee-8691-dbfb09ab9306
+  - author: D.B. Zilkoski, J.H. Richards, G.M. Young
+    edition: null
+    editionDate: 1992-03-01
+    isbn: null
+    issn: null
+    otherDetails: One of many NAVD 88 publiations. Nothing definitive was every written,
+      but this is most cited
+    publisher: American Cobgress on Surveying and Mapping
+    seriesIssueID: ' Volume 52, No. 3'
+    seriesName: Surveying and Land Information Systems
+    seriesPage: 133-149
+    title: Results of the General Adjustment of the North American Vertical Datum
+      of 1988
+    uuid: 9eaaf67d-9a95-46a4-bf64-afe819f47af9
+  name: NGVD29 - NOHt to NAVD88 - OHt [v2]
+  operationVersion: v2
+  parameters:
+  - fileCitation:
+      author: National Geodetic Survey
+      edition: null
+      editionDate: 2003-09-29
+      isbn: null
+      issn: null
+      otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
+        transformations between NGVD 29 and NAVD 88
+      publisher: National Oceanic and Atmospheric Administration (NOAA), National
+        Geodetic Survey (NGS)
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: VERTCON User Manual
+      uuid: e3bfdd02-f329-4645-8cb4-622d7aa0a380
+    parameter: d0e6143c-dfc2-4796-932b-ab6b67954582
+    type: parameter file name
+    unitOfMeasurement: null
+    value: vertconc.94
+  remarks: Grid Transformation
+  scope:
+  - Spatial referencing
+  sourceCRS: null
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 08441bf4-4c7a-4afc-b740-388d5bf75cb2
+status: valid

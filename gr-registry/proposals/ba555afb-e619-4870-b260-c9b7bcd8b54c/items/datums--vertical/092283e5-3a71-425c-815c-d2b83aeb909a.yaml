@@ -1,0 +1,55 @@
+data:
+  aliases:
+  - GUVD04
+  coordinateReferenceEpoch: null
+  definition: null
+  extent:
+    e: 146.0
+    n: 14.0
+    name: Guam - onshore.
+    s: 13.0
+    w: 143.0
+  identifier: 185
+  informationSources:
+  - author: E. Carlson, D. Doyle, D. Smith
+    edition: null
+    editionDate: 2009-01-01
+    isbn: null
+    issn: null
+    otherDetails: ASVD02, GUVD04, NMVD03
+    publisher: American Congress on Surveying and Mapping
+    seriesIssueID: Volume 69, No. 1
+    seriesName: Surveying and Land Information Systems
+    seriesPage: 5-17
+    title: Development of Comprehensive Geodetic Vertical Datums for the United States
+      Pacific Territories of American Samoa, Guam, and the Northern Marianas
+    uuid: 08a7ca58-ce1e-4c3c-8c48-f81ff04e6ad5
+  - author: US Government
+    edition: null
+    editionDate: 2009-01-22
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of GUVD04
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: 'Volume 74, No. 13, Document: E9-1182, Citation: 74 FR 3990'
+    seriesName: Federal Register Notice
+    seriesPage: '3990.0'
+    title: Affirmation of Vertical Datum for Surveying and Mapping Activities for
+      Guam
+    uuid: 2bc74ef6-48fd-4b27-a869-51eb960bd6e1
+  name: Guam Vertical Datum of 2004
+  originDescription: 'Guam Vertical Datum of 2004 (GUVD04) consists of a leveling
+    network on the island of Guam affixed to a single origin point on the island:
+    Tide Station 1630000, Apra Harbor, Guam (PID: TW0041, VM: 1684, Bench Mark: 163
+    0000 TIDAL 4,  2.170 m above LMSL).
+
+    GUVD04 was affirmed as the official vertical datum in the National Spatial Reference
+    System for the island of Guam by Federal Register Notice (2009), replacing all
+    previous height systems for this region. The official defining document for that
+    datum was published in 2009.'
+  releaseDate: '2009'
+  remarks: Normal orthometric heights.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 092283e5-3a71-425c-815c-d2b83aeb909a
+status: valid

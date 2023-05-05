@@ -1,0 +1,61 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 3.0
+  aliases: []
+  coordOperationMethod: f2d8e58d-a889-4386-9a3a-f79dfcac86bd
+  description: null
+  extent:
+    e: 173.4
+    n: -8.47
+    name: Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
+      Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore. Cocos
+      (Keeling) Islands - onshore and offshore.
+    s: -60.56
+    w: 93.41
+  identifier: 543
+  informationSources:
+  - author: Permanent Committee on Geodesy of the Intergovernmental Committee on Surveying
+      and Mapping
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Intergovernmental Committee on Surveying and Mapping
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
+    uuid: 42b9ad8e-3bf2-44cd-9b63-b50bf3b726a2
+  name: GDA2020 to WGS 84 TRANSIT [GA v1]
+  operationVersion: GA v1
+  parameters:
+  - fileCitation: null
+    parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.0
+  - fileCitation: null
+    parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.0
+  - fileCitation: null
+    parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.0
+  remarks: null
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: c100e793-17fd-450b-b872-008569dae0af
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 1d007b7b-7628-4ea0-b0c0-81e866ee545b
+dateAccepted: 2018-11-17
+id: fdbcfc9f-633c-4905-9ae4-692ace514226
+status: valid

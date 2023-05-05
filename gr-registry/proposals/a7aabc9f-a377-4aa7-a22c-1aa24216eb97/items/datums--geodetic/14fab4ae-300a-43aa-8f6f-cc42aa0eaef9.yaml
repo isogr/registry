@@ -1,0 +1,72 @@
+data:
+  aliases:
+  - SIRGAS
+  - SIRGAS-CON
+  - SIR14P01
+  - Sistema de Referencia Geocentrico para las Americas
+  - Geocentric Reference System for the Americas
+  - SIRGAS Multi-Year Solution 2014
+  coordinateReferenceEpoch: '2013.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 189
+  informationSources:
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
+      International Association of Geodesy Symposia, Vol 136. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '136.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 657-664
+    title: The 2009 Horizontal Velocity Field for South America and the Caribbean
+    uuid: 8c05bb61-4249-4f1f-a0ca-670c6126e330
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 6f387b04-619a-4de3-8ee4-965423070fd9
+  - author: L. Sanchez
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International GNSS Service
+    seriesIssueID: null
+    seriesName: International GNSS Service Technical Report 2014
+    seriesPage: 101-110
+    title: SIRGAS Regional Network Associate Analysis Center, Technical Report 2014
+    uuid: 3e541e15-c55d-444f-ac85-4d0bd8e30b85
+  name: SIRGAS Continuously Operating Network SIR14P01
+  originDescription: Realized by a frame of 242 continuously operating stations using
+    GPS and GLONASS observations from April 2010 to July 2014 and aligned to IGb08
+    at epoch 2013.0. Weekly normal equations from April 2010 to April 2011 were reprocessed
+    using the second reprocessing campaign products (IG2) of the International GNSS
+    Service and absolute phase centre calibrations referring to the IGS08 reference
+    frame. Velocity model VEMOS2009 used to propagate coordinates from an arbitrary
+    epoch to the 2013.0 reference epoch.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '2014'
+  remarks: Replaces SIR13P01. Replaced by SIR15P01.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 14fab4ae-300a-43aa-8f6f-cc42aa0eaef9
+status: valid

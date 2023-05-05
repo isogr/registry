@@ -1,0 +1,61 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.05
+  aliases:
+  - GEOID09
+  coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
+  description: null
+  extent:
+    e: -170.0
+    n: -14.0
+    name: American Samoa - onshore - Tutuila.
+    s: -14.5
+    w: -171.0
+  identifier: 716
+  informationSources:
+  - author: National Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
+      Survey (NGS)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: National Geodetic Survey Geoid Homepage
+    uuid: f64fc163-dde1-4c63-8355-dab8d8cc583a
+  name: NAD 83 (FBN) to ASVD02 - NOHt [v1]
+  operationVersion: v1
+  parameters:
+  - fileCitation:
+      author: National Geodetic Survey
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+      publisher: National Oceanic and Atmospheric Administration (NOAA), National
+        Geodetic Survey (NGS)
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: National Geodetic Survey Geoid Homepage
+      uuid: cceffa6e-7f06-4cff-a0ff-f9f7a1eb4151
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: g2009s01.bin
+  remarks: Grid transformation
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 0f3edaed-095e-41aa-9829-3b0cc5731072
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: f757ee57-be72-4cb7-95cc-8a5e89e8976e
+status: valid

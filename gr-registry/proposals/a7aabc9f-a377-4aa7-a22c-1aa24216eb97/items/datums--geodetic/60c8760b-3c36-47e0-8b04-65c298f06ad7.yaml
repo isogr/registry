@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - AGD66
+  coordinateReferenceEpoch: '1962.0'
+  definition: null
+  ellipsoid: bebbfb24-0705-4b44-88fe-652d3e6b99bb
+  extent:
+    e: 168.0
+    n: 0.0
+    name: Australia - onshore and offshore - mainland, Lord Howe Island, Norfolk Island,
+      Macquarie Island. Christmas Island - onshore and offshore. Cocos (Keeling) Islands
+      - onshore and offshore. Papua New Guinea - onshore and offshore.
+    s: -56.0
+    w: 96.0
+  identifier: 130
+  informationSources:
+  - author: Technical Sub-Committee of the National Mapping Council of Australia
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: National Mapping Council of Australia
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: The Australian Map Grid Technical Manual
+    uuid: 76e74489-15b7-4e3d-8dfe-bb6eac18b88b
+  name: Australian Geodetic Datum 1966
+  originDescription: Defined through coordinates derived from classical triangulation,
+    traversing and astrogeodetic observations.  The final coordinates were obtained
+    from a national least squares adjustment of azimuths and distances between junction
+    points holding the coordinate of the Johnston Origin fixed, followed by section
+    adjustements holding the junction points fixed.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '1968-01-01'
+  remarks: Replaced Clarke 1858 and other State coordinate systems.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 60c8760b-3c36-47e0-8b04-65c298f06ad7
+status: valid

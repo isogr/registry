@@ -1,0 +1,39 @@
+data:
+  aliases:
+  - Grid shift in height
+  definition: null
+  identifier: 60
+  informationSources:
+  - author: D. Smith, A. Bilich
+    edition: null
+    editionDate: 2017-03-27
+    isbn: null
+    issn: null
+    otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+      datum transformations, and extents of covnversion grids.
+    publisher: NOAA's National Geodetic Survey
+    seriesIssueID: null
+    seriesName: NGS Technical Report
+    seriesPage: null
+    title: 'NADCON 5.0: Geometric Transformation Tool for points in the National Spatial
+      Reference System'
+    uuid: 253d82b7-7ffe-4bf7-8e54-f3db0cd17e32
+  - author: US Government
+    edition: null
+    editionDate: 1990-08-10
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of NADCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+    seriesName: 'Federal Register Notice '
+    seriesPage: '32681.0'
+    title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+    uuid: 0371edf3-8780-4394-b0cb-3f1d68adb3a1
+  minimumOccurs: 1
+  name: Height difference file
+  remarks: The name of the file containing height differences. Can be either for ellipsoidal
+    heights or gravity-related heights.
+dateAccepted: 2018-11-17
+id: d0e6143c-dfc2-4796-932b-ab6b67954582
+status: valid

@@ -1,0 +1,42 @@
+data:
+  aliases:
+  - KSA-GRF17
+  coordinateReferenceEpoch: '2017.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: 55.67
+    n: 32.16
+    name: Saudi Arabia - onshore and offshore.
+    s: 16.29
+    w: 34.44
+  identifier: 775
+  informationSources:
+  - author: General Directorate of Geodesy
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://www.gasgi.gov.sa/En/Products/Products_v1/Geodesy/Documents/Technical_Summary_for_SANSRS_v1.1.pdf
+      (accessed 2021-06-07)
+    publisher: General Directorate of Geodesy, General Authority for Survey and Geospatial
+      Information, Kingdom of Saudi Arabia
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Technical Summary for Saudi Arabia National Spatial Reference System (SANSRS).
+    uuid: 231d5119-0aee-49e8-b10a-2800bc852e68
+  name: Kingdom of Saudi Arabia Geodetic Reference Frame 2017
+  originDescription: Aligned with ITRF2014 at epoch 2017.0 using 51 IGS primary stations
+    and 16 addtional IGS stations within 2500 km of Riyahd, and fixed to (co-moving
+    with) the stable part of the Arabian tectonic plate as defined by 3 rotation rate
+    parameters estimated from 41 IGS and GASGI GNSS stations. The reference frame
+    is realized by 333 GNSS stations in Saudi Arabia.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: 2019-07
+  remarks: KSA-GRF17 replaces all previous geodetic datums including Ain el Abd, MOMRA
+    Terrestrial Reference Frame 2000 and GDMS.
+  scope: Spatial referencing
+dateAccepted: 2021-08-30
+id: 0d8b39b8-0bba-435b-b4f5-2aa151d0bcf1
+status: valid

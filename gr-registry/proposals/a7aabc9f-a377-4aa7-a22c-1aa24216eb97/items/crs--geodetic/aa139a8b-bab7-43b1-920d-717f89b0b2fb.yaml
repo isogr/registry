@@ -1,0 +1,98 @@
+data:
+  aliases:
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - SIR17P01
+  - Geocentric Reference System for the Americas
+  - SIRGAS Multi-Year Solution 2017
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: e910f143-5c1c-4a25-bebb-db9d6df59660
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 396
+  informationSources:
+  - author: L. Sanchez
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'Data for paper included in supplement: Sanchez L. (2017) SIRGAS
+      reference frame realization SIR17P01, Technische Universitaet Muenchen, Deutsches
+      Geodaetisches Forschungsinstitut DGFI-TUM, IGS RNAAC SIRGAS'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: Symposium SIRGAS2017. Mendoza, Argentina. November 28, 2017
+    seriesPage: null
+    title: Kinematics of the SIRGAS reference frame
+    uuid: 8ab7af61-0f9a-4182-a953-b9fca888a03f
+  - author: L. Sanchez
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'In supplement to: Sanchez L. (2017) Kinematics of the SIRGAS reference
+      frame, Symposium SIRGAS2018. Mendoza, Argentina. November 28, 2017'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: SIRGAS reference frame realization SIR17P01
+    uuid: 0344d5f0-6690-426d-b39a-2da0eddc7593
+  - author: L. Sanchez, H. Drewes
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'Data for paper included in supplement: Drewes H. and Sanchez L.
+      (2017): Velocity model for SIRGAS 2017: VEMOS2017, Technische Universitaet Muenchen,
+      Deutsches Geodaetisches Forschungsinstitut (DGFI-TUM), IGS RNAAC'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: Symposium SIRGAS2017. Mendoza, Argentina. November 28, 2017
+    seriesPage: null
+    title: 'The varying surface kinematics in Latin America: VEMOS 2009, 2015, and
+      2017'
+    uuid: ab33d3dd-9cac-45f1-a089-944e5c5fa2f4
+  - author: L. Sanchez, H. Drewes
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'In supplement to: Drewes H. and Sanchez L. (2017) The varying surface
+      kinematics in Latin America: VEMOS 2009, 2015, and 2017, Symposium SIRGAS2017.
+      Mendoza, Argentina. November 28, 2017'
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Velocity model for SIRGAS 2017: VEMOS2017'
+    uuid: f83874ee-33db-44eb-ad20-b7af875975b5
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 5ea5789a-d0a1-405a-8471-cc43eafd0536
+  name: SIRGAS-CON SIR17P01 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: aa139a8b-bab7-43b1-920d-717f89b0b2fb
+status: valid

@@ -1,0 +1,85 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.5
+  aliases: []
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: -114.08
+    n: 60.01
+    name: Canada - onshore and offshore - British Columbia.
+    s: 48.25
+    w: -139.04
+  identifier: 581
+  informationSources:
+  - author: Esri Canada
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Esri, Redlands, CA
+    seriesIssueID: 'Article ID: 000011846'
+    seriesName: null
+    seriesPage: null
+    title: 'FAQ: What are some of the transformation methods for Canada?'
+    uuid: a3c3acf2-23fc-4df0-b512-643d8e7ec366
+  - author: Canadian Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Desktop Applications: NTv2'
+    uuid: 81bb0237-a570-405f-b6ef-f01362dd025f
+  - author: GeoBC
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: GeoBC, Government of British Columbia
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
+    uuid: 9fa3146f-8934-45be-ab19-085cb0e21315
+  name: NAD27 to NAD83(CSRS) v2 [BCv1]
+  operationVersion: BCv1
+  parameters:
+  - fileCitation:
+      author: GeoBC
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: GeoBC, Government of British Columbia
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
+      uuid: 52b18894-af54-4e73-a741-88dbf4ff3532
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: BC_27_98.GSB
+  remarks: Grid tranformation in NTv2 format adopted for use in British Columbia.
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: a0c01a52-f404-48f3-951a-900aba820bd7
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 4098686c-3538-4441-b085-af045ec68ea4
+dateAccepted: 2018-11-17
+id: 491f7ee1-6c63-4bec-9296-7cb64ba67c55
+status: valid

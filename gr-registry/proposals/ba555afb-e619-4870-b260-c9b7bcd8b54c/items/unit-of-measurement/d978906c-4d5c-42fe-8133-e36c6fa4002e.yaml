@@ -1,0 +1,30 @@
+data:
+  aliases:
+  - ppm/a
+  - ppm/y
+  - ppm/yr
+  - "\xB5m/m/a"
+  denominator: 31556900000000.0
+  identifier: 20
+  informationSources:
+  - author: International Association of Oil and Gas Producers (IOGP)
+    edition: version 8.9
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Association of Oil and Gas Producers (IOGP)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: EPSG Geodetic Parameter Dataset v8.9
+    uuid: 8026aad6-7233-49e6-9eb9-fb05e606fd41
+  measureType: SCALE
+  name: parts per million per year
+  numerator: 1.0
+  remarks: Year taken to be IUGS definition of 31556925.445 seconds.
+  standardUnit: f1313623-539d-448f-9090-5faaed5ccd73
+  symbol: null
+dateAccepted: 2018-11-17
+id: d978906c-4d5c-42fe-8133-e36c6fa4002e
+status: valid

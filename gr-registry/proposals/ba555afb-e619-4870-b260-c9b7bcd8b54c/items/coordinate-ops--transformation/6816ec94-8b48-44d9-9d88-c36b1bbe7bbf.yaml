@@ -1,0 +1,64 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.1
+  aliases:
+  - AUSGeoid2020
+  coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
+  description: null
+  extent:
+    e: 173.98
+    n: -8.0
+    name: Australia - onshore and offshore. Christmas Island - onshore and offshore.
+      Cocos (Keeling) Islands - onshore and offshore.
+    s: -60.98
+    w: 93.0
+  identifier: 598
+  informationSources:
+  - author: Permanent Committee on Geodesy of the Intergovernmental Committee on Surveying
+      and Mapping
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Intergovernmental Committee on Surveying and Mapping
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
+    uuid: 690bbd16-3f3a-4b58-9eb5-f69b33de714d
+  name: GDA2020 to AHD [GA v1]
+  operationVersion: GA v1
+  parameters:
+  - fileCitation:
+      author: Permanent Committee on Geodesy of the Intergovernmental Committee on
+        Surveying and Mapping
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: Intergovernmental Committee on Surveying and Mapping
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
+      uuid: 202575ca-4e00-48a8-a687-41a1fc4280ad
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: AUSGeoid2020_20170908.gsb
+  remarks: Derivation of gravity-related heights from GPS observations. Uses AUSGeoid2020
+    model which uses bi-cubic interpolation; bi-linear interpolation of the grid file
+    will give results agreeing to within 1cm 99.97% of the time.
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: b864475e-07ce-4bc7-8322-e25163b63ca2
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 6816ec94-8b48-44d9-9d88-c36b1bbe7bbf
+status: valid

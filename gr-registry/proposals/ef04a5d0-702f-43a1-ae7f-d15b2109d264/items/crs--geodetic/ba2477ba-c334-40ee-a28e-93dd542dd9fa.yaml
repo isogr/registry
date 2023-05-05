@@ -1,0 +1,69 @@
+data:
+  aliases:
+  - DGFI05P01
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - DGF05P01
+  - Geocentric Reference System for the Americas
+  - SIRGAS Multi-Year Solution 2005
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 4f005b53-4b99-4211-932d-96736a777814
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 290
+  informationSources:
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 0c58536d-6c92-48e6-b7f2-609b15953434
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: 1ae3b86a-e5f8-4d94-a90c-ab5d649f68a1
+  - author: W. Seemueller
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Presented at the SIRGAS 2005 General Meeting. Caracas, Venezuela
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Report on new activities of IGS Regional Associate Analysis for SIRGAS
+      (IGS RNAAC SIR)
+    uuid: 55e72ba8-ed99-41c7-a6ea-3449c3d307ac
+  name: SIRGAS-CON DGF05P01 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: ba2477ba-c334-40ee-a28e-93dd542dd9fa
+status: valid

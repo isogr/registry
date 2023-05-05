@@ -1,0 +1,74 @@
+data:
+  aliases:
+  - IERS Terrestrial Reference Frame 2005
+  - ITRF2005
+  coordinateReferenceEpoch: '2000.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 105
+  informationSources:
+  - author: Z. Altamimi, X. Collilieux, J. Legrand, B. Garayt, C. Boucher
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: American Geophysical Union
+    seriesIssueID: Vol 112
+    seriesName: ' Journal of Geophysical Research'
+    seriesPage: null
+    title: 'ITRF2005: A new release of the International Terrestrial Reference Frame
+      based on time series of station positions and Earth Orientation Parameters'
+    uuid: 91e158ef-29ee-4aa0-92f5-4c199eb805d3
+  - author: US Government
+    edition: null
+    editionDate: 1976-05-17
+    isbn: null
+    issn: null
+    otherDetails: Formally adopted usage of NGVD 29 as datum name
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: Volume 41, No. 96, Document 76-14245
+    seriesName: Federal Register Notice
+    seriesPage: '20202.0'
+    title: National Vertical Control Network - Notice of Final Action
+    uuid: 287ada08-54f4-4556-a855-edbd26d3707e
+  - author: IERS
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    seriesIssueID: '97.0'
+    seriesName: IERS Message
+    seriesPage: null
+    title: ITRF2005 on line 2006-10-05
+    uuid: e15b7f15-05c0-4354-809a-9edc29d449c1
+  name: International Terrestrial Reference Frame 2005
+  originDescription: "Realisation of the IERS Terrestrial Reference System (ITRS)\
+    \ at reference epoch 2000.0.\nOrigin at geocentre, originally orientated to the\
+    \ BIH Terrestrial System at epoch 1984.0 then adjusted to ensure zero net rotation\
+    \ to earth's overall tectonic motion.\nOrigin is defined such that there are null\
+    \ translation parameters at epoch 2000.0 and null translation rates between the\
+    \ ITRF2005 and the ILRS SLR time series. \nScale is defined such that there are\
+    \ null scale factor at epoch 2000.0 and null scale rate between the ITRF2005 and\
+    \ IVS VLBI time series. \nOrientation is defined such that there are null rotation\
+    \ parameters at epoch 2000.0 and null rotation rates between the ITRF2005 and\
+    \ ITRF2000.\nDatum defined by a set of 3 dimensional Cartesian station coordinates\
+    \ and velocities given by the citations."
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '2006-10-05'
+  remarks: 'Replaces ITRF2000. Replaced by ITRF2008.
+
+    This is a purely Cartesian reference frame with no ellipsoid defined.
+
+    GRS80 is the ellipsoid recommended by the IAG and IERS.'
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: b7c56681-00f2-4874-99ce-031508113ac8
+status: valid

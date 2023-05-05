@@ -1,0 +1,36 @@
+data:
+  aliases:
+  - International GNSS Service 2014
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: d61ae2ab-8cca-438b-81e5-646be15531ce
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 406
+  informationSources:
+  - author: P. Rebischung
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International GNSS Service (IGS)
+    seriesIssueID: '7399.0'
+    seriesName: IGSMAIL
+    seriesPage: null
+    title: Upcoming switch to IGS14/igs14.atx
+    uuid: 6a487c4d-62d1-40fc-b448-ffa0418ecd7d
+  name: IGS14 - LatLon
+  operation: null
+  remarks: Replaces IGb08 - LatLon. Used by  IGS products from 2017-01-29.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: d079d734-dda9-4d36-8fa3-f6d9d401a3be
+status: valid

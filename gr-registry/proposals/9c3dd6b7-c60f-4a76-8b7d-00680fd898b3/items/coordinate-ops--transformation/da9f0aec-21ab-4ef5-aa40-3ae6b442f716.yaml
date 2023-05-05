@@ -1,0 +1,83 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.5
+  aliases: []
+  coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
+  description: null
+  extent:
+    e: 128.0
+    n: 73.0
+    name: United States (USA) - onshore and offshore - Alaska.
+    s: 50.0
+    w: 172.0
+  identifier: 675
+  informationSources:
+  - author: D. Smith, A. Bilich
+    edition: null
+    editionDate: 2017-03-27
+    isbn: null
+    issn: null
+    otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+      datum transformations, and extents of covnversion grids.
+    publisher: NOAA's National Geodetic Survey
+    seriesIssueID: null
+    seriesName: NGS Technical Report
+    seriesPage: null
+    title: 'NADCON 5.0: Geometric Transformation Tool for points in the National Spatial
+      Reference System'
+    uuid: a50acf04-0b86-4a3d-a393-1ff107144f4b
+  name: NAD27 to NAD 83 (1986) [USA v2]
+  operationVersion: USA v2
+  parameters:
+  - fileCitation:
+      author: D. Smith, A. Bilich
+      edition: null
+      editionDate: 2017-03-27
+      isbn: null
+      issn: null
+      otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+        datum transformations, and extents of covnversion grids.
+      publisher: NOAA's National Geodetic Survey
+      seriesIssueID: null
+      seriesName: NGS Technical Report
+      seriesPage: null
+      title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
+        Spatial Reference System'
+      uuid: 298fa454-cf66-482f-a8d6-a0d1eb2474ef
+    parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad27.nad83_1986.alaska.lat.trn.20160901.b
+  - fileCitation:
+      author: D. Smith, A. Bilich
+      edition: null
+      editionDate: 2017-03-27
+      isbn: null
+      issn: null
+      otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+        datum transformations, and extents of covnversion grids.
+      publisher: NOAA's National Geodetic Survey
+      seriesIssueID: null
+      seriesName: NGS Technical Report
+      seriesPage: null
+      title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
+        Spatial Reference System'
+      uuid: d4c6e0ef-4ae7-4203-b054-2276b01b6924
+    parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad27.nad83_1986.alaska.lon.trn.20160901.b
+  remarks: Grid Transformation
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: a0c01a52-f404-48f3-951a-900aba820bd7
+  targetCRS:
+    classID: crs--geodetic
+    itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
+dateAccepted: 2018-11-17
+id: da9f0aec-21ab-4ef5-aa40-3ae6b442f716
+status: valid

@@ -1,0 +1,109 @@
+data:
+  aliases:
+  - IERS Terrestrial Reference Frame 1988
+  - ITRF88
+  coordinateReferenceEpoch: '1988.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 154
+  informationSources:
+  - author: D.D. McCarthy, C. Boucher, R. Eanes, T. Fukushima, T. Herring, J. Lieske,
+      C. Ma, H. Montag, P. Paquet, C. Reigber, J. Ries, B.E. Schutz, E.M. Standish,
+      C. Veillet, J. Wahr
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
+    seriesIssueID: '3.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS standards (1989)
+    uuid: 76b028da-9103-45f4-928a-d6659822228c
+  - author: C. Boucher, Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
+    seriesIssueID: '1.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: The initial IERS Terrestrial Reference Frame
+    uuid: a55dda3d-3886-44ba-af0d-7bb04ea8e0b9
+  - author: International Association of Geodesy
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Association of Geodesy
+    seriesIssueID: Publication speciale no. 3
+    seriesName: "Bulletin G\xE9od\xE9sique"
+    seriesPage: null
+    title: Geodetic Reference System 1967
+    uuid: 125ca1b2-68a9-4dac-86fb-d4c1c3457a70
+  - author: IERS
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: IERS Annual Report for 1988
+    uuid: 6dc5a0a0-91db-437f-a61a-d24a4b10e80c
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
+    seriesIssueID: '36.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS Conventions (2010)
+    uuid: 7d5ee648-e5b9-4a52-b961-cf3b3ba3188c
+  name: International Terrestrial Reference Frame 1988
+  originDescription: 'Realisation of the IERS Terrestrial Reference System (ITRS)
+    at reference epoch 1988.0.
+
+    Origin and scale are defined by an average of selected SLR solutions.
+
+    Orientation is defined by successive alignment since BTS87 whose orientation was
+    aligned to the BIH EOP series.
+
+    Time evolution is defined by the AMO-2 plate motion model of Minster and Jordan
+    (1978); no global velocity field was estimated for ITRF88.
+
+    The AM0-2 model is used to estimate positions at other epochs.
+
+    Datum defined by a set of 3 dimensional Cartesian station coordinates given by
+    the citations.'
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '1989-11-01'
+  remarks: 'Replaced by ITRF89.
+
+    The realisation epoch is not defined in the citations.
+
+    This is a purely Cartesian reference frame with no ellipsoid defined.
+
+    GRS80 is the ellipsoid recommended by the IAG and IERS.'
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 08d9dadf-255e-452f-a750-4bbb172bf729
+status: valid

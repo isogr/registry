@@ -1,0 +1,82 @@
+data:
+  aliases:
+  - CGCS 2000
+  coordinateReferenceEpoch: '2000.0'
+  definition: China Geodetic Coordinate System 2000
+  ellipsoid: d9246282-df4f-4228-9976-9fef4ddb58ca
+  extent: null
+  identifier: 730
+  informationSources:
+  - author: J. Chen
+    edition: ''
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Chinese; http://xb.sinomaps.com/EN/Y2008/V37/I3/269 (accessed
+      2020-05-19)
+    publisher: Surveying and Mapping Press
+    seriesIssueID: 37(3)
+    seriesName: Acta Geodaetica et Cartographica Sinica
+    seriesPage: 269-271
+    title: Chinese Modern Geodetic Datum - Chinese Geodetic Coordinate System 2000
+      (CGCS 2000) and Its Frame
+    uuid: 6ceb2093-fad6-4bca-957c-880ad085cbb3
+  - author: 'National Basic Geographic Information Center '
+    edition: ''
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Chinese; http://www.ngcc.cn/ngcc/html/1/396/401/16122.html (accessed
+      2020-06-05)
+    publisher: National Geomatics Center of China
+    seriesIssueID: ''
+    seriesName: ''
+    seriesPage: ''
+    title: National GNSS continuous operation reference stations
+    uuid: 1883bc01-6048-4a4b-9b10-17c6364dd28c
+  - author: P. Zhang, Z. Li, H. Wen
+    edition: ''
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://unstats.un.org/unsd/geoinfo/RCC/docs/rccap19/ip/E_Conf.102_IP16_Modernization%20of%20National%20Geodetic%20Datum%20in%20China.pdf
+      (accessed 2020-05-15)
+    publisher: United Nations Economic and Social Council
+    seriesIssueID: E/CONF.102/IP.16
+    seriesName: "Nineteenth United Nations Regional Cartographic Conference for Asia\
+      \ and the Pacific, Bangkok, 29 October \u2013 1 November 2012"
+    seriesPage: ''
+    title: Modernization of National Geodetic Datum in China
+    uuid: 304a7cd7-d1f8-4992-8681-e0639d23e37b
+  - author: Y. Yang
+    edition: ''
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Chinese; https://doi.org/10.1007/s11434-009-0342-9 (accessed
+      2020-05-19)
+    publisher: Science China Press
+    seriesIssueID: '54.0'
+    seriesName: Chinese Science Bulletin
+    seriesPage: 2714- 2721
+    title: Chinese geodetic coordinate system 2000
+    uuid: 86e0a5b6-88fe-465e-ba75-4ebdade19d22
+  name: China Geodetic Coordinate System 2000
+  originDescription: The China Geodetic Coordinate System 2000 is presently defined
+    and maintained by 360 national CORS stations and 4508 GNSS geodetic control points
+    that are aligned with ITRF97 at epoch 2000.0. There are zero translations, rotations,
+    and scale change with respect to ITRF97 at epoch 2000.0.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '2008-07-01'
+  remarks: The China Geodetic Coordinate System 2000 (CGCS 2000) is a geocentric terrestrial
+    reference system compatible with the International Terrestrial Reference System.
+    CGCS 2000 is the standard Chinese geodetic reference system for geospatial information.
+    It was originally realized by a combined adjustment of astro-geodetic observations
+    as used for Xian 1980 and a GPS control network observed 2000-2003. It is presently
+    realized and maintained by a network of  360 national CORS stations and 4508 GNSS
+    geodetic control points. Adopted July 2008 by China. Replaces Xian 1980 horizontal
+    datum.
+  scope: Spatial referencing
+dateAccepted: 2020-07-27
+id: 0577746d-be28-490c-9145-93a5a5d8c847
+status: valid

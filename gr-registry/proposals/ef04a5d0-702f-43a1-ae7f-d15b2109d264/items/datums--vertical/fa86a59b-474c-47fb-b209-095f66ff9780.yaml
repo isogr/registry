@@ -1,0 +1,62 @@
+data:
+  aliases:
+  - NMVD03
+  coordinateReferenceEpoch: null
+  definition: null
+  extent:
+    e: 146.0
+    n: 18.0
+    name: Northern Mariana Islands - onshore - Saipan, Tinian, and Rota.
+    s: 14.0
+    w: 143.0
+  identifier: 191
+  informationSources:
+  - author: US Government
+    edition: null
+    editionDate: 2009-01-22
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of NMVD03
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: 'Volume 74, No. 13, Document: E9-1180, Citation: 74 FR 3990'
+    seriesName: Federal Register Notice
+    seriesPage: 3990-3991
+    title: Affirmation of Vertical Datum for Surveying and Mapping Activities for
+      the Islands of Rota, Saipan and Tinian of the Commonwealth of the Northern Mariana
+      Islands (CNMI)
+    uuid: cbbcf44f-230c-4a48-9abc-ce4ba96a17b1
+  - author: E. Carlson, D. Doyle, D. Smith
+    edition: null
+    editionDate: 2009-01-01
+    isbn: null
+    issn: null
+    otherDetails: ASVD02, GUVD04, NMVD03
+    publisher: American Congress on Surveying and Mapping
+    seriesIssueID: Volume 69, No. 1
+    seriesName: Surveying and Land Information Systems
+    seriesPage: 5-17
+    title: Development of Comprehensive Geodetic Vertical Datums for the United States
+      Pacific Territories of American Samoa, Guam, and the Northern Marianas
+    uuid: c31f7711-d949-413f-b5fe-47946fbedcf8
+  name: Northern Marianas Vertical Datum of 2003
+  originDescription: 'Northern Marianas Vertical Datum of 2003 (NMVD03) consists of
+    a set of three independent leveling networks on the islands of Rota, Saipan and
+    Tinian (in the Commonwealth of the Northern Mariana Islands). Each of these leveling
+    networks is affixed to a single origin point on their respective islands referenced
+    to the Saipan tide station. Island of Rota: Tide Station Rota East Harbor, Rota
+    (PID: DG4014, VM: None, Bench Mark: Tidal 3, 1.482 m above LMSL). Island of Saipan:
+    Tide Station 1633227, Tanapag Harbor, Saipan (PID: DG3988, VM: 16316, Bench Mark:
+    163 3227 TIDAL UH-2C,  1.657 m above LMSL). Island of Tinian: Tide Station Tinian
+    Harbor, Tinian (PID: AA4407, VM: None, Bench Mark: Tidal 1, 2.361 m above LMSL).
+
+    NMVD03 was affirmed as the official vertical datum in the National Spatial Reference
+    System for the islands of Rota, Saipan and Tinian in the Commonwealth of the Northern
+    Mariana Islands (CNMI) by Federal Register Notice (2009), replacing all previous
+    height systems for this region. The official defining document for that datum
+    was published in 2009.'
+  releaseDate: '2009'
+  remarks: Normal orthometric heights.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: fa86a59b-474c-47fb-b209-095f66ff9780
+status: valid

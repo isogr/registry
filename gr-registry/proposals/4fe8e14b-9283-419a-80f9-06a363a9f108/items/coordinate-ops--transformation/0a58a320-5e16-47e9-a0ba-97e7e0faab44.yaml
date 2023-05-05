@@ -1,0 +1,63 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.05
+  aliases:
+  - GEOID99
+  coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
+  description: null
+  extent:
+    e: -66.91
+    n: 47.47
+    name: "United States (USA) - onshore - CONUS north of 41\xB0N and east of 78\xB0\
+      W (Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania,\
+      \ Rhode Island, Vermont)."
+    s: 41.0
+    w: -78.0
+  identifier: 704
+  informationSources:
+  - author: National Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
+      Survey (NGS)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: National Geodetic Survey Geoid Homepage
+    uuid: d7f1c1e1-62d6-4c23-acd3-93b249fac44f
+  name: NAD 83 (HARN) to NAVD88 - OHt [v4]
+  operationVersion: v4
+  parameters:
+  - fileCitation:
+      author: National Geodetic Survey
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+      publisher: National Oceanic and Atmospheric Administration (NOAA), National
+        Geodetic Survey (NGS)
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: National Geodetic Survey Geoid Homepage
+      uuid: bfc68822-de62-4fa6-8776-405209079e6b
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: g1999u04.bin
+  remarks: Grid transformation
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: fe0ef0a0-b436-4793-b978-514f9fdd045f
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 0a58a320-5e16-47e9-a0ba-97e7e0faab44
+status: valid

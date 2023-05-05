@@ -1,0 +1,28 @@
+data:
+  aliases: []
+  coordinateSystemAxes:
+  - addb3701-9efd-487d-93ef-9540beb175f5
+  - fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
+  identifier: 40
+  informationSources:
+  - author: Institut National de L'Information Geographique et Forestiere
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Institut National de L'Information Geographique et Forestiere, 73 Avenue
+      de Paris, 94165 Saint-Mande Cedex, France
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Systemes de reference de coordonnees
+    uuid: 96f1ac84-ddbe-45ff-8263-e844ed931cbb
+  name: 'Ellipsoidal 2D CS. Axes: longitude, latitude. Orientations: east, north.
+    UoM: degree'
+  remarks: Coordinates referenced to this CS are in degrees. Any degree representation
+    (e.g. DMSH, decimal, etc.) may be used but that used must be declared for the
+    user by the supplier of data. Used in geographic 2D coordinate reference systems.
+dateAccepted: 2018-11-17
+id: 93163b34-3c15-4623-9771-cf03adae7c2c
+status: valid

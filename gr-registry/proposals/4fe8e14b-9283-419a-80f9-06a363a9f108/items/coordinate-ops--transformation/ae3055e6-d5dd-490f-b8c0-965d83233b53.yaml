@@ -1,0 +1,74 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.0
+  aliases: []
+  coordOperationMethod: f2d8e58d-a889-4386-9a3a-f79dfcac86bd
+  description: null
+  extent:
+    e: 154.0
+    n: 45.6
+    name: Japan - onshore and offshore
+    s: 20.4
+    w: 122.9
+  identifier: 619
+  informationSources:
+  - author: Y. Hiyama, A. Yamagiwa, T. Kawahara, M. Iwata, Y. Fukuzaki, Y. Shouji,
+      Y. Sato, T. Yutsudo, T. Sasaki, H. Shigematsu, H. Yamao, T. Inukai, M. Ohtaki,
+      K. Kokado, S. Kurihara, I. Kimura, T. Tsutsumi, T. Yahagi, Y. Furuya, I. Kageyama,
+      S. Kawamoto, K. Yamaguchi, H. Tsuji, S. Matsumura
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
+    seriesIssueID: Volume 51
+    seriesName: Bulletin of the Geographical Survey Institute
+    seriesPage: "1\u20139"
+    title: Concept of the New Japanese Geodetic System
+    uuid: b7e877ec-dea2-4bb5-8cd1-df7bd24f6b21
+  - author: Geographical Survey Institute
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
+    seriesIssueID: Volume 50
+    seriesName: Bulletin of the Geographical Survey Institute
+    seriesPage: 33-36
+    title: "The New Geodetic Reference System of Japan \u2212 Its adoption and application\
+      \ to our products"
+    uuid: a7d5ed33-c015-4532-b32c-411f84d8de46
+  name: ITRF94 to JGD2000 [GSIv1]
+  operationVersion: GSIv1
+  parameters:
+  - fileCitation: null
+    parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+    type: measure (w/ UoM)
+    unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    value: 0.0
+  - fileCitation: null
+    parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+    type: measure (w/ UoM)
+    unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    value: 0.0
+  - fileCitation: null
+    parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+    type: measure (w/ UoM)
+    unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    value: 0.0
+  remarks: Null transformation. JGD2000 equivalent to ITRF94 at epoch 1997.0.
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 22fcdfb2-8a7b-483e-a43b-82328b9fc7c9
+  targetCRS:
+    classID: crs--geodetic
+    itemID: afcfe96f-88e2-4371-bf0c-0ad2ad882f78
+dateAccepted: 2018-11-17
+id: ae3055e6-d5dd-490f-b8c0-965d83233b53
+status: valid

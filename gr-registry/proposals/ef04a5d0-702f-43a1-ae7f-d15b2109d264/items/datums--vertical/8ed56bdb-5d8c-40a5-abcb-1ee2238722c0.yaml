@@ -1,0 +1,44 @@
+data:
+  aliases:
+  - EVRF2007
+  coordinateReferenceEpoch: '2000.0'
+  definition: null
+  extent:
+    e: 31.59
+    n: 71.21
+    name: Europe - onshore - Andorra, Austria, Belgium, Bosnia and Herzegovina, Bulgaria,
+      Croatia, Czech Republic, Denmark, Estonia, Finland, France - mainland, Germany,
+      Gibraltar, Hungary, Italy - mainland and Sicily, Latvia, Liechtenstein, Lithuania,
+      Luxembourg, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia,
+      Slovenia, Spain - mainland, Sweden, Switzerland, United Kingdom (UK) - Great
+      Britain mainland, Vatican City State.
+    s: 35.95
+    w: -9.56
+  identifier: 144
+  informationSources:
+  - author: M. Sacher, J. Ihde, G. Liebsch, J. Makinen
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Istituto Geografico Militare, Firenze
+    seriesIssueID: Volume 68, No. 1
+    seriesName: Bollettino di Geodesia e Scienze Affini
+    seriesPage: 35-50
+    title: EVRF2007 as Realization of the European Vertical Reference System
+    uuid: 31ca726b-21cb-48aa-8cff-78e88cd13e1e
+  name: European Vertical Reference Frame 2007
+  originDescription: EVRF2007 is realised by an adjustment of geopotential numbers
+    and Normal heights of the United European Levelling Network. Height at Normal
+    Amsterdams Peil (NAP) is zero, realized by least squares fit to 13 stations of
+    the EVRF2000 solution. The realization used in Finland, Norway, Sweden, Denmark,
+    Estonia, Latvia, Lithuania as well as northern parts of Germany and Poland were
+    reduced to the epoch 2000 using the land uplift model NKG2005LU provided by the
+    Nordic Geodetic Commission.
+  releaseDate: '2008'
+  remarks: Replaces EVRF2000. Normal heights are referenced to the GRS80 ellipsoid.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 8ed56bdb-5d8c-40a5-abcb-1ee2238722c0
+status: valid

@@ -1,0 +1,42 @@
+data:
+  aliases:
+  - SIRGAS
+  - SIRGAS-CON
+  - SIR14P01
+  - Sistema de Referencia Geocentrico para las Americas
+  - Geocentric Reference System for the Americas
+  - SIRGAS Multi-Year Solution 2014
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: 14fab4ae-300a-43aa-8f6f-cc42aa0eaef9
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 257
+  informationSources:
+  - author: L. Sanchez
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International GNSS Service
+    seriesIssueID: null
+    seriesName: International GNSS Service Technical Report 2014
+    seriesPage: 101-110
+    title: SIRGAS Regional Network Associate Analysis Center, Technical Report 2014
+    uuid: 283fa115-5315-4f57-85a0-ae4bb2395d28
+  name: SIRGAS-CON SIR14P01 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 15692d10-2883-4b6f-a7ae-040ece7588f7
+status: valid

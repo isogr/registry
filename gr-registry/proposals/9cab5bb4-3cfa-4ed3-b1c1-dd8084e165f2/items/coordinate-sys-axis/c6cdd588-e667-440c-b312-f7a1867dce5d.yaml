@@ -1,0 +1,14 @@
+data:
+  abbreviation: y
+  aliases: []
+  identifier: 822
+  informationSources: []
+  maxValue: null
+  minValue: null
+  name: Northing
+  orientation: north
+  remarks: null
+  unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+dateAccepted: 2022-06-06
+id: c6cdd588-e667-440c-b312-f7a1867dce5d
+status: valid

@@ -1,0 +1,51 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.03
+  aliases: []
+  coordOperationMethod: 9a8bc426-f56b-423a-b9fb-030955d22887
+  description: null
+  extent:
+    e: 154.0
+    n: 45.6
+    name: Japan - onshore and offshore
+    s: 20.4
+    w: 122.9
+  identifier: 622
+  informationSources:
+  - author: M. Tobita
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Japanese with English abstract.
+    publisher: Journal of the Geodetic Society of Japan
+    seriesIssueID: Volume 55, Number 4
+    seriesName: Journal of the Geodetic Society of Japan
+    seriesPage: 355-367
+    title: PatchJGD, Software for Correcting Geodetic Coordinates for Coseismic Displacements
+    uuid: 235812d2-68bc-45ed-b385-59641adf0838
+  - author: Geospatial Information Authority of Japan (GSI)
+    edition: 1.1.0.0
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Webpage in Japanese.
+    publisher: Geospatial Information Authority of Japan (GSI), Tsukuba, Japan
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Software for Correcting Geodetic Coordinates and Elevations PatchJGD HV
+    uuid: 49eb4c73-5674-45be-bc69-7d57652ca9d1
+  name: JGD2000 (vertical) to JGD2011 (vertical) [GSIv2]
+  operationVersion: GSIv2
+  parameters: []
+  remarks: PatchJGD HV application from GSI. Replaces PatchJGD for Height.
+  scope:
+  - Spatial referencing
+  sourceCRS: null
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 060c6e8c-1d37-4fe2-91c3-8795612cb3b6
+status: valid

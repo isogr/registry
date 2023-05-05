@@ -1,0 +1,37 @@
+data:
+  aliases:
+  - NZVD2009
+  - ' NZVD09'
+  coordinateReferenceEpoch: '2000.0'
+  definition: null
+  extent:
+    e: -170.0
+    n: -25.0
+    name: New Zealand - onshore and offshore - Antipodes Islands, Auckland Islands,
+      Bounty Islands, Campbell Island Chatham Islands, Kermadec Islands, North Island,
+      Raoul Island, Snares Islands, South Island, Stewart Island.
+    s: -60.0
+    w: 160.0
+  identifier: 170
+  informationSources:
+  - author: Office of the Surveyor General
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Land Information New Zealand
+    seriesIssueID: LINZS25004
+    seriesName: null
+    seriesPage: null
+    title: Standard for New Zealand Vertical Datum 2009
+    uuid: 6cdcb569-c951-4489-952b-16de28876900
+  name: New Zealand Vertical Datum 2009
+  originDescription: New Zealand Quasigeoid 2009 which is defined by the application
+    of the NZ quasigeoid 2009 grid to NZGD2000 ellipsoidal heights at epoch 2000.0.
+  releaseDate: '2009-09-14'
+  remarks: Replaced by NZVD2016 from 2016-06-27. Normal orthometric heights.
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 76e106aa-c1f5-47b6-b42b-a0004ea82636
+status: valid

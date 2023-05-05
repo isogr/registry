@@ -1,0 +1,105 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.5
+  aliases: []
+  coordOperationMethod: 3905157c-48fe-48b2-abcd-c1ad81ac206c
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 671
+  informationSources:
+  - author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
+    edition: null
+    editionDate: 2012-04-19
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: American Geophysical Union
+    seriesIssueID: Volume  117, Issue B4
+    seriesName: 'Journal of Geophysical Research: Solid Earth'
+    seriesPage: null
+    title: The development and evaluation of the Earth Gravitational Model 2008 (EGM2008)
+    uuid: daaee064-ee99-4b9f-9bf2-c611a2fa00e0
+  - author: National Geospatial-Intelligence Agency
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
+    seriesIssueID: NGA.STND.0036_1.0.0_WGS84
+    seriesName: Standardization Document
+    seriesPage: null
+    title: 'Department of Defense World Geodetic System 1984: Its Definition and Relationships
+      with Local Geodetic Systems, Version 1.0.0'
+    uuid: 2a4b9561-c3d3-457c-99f5-1a44aed8c88e
+  - author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
+    edition: null
+    editionDate: 2013-05-09
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: American Geophysical Union
+    seriesIssueID: Volume  118, Issue 5
+    seriesName: 'Journal of Geophysical Research: Solid Earth'
+    seriesPage: '2633.0'
+    title: "Correction to \u201CThe Development and Evaluation of the Earth Gravitational\
+      \ Model 2008 (EGM2008)\u201D"
+    uuid: 46f8e6db-e2cd-4ed6-a4a8-a912186e940b
+  name: WGS 84 (G1762) to WGS 84 EGM2008 - OHt [3]
+  operationVersion: '2.0'
+  parameters:
+  - fileCitation:
+      author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
+      edition: null
+      editionDate: 2012-04-19
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: American Geophysical Union
+      seriesIssueID: Volume  117, Issue B4
+      seriesName: 'Journal of Geophysical Research: Solid Earth'
+      seriesPage: null
+      title: The development and evaluation of the Earth Gravitational Model 2008
+        (EGM2008)
+      uuid: c712b377-5478-4489-ad5c-b2372ee7fa0a
+    parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
+    type: parameter file name
+    unitOfMeasurement: null
+    value: EGM2008_to2190_TideFree.gz
+  - fileCitation:
+      author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
+      edition: null
+      editionDate: 2012-04-19
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: American Geophysical Union
+      seriesIssueID: Volume  117, Issue B4
+      seriesName: 'Journal of Geophysical Research: Solid Earth'
+      seriesPage: null
+      title: The development and evaluation of the Earth Gravitational Model 2008
+        (EGM2008)
+      uuid: 29e74a82-32ad-4d5d-9270-68387e16cbdb
+    parameter: f5cb1159-d48d-4f8e-b907-824a07b3f5ad
+    type: parameter file name
+    unitOfMeasurement: null
+    value: Zeta-to-N_to2160_egm2008.gz
+  remarks: Transformation from WGS 84 (G1762) ellipsoidal heights to EGM2008 orthometric
+    heights using the EGM2008 geoid model defind by spherical harmonic coeffcients
+    and corrections using harmonic synthesis.
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: ed902837-d0f7-45b4-b780-c2be3a5337d3
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: aa859fd4-f6ac-4836-8674-765141f3b904
+status: valid

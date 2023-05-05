@@ -1,0 +1,69 @@
+data:
+  aliases:
+  - SIRGAS
+  - SIRGAS-CON
+  - Sistema de Referencia Geocentrico para las Americas
+  - DGFI04P01
+  - Geocentric Reference System for the Americas
+  - DGF04P01
+  - SIRGAS Multi-Year Solution 2004
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 54e60521-17c0-469f-8256-d8a1fb82cd16
+  description: null
+  extent:
+    e: -25.28
+    n: 32.72
+    name: South America - onshore and offshore. Central America - onshore and offshore.
+      Mexico - onshore and offshore.
+    s: -59.87
+    w: -122.19
+  identifier: 366
+  informationSources:
+  - author: H. Drewes, O. Heidbach
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
+      Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publisher: Springer Berlin Heidelberg
+    seriesIssueID: '128.0'
+    seriesName: International Association of Geodesy Symposia
+    seriesPage: 544-549
+    title: Deformation of the South American crust estimated from finite element and
+      collocation methods
+    uuid: a58d29a5-08d7-450e-99d4-bad43430aa1c
+  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website
+    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
+    uuid: 7c476024-d170-42cf-8e1b-3c839a92ca79
+  - author: "W. Seem\xFCller, K. Kaniuth, H. Drewes"
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
+    seriesIssueID: No. 76
+    seriesName: DGFI Report
+    seriesPage: null
+    title: Station positions and velocities of the IGS regional network for SIRGAS
+    uuid: d4b6f7ea-a33c-4f0d-85c4-99dca82a4ba2
+  name: SIRGAS-CON DGF04P01 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: e61e552a-a3bf-4aa2-9f9d-d3f03b6bdc6e
+status: valid

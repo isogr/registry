@@ -1,0 +1,61 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.05
+  aliases:
+  - GEOID09
+  coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
+  description: null
+  extent:
+    e: 146.0
+    n: 18.0
+    name: Northern Mariana Islands - onshore - Saipan, Tinian, and Rota.
+    s: 14.0
+    w: 143.0
+  identifier: 722
+  informationSources:
+  - author: National Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+    publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
+      Survey (NGS)
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: National Geodetic Survey Geoid Homepage
+    uuid: 2791e5e2-5a1e-420d-80fa-1107c32d9981
+  name: NAD 83 (FBN) to NMVD03 - NOHt [v1]
+  operationVersion: v1
+  parameters:
+  - fileCitation:
+      author: National Geodetic Survey
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
+      publisher: National Oceanic and Atmospheric Administration (NOAA), National
+        Geodetic Survey (NGS)
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: National Geodetic Survey Geoid Homepage
+      uuid: fb229852-8d1f-428c-8308-b0663e2dff7b
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: g2009g01.bin
+  remarks: Grid transformation
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 0f3edaed-095e-41aa-9829-3b0cc5731072
+  targetCRS: null
+dateAccepted: 2018-11-17
+id: 179010a8-7e3a-4a0c-8ad1-a74cadae4f56
+status: valid
