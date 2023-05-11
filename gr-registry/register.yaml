@@ -24,6 +24,14 @@ stakeholders:
         contacts:
           - label: email
             value: vladimir.yablokov@gmail.com
+  - role: owner
+    name: Stefano (Test)
+    gitServerUsername: stefanomunarini
+    parties:
+      - name: Stefano
+        contacts:
+          - label: email
+            value: ssteee@gmail.com
   - role: manager
     name: Demo user
     gitServerUsername: demouser
