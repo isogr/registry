@@ -4,52 +4,6 @@ id: 523330ff-2d2f-47a2-8d9d-31d6f0d1bcd2
 isConcluded: true
 items:
   /coordinate-op-method/e0a8fc2b-2414-4ba5-a6c8-5c880a42ae81.yaml:
-    item_body:
-      aliases:
-      - Grid transformation using VERTCON 2.1
-      dateAccepted: 2018-11-17
-      definition: null
-      description: null
-      formula: null
-      formulaCitation:
-        author: National Geodetic Survey
-        edition: null
-        editionDate: 2003-09-29
-        isbn: null
-        issn: null
-        otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON
-          for transformations between NGVD 29 and NAVD 88
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: VERTCON User Manual
-        uuid: 9b0fa85b-80c8-4f83-b054-6ac541dce456
-      identifier: 84
-      informationSources: []
-      name: VERTCON
-      parameters:
-      - d0e6143c-dfc2-4796-932b-ab6b67954582
-      remarks: "The relationship between NGVD29 height and NAVD88 height vertical\
-        \ coordinate reference systems for the coterminous US is available through\
-        \ three gridded\ndata files of offsets (sometimes called height differences).\
-        \ The vertical offset at a point is first interpolated within the grid of\
-        \ values using bi-linear interpolation.\nThe interpolated offset is then applied\
-        \ as an offset: \n\u2022 If a NAVD88 height is desired when a NGVD29 height\
-        \ is given, add the interpolated offset to the NGVD29 height.\n\u2022 If a\
-        \ NGVD29 height is desired when a NAVD88 height is given, subtract the interpolated\
-        \ offset from the NAVD88 height.\n\nMost horizontal positions of the bench\
-        \ marks used to generate the VERTCON grids were scaled from USGS topographic\
-        \ maps. The estimated uncertainty of the scaled positions, 6 arc-seconds,\
-        \ is greater than the differences between NAD27 and NAD83 coordinates. Therefore\
-        \ the latitude and longitude used for interpolation of the grids can be referenced\
-        \ to either NAD27 or to NAD83(1986) or to any of the NAD83(NSRS) realisations\
-        \ (HARN, NSRS2007 or 2011). "
-      status: valid
-      uuid: e0a8fc2b-2414-4ba5-a6c8-5c880a42ae81
-    item_class: coordinate-op-method
-    item_uuid: e0a8fc2b-2414-4ba5-a6c8-5c880a42ae81
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -63,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

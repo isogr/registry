@@ -4,76 +4,6 @@ id: 8da366a9-9dfb-4121-b857-2d57607ff2a5
 isConcluded: true
 items:
   /crs--geodetic/3910b020-e85b-424b-9dad-bfcbd1944519.yaml:
-    item_body:
-      aliases:
-      - SIRGAS
-      - SIRGAS-CON
-      - Sistema de Referencia Geocentrico para las Americas
-      - SIR13P01
-      - SIRGAS Multi-Year Solution 2013
-      - Geocentric Reference System for the Americas
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: fe541505-57a6-4ac6-92a7-d455623504fc
-      description: null
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 240
-      informationSources:
-      - author: L. Sanchez, H. Drewes, C. Brunini, M.V. Mackern, W. Martinez-Diaz
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '143.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 183-190
-        title: SIRGAS core network stability
-        uuid: c21f019b-8764-478d-b530-5c7c07673128
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
-          International Association of Geodesy Symposia, Vol 136. Springer, Berlin,
-          Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '136.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 657-664
-        title: The 2009 Horizontal Velocity Field for South America and the Caribbean
-        uuid: ef41d601-1bd2-4056-abdc-125e7ed60523
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: d2ce150d-f97d-4ddd-b66a-d609b1de74c1
-      name: SIRGAS-CON SIR13P01 - LatLon
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 3910b020-e85b-424b-9dad-bfcbd1944519
-    item_class: crs--geodetic
-    item_uuid: 3910b020-e85b-424b-9dad-bfcbd1944519
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -87,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

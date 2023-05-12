@@ -4,36 +4,6 @@ id: 73b830f6-f4be-408e-a65c-d52c3f6bb684
 isConcluded: true
 items:
   /coordinate-op-method/1e5c11d5-9ed1-42e7-a8de-0e6c452df611.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: 2018-11-17
-      definition: null
-      description: null
-      formula: null
-      formulaCitation:
-        author: M. Tobita
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Japanese with English abstract.
-        publisher: Journal of the Geodetic Society of Japan
-        seriesIssueID: Volume 55, Number 4
-        seriesName: Journal of the Geodetic Society of Japan
-        seriesPage: 355-367
-        title: PatchJGD, Software for Correcting Geodetic Coordinates for Coseismic
-          Displacements
-        uuid: ae44583c-35ef-4fae-aee7-c1ad37525e67
-      identifier: 71
-      informationSources: []
-      name: PatchJGD for Height
-      parameters: []
-      remarks: GSI application with grid of orthometric height shifts in proprietary
-        format.
-      status: valid
-      uuid: 1e5c11d5-9ed1-42e7-a8de-0e6c452df611
-    item_class: coordinate-op-method
-    item_uuid: 1e5c11d5-9ed1-42e7-a8de-0e6c452df611
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -47,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,49 +4,6 @@ id: 5859f334-88f0-42b9-9f0b-af5265e1714d
 isConcluded: true
 items:
   /crs--geodetic/7ddfa7b7-2db8-4ca7-9d47-b13698521096.yaml:
-    item_body:
-      aliases:
-      - NAD27(CGQ77)
-      - NAD27
-      - North American Datum 1927
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: 01b38ec3-0559-48e9-8ca8-7ff5dfb03d0e
-      description: null
-      extent:
-        e: -57.1
-        n: 62.62
-        name: Canada - onshore and offshore - Quebec.
-        s: 44.99
-        w: -79.85
-      identifier: 304
-      informationSources:
-      - author: Y. Theriault
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Personal email communication.
-        publisher: "Service de la geodesie et des leves geospatiaux, Direction de\
-          \ la reference geographique, Direction generale de l\u2019information geospatiale,\
-          \ Ministere de l\u2019Energie et des Ressources naturelles, Gouvernement\
-          \ du Quebec"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'RE: GSD file'
-        uuid: 23ab6d46-cba0-4cb6-b836-4687e3222045
-      name: NAD27(CGQ77) - LatLon
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 7ddfa7b7-2db8-4ca7-9d47-b13698521096
-    item_class: crs--geodetic
-    item_uuid: 7ddfa7b7-2db8-4ca7-9d47-b13698521096
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -60,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

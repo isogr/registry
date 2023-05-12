@@ -3,6 +3,7 @@ data:
     dtype: TransformationAccuracy
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.0
+  aliases: []
   coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
   description: null
   extent:
@@ -130,4 +131,4 @@ data:
     itemID: 8ab5fd69-2340-4750-a0e8-2fafe7959eaf
 dateAccepted: null
 id: 938e2d7f-bb68-4810-a18d-8c68f2cb16f9
-status: not_valid
+status: invalid

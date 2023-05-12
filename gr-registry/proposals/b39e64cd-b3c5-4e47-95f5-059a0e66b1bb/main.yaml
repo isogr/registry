@@ -4,46 +4,6 @@ id: b39e64cd-b3c5-4e47-95f5-059a0e66b1bb
 isConcluded: true
 items:
   /coordinate-ops--conversion/645bf484-0a3d-48cb-80f2-0f357c986d6b.yaml:
-    item_body:
-      accuracy: null
-      aliases: []
-      dateAccepted: 2018-11-17
-      dateAmended: null
-      definition: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 97
-      informationSources:
-      - author: International Association of Oil and Gas Producers (IOGP)
-        edition: '51.0'
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Association of Oil and Gas Producers (IOGP)
-        seriesIssueID: 373-7-2
-        seriesName: IOGP Publication
-        seriesPage: null
-        title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
-          including Formulas'
-        uuid: 05480341-641c-4c7b-af7e-a52a768cc7a7
-      method_uuid: 37829e5c-379a-41b0-bd3c-f8fd88a36774
-      name: geographic3D to geographic2D
-      parameters: []
-      remarks: 'See EPSG Guidance Note #7 or Coordinate Operation Method description
-        for techniques for handling reverse conversion.'
-      scope:
-      - For geographic 3D to geographic 2D conversions.
-      sourcecrs_uuid: null
-      status: valid
-      targetcrs_uuid: null
-      uuid: 645bf484-0a3d-48cb-80f2-0f357c986d6b
-    item_class: coordinate-ops--conversion
-    item_uuid: 645bf484-0a3d-48cb-80f2-0f357c986d6b
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -57,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

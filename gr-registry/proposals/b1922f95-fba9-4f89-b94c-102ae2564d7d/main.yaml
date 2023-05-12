@@ -4,55 +4,6 @@ id: b1922f95-fba9-4f89-b94c-102ae2564d7d
 isConcluded: true
 items:
   /coordinate-op-parameter/6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: 2018-11-17
-      definition: null
-      identifier: 49
-      informationSources:
-      - author: NGA Office of Geomatics
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: National Geospatial-Intelligence Agency
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: WGS 84, N=M=180 Earth Gravitational Model
-        uuid: 28e9b166-4330-403e-baec-9713cfbc9013
-      - author: NGA Office of Geomatics
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: National Geospatial-Intelligence Agency
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: EGM2008 - WGS 84 Version
-        uuid: e324286c-a7f4-42fd-bd95-d5dce8dfcf5f
-      - author: NGA Office of Geomatics
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: National Geospatial-Intelligence Agency
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
-        uuid: 7fea84ae-696d-44b5-b5ed-6ae1d41db823
-      minimumOccurs: null
-      name: Spherical harmonic coefficient file
-      remarks: null
-      status: valid
-      uuid: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
-    item_class: coordinate-op-parameter
-    item_uuid: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -66,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

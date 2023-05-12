@@ -4,60 +4,6 @@ id: 9cf5ab44-393e-44b0-883f-9548952d9d27
 isConcluded: true
 items:
   /crs--geodetic/8b4bf1f3-bf61-4438-b5ac-8f759f6d0b7d.yaml:
-    item_body:
-      aliases:
-      - NAD83(1997)
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: 07d83fcc-3fe9-42c4-8562-d50d6aee0b09
-      description: null
-      extent:
-        e: -64.0
-        n: 19.0
-        name: Puerto Rico - onshore and offshore. Virgin Islands (US) - onshore and
-          offshore.
-        s: 17.0
-        w: -69.0
-      identifier: 204
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: 1a3108db-4542-4c25-83e1-ce04668378f9
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: 1d4fd198-bc05-4d58-9fca-24fc4b2adf66
-      name: NAD 83 (HARN) CORRECTED - LatLonEHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 8b4bf1f3-bf61-4438-b5ac-8f759f6d0b7d
-    item_class: crs--geodetic
-    item_uuid: 8b4bf1f3-bf61-4438-b5ac-8f759f6d0b7d
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -71,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,47 +4,6 @@ id: 8ea74a26-60f1-4346-93d5-341234123435
 isConcluded: true
 items:
   /coordinate-op-parameter/1a05b1d1-d7fd-4411-8640-110855a92d92.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: 2022-07-25
-      definition: null
-      identifier: 960
-      informationSources:
-      - author: M. Veronneau
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geodetic Survey Division, Natural Resources Canada, Government
-          of Canada
-        seriesIssueID: null
-        seriesName: Internal Report
-        seriesPage: null
-        title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
-        uuid: 6c5d6bf5-3b6f-414f-af18-0e2369e5b553
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: 'Website: https://webapp.geod.nrcan.gc.ca/geod/tools-outils/sample_doc_files/NRCan_Geoid_GridFormat_EN.pdf'
-        publisher: Geodetic Survey Division, Natural Resources Canada, Government
-          of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: ' BYN Grid Format Description'
-        uuid: eeb033be-89fa-4c82-8f57-0c2b65c038f0
-      minimumOccurs: null
-      name: Geoid model difference file
-      remarks: Grid file containing geoid model height differences between the CGVD28
-        and CGVD2013(CGG2013a) vertical datums. See information source for file format
-        documentation.
-      status: valid
-      uuid: 1a05b1d1-d7fd-4411-8640-110855a92d92
-    item_class: coordinate-op-parameter
-    item_uuid: 1a05b1d1-d7fd-4411-8640-110855a92d92
     type: addition
 justification: New vertical datum transformation method for Canada. Submitted by M.
   Craymer, Canadian Geodetic Survey.
@@ -59,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-07-25
 timeProposed: 2022-07-25

@@ -4,61 +4,6 @@ id: 371d893d-0962-41e2-b363-ba99e16200e1
 isConcluded: true
 items:
   /datums--geodetic/a1ff2146-b586-44e7-b975-2660efb87bdf.yaml:
-    item_body:
-      aliases:
-      - International GNSS Service 2008 (v2)
-      coordinateReferenceEpoch: '2005.0'
-      dateAccepted: 2018-11-17
-      definition: IGb08
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 159
-      informationSources:
-      - author: P. Rebischung
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International GNSS Service (IGS)
-        seriesIssueID: '6663.0'
-        seriesName: IGSMAIL
-        seriesPage: null
-        title: 'IGb08: an update on IGS08'
-        uuid: 734f4f17-3302-4cc8-b52c-85965354a971
-      - author: International GNSS Service Analysis Centre Coordinator
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National  Geodetic
-          Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Chronology of IGS Reference Frame Usage
-        uuid: 5c93c554-faf4-4484-a441-a52c0c465035
-      name: IGb08
-      originDescription: "Derived from and aligned to a subset of 232 stable, well-performing\
-        \ IGS station coordinates and velocities in ITRF2008 at epoch 2005.0.\r\n\
-        An update to IGS08, designed mostly to recover unuseable reference frame sites,\
-        \ accompanied by an update to ground and satellite antenna calibrations, including\
-        \ new estimates for Block IIF satellites."
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '2012-10-07'
-      remarks: Replaces IGS08.  Replaced by IGS14. Used by IGS products within the
-        period 2012-10-07 thru 2017-01-28.
-      scope: Spatial Referencing
-      status: valid
-      uuid: a1ff2146-b586-44e7-b975-2660efb87bdf
-    item_class: datums--geodetic
-    item_uuid: a1ff2146-b586-44e7-b975-2660efb87bdf
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -72,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

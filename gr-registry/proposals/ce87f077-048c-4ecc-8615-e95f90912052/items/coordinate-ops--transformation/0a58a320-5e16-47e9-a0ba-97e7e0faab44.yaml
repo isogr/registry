@@ -3,6 +3,8 @@ data:
     dtype: TransformationAccuracy
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.05
+  aliases:
+  - GEOID99
   coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
   description: null
   extent:

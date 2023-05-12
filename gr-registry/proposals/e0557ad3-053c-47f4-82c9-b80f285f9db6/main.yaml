@@ -4,35 +4,6 @@ id: e0557ad3-053c-47f4-82c9-b80f285f9db6
 isConcluded: true
 items:
   /coordinate-sys--ellipsoidal/c3c232d6-8e8b-4574-b6a8-85915d532cd5.yaml:
-    item_body:
-      coordinateSystemAxes:
-      - fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
-      - addb3701-9efd-487d-93ef-9540beb175f5
-      - 7578267e-1a3f-4bb8-97f6-07b9664f866d
-      dateAccepted: 2018-11-17
-      identifier: 46
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: Second Edition
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 19111:2007
-        seriesName: International Standard
-        seriesPage: null
-        title: ISO 19111 Geographical information - Spatial referencing by coordinates
-        uuid: e2e7bd75-9cad-4ca8-9a70-a05e176dc7a1
-      name: 'Ellipsoidal 3D CS. Axes: latitude, longitude, ellipsoidal height. Orientations:
-        north, east, up. UoM: degree, degree, metre.'
-      remarks: Used in geographic 3D coordinate reference systems. Horizontal coordinates
-        referenced to this CS are in degrees. Any degree representation (e.g. DMSH,
-        decimal, etc.) may be used but that used must be declared for the user.
-      status: valid
-      uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-    item_class: coordinate-sys--ellipsoidal
-    item_uuid: c3c232d6-8e8b-4574-b6a8-85915d532cd5
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -46,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

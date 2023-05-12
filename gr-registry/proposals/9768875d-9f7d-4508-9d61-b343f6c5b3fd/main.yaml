@@ -4,33 +4,6 @@ id: 9768875d-9f7d-4508-9d61-b343f6c5b3fd
 isConcluded: true
 items:
   /coordinate-sys-axis/addb3701-9efd-487d-93ef-9540beb175f5.yaml:
-    item_body:
-      abbreviation: Lon
-      dateAccepted: 2018-11-17
-      identifier: 34
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: Second Edition
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 19111:2007
-        seriesName: International Standard
-        seriesPage: null
-        title: ISO 19111 Geographical information - Spatial referencing by coordinates
-        uuid: 3d67e002-7847-4b11-af3a-a4c453b1ddee
-      maxValue: null
-      minValue: null
-      name: Geodetic longitude
-      orientation: east
-      remarks: Used in geographic 2D and geographic 3D coordinate reference systems.
-      status: valid
-      unitOfMeasurement: 6a54d914-a8a0-4df8-969e-57bcdb182e3c
-      uuid: addb3701-9efd-487d-93ef-9540beb175f5
-    item_class: coordinate-sys-axis
-    item_uuid: addb3701-9efd-487d-93ef-9540beb175f5
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -44,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

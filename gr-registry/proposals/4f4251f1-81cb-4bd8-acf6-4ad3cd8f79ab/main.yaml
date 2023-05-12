@@ -4,70 +4,6 @@ id: 4f4251f1-81cb-4bd8-acf6-4ad3cd8f79ab
 isConcluded: true
 items:
   /crs--geodetic/95773888-e861-4847-9360-39b404198a96.yaml:
-    item_body:
-      aliases:
-      - NAD83(CSRS)v1
-      - CSRS
-      - Canadian Spatial Reference System 1996
-      - NAD83(CSRS)
-      - North American Datum 1983 v1
-      - CSRS96
-      - Canadian Spatial Reference System
-      - NAD83v1
-      - NAD83(CSRS96)
-      - NAD83
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: d44da840-4b05-4112-8295-210f97afdfe5
-      description: null
-      extent:
-        e: -47.74
-        n: 90.0
-        name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba,
-          New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
-          Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
-        s: 40.04
-        w: -141.01
-      identifier: 331
-      informationSources:
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: The Canadian Spatial Reference System (CSRS)
-        uuid: ab77bb30-e64c-4c61-9dbe-97f6f419605d
-      - author: J. Kouba, J. Popelar
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        seriesIssueID: null
-        seriesName: Proceedings on the International Symposium on Kinematic Systems
-          in Geodesy, Geomatics and Navigation, Banff, Canada, August 30 - September
-          2, 1994
-        seriesPage: ' 79-86'
-        title: Modern Geodetic Reference Frames for Precise Satellite Positioning
-          and Navigation
-        uuid: 3d49b9b8-129f-4e19-86f6-e4ab61e26bc0
-      name: NAD83(CSRS96) v1 - LatLonEHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 95773888-e861-4847-9360-39b404198a96
-    item_class: crs--geodetic
-    item_uuid: 95773888-e861-4847-9360-39b404198a96
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -81,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

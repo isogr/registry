@@ -4,36 +4,6 @@ id: b9c5fdf8-6182-4f0b-9f04-953bed95925d
 isConcluded: true
 items:
   /unit-of-measurement/0e4ffde7-ba1e-4bcc-b038-9482f88cc12f.yaml:
-    item_body:
-      aliases:
-      - ppm
-      - "\xB5m/m"
-      dateAccepted: 2018-11-17
-      denominator: 1000000.0
-      identifier: 16
-      informationSources:
-      - author: International Association of Oil and Gas Producers (IOGP)
-        edition: version 8.9
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Association of Oil and Gas Producers (IOGP)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: EPSG Geodetic Parameter Dataset v8.9
-        uuid: 8bea8749-b9a1-40f5-aae9-c013de9c07d9
-      measureType: SCALE
-      name: parts per million
-      numerator: 1.0
-      remarks: null
-      standardUnit: ff19fda6-47af-4474-ac8a-04ee2267f702
-      status: valid
-      symbol: ppm
-      uuid: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
-    item_class: unit-of-measurement
-    item_uuid: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -47,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

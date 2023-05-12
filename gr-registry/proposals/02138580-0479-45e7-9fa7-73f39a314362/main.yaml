@@ -4,93 +4,6 @@ id: 02138580-0479-45e7-9fa7-73f39a314362
 isConcluded: true
 items:
   /coordinate-ops--transformation/6a6eb7a9-90d3-46e8-8096-54a8d3fd6d49.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 1.5
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -123.0
-        n: 49.0
-        name: Canada - onshore and offshore - British Columbia - mainland.
-        s: 49.0
-        w: -139.04
-      identifier: 601
-      informationSources:
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Desktop Applications: NTv2'
-        uuid: bb0e9c39-ff42-4ba0-b28e-f0aa402a3e94
-      - author: Esri Canada
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Esri, Redlands, CA
-        seriesIssueID: 'Article ID: 000011846'
-        seriesName: null
-        seriesPage: null
-        title: 'FAQ: What are some of the transformation methods for Canada?'
-        uuid: ecea1d13-54d2-407d-a0a4-1c415d3d523d
-      - author: GeoBC
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: GeoBC, Government of British Columbia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
-        uuid: 4aaad7ce-39a8-4179-9877-7abd4412d9e7
-      name: NAD27 to NAD83(CSRS) v4 [BCv1]
-      operationVersion: BCv1
-      parameters:
-      - fileCitation:
-          author: GeoBC
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: GeoBC, Government of British Columbia
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
-          uuid: de61008d-3252-48c7-9298-2b1d320e2fe0
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: BC_27_05.GSB
-      remarks: Grid tranformation in NTv2 format adopted for use in British Columbia,
-        Canada, excluding Vancouver Island.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: a0c01a52-f404-48f3-951a-900aba820bd7
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: e9a75c1f-6783-45c7-8045-c3d6b57e4077
-      uuid: 6a6eb7a9-90d3-46e8-8096-54a8d3fd6d49
-    item_class: coordinate-ops--transformation
-    item_uuid: 6a6eb7a9-90d3-46e8-8096-54a8d3fd6d49
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -104,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

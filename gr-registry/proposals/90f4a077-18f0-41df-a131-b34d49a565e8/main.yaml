@@ -4,44 +4,6 @@ id: 90f4a077-18f0-41df-a131-b34d49a565e8
 isConcluded: true
 items:
   /crs--geodetic/dbe3bdeb-028d-4f90-92df-cc051012ccde.yaml:
-    item_body:
-      aliases: []
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: 4c35f7be-59de-4511-910c-ca3fb1a0a0ea
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 265
-      informationSources:
-      - author: National Geospatial-Intelligence Agency
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: National Geospatial-Intelligence Agency
-        seriesIssueID: NGA.STND.0036_1.0.0_WGS84
-        seriesName: Standardization Document
-        seriesPage: null
-        title: 'Department of Defense World Geodetic System 1984: Its Definition and
-          Relationships with Local Geodetic Systems, Version 1.0.0'
-        uuid: 97330d1d-fbe1-4043-919c-622315a201bc
-      name: WGS 84 (G1762) - LatLon
-      operation: null
-      remarks: Replaces WGS 84 (G1674) - LatLon.
-      scope: Spatial Referencing and GPS satellite navigation.
-      status: valid
-      uuid: dbe3bdeb-028d-4f90-92df-cc051012ccde
-    item_class: crs--geodetic
-    item_uuid: dbe3bdeb-028d-4f90-92df-cc051012ccde
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -55,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

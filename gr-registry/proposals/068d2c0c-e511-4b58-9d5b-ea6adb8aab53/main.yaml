@@ -4,68 +4,6 @@ id: 068d2c0c-e511-4b58-9d5b-ea6adb8aab53
 isConcluded: true
 items:
   /coordinate-ops--transformation/3340b6a7-92c3-4231-aa8f-ff164202253b.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.03
-      coordOperationMethod: 4a370551-f089-4518-8f3a-3b78bc9745cf
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -170.0
-        n: -25.0
-        name: New Zealand - onshore and offshore - Antipodes Islands, Auckland Islands,
-          Bounty Islands, Campbell Island Chatham Islands, Kermadec Islands, North
-          Island, Raoul Island, Snares Islands, South Island, Stewart Island.
-        s: -60.0
-        w: 160.0
-      identifier: 483
-      informationSources:
-      - author: Land Informaiton New Zealand
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Land Information New Zealand
-        seriesIssueID: LINZS25009
-        seriesName: null
-        seriesPage: null
-        title: Standard for New Zealand Vertical Datum 2016
-        uuid: dd735470-5674-4cab-b065-c2ac730e0f5b
-      name: NZGD2000 to NZVD2016 - NOHt [LINZ]
-      operationVersion: LINZ
-      parameters:
-      - fileCitation:
-          author: Land Informaiton New Zealand
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: Land Information New Zealand
-          seriesIssueID: LINZS25009
-          seriesName: null
-          seriesPage: null
-          title: Standard for New Zealand Vertical Datum 2016
-          uuid: ff229fb0-79bd-4056-a001-85d7ecede969
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: New_Zealand_Quasigeoid_2016.sid
-      remarks: Grid transformation using quasigeoid model New Zealand Quasigeoid 2016
-        (NZGeoid2016).
-      scope:
-      - Spatial referencing.
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 90080c83-c3a1-457b-9b8e-f2bb7b7650d1
-      status: valid
-      targetCRS: null
-      uuid: 3340b6a7-92c3-4231-aa8f-ff164202253b
-    item_class: coordinate-ops--transformation
-    item_uuid: 3340b6a7-92c3-4231-aa8f-ff164202253b
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -79,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

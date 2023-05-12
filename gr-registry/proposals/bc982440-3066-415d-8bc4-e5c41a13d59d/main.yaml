@@ -4,77 +4,6 @@ id: bc982440-3066-415d-8bc4-e5c41a13d59d
 isConcluded: true
 items:
   /crs--geodetic/e8f27f59-13b0-4ba3-bf75-68620e377a95.yaml:
-    item_body:
-      aliases:
-      - South American Geocentric Reference System 1995
-      - SIRGAS
-      - SIRGAS95
-      - SIRGAS 1995
-      - SIRGAS1995
-      - Geocentric Reference System for South America
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2018-11-17
-      datum: 5ffe2869-e50d-455e-9960-0491b0b08067
-      description: null
-      extent:
-        e: -26.0
-        n: 16.75
-        name: South America - onshore and offshore
-        s: -59.87
-        w: -113.21
-      identifier: 278
-      informationSources:
-      - author: SIRGAS Working Groups I and II
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Report in both English and Spanish.
-        publisher: Instituto Brasileiro de Geografia e Estatistica (IBGE), Rio de
-          Janeiro, Brasil
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'South American Geocentric Reference System: Final Report, Working
-          Groups I and II'
-        uuid: 41d691e7-f0dd-4f32-9c06-419c450276e4
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: 74d4660f-c016-4d6b-be74-5619c7cfa623
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
-          Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '128.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 544-549
-        title: Deformation of the South American crust estimated from finite element
-          and collocation methods
-        uuid: 06abbafa-1d4f-4501-aeb5-65014fe351c6
-      name: SIRGAS95 - XYZ
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: e8f27f59-13b0-4ba3-bf75-68620e377a95
-    item_class: crs--geodetic
-    item_uuid: e8f27f59-13b0-4ba3-bf75-68620e377a95
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -88,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

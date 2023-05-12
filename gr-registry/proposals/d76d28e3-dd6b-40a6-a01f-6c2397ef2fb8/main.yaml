@@ -4,74 +4,6 @@ id: d76d28e3-dd6b-40a6-a01f-6c2397ef2fb8
 isConcluded: true
 items:
   /datums--geodetic/0f8720f9-38d5-42fa-b840-2a612d8fb329.yaml:
-    item_body:
-      aliases:
-      - NAD83(FBN)
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: -64.51
-        n: 49.38
-        name: 'United States and Territories - onshore and offshore: American Samoa.
-          Guam. Northern Mariana Islands. Puerto Rico. United States (USA) - CONUS
-          (California, Connecticut, Florida, Idaho, Maine, Massachusetts, Montana,
-          Nevada, New Hampshire, New Jersey, New York, North Carolina, Oregon, Rhode
-          Island, South Carolina, Tennessee, Vermont, Washington, Wisconsin). Virgin
-          Islands (US).'
-        s: -17.56
-        w: 144.58
-      identifier: 176
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: 3cff291d-36e7-482a-abab-4f9c68ae0023
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: c83b2f75-6e11-47bc-b9b1-aba55516fdb9
-      name: North American Datum of 1983 (Federal Base Network)
-      originDescription: This a realization of NAD83. This datum is closely intertwined
-        with NAD83 (HARN). HARN's were realized first as latitude and longitude only
-        realizations in statewide adjustments. A subsequent campaign adjusted newer
-        GPS coordinates to derive updated latitude, longitude and ellipsoid height.
-        If the latitude and longitude values were within 2 cm, the ellipsoid height
-        was added as a third coordinate only. If the latitude or longitude differed
-        by more than 2 cm, then all three coordinates were replaced and the resulting
-        statewide realization was called an FBN. This occurred in 18 states as defined
-        by the geographic extent. A null transformation was used for the remaining
-        state HARN's.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: null
-      remarks: Replaces NAD83 (HARN) in 19 states as wellas outlying territories.
-        See Geographic extents for list. Adopted at different times in the 18 affected
-        states, but adopted in 2002 for outlying territories. Replaced by NAD83 (2007).
-      scope: Spatial referencing
-      status: valid
-      uuid: 0f8720f9-38d5-42fa-b840-2a612d8fb329
-    item_class: datums--geodetic
-    item_uuid: 0f8720f9-38d5-42fa-b840-2a612d8fb329
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -85,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

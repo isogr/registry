@@ -4,33 +4,6 @@ id: 03118562-c9ec-42c6-819d-7e9b51fe9da1
 isConcluded: true
 items:
   /coordinate-sys-axis/f8339102-4078-4da1-a310-d544ae581cea.yaml:
-    item_body:
-      abbreviation: H
-      dateAccepted: 2018-11-17
-      identifier: 35
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: Second Edition
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 19111:2007
-        seriesName: International Standard
-        seriesPage: null
-        title: ISO 19111 Geographical information - Spatial referencing by coordinates
-        uuid: c3d1ef88-c124-4925-a6c9-796b74c15053
-      maxValue: null
-      minValue: null
-      name: Gravity-related height
-      orientation: up
-      remarks: Used in a 1D vertical coordinate system.
-      status: valid
-      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-      uuid: f8339102-4078-4da1-a310-d544ae581cea
-    item_class: coordinate-sys-axis
-    item_uuid: f8339102-4078-4da1-a310-d544ae581cea
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -44,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,48 +4,6 @@ id: 18f7d159-18ee-4818-b6a2-2d5fe10f7b82
 isConcluded: true
 items:
   /datums--vertical/8ed647b5-9570-46dc-8370-dec3bc7e697e.yaml:
-    item_body:
-      aliases:
-      - JGD2011 (vertical)
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: null
-      extent:
-        e: 145.8
-        n: 45.5
-        name: Japan - onshore - Hokkaido, Honshu, Shikoku, Kyushu.
-        s: 31.0
-        w: 129.5
-      identifier: 167
-      informationSources:
-      - author: Y. Hiyama, A. Yamagiwa, T. Kawahara, M. Iwata, Y. Fukuzaki, Y. Shouji,
-          Y. Sato, T. Yutsudo, T. Sasaki, H. Shigematsu, H. Yamao, T. Inukai, M. Ohtaki,
-          K. Kokado, S. Kurihara, I. Kimura, T. Tsutsumi, T. Yahagi, Y. Furuya, I.
-          Kageyama, S. Kawamoto, K. Yamaguchi, H. Tsuji, S. Matsumura
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geospatial Information Authority of Japan (GSI), Tsukuba, Japan
-        seriesIssueID: Voume 59
-        seriesName: Bulletin of the Geospatial Information Authority of Japan
-        seriesPage: 31-42
-        title: Revision of the Results of Control Points after the 2011 off the Pacific
-          coast of Tohoku Earthquake
-        uuid: 76b167a4-2854-44de-9981-259bfd2d2402
-      name: Japanese Geodetic Datum 2011 (vertical)
-      originDescription: Japanese Geodetic Datum 2011 (Vertical) consists of a leveling
-        network on the main island of Japan referenced to a single origin point (Chiyoda-Ward,
-        Tokyo) with a height of  24.3900m above MSL. The levelling network was amended
-        in north east Honshu following the Tohoku Earthquake on March 11, 2011.
-      releaseDate: '2011-10-21'
-      remarks: Replaces Japanese Geodetic Datum 2000 (Vertical) from 2011-10-21.
-      scope: Spatial referencing
-      status: valid
-      uuid: 8ed647b5-9570-46dc-8370-dec3bc7e697e
-    item_class: datums--vertical
-    item_uuid: 8ed647b5-9570-46dc-8370-dec3bc7e697e
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -59,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

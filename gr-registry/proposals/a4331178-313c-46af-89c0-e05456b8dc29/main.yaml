@@ -4,86 +4,6 @@ id: a4331178-313c-46af-89c0-e05456b8dc29
 isConcluded: true
 items:
   /coordinate-ops--transformation/ce0390a3-4c36-4016-a293-49ea6b66aca3.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.01
-      coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 492
-      informationSources:
-      - author: National Geospatial-Intelligence Agency
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: National Geospatial-Intelligence Agency
-        seriesIssueID: NGA.STND.0036_1.0.0_WGS84
-        seriesName: Standardization Document
-        seriesPage: null
-        title: 'Department of Defense World Geodetic System 1984: Its Definition and
-          Relationships with Local Geodetic Systems, Version 1.0.0'
-        uuid: 6b8f9d52-5e43-479d-a1e8-701bac2e4678
-      name: WGS 84 (G1674) to WGS 84 (G1762) [1]
-      operationVersion: '1.0'
-      parameters:
-      - fileCitation: null
-        parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
-        type: measure (w/ UoM)
-        unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-        value: null
-      - fileCitation: null
-        parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
-        type: measure (w/ UoM)
-        unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-        value: null
-      - fileCitation: null
-        parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
-        type: measure (w/ UoM)
-        unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-        value: null
-      - fileCitation: null
-        parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
-        type: measure (w/ UoM)
-        unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
-        value: null
-      - fileCitation: null
-        parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
-        type: measure (w/ UoM)
-        unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
-        value: null
-      - fileCitation: null
-        parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
-        type: measure (w/ UoM)
-        unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
-        value: null
-      - fileCitation: null
-        parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
-        type: measure (w/ UoM)
-        unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
-        value: null
-      remarks: Transformation between WGS 84 ephemerides, defined at epoch 2005.0.
-      scope:
-      - Spatial referencing and GPS satellite navigation
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 0d499474-459c-422c-8ad5-c7c4298f1c17
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 21394966-c940-41e8-b091-840b5562ab13
-      uuid: ce0390a3-4c36-4016-a293-49ea6b66aca3
-    item_class: coordinate-ops--transformation
-    item_uuid: ce0390a3-4c36-4016-a293-49ea6b66aca3
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -97,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

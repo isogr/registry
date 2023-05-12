@@ -4,71 +4,6 @@ id: c04be9fd-2044-4af5-b43f-daa9902d12fe
 isConcluded: true
 items:
   /datums--vertical/8e1e28ec-15e6-4dee-a001-fe0067b8d283.yaml:
-    item_body:
-      aliases:
-      - CGVD28
-      - CVD28
-      - Canadian Vertical Datum of 1928
-      - GSC Datum
-      - Canadian Geodetic Datum
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: Canadian Geodetic Vertical Datum of 1928
-      extent:
-        e: -59.73
-        n: 69.8
-        name: "Canada - onshore - Alberta, British Columbia, Manitoba south of 57\xB0\
-          N, New Brunswick, Northwest Territories south west of a line between 60\xB0\
-          N, 110\xB0W and the coast at 132\xB0W, Nova Scotia, Ontario south of 52\xB0\
-          N, Prince Edward Island, Quebec - mainland west of 66\xB0W and south of\
-          \ 55\xB0N, Saskatchewan south of 55\xB0N, Yukon."
-        s: 41.67
-        w: -141.01
-      identifier: 102
-      informationSources:
-      - author: J.B. Canon
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Department of the Interior, Dominion of Canada, Ottawa
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Adjustment of the precise level net of Canada 1928
-        uuid: aaca4e3f-3308-48e9-8bd3-4d31234a2ec1
-      - author: J.B. Canon
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Department of the Interior, Dominion of Canada, Ottawa
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Recent adjustments of the precise level net of Canada
-        uuid: a01715e9-3135-4cb2-8d68-a5165f60ca6a
-      name: Canadian Geodetic Vertical Datum of 1928
-      originDescription: "CGVD28 is a levelling-based vertical datum based on mean\
-        \ sea level determined at five tidal gauges in Yarmouth and Halifax on the\
-        \ Atlantic Ocean, Pointe-au-P\xE8re on the St-Lawrence River, and Vancouver\
-        \ and Prince-Rupert on the Pacific Ocean. The definition also includes an\
-        \ elevation at a bench mark in Rouses Point, NY (next to Lake Champlain),\
-        \ accepted as fixed by the United States and Canada in 1925. The datum was\
-        \ propagated inland from the tide gauges using geodetic levelling measurements.\
-        \ The vertical datum is accessible through some 94,000 bench marks anchored\
-        \ to the ground and stable structures. Heights in  CGVD28 are normal-orthometric\
-        \ based on normal gravity."
-      releaseDate: '1928'
-      remarks: Adopted by Federal Order in Council in 1935. Replaced by CGVD2013 November
-        2013. Normal orthometric heights.
-      scope: Spatial referencing
-      status: valid
-      uuid: 8e1e28ec-15e6-4dee-a001-fe0067b8d283
-    item_class: datums--vertical
-    item_uuid: 8e1e28ec-15e6-4dee-a001-fe0067b8d283
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -82,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

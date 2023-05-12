@@ -4,89 +4,6 @@ id: 1adafa32-5ca3-4c75-b88f-9aeb6c74629b
 isConcluded: true
 items:
   /datums--geodetic/ae0a3486-2c4d-4c8a-a75c-3706663c0ce6.yaml:
-    item_body:
-      aliases:
-      - IERS Terrestrial Reference Frame 2014
-      - ITRF2014
-      coordinateReferenceEpoch: '2010.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 175
-      informationSources:
-      - author: Z. Altamimi, P. Rebischung, L. Metivier, X. Collilieux
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: American Geophysical Union
-        seriesIssueID: Volume 121, Issue 8
-        seriesName: Journal of Geophysical Research Solid Earth
-        seriesPage: null
-        title: 'ITRF2014: A new release of the International Terrestrial Reference
-          Frame modeling nonlinear station motions'
-        uuid: 1535d4a7-126f-4f3d-b7c9-68f73e1edb4f
-      - author: Z. Altamimi, P. Rebischung, L. Metivier, X. Collilieux
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Earth Rotation and Reference Systems Service Central
-          Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am
-          Main, Germany
-        seriesIssueID: '38.0'
-        seriesName: IERS Technical Notes
-        seriesPage: null
-        title: Analysis and results of ITRF2014
-        uuid: dbc33c42-ff5a-431f-b1b8-3bc5175d671f
-      - author: IERS
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        seriesIssueID: '289.0'
-        seriesName: IERS Message
-        seriesPage: null
-        title: ITRF2014 is available on line
-        uuid: 8d28b5c3-2572-4735-b4cb-2d7871e75e96
-      name: International Terrestrial Reference Frame 2014
-      originDescription: 'Realisation of the IERS Terrestrial Reference System (ITRS)
-        at reference epoch 2010.0.
-
-        Origin is defined such that there are zero translation parameters at epoch
-        2010.0 and zero translation rates between the ITRF2014 and the ILRS SLR long-term
-        solution obtained by tacking the ILRS time series.
-
-        Scale is defined such that there are zero scale and scale rate between ITRF2014
-        and the average of VLBI and SLR scales/rates.
-
-        Orientation is defined such that there are zero rotation parameters at epoch
-        2010.0 and zero rotation rates between the ITRF2014 and ITRF2008.
-
-        Datum defined by a set of 3 dimensional Cartesian station coordinates, velocities,
-        annual and semi-annual terms, and post-seismic deformation models given by
-        the citations.'
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '2016-01-22'
-      remarks: 'Replaces ITRF2008.
-
-        This is a purely Cartesian reference frame with no ellipsoid defined.
-
-        GRS80 is the ellipsoid recommended by the IAG and IERS.'
-      scope: Spatial referencing
-      status: valid
-      uuid: ae0a3486-2c4d-4c8a-a75c-3706663c0ce6
-    item_class: datums--geodetic
-    item_uuid: ae0a3486-2c4d-4c8a-a75c-3706663c0ce6
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -100,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

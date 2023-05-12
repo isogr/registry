@@ -4,69 +4,6 @@ id: 6b196832-f0df-4bc0-a68e-df2330e8eba0
 isConcluded: true
 items:
   /coordinate-ops--transformation/559b9972-e7d9-409f-b5d8-46d94dfdaf24.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.06
-      coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 148.44
-        n: -40.24
-        name: Australia - onshore and nearoffshore - Tasmania.
-        s: -43.7
-        w: 144.55
-      identifier: 462
-      informationSources:
-      - author: W. E. Featherstone, J. F. Kirby, C. Hirt, M. S. Filmer, S. J. Claessens,
-          N. J. Brown, G. Hu, G. M. Johnston
-        edition: null
-        editionDate: 2010-11-19
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Springer
-        seriesIssueID: '85.0'
-        seriesName: Journal of Geodesy
-        seriesPage: '133.0'
-        title: The AUSGeoid09 model of the Australian Height Datum
-        uuid: a4fb33f9-f78b-4ffb-a3b1-056c2f41cdf2
-      name: GDA94 to AHD [GA-Tas v1]
-      operationVersion: GA-Tas v1
-      parameters:
-      - fileCitation:
-          author: W. E. Featherstone, J. F. Kirby, C. Hirt, M. S. Filmer, S. J. Claessens,
-            N. J. Brown, G. Hu, G. M. Johnston
-          edition: null
-          editionDate: 2010-11-19
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: Springer
-          seriesIssueID: '85.0'
-          seriesName: Journal of Geodesy
-          seriesPage: '133.0'
-          title: The AUSGeoid09 model of the Australian Height Datum
-          uuid: 11c8880d-f175-432b-8a23-4b42f2c65bcf
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: AUSGeoid09_GDA94_V1.01_DOV_windows.gsb
-      remarks: Implemented 2009. Replaces AUSGeoid98 model. Uses AUSGeoid09 model
-        which uses bi-cubic interpolation; bi-linear interpolation of the grid file
-        will give results agreeing to within 1cm 99.97% of the time.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 25cbff2e-d781-4614-88dc-cdf593e49ec6
-      status: valid
-      targetCRS: null
-      uuid: 559b9972-e7d9-409f-b5d8-46d94dfdaf24
-    item_class: coordinate-ops--transformation
-    item_uuid: 559b9972-e7d9-409f-b5d8-46d94dfdaf24
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -80,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

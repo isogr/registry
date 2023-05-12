@@ -4,105 +4,6 @@ id: cd66ebff-4bee-40b9-be05-569b42212ec3
 isConcluded: true
 items:
   /datums--geodetic/61f3c07c-3367-4297-b59a-c07e34036cfe.yaml:
-    item_body:
-      aliases:
-      - CSRS
-      - NAD83(CSRS)
-      - Canadian Spatial Reference System 1998
-      - NAD83v2
-      - North American Datum 1983 v2
-      - Canadian Spatial Reference System
-      - NAD83(CSRS98)
-      - CSRS98
-      - NAD83
-      - NAD83CSRS
-      - NAD83(CSRS)v2
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: North American Datum of 1983 (CSRS) version 2
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: -47.74
-        n: 90.0
-        name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba,
-          New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
-          Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
-        s: 40.04
-        w: -141.01
-      identifier: 201
-      informationSources:
-      - author: M. Craymer, R. Ferland, R. Snay
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Rummel R., Drewes H., Bosch W., Hornik H. (eds) Towards an
-          Integrated Global Geodetic Observing System (IGGOS). International Association
-          of Geodesy Symposia, Vol 120. Springer, Berlin, Heidelberg
-        publisher: Springer, Berlin - Heidelberg
-        seriesIssueID: Volume 120
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: "118\u2013121"
-        title: Realisation and Unification of NAD83 in Canada and the US via the ITRF
-        uuid: bd08a953-bd08-41d4-9209-0fcfb6fcc3cf
-      - author: M. Craymer
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Institute of Geomatics
-        seriesIssueID: Volume 60, No. 4
-        seriesName: Geomatica
-        seriesPage: '433.0'
-        title: 'The Evolution of NAD83 in Canada: Addendum'
-        uuid: 65d13e8c-a534-42a2-a229-7c5deb1497eb
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: The Canadian Spatial Reference System (CSRS)
-        uuid: e43ab2fc-dd11-4e0c-8917-16c39dd8d120
-      - author: M. Craymer
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Institute of Geomatics
-        seriesIssueID: Volume 60, No. 2
-        seriesName: Geomatica
-        seriesPage: 151-164
-        title: The Evolution of NAD83 in Canada
-        uuid: 6b7bdc3a-550a-41ff-a01c-71e4adb3b169
-      name: North American Datum of 1983 (CSRS) version 2
-      originDescription: Realization of the North American Datum of 1983 for the second
-        version of the Canadian Spatial Reference System, referred to as CSRS98 or
-        CSRS. The frame is defined by a seven parameter transformation of ITRF96 3D
-        geocentric Cartesian coordinates and velocities for Canadian and bordering
-        U.S. and Greenland stations at reference epoch 1997.0. The frame is kept aligned
-        to North America at other epochs using the NNR-NUVEL-1A estimate of three
-        Cartesian rotation rates of change representing the tectonic plate motion
-        of North America. The origin, scale and orientation of the frame are nominally
-        defined to be that for the BIH Terrestrial System 1984 (BTS84).
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '1998-01-01'
-      remarks: Adopted by the Canadian federal government for use in Canada, and by
-        provincial governments in Alberta, British Columbia, Manitoba, New Brunswick,
-        Prince Edward Island, Quebec and Saskatchewan. Replaces NAD83(CSRS96) v1.
-        Replaced by NAD83(CSRS) v3.
-      scope: Spatial referencing
-      status: valid
-      uuid: 61f3c07c-3367-4297-b59a-c07e34036cfe
-    item_class: datums--geodetic
-    item_uuid: 61f3c07c-3367-4297-b59a-c07e34036cfe
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -116,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

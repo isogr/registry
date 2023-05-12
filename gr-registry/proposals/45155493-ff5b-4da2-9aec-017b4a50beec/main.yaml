@@ -4,68 +4,6 @@ id: 45155493-ff5b-4da2-9aec-017b4a50beec
 isConcluded: true
 items:
   /datums--geodetic/86c27061-f4fb-487e-9245-43a0f992a1e0.yaml:
-    item_body:
-      aliases:
-      - IERS Terrestrial Reference Frame 1997
-      - ITRF97
-      coordinateReferenceEpoch: '1997.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 145
-      informationSources:
-      - author: G. Petit, B.J. Luzum (eds)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: 'ISSN: 1019-4568'
-        publisher: Verlag des Bundesamts fur Kartographie und Geodasie
-        seriesIssueID: '36.0'
-        seriesName: IERS Technical Notes
-        seriesPage: null
-        title: IERS Conventions (2010)
-        uuid: 0f78b506-7b23-4638-a929-18050942a42c
-      - author: C. Boucher, Z. Altamimi, P. Sillard
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
-          75014 Paris, France
-        seriesIssueID: '27.0'
-        seriesName: IERS Technical Notes
-        seriesPage: null
-        title: The International Terrestrial Reference Frame (ITRF97)
-        uuid: 01e4ecf0-1cf2-44de-98fb-52d081338f95
-      name: International Terrestrial Reference Frame 1997
-      originDescription: 'Realisation of the IERS Terrestrial Reference System (ITRS)
-        at reference epoch 1997.0.
-
-        The origin, scale, orientation and its time evolution is achieved such that
-        ITRF97 is in the same system as the ITRF96.
-
-        Datum defined by a set of 3 dimensional Cartesian station coordinates and
-        velocities given by the citations.'
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '1999-05-01'
-      remarks: 'Replaces ITRF96. Replaced by ITRF2000.
-
-        This is a purely Cartesian reference frame with no ellipsoid defined.
-
-        GRS80 is the ellipsoid recommended by the IAG and IERS.'
-      scope: Spatial referencing
-      status: valid
-      uuid: 86c27061-f4fb-487e-9245-43a0f992a1e0
-    item_class: datums--geodetic
-    item_uuid: 86c27061-f4fb-487e-9245-43a0f992a1e0
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -79,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

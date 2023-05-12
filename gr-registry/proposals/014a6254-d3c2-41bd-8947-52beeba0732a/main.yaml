@@ -4,46 +4,6 @@ id: 014a6254-d3c2-41bd-8947-52beeba0732a
 isConcluded: true
 items:
   /datums--geodetic/d897f2bb-a10b-4964-8b22-19d373944c29.yaml:
-    item_body:
-      aliases:
-      - NZGD2000
-      coordinateReferenceEpoch: '2000.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: -170.0
-        n: -25.0
-        name: New Zealand - onshore and offshore - Antipodes Islands, Auckland Islands,
-          Bounty Islands, Campbell Island Chatham Islands, Kermadec Islands, North
-          Island, Raoul Island, Snares Islands, South Island, Stewart Island.
-        s: -60.0
-        w: 160.0
-      identifier: 199
-      informationSources:
-      - author: Office of the Surveyor General
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Land Information New Zealand
-        seriesIssueID: LINZS25000
-        seriesName: null
-        seriesPage: null
-        title: Standard for New Zealand Geodetic Datum 2000
-        uuid: b27f88a3-2ac9-419c-98a7-4cf97593966e
-      name: New Zealand Geodetic Datum 2000
-      originDescription: Based on ITRF96 at epoch 2000.0.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '2000'
-      remarks: Replaces New Zealand Geodetic Datum 1949 and Chatham Islands Datum
-        1979 from March 2000.
-      scope: Spatial referencing
-      status: valid
-      uuid: d897f2bb-a10b-4964-8b22-19d373944c29
-    item_class: datums--geodetic
-    item_uuid: d897f2bb-a10b-4964-8b22-19d373944c29
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -57,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

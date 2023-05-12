@@ -4,94 +4,6 @@ id: a89cc09a-fa66-477f-b383-93d2125f0da1
 isConcluded: true
 items:
   /coordinate-ops--transformation/90419197-4170-40f2-a9ef-07e903114bf5.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.1
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -123.0
-        n: 49.0
-        name: Canada - onshore and offshore - British Columbia - Capital Regional
-          District.
-        s: 48.25
-        w: -128.45
-      identifier: 643
-      informationSources:
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Desktop Applications: NTv2'
-        uuid: a6969d14-959f-400e-b8c3-81f3122ce62c
-      - author: Esri Canada
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Esri, Redlands, CA
-        seriesIssueID: 'Article ID: 000011846'
-        seriesName: null
-        seriesPage: null
-        title: 'FAQ: What are some of the transformation methods for Canada?'
-        uuid: ba725e84-7575-4542-a424-0ee2c2364b82
-      - author: GeoBC
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: GeoBC, Government of British Columbia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
-        uuid: 80d92039-5cd1-4173-bcf2-b5f5f61b1b79
-      name: NAD83(CSRS) v2 to NAD83(CSRS) v3 [BCv1]
-      operationVersion: BCv1
-      parameters:
-      - fileCitation:
-          author: GeoBC
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: GeoBC, Government of British Columbia
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
-          uuid: e7181838-f695-47be-841a-d97676c4e56e
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: CRD98_00.GSB
-      remarks: Grid tranformation in NTv2 format adopted for use in the Captial Regional
-        District, British Columbia, Canada.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 4098686c-3538-4441-b085-af045ec68ea4
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 9ac5ba39-0f9c-4602-857e-122a38a17c72
-      uuid: 90419197-4170-40f2-a9ef-07e903114bf5
-    item_class: coordinate-ops--transformation
-    item_uuid: 90419197-4170-40f2-a9ef-07e903114bf5
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -105,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

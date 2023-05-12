@@ -4,38 +4,6 @@ id: 9f2a62e3-615f-4b83-9921-be9913ea4c22
 isConcluded: true
 items:
   /coordinate-op-method/685474b9-98af-48bf-80d1-8beef082f1cf.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: 2018-11-17
-      definition: null
-      description: null
-      formula: null
-      formulaCitation:
-        author: National Geodetic Survey
-        edition: null
-        editionDate: 2003-09-29
-        isbn: null
-        issn: null
-        otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON
-          for transformations between NGVD 29 and NAVD 88
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: VERTCON User Manual
-        uuid: 77a86c98-60e3-4b49-93b0-a5c1216974ca
-      identifier: 93
-      informationSources: []
-      name: Geographic3D to Gravity Related Height (US)
-      parameters:
-      - 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-      remarks: Transformation of the vertical component of a Geographic 3D CRS to
-        a Vertical CRS.
-      status: valid
-      uuid: 685474b9-98af-48bf-80d1-8beef082f1cf
-    item_class: coordinate-op-method
-    item_uuid: 685474b9-98af-48bf-80d1-8beef082f1cf
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -49,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

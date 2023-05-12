@@ -4,71 +4,6 @@ id: b2f97b85-7a61-4758-9c17-c270d359f91b
 isConcluded: true
 items:
   /coordinate-ops--transformation/8dea0aa9-65cf-4218-b5ce-54f8089156aa.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.05
-      coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -77.99
-        n: 41.01
-        name: "United States (USA) - onshore - CONUS south of 41\xB0N and between\
-          \ 95\xB0W and 78\xB0W (Alabama, Arkansas, Florida, Georgia, Illinois, Indiana,\
-          \ Iowa, Kansas, Kentucky, Louisiana, Maryland, Mississippi, Missouri, North\
-          \ Carolina, Ohio, Oklahoma, Pennsylvania, South Carolina, Tennessee, Texas,\
-          \ Virginia, West Virginia)."
-        s: 24.41
-        w: -95.0
-      identifier: 471
-      informationSources:
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: National Geodetic Survey Geoid Homepage
-        uuid: 3af92853-43a9-4b52-b802-8bfe138c6ff7
-      name: NAD 83 (HARN) to NAVD88 - OHt [v7]
-      operationVersion: v7
-      parameters:
-      - fileCitation:
-          author: National Geodetic Survey
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-          publisher: National Oceanic and Atmospheric Administration (NOAA), National
-            Geodetic Survey (NGS)
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: National Geodetic Survey Geoid Homepage
-          uuid: 5dc8cbc1-506b-49d2-9d25-81b603d25756
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: g1999u07.bin
-      remarks: Grid transformation
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: fe0ef0a0-b436-4793-b978-514f9fdd045f
-      status: valid
-      targetCRS: null
-      uuid: 8dea0aa9-65cf-4218-b5ce-54f8089156aa
-    item_class: coordinate-ops--transformation
-    item_uuid: 8dea0aa9-65cf-4218-b5ce-54f8089156aa
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -82,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

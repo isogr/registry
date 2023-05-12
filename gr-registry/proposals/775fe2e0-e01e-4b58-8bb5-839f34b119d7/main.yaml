@@ -4,56 +4,6 @@ id: 775fe2e0-e01e-4b58-8bb5-839f34b119d7
 isConcluded: true
 items:
   /datums--vertical/85e1378b-6bf7-4ca1-ada2-1a73ab75b031.yaml:
-    item_body:
-      aliases:
-      - IGLD (1985)
-      - IGLD 85
-      - IGLD 1985
-      - IGLD(1985)
-      - IGLD1985
-      - IGLD85
-      coordinateReferenceEpoch: '1985.0'
-      dateAccepted: 2021-04-29
-      definition: null
-      extent:
-        e: -54.75
-        n: 52.22
-        name: North America - Great Lakes - St. Lawrence River system
-        s: 40.99
-        w: -93.17
-      identifier: 769
-      informationSources:
-      - author: Coordinating Committee on Great Lakes Basic Hydraulic and Hydrologic
-          Data
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: 'Website: http://www.greatlakescc.org/wp36/wp-content/uploads/2017/07/EstablishmentOfInternationalGreatLakesDatum-1985.pdf
-          (accesed 2021-01-30).'
-        publisher: Coordinating Committee on Great Lakes Basic Hydraulic and Hydrologic
-          Data
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Establishment of  International Great Lakes Datum (1985)
-        uuid: b2bb2e01-e807-4279-8d3c-945c048325e5
-      name: International Great Lakes Datum (1985)
-      originDescription: Reference zero defined by the mean water level at tide gauges
-        at Pointe-au-Pere (1970-1983) and Rimouski (1984-1988) with an elevation of
-        6.273 m at bench mark 1250-G. The datum is realized by that part of the NAVD88
-        first-order levelling network from Pointe-au-Pere to the head of the Great
-        Lakes - St. Lawrence River system.
-      releaseDate: '1992'
-      remarks: Dynamic heights. Equivalent to NAVD88 dynamic heights except that Hydraulic
-        Correctors are applied to the heights of a lake's water levels, excluding
-        rivers and interconnection channels, for the management and regulation of
-        water levels and flows throughout the Great Lakes. Replaces IGLD (1955).
-      scope: Spatial referencing, navigation and hydraulic & hydrologic applications.
-      status: valid
-      uuid: 85e1378b-6bf7-4ca1-ada2-1a73ab75b031
-    item_class: datums--vertical
-    item_uuid: 85e1378b-6bf7-4ca1-ada2-1a73ab75b031
     type: addition
 justification: Submitted by M. Craymer, Canadian Geodetic Survey on behalf of the
   Coordinating Committee on Great Lakes Bssic Hydraulic and Hydrologic Data.
@@ -68,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-04-29
 timeProposed: 2021-04-29

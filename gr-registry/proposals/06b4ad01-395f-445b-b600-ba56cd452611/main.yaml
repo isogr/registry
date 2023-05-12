@@ -4,25 +4,6 @@ id: 06b4ad01-395f-445b-b600-ba56cd452611
 isConcluded: true
 items:
   /coordinate-op-method/7fc94376-8243-4229-8d36-90d55a51299c.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: null
-      definition: null
-      description: null
-      formula: "EVRF2019mean = EVRF2019 + 0.29541\u2219sin^2(lat) + 0.00042\u2219\
-        sin^4(lat) - 0.0994 - 0.08593 [m]"
-      formulaCitation: null
-      identifier: -1491166326
-      informationSources: []
-      name: EVRF2019 zero tide height to mean tide height
-      parameters: []
-      remarks: A constant offset of -0.08593 m was added to the fundamental conversion
-        of geopotential numbers from zero tide to mean tide in order to maintain zero
-        height at the EVRF2000 origin in Amsterdam.
-      status: not_valid
-      uuid: 7fc94376-8243-4229-8d36-90d55a51299c
-    item_class: coordinate-op-method
-    item_uuid: 7fc94376-8243-4229-8d36-90d55a51299c
     type: addition
 justification: New method for ETRF2019. Submitted by Martina Sacher, BKG on behalf
   of EUREF.
@@ -37,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: withdrawn
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeProposed: 2021-04-20
 title: EVRF2019 zero tide height to mean tide height

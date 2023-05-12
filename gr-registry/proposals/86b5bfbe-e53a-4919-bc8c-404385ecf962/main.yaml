@@ -4,46 +4,6 @@ id: 86b5bfbe-e53a-4919-bc8c-404385ecf962
 isConcluded: true
 items:
   /crs--geodetic/82cbab29-43bb-4598-a0b3-a93ccf482a18.yaml:
-    item_body:
-      aliases:
-      - NZGD49
-      - GD49
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: 0b623c9c-e08b-418c-ab70-af7743959805
-      description: null
-      extent:
-        e: 179.27
-        n: -33.89
-        name: New Zealand - onshore and nearshore - North Island, South Island, Stewart
-          Island.
-        s: -47.65
-        w: 165.87
-      identifier: 443
-      informationSources:
-      - author: L.P. Lee
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Department of Lands and Survey, New Zealand
-        seriesIssueID: '1.0'
-        seriesName: Technical Series
-        seriesPage: null
-        title: First-order Geodetic Triangulation of New Zealand 1909-49 and 1973-74
-        uuid: b6b4e43d-92c7-4a0c-b26f-de7e14024dba
-      name: NZGD1949 - LatLon
-      operation: null
-      remarks: null
-      scope: Spatial referencing.
-      status: valid
-      uuid: 82cbab29-43bb-4598-a0b3-a93ccf482a18
-    item_class: crs--geodetic
-    item_uuid: 82cbab29-43bb-4598-a0b3-a93ccf482a18
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -57,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

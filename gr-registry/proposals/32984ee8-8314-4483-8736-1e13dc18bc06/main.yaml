@@ -4,37 +4,6 @@ id: 32984ee8-8314-4483-8736-1e13dc18bc06
 isConcluded: true
 items:
   /unit-of-measurement/76550c5a-b72a-4e88-8c3e-33c2668e99f7.yaml:
-    item_body:
-      aliases:
-      - metre per second
-      - m/s
-      - meters per second
-      dateAccepted: 2018-11-17
-      denominator: null
-      identifier: 17
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 80000-3:2006
-        seriesName: International Standard
-        seriesPage: null
-        title: "ISO 80000-3 Quantities and units \u2014 Part 3: Space and time"
-        uuid: 028c8057-9915-42d4-80a2-8385577b5d12
-      measureType: LENGTH
-      name: metre per second
-      numerator: null
-      remarks: SI derived unit for length rate.
-      standardUnit: 76550c5a-b72a-4e88-8c3e-33c2668e99f7
-      status: valid
-      symbol: m/s
-      uuid: 76550c5a-b72a-4e88-8c3e-33c2668e99f7
-    item_class: unit-of-measurement
-    item_uuid: 76550c5a-b72a-4e88-8c3e-33c2668e99f7
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -48,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

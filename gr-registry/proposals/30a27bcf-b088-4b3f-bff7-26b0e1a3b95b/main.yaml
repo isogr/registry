@@ -4,86 +4,6 @@ id: 30a27bcf-b088-4b3f-bff7-26b0e1a3b95b
 isConcluded: true
 items:
   /coordinate-ops--transformation/853fe4ff-6534-494e-bba0-558a53d66b22.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 1.0
-      coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 157.5
-        n: -8.0
-        name: Australia - onshore and offshore.
-        s: -45.0
-        w: 111.0
-      identifier: 695
-      informationSources:
-      - author: Permanent Committee on Geodesy of the Intergovernmental Committee
-          on Surveying and Mapping
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Intergovernmental Committee on Surveying and Mapping
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Geocentric Datum of Australia Technical Manual Version 2.4
-        uuid: 192f95db-2ba0-4f51-8527-b74bc935563f
-      name: AGD84 to GDA94 [GA v1]
-      operationVersion: GA v2
-      parameters:
-      - fileCitation: null
-        parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-        value: null
-      - fileCitation: null
-        parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-        value: null
-      - fileCitation: null
-        parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-        value: null
-      - fileCitation: null
-        parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
-        value: null
-      remarks: Defined at epoch 1994.0.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: c53dde6b-a891-40be-a93a-4bd07fc55e4d
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 25cbff2e-d781-4614-88dc-cdf593e49ec6
-      uuid: 853fe4ff-6534-494e-bba0-558a53d66b22
-    item_class: coordinate-ops--transformation
-    item_uuid: 853fe4ff-6534-494e-bba0-558a53d66b22
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -97,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

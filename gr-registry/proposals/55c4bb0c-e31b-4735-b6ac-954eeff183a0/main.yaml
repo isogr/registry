@@ -4,99 +4,6 @@ id: 55c4bb0c-e31b-4735-b6ac-954eeff183a0
 isConcluded: true
 items:
   /datums--geodetic/cababac6-6467-425f-9520-1ac7ccd8f703.yaml:
-    item_body:
-      aliases:
-      - NAD83(PA11)
-      coordinateReferenceEpoch: '2010.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: -151.27
-        n: 31.8
-        name: American Samoa - onshore and offshore. Marshall Islands - onshore and
-          offshore. United States (USA) - onshore and offshore - Hawaii. United States
-          Minor Outlying Islands - onshore and offshore.
-        s: -17.56
-        w: 157.47
-      identifier: 188
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: 3d6244ed-576c-46f9-8c60-b6e2f6f168b5
-      - author: US Government
-        edition: null
-        editionDate: 2013-08-08
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: "Volume 78, No. 153, Document: 2013\u201319167, Citation: 78\
-          \ FR 48421"
-        seriesName: Federal Register Notice
-        seriesPage: 48421-48422
-        title: Publication of North American Datum of 1983 (2011) Epoch 2010.00, North
-          American Datum of 1983 (PA2011) Epoch 2010.00 and North American Datum of
-          1983 (MA2011) Epoch 2010.00
-        uuid: b65891ae-d28d-4512-8804-8210fa90f306
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: webpage
-        publisher: National Oceanic and Atmospheric Administration (NOAA) National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: NGS Online listing of transformation parameters
-        seriesPage: null
-        title: CORS Coordinates
-        uuid: e55a259e-a32c-4bb2-b158-7f0aa5e7d2ce
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: 714aa06a-239b-4c8f-92c6-91219d73742f
-      name: North American Datum of 1983 (PA11) Epoch 2010
-      originDescription: Realization of NAD83. The frame is defined by a seven parameter
-        transformation of ITRF2008 3D geocentric Cartesian coordinates and velocities
-        for Hawaii, American Samoa and other Pacific islands at reference epoch 2010.0.
-        The frame is kept aligned to the Pacific tectonic plate using an Euler pole
-        rotation. The origin, scale and orientation of the frame are nominally defined
-        to be that for the BIH Terrestrial System 1984 (BTS84).  This also is a realization
-        of passive control constrained to the values at the CORS. NAD83(20110 serves
-        as a connection between passive network transformed by grids and active frames
-        defined by time-dependent transformations.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '2013'
-      remarks: Replaces NAD83(PACP00) for control determined in an active reference
-        frame for Hawaii, American Samoa and outlying U.S. islands. For passive control,
-        NAD83 (PA11) replaces NAD83 (FBN) for American Samoa and NAD83 (HARN) for
-        Hawaii.
-      scope: Spatial referencing
-      status: valid
-      uuid: cababac6-6467-425f-9520-1ac7ccd8f703
-    item_class: datums--geodetic
-    item_uuid: cababac6-6467-425f-9520-1ac7ccd8f703
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -110,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

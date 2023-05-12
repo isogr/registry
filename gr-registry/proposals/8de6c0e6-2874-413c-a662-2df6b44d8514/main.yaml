@@ -4,60 +4,6 @@ id: 8de6c0e6-2874-413c-a662-2df6b44d8514
 isConcluded: true
 items:
   /coordinate-op-parameter/09dd0359-80ee-4373-9001-1c0fa1033cb7.yaml:
-    item_body:
-      aliases:
-      - Latitude and longitude shift file
-      dateAccepted: 2018-11-17
-      definition: null
-      identifier: 63
-      informationSources:
-      - author: D.R. Junkings, S.A. Farley
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geodetic Survey Division, Geomatics Canada, Natural Resources Canada,
-          Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'NTv2 National Transformation Version 2: User''s Guide'
-        uuid: 8318931c-927d-4d7d-b6a6-98207af91354
-      - author: D.R. Junkings, S.A. Farley
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geodetic Survey Division, Geomatics Canada, Natural Resources Canada,
-          Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'NTv2 National Transformation Version 2: Developer''s Guide'
-        uuid: 16fe1684-10dd-46db-b642-74014336c698
-      - author: D. Junkings
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Institute of Surveying and Mapping, Ottawa, Canada
-        seriesIssueID: null
-        seriesName: 'Moving to NAD ''83: the new address for georeferenced data in
-          Canada, D.C. Barnes (ed.)'
-        seriesPage: 16-40
-        title: The National Transformation for Converting Between NAD27 and NAD83
-          in Canada
-        uuid: 5ed49f7c-d1f7-42e7-ae6e-86201d28287a
-      minimumOccurs: 1
-      name: Latitude and Longitude difference file
-      remarks: The name of the grid file containing latitude and longitude differences.
-      status: valid
-      uuid: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-    item_class: coordinate-op-parameter
-    item_uuid: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -71,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

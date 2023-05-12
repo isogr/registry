@@ -4,89 +4,6 @@ id: 9d39f542-41cb-4ed0-bc04-291d87d3b3bc
 isConcluded: true
 items:
   /crs--geodetic/bb1cfe22-072b-460e-aa7b-f68a06733560.yaml:
-    item_body:
-      aliases:
-      - North American Datum of 1983 (MA11)
-      - NAD83(MA11)
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: 2a7b9fa9-a13b-46cc-887f-7a60788e983f
-      description: null
-      extent:
-        e: 149.55
-        n: 23.9
-        name: Guam - onshore and offshore. Northern Mariana Islands - onshore and
-          offshore. Palau - onshore and offshore.
-        s: 1.64
-        w: 129.48
-      identifier: 393
-      informationSources:
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: webpage
-        publisher: National Oceanic and Atmospheric Administration (NOAA) National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: NGS Online listing of transformation parameters
-        seriesPage: null
-        title: CORS Coordinates
-        uuid: e7e2c827-44fc-4f2c-b576-e234e05997f5
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: 51571a3b-7adc-48e9-9990-8c0e4f1608c1
-      - author: US Government
-        edition: null
-        editionDate: 2013-08-08
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: "Volume 78, No. 153, Document: 2013\u201319167, Citation: 78\
-          \ FR 48421"
-        seriesName: Federal Register Notice
-        seriesPage: 48421-48422
-        title: Publication of North American Datum of 1983 (2011) Epoch 2010.00, North
-          American Datum of 1983 (PA2011) Epoch 2010.00 and North American Datum of
-          1983 (MA2011) Epoch 2010.00
-        uuid: 43bd704e-174f-45ca-a4dc-f03f0aa7b4b7
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: 15f2ea5d-b75c-4641-9c2c-229c0d5cf217
-      name: NAD 83 (MA11) Epoch 2010 - LatLon
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: bb1cfe22-072b-460e-aa7b-f68a06733560
-    item_class: crs--geodetic
-    item_uuid: bb1cfe22-072b-460e-aa7b-f68a06733560
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -100,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

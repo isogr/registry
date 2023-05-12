@@ -4,97 +4,6 @@ id: a809da39-54b0-467d-b48c-be434af8f7a2
 isConcluded: true
 items:
   /crs--geodetic/774af44b-2e4f-4f3e-b47d-6bc49551cd16.yaml:
-    item_body:
-      aliases:
-      - SIR15P01
-      - SIRGAS
-      - SIRGAS-CON
-      - Sistema de Referencia Geocentrico para las Americas
-      - Geocentric Reference System for the Americas
-      - SIRGAS Multi-Year Solution 2015
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: efa523f0-b7a4-45ad-8e94-7c946b881472
-      description: null
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 235
-      informationSources:
-      - author: L. Sanchez, H. Drewes
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal\
-          \ deformation and surface kinematics after the 2010 earthquakes in Latin\
-          \ America. Journal of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
-        publisher: PANGAEA
-        seriesIssueID: 10.1594/PANGAEA.862536
-        seriesName: PANGAEA
-        seriesPage: null
-        title: 'SIR15P01: Multiyear solution for the SIRGAS Reference Frame, link
-          to ZIP archive'
-        uuid: 18f25d9b-2446-4646-82fc-93fbc0a5fe8c
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: e81b694e-c1ee-47bb-b852-9ed990ff80de
-      - author: L. Sanchez, H. Drewes
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: 'Data for paper included in two supplements: Sanchez L., Drewes
-          H (2016): SIR15P01: Multiyear solution for the SIRGAS Reference Frame, link
-          to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.862536; Sanchez L., Drewes
-          H (2016): VEMOS2015: Velocity and deformation model for Latin America and
-          the Caribbean, link to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.863131.'
-        publisher: Elsevier
-        seriesIssueID: '102.0'
-        seriesName: Journal of Geodynamics
-        seriesPage: '2023-01-01'
-        title: Crustal deformation and surface kinematics after the 2010 earthquakes
-          in Latin America
-        uuid: 2e343b7c-b08f-4ea8-a761-f92bbbd283f1
-      - author: L. Sanchez, H. Drewes
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal\
-          \ deformation and surface kinematics after the 2010 earthquakes in Latin\
-          \ America. Journal of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
-        publisher: PANGAEA
-        seriesIssueID: 10.1594/PANGAEA.863131
-        seriesName: PANGAEA
-        seriesPage: null
-        title: 'VEMOS2015: Velocity and deformation model for Latin America and the
-          Caribbean, link to ZIP archive'
-        uuid: 507d02e3-4305-4d17-b4de-4374ace851dd
-      name: SIRGAS-CON SIR15P01 - LatLonEHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 774af44b-2e4f-4f3e-b47d-6bc49551cd16
-    item_class: crs--geodetic
-    item_uuid: 774af44b-2e4f-4f3e-b47d-6bc49551cd16
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -108,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,47 +4,6 @@ id: 88cec5ac-fabd-4c77-9935-fa85791fa0bc
 isConcluded: true
 items:
   /coordinate-op-parameter/b5c0a15f-605e-435c-b762-a3c8139fe171.yaml:
-    item_body:
-      aliases:
-      - Grid shift in longitude
-      dateAccepted: 2018-11-17
-      definition: null
-      identifier: 67
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: c0bc62c1-debb-4234-8bb4-4e3c691b08c5
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: 076021fb-cb5c-4a31-b847-24f3310a9d2c
-      minimumOccurs: 1
-      name: Longitude difference file
-      remarks: The name of the file containing longitude differences.
-      status: valid
-      uuid: b5c0a15f-605e-435c-b762-a3c8139fe171
-    item_class: coordinate-op-parameter
-    item_uuid: b5c0a15f-605e-435c-b762-a3c8139fe171
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -58,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

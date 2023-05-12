@@ -4,59 +4,6 @@ id: 91dd6a9a-5082-4cbd-b703-356f2e1338b2
 isConcluded: true
 items:
   /crs--geodetic/a006a2fd-6895-41a4-9df3-cc40022cf181.yaml:
-    item_body:
-      aliases:
-      - International Terrestrial Reference Frame 1992
-      - IERS Terrestrial Reference Frame 1992
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2018-11-17
-      datum: a37758c2-443e-4bf5-9ced-ad108d432ba8
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 261
-      informationSources:
-      - author: C. Boucher, Z. Altamimi, L. Duhem
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
-          75014 Paris, France
-        seriesIssueID: '15.0'
-        seriesName: IERS Technical Notes
-        seriesPage: null
-        title: ITRF 92 and its associated velocity field
-        uuid: f3279dae-892e-477a-ba54-0a5f78d09789
-      - author: D.F. Argus, R.G. Gordon
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: American Geophysical Union
-        seriesIssueID: Volume 18, Issue 11
-        seriesName: Geophysical Research Letters
-        seriesPage: null
-        title: No-net-rotation model of current plate velocities incorporating plate
-          motion model NUVEL-1
-        uuid: ab9f06dc-dda9-421d-8eff-5e1fe3278452
-      name: ITRF92 - XYZ
-      operation: null
-      remarks: Replaces ITRF91 - XYZ. Replaced by ITRF93 - XYZ.
-      scope: Spatial referencing
-      status: valid
-      uuid: a006a2fd-6895-41a4-9df3-cc40022cf181
-    item_class: crs--geodetic
-    item_uuid: a006a2fd-6895-41a4-9df3-cc40022cf181
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -70,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

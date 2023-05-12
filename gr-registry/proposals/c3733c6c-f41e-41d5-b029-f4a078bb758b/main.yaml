@@ -4,59 +4,6 @@ id: c3733c6c-f41e-41d5-b029-f4a078bb758b
 isConcluded: true
 items:
   /datums--vertical/b12de0e7-82fe-4e5a-a025-1c6fc1cebb34.yaml:
-    item_body:
-      aliases:
-      - WGS84
-      - EGM2008
-      - WGS 84
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 187
-      informationSources:
-      - author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
-        edition: null
-        editionDate: 2013-05-09
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: American Geophysical Union
-        seriesIssueID: Volume  118, Issue 5
-        seriesName: 'Journal of Geophysical Research: Solid Earth'
-        seriesPage: '2633.0'
-        title: "Correction to \u201CThe Development and Evaluation of the Earth Gravitational\
-          \ Model 2008 (EGM2008)\u201D"
-        uuid: 1c9bbc51-916b-4e97-b27e-e9a6b20f4fb4
-      - author: 'N.K. Pavlis, S. A. Holmes, S. C. Kenyon, J. K. Factor '
-        edition: null
-        editionDate: 2012-04-19
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: American Geophysical Union
-        seriesIssueID: Volume  117, Issue B4
-        seriesName: 'Journal of Geophysical Research: Solid Earth'
-        seriesPage: null
-        title: The development and evaluation of the Earth Gravitational Model 2008
-          (EGM2008)
-        uuid: 50ab5438-2ccf-42f9-8ff5-e2272e5aef90
-      name: WGS 84 EGM2008 Geoid
-      originDescription: Zero-height vertical reference surface defined by EGM2008
-        equipotential undulation model consisting of spherical harmonic coefficients
-        to degree 2190 and order 2159 using the WGS 84 ellipsoid.
-      releaseDate: '2008'
-      remarks: 'Replaces EGM96 Geoid. '
-      scope: Spatial referencing
-      status: valid
-      uuid: b12de0e7-82fe-4e5a-a025-1c6fc1cebb34
-    item_class: datums--vertical
-    item_uuid: b12de0e7-82fe-4e5a-a025-1c6fc1cebb34
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -70,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

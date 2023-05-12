@@ -4,48 +4,6 @@ id: f695c03c-b9b5-4809-b99e-76ac2ddb4a62
 isConcluded: true
 items:
   /crs--geodetic/45ea902e-d7da-49a2-91f2-ca12467130c0.yaml:
-    item_body:
-      aliases:
-      - Japanese Geodetic Datum 2011
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2018-11-17
-      datum: 11842bba-82c2-49bc-83bf-0333aca2cb87
-      description: null
-      extent:
-        e: 154.0
-        n: 45.6
-        name: Japan - onshore and offshore
-        s: 20.4
-        w: 122.9
-      identifier: 229
-      informationSources:
-      - author: Y. Hiyama, A. Yamagiwa, T. Kawahara, M. Iwata, Y. Fukuzaki, Y. Shouji,
-          Y. Sato, T. Yutsudo, T. Sasaki, H. Shigematsu, H. Yamao, T. Inukai, M. Ohtaki,
-          K. Kokado, S. Kurihara, I. Kimura, T. Tsutsumi, T. Yahagi, Y. Furuya, I.
-          Kageyama, S. Kawamoto, K. Yamaguchi, H. Tsuji, S. Matsumura
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geospatial Information Authority of Japan (GSI), Tsukuba, Japan
-        seriesIssueID: Voume 59
-        seriesName: Bulletin of the Geospatial Information Authority of Japan
-        seriesPage: 31-42
-        title: Revision of the Results of Control Points after the 2011 off the Pacific
-          coast of Tohoku Earthquake
-        uuid: 8bcf02e6-e438-4f79-af65-8fd7665cd937
-      name: JGD2011 - XYZ
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 45ea902e-d7da-49a2-91f2-ca12467130c0
-    item_class: crs--geodetic
-    item_uuid: 45ea902e-d7da-49a2-91f2-ca12467130c0
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -59,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

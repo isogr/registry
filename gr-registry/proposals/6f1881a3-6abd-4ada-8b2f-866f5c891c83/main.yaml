@@ -4,111 +4,6 @@ id: 6f1881a3-6abd-4ada-8b2f-866f5c891c83
 isConcluded: true
 items:
   /datums--vertical/c39e6ba6-0e7d-4877-91d4-3a6f3766aea6.yaml:
-    item_body:
-      aliases:
-      - Sea Level Datum of 1929
-      - NGVD29
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: null
-      extent:
-        e: -66.0
-        n: 50.0
-        name: United States (USA) - onshore and offshore - CONUS (Alabama, Arizona,
-          Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia,
-          Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland,
-          Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska,
-          Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina,
-          North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South
-          Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington,
-          West Virginia, Wisconsin, Wyoming).
-        s: 24.0
-        w: -135.0
-      identifier: 117
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 1973-05-16
-        isbn: null
-        issn: null
-        otherDetails: Proposed use of NGVD 29 to replace SLD 29
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: Volume 38, No. 94, Document 73-9694
-        seriesName: Federal Register Notice
-        seriesPage: '12840.0'
-        title: National Vertical Control Network - Proposed Action
-        uuid: 736a65c1-7d38-4fae-9823-1749d7a38437
-      - author: US Government
-        edition: null
-        editionDate: 1930-06-30
-        isbn: null
-        issn: null
-        otherDetails: NGVD29
-        publisher: Government Printing Office
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: '33.0'
-        title: Annual Report of the Director, United States Coast and Geodetic Survey
-          to the Secretary of Commerce for the Fiscal Year Ended June 30, 1930
-        uuid: 82b8e663-33a0-4a91-862e-eb37976acd96
-      - author: US Government
-        edition: null
-        editionDate: 2007-07-11
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of VERTCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 72, No. 132, Document: 07-3377'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '37732.0'
-        title: Notice to Adopt a Standard Model for Mathematical Vertical Datum Transformations
-        uuid: f48a4d5d-8e23-44e6-bdae-9bc37a87b951
-      - author: US Government
-        edition: null
-        editionDate: 1976-05-17
-        isbn: null
-        issn: null
-        otherDetails: Formally adopted usage of NGVD 29 as datum name
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: Volume 41, No. 96, Document 76-14245
-        seriesName: Federal Register Notice
-        seriesPage: '20202.0'
-        title: National Vertical Control Network - Notice of Final Action
-        uuid: 5c5c63e5-023c-4cb2-8aa3-72679b5ae626
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: 2003-09-29
-        isbn: null
-        issn: null
-        otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON
-          for transformations between NGVD 29 and NAVD 88
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: VERTCON User Manual
-        uuid: 3dff5963-5a27-4cc6-9565-93c6d60e4f6c
-      name: National Geodetic Vertical Datum of 1929
-      originDescription: 'The Sea Level Datum of 1929 was named the National Geodetic
-        Vertical Datum of 1929 on May 10, 1973. The Sea Level Datum of 1929 is a vertical
-        control datum in the United States by the general adjustment of 1929. Mean
-        sea level was held fixed at the sites of 26 tide gauges, 21 in the United
-        States and 5 in Canada. The datum is defined by the observed heights of mean
-        sea level at the 26 tide gauges and by the set of elevations of all bench
-        marks resulting from the adjustment. A total of 106,724 kilometers of leveling
-        was involved, constituting 246 closed circuits and 25 circuits at sea level.
-        The datum was not mean sea level, the geoid, or any other equipotential surface.
-        Therefore, it was renamed in 1973, the National Geodetic Vertical Datum on
-        1929. '
-      releaseDate: '1929'
-      remarks: Normal orthometric heights.
-      scope: Spatial referencing
-      status: valid
-      uuid: c39e6ba6-0e7d-4877-91d4-3a6f3766aea6
-    item_class: datums--vertical
-    item_uuid: c39e6ba6-0e7d-4877-91d4-3a6f3766aea6
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -122,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

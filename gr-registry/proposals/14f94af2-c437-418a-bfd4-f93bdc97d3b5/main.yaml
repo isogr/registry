@@ -4,71 +4,6 @@ id: 14f94af2-c437-418a-bfd4-f93bdc97d3b5
 isConcluded: true
 items:
   /coordinate-ops--transformation/c85fb1e5-70a4-4d32-85ca-409591716f19.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.01
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 173.4
-        n: -8.47
-        name: Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
-          Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore.
-          Cocos (Keeling) Islands - onshore and offshore.
-        s: -60.56
-        w: 93.41
-      identifier: 677
-      informationSources:
-      - author: Permanent Committee on Geodesy of the Intergovernmental Committee
-          on Surveying and Mapping
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Intergovernmental Committee on Surveying and Mapping
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
-        uuid: f68c959c-07f7-40a5-820b-739117ca4704
-      name: GDA94 to GDA2020 [GA v3]
-      operationVersion: GA v3
-      parameters:
-      - fileCitation:
-          author: Permanent Committee on Geodesy of the Intergovernmental Committee
-            on Surveying and Mapping
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: Intergovernmental Committee on Surveying and Mapping
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
-          uuid: 37e5401f-47a8-47f6-b665-6b36c138d654
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: GDA94_GDA2020_conformal_and_distortion.gsb
-      remarks: Defined at epoch 2020.0.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: e4050664-82bd-45fa-8643-b0abdfa794c4
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 401ef574-c9a3-4362-aeed-2b5ed7feb236
-      uuid: c85fb1e5-70a4-4d32-85ca-409591716f19
-    item_class: coordinate-ops--transformation
-    item_uuid: c85fb1e5-70a4-4d32-85ca-409591716f19
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -82,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

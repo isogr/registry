@@ -4,21 +4,6 @@ id: 6e885fa9-4af8-4c1f-b460-64479813b5b7
 isConcluded: true
 items:
   /coordinate-sys-axis/b901dfa3-96fc-4e8e-924d-4dc296e9d7e1.yaml:
-    item_body:
-      abbreviation: X
-      dateAccepted: 2022-06-06
-      identifier: 825
-      informationSources: []
-      maxValue: null
-      minValue: null
-      name: Easting
-      orientation: east
-      remarks: null
-      status: valid
-      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-      uuid: b901dfa3-96fc-4e8e-924d-4dc296e9d7e1
-    item_class: coordinate-sys-axis
-    item_uuid: b901dfa3-96fc-4e8e-924d-4dc296e9d7e1
     type: addition
 justification: Required for projected CRSs.
 notes: []
@@ -32,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-06-06
 timeProposed: 2022-06-06

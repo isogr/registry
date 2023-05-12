@@ -4,47 +4,6 @@ id: 1b332c18-32b3-40db-9f2e-d1d2d9638c32
 isConcluded: true
 items:
   /crs--geodetic/9803b5aa-64f0-427c-9b11-b376ab9dc7d7.yaml:
-    item_body:
-      aliases:
-      - Kingdom of Saudi Arabia Geodetic Reference Frame 2017
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2021-08-30
-      datum: 0d8b39b8-0bba-435b-b4f5-2aa151d0bcf1
-      description: null
-      extent:
-        e: 55.67
-        n: 32.16
-        name: Saudi Arabia - onshore and offshore.
-        s: 16.29
-        w: 34.44
-      identifier: 777
-      informationSources:
-      - author: General Directorate of Geodesy
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://www.gasgi.gov.sa/En/Products/Products_v1/Geodesy/Documents/Technical_Summary_for_SANSRS_v1.1.pdf
-          (accessed 2021-06-07)
-        publisher: General Directorate of Geodesy, General Authority for Survey and
-          Geospatial Information, Kingdom of Saudi Arabia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Technical Summary for Saudi Arabia National Spatial Reference System
-          (SANSRS).
-        uuid: 5a9b12b8-daab-4311-a6ab-cbfaf7b6dde0
-      name: KSA-GRF17 - XYZ
-      operation: null
-      remarks: null
-      scope: Spatial referencing.
-      status: valid
-      uuid: 9803b5aa-64f0-427c-9b11-b376ab9dc7d7
-    item_class: crs--geodetic
-    item_uuid: 9803b5aa-64f0-427c-9b11-b376ab9dc7d7
     type: addition
 justification: New CRS proposal for Saudi Arabia. Submitted by K. Kelly & M. Craymer
   (Control Body) on behalf of General Directorate of Geodesy, General Authority for
@@ -60,7 +19,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-08-30
 timeProposed: 2021-08-30

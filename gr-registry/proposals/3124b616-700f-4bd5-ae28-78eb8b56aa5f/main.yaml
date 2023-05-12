@@ -4,36 +4,6 @@ id: 3124b616-700f-4bd5-ae28-78eb8b56aa5f
 isConcluded: true
 items:
   /unit-of-measurement/dba7ef74-c9bd-4f8e-bcc2-b29163e95565.yaml:
-    item_body:
-      aliases:
-      - mm
-      - millimeter
-      dateAccepted: 2018-11-17
-      denominator: 1000.0
-      identifier: 11
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 80000-3:2006
-        seriesName: International Standard
-        seriesPage: null
-        title: "ISO 80000-3 Quantities and units \u2014 Part 3: Space and time"
-        uuid: 077e7c05-a049-4294-97b3-f120f4bd2935
-      measureType: LENGTH
-      name: millimetre
-      numerator: 1.0
-      remarks: null
-      standardUnit: 932dce03-daeb-4762-ac71-81c69c41746b
-      status: valid
-      symbol: null
-      uuid: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-    item_class: unit-of-measurement
-    item_uuid: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -47,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

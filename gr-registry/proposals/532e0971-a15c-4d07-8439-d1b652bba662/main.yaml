@@ -4,82 +4,6 @@ id: 532e0971-a15c-4d07-8439-d1b652bba662
 isConcluded: true
 items:
   /datums--vertical/ab9172cc-bb6c-42ac-bab6-3768c9338244.yaml:
-    item_body:
-      aliases:
-      - EVRF2019
-      coordinateReferenceEpoch: '2000.0'
-      dateAccepted: null
-      definition: null
-      extent:
-        e: 69.16
-        n: 77.07
-        name: Europe - onshore - Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina,
-          Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France - mainland,
-          Germany, Gibraltar, Hungary, Italy - mainland, Latvia, Liechtenstein, Lithuania,
-          Luxembourg, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania,
-          Russia - west of approximately 60 deg E, San Marino, Slovakia, Slovenia,
-          Spain - mainland, Sweden, Switzerland, Ukraine, United Kingdom - Great Britain
-          mainland, Vatican City State.
-        s: 35.95
-        w: -9.56
-      identifier: -1701782310
-      informationSources:
-      - author: "J. Ihde, J. M\xE4kinen, M. Sacher"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://evrs.bkg.bund.de/SharedDocs/Downloads/EVRS/EN/Publications/EVRFConventions2007.pdf
-          (accessed 2020-11-30)
-        publisher: International Association of Geodesy Subcommission 1.3a EUREF
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Conventions for the Definition and Realization of a European Vertical
-          Reference System (EVRS) - EVRS Conventions 2007
-        uuid: f1a901fc-9d56-4eac-8eb2-6396a95463bb
-      - author: Bundesamt fuer Kartogrphie und Geodaesie
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website. https://evrs.bkg.bund.de/Subsites/EVRS/EN/EVRF2019/evrf2019.html
-          (accessed 2020-11-30)
-        publisher: Bundesamt fuer Kartogrphie und Geodaesie
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: EVRF2019
-        uuid: 5856ccd1-ea16-49dc-9c61-7d5c0375f4c3
-      - author: M. Sacher, G. Liebsch
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: http://www.euref.eu/symposia/2019Tallinn/01-01-Sacher.pdf (accessed
-          2020-11-30)
-        publisher: International Association of Geodesy Subcommission 1.3a EUREF
-        seriesIssueID: null
-        seriesName: EUREF Symposium 2019, Tallinn, Estonia
-        seriesPage: null
-        title: EVRF2019 as new realization of EVRS
-        uuid: 81839d10-de79-4ad0-b3fc-ecfde0702257
-      name: European Vertical Reference Frame 2019
-      originDescription: Height at Normal Amsterdams Peil (NAP) is zero, realised
-        by least squares fit to 12 datum points of EVRF2007 solution.
-      releaseDate: 2020-09
-      remarks: EVRF2019 is realized by an adjustment of geopotential numbers of the
-        Unified European Levelling Network in the zero-tide system, followed by computation
-        of Normal heights, referenced to the GRS80 ellipsoid. Measurements of BY,
-        CH, DK, EE, FI, LT, LV, NO, RU, SE were reduced to epoch 2000 using the vertical
-        velocity model NKG2016LU for Nordic countries and a set of velocities for
-        Switzerland, provided by Swisstopo. See EVRF2019mean for the mean-tide realization
-        of EVRF2019. Replaces EVRF2007.
-      scope: Spatial referencing
-      status: not_valid
-      uuid: ab9172cc-bb6c-42ac-bab6-3768c9338244
-    item_class: datums--vertical
-    item_uuid: ab9172cc-bb6c-42ac-bab6-3768c9338244
     type: addition
 justification: New EVRF realization. Submitted by Martina Sacher, BKG on behalf of
   EUREF.
@@ -94,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: withdrawn
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeProposed: 2021-04-20
 title: European Vertical Reference Frame 2019

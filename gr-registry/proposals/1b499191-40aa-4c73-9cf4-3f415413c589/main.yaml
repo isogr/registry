@@ -4,21 +4,6 @@ id: 1b499191-40aa-4c73-9cf4-3f415413c589
 isConcluded: true
 items:
   /coordinate-sys-axis/77cb891c-550f-4b7f-8fc9-398149a01b52.yaml:
-    item_body:
-      abbreviation: N
-      dateAccepted: 2022-06-06
-      identifier: 826
-      informationSources: []
-      maxValue: null
-      minValue: null
-      name: Northing
-      orientation: north
-      remarks: null
-      status: valid
-      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-      uuid: 77cb891c-550f-4b7f-8fc9-398149a01b52
-    item_class: coordinate-sys-axis
-    item_uuid: 77cb891c-550f-4b7f-8fc9-398149a01b52
     type: addition
 justification: Required for projected CRSs.
 notes: []
@@ -32,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-06-06
 timeProposed: 2022-06-06

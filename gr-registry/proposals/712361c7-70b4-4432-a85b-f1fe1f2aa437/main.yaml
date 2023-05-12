@@ -4,48 +4,6 @@ id: 712361c7-70b4-4432-a85b-f1fe1f2aa437
 isConcluded: true
 items:
   /crs--vertical/166fe732-f65b-4f68-b8cb-ed1bafa8fc8d.yaml:
-    item_body:
-      aliases:
-      - Mean Sea Level at Pago Pago
-      - MSL at Pago Pago
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--vertical
-        itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
-      dateAccepted: 2020-12-01
-      datum: 066b63c0-eb25-4498-82cd-5997caa95486
-      description: null
-      extent:
-        e: -170.0
-        n: -14.0
-        name: American Samoa - onshore - Tutuila.
-        s: -14.5
-        w: -171.0
-      identifier: 741
-      informationSources:
-      - author: US Government
-        edition: ''
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Replacement of ASVD 02 with local mean sea level (MSL) datum
-          at the Pago Pago tide gauge. https://www.govinfo.gov/content/pkg/FR-2020-03-12/pdf/FR-2020-03-12.pdf
-          (accessed 2020-11-08)
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: Volume 85, No. 49, Document 2020-05047
-        seriesName: Federal Register Notice
-        seriesPage: 14466-14467
-        title: Supersession of Vertical Datum for Surveying and Mapping Activities
-          for the Island of Tutuila, American Samoa
-        uuid: a6b824e1-6c21-4fa1-99ef-2ba55e38d3c2
-      name: LT at Pago Pago - NOHt
-      operation: null
-      remarks: Adopted 2020. Replaces ASVD 02.
-      scope: Spatial referencing
-      status: valid
-      uuid: 166fe732-f65b-4f68-b8cb-ed1bafa8fc8d
-    item_class: crs--vertical
-    item_uuid: 166fe732-f65b-4f68-b8cb-ed1bafa8fc8d
     type: addition
 justification: New temporary vertical datum replacing ASVD 02. Submitted by Daniel
   Roman, US National Geodetic Survey.
@@ -63,7 +21,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2020-12-01
 timeProposed: 2020-12-01

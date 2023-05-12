@@ -1,5 +1,6 @@
 data:
   abbreviation: X
+  aliases: []
   identifier: 33
   informationSources:
   - author: International Organization for Standardization (ISO)

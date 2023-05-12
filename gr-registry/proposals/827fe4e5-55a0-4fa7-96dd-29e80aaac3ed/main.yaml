@@ -4,49 +4,6 @@ id: 827fe4e5-55a0-4fa7-96dd-29e80aaac3ed
 isConcluded: true
 items:
   /datums--vertical/f99bfea8-d299-4e31-b3cf-c2cf45e9cccd.yaml:
-    item_body:
-      aliases:
-      - PRVD02
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: null
-      extent:
-        e: -65.5
-        n: 18.6
-        name: Puerto Rico - onshore.
-        s: 17.6
-        w: -67.5
-      identifier: 190
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 2012-07-23
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of PRVD02
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 77, No. 141, Document: 2012-17600, Citation: 77 FR
-          43063'
-        seriesName: Federal Register Notice
-        seriesPage: 43063-43064
-        title: Affirmation of Vertical Datum for Surveying and Mapping Activities
-          for the Territory of Puerto Rico
-        uuid: 078ec885-c9a2-4d9d-9326-28333235a4e4
-      name: Puerto Rico Vertical Datum of 2002
-      originDescription: 'Puerto Rico Vertical Datum of 2002 (PRVD02) consists of
-        a leveling network on the island of Puerto Rico affixed to a single origin
-        point on the island: Tide Station 9755371, San Juan (PID: TV1513, VM: 1386,
-        Bench Mark: 975 5371 A TIDAL, 1.334 m above LMSL).
-
-        PRVD02 was affirmed as the official vertical datum in the National Spatial
-        Reference System for Puerto Rico by Federal Register Notice (2012).'
-      releaseDate: '2012'
-      remarks: Normal orthometric heights.
-      scope: Spatial referencing
-      status: valid
-      uuid: f99bfea8-d299-4e31-b3cf-c2cf45e9cccd
-    item_class: datums--vertical
-    item_uuid: f99bfea8-d299-4e31-b3cf-c2cf45e9cccd
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -60,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

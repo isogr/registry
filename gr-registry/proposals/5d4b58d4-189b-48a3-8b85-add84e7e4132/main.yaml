@@ -4,44 +4,6 @@ id: 5d4b58d4-189b-48a3-8b85-add84e7e4132
 isConcluded: true
 items:
   /crs--geodetic/be6129a8-2aa2-4c86-bd84-0af34828618f.yaml:
-    item_body:
-      aliases:
-      - International GNSS Service 2014
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2018-11-17
-      datum: d61ae2ab-8cca-438b-81e5-646be15531ce
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 370
-      informationSources:
-      - author: P. Rebischung
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International GNSS Service (IGS)
-        seriesIssueID: '7399.0'
-        seriesName: IGSMAIL
-        seriesPage: null
-        title: Upcoming switch to IGS14/igs14.atx
-        uuid: 8762b561-12e8-448e-afd1-748ef2125e25
-      name: IGS14 - XYZ
-      operation: null
-      remarks: Replaces IGb08 - XYZ. Used by  IGS products from 2017-01-29.
-      scope: Spatial referencing
-      status: valid
-      uuid: be6129a8-2aa2-4c86-bd84-0af34828618f
-    item_class: crs--geodetic
-    item_uuid: be6129a8-2aa2-4c86-bd84-0af34828618f
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -55,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

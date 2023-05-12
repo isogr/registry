@@ -4,51 +4,6 @@ id: 6f20f518-d07e-48f9-8c8a-2213974c3f00
 isConcluded: true
 items:
   /datums--geodetic/09391e28-e386-4760-9d93-60c922279164.yaml:
-    item_body:
-      aliases:
-      - WGS 84 (G730)
-      coordinateReferenceEpoch: '1994.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 41c8f1a8-76fd-4edf-9bdb-6eca1931c5fb
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 116
-      informationSources:
-      - author: S. Malys, J.A. Slater
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Institute of Navigation
-        seriesIssueID: null
-        seriesName: Proceedings of the 7th International Technical Meeting of the
-          Satellite Division of The Institue of Navigation (ION-GPS-1994), Salt Lake
-          City, UT, September 1994
-        seriesPage: 17-24
-        title: Maintenance and Enhancement of the World Geodetic System 1984
-        uuid: bfeddf94-fe8d-44f6-b871-3444bf413d4e
-      name: World Geodetic System 1984 (G730)
-      originDescription: Defined through coordinates of 10 GPS tracking stations adjusted
-        to a subset of ITRF92 stations at epoch 1994.0. The reference epoch for ITRF92
-        is 1988.0; the station coordinates were propagated to 1994.0 using the NNR-NUVEL-1
-        plate motion model.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '1994-06-29'
-      remarks: Replaces the original Transit-derived World Geodetic System 1984 from
-        1994-06-29. Replaced by World Geodetic System 1984 (G873) from 1997-01-29.
-        Used in broadcast ephemeris from 1994-06-29 to 1997-01-28 and in precise ephemeris
-        from 1994-01-02 to 1996-09-28.
-      scope: Spatial Referencing and GPS satellite navigation
-      status: valid
-      uuid: 09391e28-e386-4760-9d93-60c922279164
-    item_class: datums--geodetic
-    item_uuid: 09391e28-e386-4760-9d93-60c922279164
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -62,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

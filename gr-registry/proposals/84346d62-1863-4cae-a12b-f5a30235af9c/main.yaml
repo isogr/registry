@@ -4,69 +4,6 @@ id: 84346d62-1863-4cae-a12b-f5a30235af9c
 isConcluded: true
 items:
   /coordinate-ops--transformation/fc751834-56f6-4036-bede-5b77d7358ca3.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.05
-      coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -95.0
-        n: 49.38
-        name: "United States (USA) - onshore - CONUS north of 41\xB0N and between\
-          \ 112\xB0W and 95\xB0W (Idaho, Iowa, Minnesota, Montana, Nebraska, North\
-          \ Dakota, South Dakota, Utah, Wyoming)."
-        s: 41.0
-        w: -112.0
-      identifier: 717
-      informationSources:
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: National Geodetic Survey Geoid Homepage
-        uuid: 62a7dbf9-2643-4bc7-a29a-d6a53aa0b7c8
-      name: NAD 83 (HARN) to NAVD88 - OHt [v2]
-      operationVersion: v2
-      parameters:
-      - fileCitation:
-          author: National Geodetic Survey
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-          publisher: National Oceanic and Atmospheric Administration (NOAA), National
-            Geodetic Survey (NGS)
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: National Geodetic Survey Geoid Homepage
-          uuid: 0f8e4490-4de3-4f96-90ff-023866e8345d
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: g1999u02.bin
-      remarks: Grid transformation
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: fe0ef0a0-b436-4793-b978-514f9fdd045f
-      status: valid
-      targetCRS: null
-      uuid: fc751834-56f6-4036-bede-5b77d7358ca3
-    item_class: coordinate-ops--transformation
-    item_uuid: fc751834-56f6-4036-bede-5b77d7358ca3
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -80,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

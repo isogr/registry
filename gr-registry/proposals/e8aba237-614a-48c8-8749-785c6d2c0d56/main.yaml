@@ -4,67 +4,6 @@ id: e8aba237-614a-48c8-8749-785c6d2c0d56
 isConcluded: true
 items:
   /crs--geodetic/e7b865dd-1864-4ec7-ab47-2556a87f790e.yaml:
-    item_body:
-      aliases:
-      - North American Datum of 1983 (HARN)
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: 43d1d735-1441-4079-a635-62469221eed8
-      description: null
-      extent:
-        e: -64.51
-        n: 74.71
-        name: "United States and Territories - onshore and offshore: American Samoa.\
-          \ United States (USA) \u2013 Alaska, CONUS (Alabama, Arizona, Arkansas,\
-          \ California, Colorado, Connecticut, Delaware, Florida, Georgia, Idaho,\
-          \ Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland,\
-          \ Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska,\
-          \ Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina,\
-          \ North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South\
-          \ Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington,\
-          \ West Virginia, Wisconsin, Wyoming), Hawaii. Virgin Islands (US)."
-        s: -17.56
-        w: 144.58
-      identifier: 341
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: 86beef6b-ed57-41c2-a6dd-4507858f1c83
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: 1c55ae5b-1065-47e7-97cd-bfd543911983
-      name: NAD 83 (HARN) - LatLon
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: e7b865dd-1864-4ec7-ab47-2556a87f790e
-    item_class: crs--geodetic
-    item_uuid: e7b865dd-1864-4ec7-ab47-2556a87f790e
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -78,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

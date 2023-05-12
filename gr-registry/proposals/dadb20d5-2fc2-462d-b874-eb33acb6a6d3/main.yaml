@@ -4,83 +4,6 @@ id: dadb20d5-2fc2-462d-b874-eb33acb6a6d3
 isConcluded: true
 items:
   /coordinate-ops--transformation/e212b24f-3a10-4785-b442-492f4b8df692.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.1
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2020-09-03
-      description: null
-      extent:
-        e: -52.54
-        n: 60.38
-        name: Canada - onshore and offshore - Newfoundland and Labrador.
-        s: 46.56
-        w: -67.82
-      identifier: 736
-      informationSources:
-      - author: GIS and Mapping Division
-        edition: ''
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: ''
-        publisher: GIS and Mapping Division, Department of Fisheries and Land Resources,
-          Government of Newfoundland and Labrador, Corner Brook, NL, Canada
-        seriesIssueID: ',,'
-        seriesName: ',,'
-        seriesPage: ',,'
-        title: NLCSRSV4.GSB
-        uuid: 9df62712-08cf-4d8a-afdf-2c6e66dc29d8
-      - author: Canadian Geodetic Survey
-        edition: ''
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: 'Website: https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
-          (last accessed 2020-07-26).'
-        publisher: Canadian Geodetic Survey, Natural Resources Canada
-        seriesIssueID: ''
-        seriesName: ''
-        seriesPage: ''
-        title: Coordinate Transformations
-        uuid: 96d56a5a-5a83-4422-b573-c9b3d1370292
-      name: NAD83(Original) to NAD83(CSRS) v6 [NLv1]
-      operationVersion: NLv1
-      parameters:
-      - fileCitation:
-          author: Canadian Geodetic Survey
-          edition: ''
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Webpage
-          publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON,
-            Canada
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: Coordinate Transformations
-          uuid: 2f47836c-bc78-4a03-b005-94610cf7ef20
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: NLCSRSV4.GSB
-      remarks: Grid tranformation in NTv2 format adopted for use in Newfoundland and
-        Labrador, Canada.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: b34077e8-64dd-4414-8e36-f5a215bfc8f2
-      uuid: e212b24f-3a10-4785-b442-492f4b8df692
-    item_class: coordinate-ops--transformation
-    item_uuid: e212b24f-3a10-4785-b442-492f4b8df692
     type: addition
 justification: Submitted by Dr. Michael Craymer, Canadian Geodetic Survey.
 notes: []
@@ -94,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2020-09-03
 timeProposed: 2020-09-03

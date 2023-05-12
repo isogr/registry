@@ -4,45 +4,6 @@ id: e4e95665-51a3-4537-b1fa-4c2a25900d67
 isConcluded: true
 items:
   /crs--geodetic/91628505-63fc-42b5-b069-f0316acee305.yaml:
-    item_body:
-      aliases: []
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: 09391e28-e386-4760-9d93-60c922279164
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 374
-      informationSources:
-      - author: S. Malys, J.A. Slater
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Institute of Navigation
-        seriesIssueID: null
-        seriesName: Proceedings of the 7th International Technical Meeting of the
-          Satellite Division of The Institue of Navigation (ION-GPS-1994), Salt Lake
-          City, UT, September 1994
-        seriesPage: 17-24
-        title: Maintenance and Enhancement of the World Geodetic System 1984
-        uuid: 9aaa33e5-707c-476e-a96c-96c4e1903f82
-      name: 'WGS 84 (G730) - LatLon '
-      operation: null
-      remarks: Replaces WGS 84 TRANSIT - LatLon. Replaced by WGS84 (G873) - LatLon.
-      scope: Spatial Referencing and GPS satellite navigation.
-      status: valid
-      uuid: 91628505-63fc-42b5-b069-f0316acee305
-    item_class: crs--geodetic
-    item_uuid: 91628505-63fc-42b5-b069-f0316acee305
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -56,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

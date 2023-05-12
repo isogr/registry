@@ -4,36 +4,6 @@ id: 2b794faf-b878-44e1-bf44-d1466b31ab15
 isConcluded: true
 items:
   /unit-of-measurement/ff19fda6-47af-4474-ac8a-04ee2267f702.yaml:
-    item_body:
-      aliases:
-      - euc
-      - euclid
-      dateAccepted: 2018-11-17
-      denominator: 1.0
-      identifier: 1
-      informationSources:
-      - author: International Association of Oil and Gas Producers (IOGP)
-        edition: version 8.9
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Association of Oil and Gas Producers (IOGP)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: EPSG Geodetic Parameter Dataset v8.9
-        uuid: 9a0047d8-101b-4d80-983d-4d5b147b81ba
-      measureType: SCALE
-      name: unity
-      numerator: 1.0
-      remarks: null
-      standardUnit: ff19fda6-47af-4474-ac8a-04ee2267f702
-      status: valid
-      symbol: null
-      uuid: ff19fda6-47af-4474-ac8a-04ee2267f702
-    item_class: unit-of-measurement
-    item_uuid: ff19fda6-47af-4474-ac8a-04ee2267f702
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -47,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

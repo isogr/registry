@@ -4,68 +4,6 @@ id: f39cb12c-063d-409b-9eac-9a10a8049135
 isConcluded: true
 items:
   /crs--geodetic/7ff15d26-6b85-4532-855f-7117fd9ea7ec.yaml:
-    item_body:
-      aliases:
-      - China Geodetic Coordinate System 2000
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2020-07-27
-      datum: 0577746d-be28-490c-9145-93a5a5d8c847
-      description: null
-      extent: null
-      identifier: 733
-      informationSources:
-      - author: P. Zhang, Z. Li, H. Wen
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://unstats.un.org/unsd/geoinfo/RCC/docs/rccap19/ip/E_Conf.102_IP16_Modernization%20of%20National%20Geodetic%20Datum%20in%20China.pdf
-          (accessed 2020-05-15)
-        publisher: United Nations Economic and Social Council
-        seriesIssueID: E/CONF.102/IP.16
-        seriesName: "Nineteenth United Nations Regional Cartographic Conference for\
-          \ Asia and the Pacific, Bangkok, 29 October \u2013 1 November 2012"
-        seriesPage: null
-        title: Modernization of National Geodetic Datum in China
-        uuid: 195f5992-1122-49eb-8095-e96666b06314
-      - author: J. Chen
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Chinese; http://xb.sinomaps.com/EN/Y2008/V37/I3/269 (accessed
-          2020-05-19)
-        publisher: Surveying and Mapping Press
-        seriesIssueID: 37(3)
-        seriesName: Acta Geodaetica et Cartographica Sinica
-        seriesPage: 269-271
-        title: Chinese Modern Geodetic Datum - Chinese Geodetic Coordinate System
-          2000 (CGCS 2000) and Its Frame
-        uuid: 6c098a18-61f8-4487-86e4-5d35995f26d4
-      - author: Y. Yang
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Chinese; https://doi.org/10.1007/s11434-009-0342-9 (accessed
-          2020-05-19)
-        publisher: Science China Press
-        seriesIssueID: '54.0'
-        seriesName: Chinese Science Bulletin
-        seriesPage: 2714- 2721
-        title: Chinese geodetic coordinate system 2000
-        uuid: 6ad21936-a15e-4cdf-bf5d-5fe72651e9db
-      name: CGCS 2000 - LatLonEht
-      operation: null
-      remarks: Adopted July 2008 by China. Replaces Xian 1980 horizontal datum.
-      scope: Spatial referencing
-      status: valid
-      uuid: 7ff15d26-6b85-4532-855f-7117fd9ea7ec
-    item_class: crs--geodetic
-    item_uuid: 7ff15d26-6b85-4532-855f-7117fd9ea7ec
     type: addition
 justification: Submitted by China National Bureau of Surveying, Mapping and Geo-information
 notes: []
@@ -79,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2020-07-27
 timeProposed: 2020-07-27

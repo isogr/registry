@@ -4,36 +4,6 @@ id: 48ef70b2-4900-4fec-92cd-bbbb8e8c9cf4
 isConcluded: true
 items:
   /coordinate-sys--ellipsoidal/2635621b-8fe0-4ef8-ba08-4415a09436ad.yaml:
-    item_body:
-      coordinateSystemAxes:
-      - addb3701-9efd-487d-93ef-9540beb175f5
-      - fe748cfb-d67a-4ca9-98dd-59148cf7dcc3
-      - 7578267e-1a3f-4bb8-97f6-07b9664f866d
-      dateAccepted: 2018-11-17
-      identifier: 44
-      informationSources:
-      - author: Institut National de L'Information Geographique et Forestiere
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Institut National de L'Information Geographique et Forestiere,
-          73 Avenue de Paris, 94165 Saint-Mande Cedex, France
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Systemes de reference de coordonnees
-        uuid: ec26a530-15fc-4777-b437-f098effe3415
-      name: 'Ellipsoidal 3D CS. Axes: longitude, latitude, ellipsoidal height. Orientations:
-        east, north, up. UoM: degree, degree, metre.'
-      remarks: Horizontal coordinates referenced to this CS are in degrees. Any degree
-        representation (e.g. DMSH, decimal, etc.) may be used but that used must be
-        declared for the user. Used in geographic 3D coordinate reference systems.
-      status: valid
-      uuid: 2635621b-8fe0-4ef8-ba08-4415a09436ad
-    item_class: coordinate-sys--ellipsoidal
-    item_uuid: 2635621b-8fe0-4ef8-ba08-4415a09436ad
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -47,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

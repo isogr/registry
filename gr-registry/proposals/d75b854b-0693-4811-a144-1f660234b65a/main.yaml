@@ -4,57 +4,6 @@ id: d75b854b-0693-4811-a144-1f660234b65a
 isConcluded: true
 items:
   /datums--vertical/e11a2e56-04c0-4d6e-b517-1a882c3bceea.yaml:
-    item_body:
-      aliases:
-      - VIVD09
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: null
-      extent:
-        e: -64.5
-        n: 18.5
-        name: Virgin Islands (US) - onshore.
-        s: 17.5
-        w: -65.5
-      identifier: 163
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 2011-12-12
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of VIVD09
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 76, No. 238, Document: 2011-31592, Citation: 76 FR
-          77208'
-        seriesName: Federal Register Notice
-        seriesPage: 77208-77209
-        title: Affirmation of Vertical Datum for Surveying and Mapping Activities
-          for the Islands of St. Croix, St. John, and St. Thomas, United States Virgin
-          Islands
-        uuid: 2eb4fd6c-19a6-451d-bd53-e6ce93972e88
-      name: Virgin Islands Vertical Datum of 2009
-      originDescription: 'Virgin Islands Vertical Datum of 2009 (VIVD09) consists
-        of a set of three independent leveling networks on the islands of St. Croix,
-        St. John and St. Thomas in the United States Virgin Islands. Each of these
-        leveling networks is affixed to a single origin point on their respective
-        island. Island of St. Croix: Tide Station Lime Tree Bay (PID: DK7165, VM:
-        1636, Bench Mark: 975 1401 M, 3.111 m above LMSL. Island of St. John: Tide
-        Station Lameshur Bay (PID = DL3636, VM: 18179, Bench Mark: 975 1381 A, 1.077
-        m above LMSL. Island of St. Thomas: Tide Station 9751639, Charlotte Amalie
-        (PID: DL3908, VM: 1372, Bench Mark: 975 1639 F, 1.552 m above LMSL.
-
-        VIVD09 was affirmed as the official vertical datum in the National Spatial
-        Reference System for the islands of St. Croix, St. John and St. Thomas in
-        the U.S. Virgin Islands by Federal Register Notice (2011), replacing all previous
-        height systems for this region.'
-      releaseDate: '2011'
-      remarks: Normal orthometric heights.
-      scope: Spatial referencing
-      status: valid
-      uuid: e11a2e56-04c0-4d6e-b517-1a882c3bceea
-    item_class: datums--vertical
-    item_uuid: e11a2e56-04c0-4d6e-b517-1a882c3bceea
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -68,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,67 +4,6 @@ id: 29dbaceb-ea8e-418a-aff7-73aced445bc6
 isConcluded: true
 items:
   /crs--geodetic/4bd35f90-809c-4696-bae4-f1f9f0f30a8c.yaml:
-    item_body:
-      aliases:
-      - North American Datum of 1983 (2007)
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: 3e4300c0-d22b-418e-ad13-3c1629099a8c
-      description: null
-      extent:
-        e: -63.88
-        n: 74.71
-        name: 'United States and Territories - onshore and offshore: Puerto Rico.
-          United States (USA) - Alaska, CONUS (Alabama, Arizona, Arkansas, California,
-          Colorado, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana,
-          Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan,
-          Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire,
-          New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma,
-          Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee,
-          Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming).
-          Virgin Islands (US).'
-        s: 14.92
-        w: 167.65
-      identifier: 397
-      informationSources:
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: 278f03f9-d73a-4955-920f-0e5f38641d28
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: e9eea54a-3276-468a-b95d-583ec8dd29ad
-      name: NAD 83 (2007) - LatLonEHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 4bd35f90-809c-4696-bae4-f1f9f0f30a8c
-    item_class: crs--geodetic
-    item_uuid: 4bd35f90-809c-4696-bae4-f1f9f0f30a8c
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -78,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

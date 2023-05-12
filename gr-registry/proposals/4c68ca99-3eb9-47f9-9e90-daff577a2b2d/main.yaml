@@ -4,79 +4,6 @@ id: 4c68ca99-3eb9-47f9-9e90-daff577a2b2d
 isConcluded: true
 items:
   /datums--geodetic/acf06510-18fc-4476-9f9e-a1b543b8921c.yaml:
-    item_body:
-      aliases:
-      - SIRGAS Multi-Year Solution 2001 extended
-      - SIRGAS
-      - DGFI01P02
-      - SIRGAS-CON
-      - DGF01P02
-      - Sistema de Referencia Geocentrico para las Americas
-      - Geocentric Reference System for the Americas
-      coordinateReferenceEpoch: '1998.4'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 136
-      informationSources:
-      - author: W. Seemueller, H. Drewes
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International GPS Service
-        seriesIssueID: JPL Publication 04-017
-        seriesName: IGS 2001-2002 Technical Reports
-        seriesPage: 285-290
-        title: Annual Report 2001 of IGS RNAAC SIR
-        uuid: 10b2c7d1-454d-4129-b55e-b7918550a8ee
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: 05d2f746-6b24-4d1e-9634-e32add38e6db
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
-          Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '128.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 544-549
-        title: Deformation of the South American crust estimated from finite element
-          and collocation methods
-        uuid: ca335d5c-9eb8-47bd-a8f6-ad9ec6e91429
-      name: SIRGAS Continuously Operating Network DGF01P02
-      originDescription: Realized by a frame of 48 continuously operating stations
-        using GPS observations from June 1996 to April 2001 and aligned to ITRF2000
-        at epoch 1998.4. Velocity model VEMOS2003 used to propagate coordinates from
-        an arbitrary epoch to the 1998.4 reference epoch.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '2002'
-      remarks: Replaces DGF01P01. Replaced by DGF02P01.
-      scope: Spatial referencing
-      status: valid
-      uuid: acf06510-18fc-4476-9f9e-a1b543b8921c
-    item_class: datums--geodetic
-    item_uuid: acf06510-18fc-4476-9f9e-a1b543b8921c
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -90,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

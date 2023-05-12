@@ -4,80 +4,6 @@ id: f5e68439-005f-42bb-ade7-2077afe9d1aa
 isConcluded: true
 items:
   /datums--geodetic/ba2620c2-8dd5-4f37-9eb6-5ff02c99048f.yaml:
-    item_body:
-      aliases:
-      - NAD83 (MARP00)
-      coordinateReferenceEpoch: '1993.6'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: 149.55
-        n: 23.9
-        name: Guam - onshore and offshore. Northern Mariana Islands - onshore and
-          offshore. Palau - onshore and offshore.
-        s: 1.64
-        w: 129.48
-      identifier: 162
-      informationSources:
-      - author: C. Pearson, R.A. Snay
-        edition: null
-        editionDate: 2013-01-01
-        isbn: null
-        issn: null
-        otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from
-          IGb08
-        publisher: Springer-Verlag
-        seriesIssueID: Volume 17, No. 1
-        seriesName: GPS Solutions
-        seriesPage: 1-15
-        title: Introducing HTDP 3.1 to transform coordinates across time and spatial
-          reference frames
-        uuid: 6276b481-ee86-4c40-97ec-5ebacc8bfd19
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: 2017-03-16
-        isbn: null
-        issn: null
-        otherDetails: webpage
-        publisher: National Oceanic and Atmospheric Administration (NOAA) National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: NGS Online listing of transformation parameters
-        seriesPage: null
-        title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
-          Frames
-        uuid: 8e625073-a3e7-4ae5-9aad-1bcfdc80a6ea
-      - author: R.A. Snay
-        edition: null
-        editionDate: 2003-01-01
-        isbn: null
-        issn: null
-        otherDetails: MARP00, PACP00
-        publisher: American Cobgress on Surveying and Mapping
-        seriesIssueID: Volume 63, No. 1
-        seriesName: Surveying and Land Information Systems
-        seriesPage: ' 5-12'
-        title: Introducing Two Spatial Reference Frames for Regions of the Pacific
-          Ocean
-        uuid: a827c384-e3ea-4f4e-b590-0761b71ba7a4
-      name: North American Datum of 1983 (MARP00)
-      originDescription: Realization of the NAD83. The frame is defined by a time-dependent
-        seven parameter transformation of ITRF2000 3D geocentric Cartesian coordinates
-        and velocities at reference epoch  1993.62. The frame is kept aligned to the
-        Mariana plate at other epochs based on an Euler pole calculated from 16 sites
-        located on the North American, Mariana, and Pacific plates. The original web
-        listing erroneously showed values for this frame as being identical to  NAD83
-        (CORS96) Epoch 2002. However, the original HTDP (version 2.7) implementation
-        used the transformation given in the reference.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '2003'
-      remarks: 'Replaces NAD83 (HARN). Replaced by NAD83(MA11) from 2011-09-06. '
-      scope: Spatial referencing
-      status: valid
-      uuid: ba2620c2-8dd5-4f37-9eb6-5ff02c99048f
-    item_class: datums--geodetic
-    item_uuid: ba2620c2-8dd5-4f37-9eb6-5ff02c99048f
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -91,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,38 +4,6 @@ id: 81054f92-9a6d-4883-b48a-67e91dc653e8
 isConcluded: true
 items:
   /unit-of-measurement/1d86d720-ff1a-47ef-819e-2fb3524c9ce9.yaml:
-    item_body:
-      aliases:
-      - degree of arc
-      - angular degree
-      - dega
-      - deg
-      dateAccepted: 2018-11-17
-      denominator: 180.0
-      identifier: 8
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 80000-3:2006
-        seriesName: International Standard
-        seriesPage: null
-        title: "ISO 80000-3 Quantities and units \u2014 Part 3: Space and time"
-        uuid: af91ac67-8899-42fe-9387-6cc0d4da815f
-      measureType: ANGLE
-      name: degree
-      numerator: 3.141592654
-      remarks: = pi/180 radians
-      standardUnit: 0fed4bdf-47b5-4dc3-a421-f8ef26a40ab9
-      status: valid
-      symbol: "\xB0"
-      uuid: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
-    item_class: unit-of-measurement
-    item_uuid: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -49,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

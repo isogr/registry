@@ -4,43 +4,6 @@ id: 92b41509-f6c9-4e40-a6b8-35bbb555d71c
 isConcluded: true
 items:
   /coordinate-op-parameter/f5cb1159-d48d-4f8e-b907-824a07b3f5ad.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: 2018-11-17
-      definition: null
-      identifier: 64
-      informationSources:
-      - author: NGA Office of Geomatics
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: National Geospatial-Intelligence Agency
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
-        uuid: 1219268b-a4c1-43bb-9934-cb1dc2594f5b
-      - author: NGA Office of Geomatics
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: National Geospatial-Intelligence Agency
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: EGM2008 - WGS 84 Version
-        uuid: 342a4ee4-aeec-4a6c-a439-ec6f2e4b04b2
-      minimumOccurs: null
-      name: Spherical harmonic correction coefficients file
-      remarks: null
-      status: valid
-      uuid: f5cb1159-d48d-4f8e-b907-824a07b3f5ad
-    item_class: coordinate-op-parameter
-    item_uuid: f5cb1159-d48d-4f8e-b907-824a07b3f5ad
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -54,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

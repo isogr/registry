@@ -5,80 +5,6 @@ id: bf37cf6a-43cf-4c58-95db-fee104ca8dc2
 isConcluded: true
 items:
   /crs--vertical/bbcb711a-3959-473a-bb56-b0cfd2c71da4.yaml:
-    item_body:
-      aliases:
-      - European Vertical Reference  Frame 2019
-      - EVRF2019
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--vertical
-        itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
-      dateAccepted: 2021-04-29
-      datum: 75e4c8ac-8fd0-41b7-9688-4d4706359b56
-      description: null
-      extent:
-        e: 69.16
-        n: 77.07
-        name: Europe - onshore - Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina,
-          Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France - mainland,
-          Germany, Gibraltar, Hungary, Italy - mainland, Latvia, Liechtenstein, Lithuania,
-          Luxembourg, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania,
-          Russia - west of approximately 60 deg E, San Marino, Slovakia, Slovenia,
-          Spain - mainland, Sweden, Switzerland, Ukraine, United Kingdom - Great Britain
-          mainland, Vatican City State.
-        s: 35.95
-        w: -9.56
-      identifier: 765
-      informationSources:
-      - author: "J. Ihde, J. M\xE4kinen, M. Sacher"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://evrs.bkg.bund.de/SharedDocs/Downloads/EVRS/EN/Publications/EVRFConventions2007.pdf
-          (accessed 2020-11-30)
-        publisher: International Association of Geodesy Subcommission 1.3a EUREF
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Conventions for the Definition and Realization of a European Vertical
-          Reference System (EVRS) - EVRS Conventions 2007
-        uuid: 8967aa29-f914-4305-bd41-6bed919b75bb
-      - author: Bundesamt fuer Kartogrphie und Geodaesie
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website. https://evrs.bkg.bund.de/Subsites/EVRS/EN/EVRF2019/evrf2019.html
-          (accessed 2020-11-30)
-        publisher: Bundesamt fuer Kartogrphie und Geodaesie
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: EVRF2019
-        uuid: 8a16f6bd-4c7d-43b4-9910-2b7b1c118cec
-      - author: M. Sacher, G. Liebsch
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: http://www.euref.eu/symposia/2019Tallinn/01-01-Sacher.pdf (accessed
-          2020-11-30)
-        publisher: International Association of Geodesy Subcommission 1.3a EUREF
-        seriesIssueID: null
-        seriesName: EUREF Symposium 2019, Tallinn, Estonia
-        seriesPage: null
-        title: EVRF2019 as new realization of EVRS
-        uuid: 5660b019-bab1-4ab8-81f9-275e939e5e24
-      name: EVRF2019 - NHt
-      operation: null
-      remarks: European Vertical Reference  Frame 2019 in zero tide system. See EVRF2019mean-NHt
-        for mean-tide realization of EVRF2019. Replaces EVRF2007-NHt.
-      scope: 'Spatial referencing '
-      status: valid
-      uuid: bbcb711a-3959-473a-bb56-b0cfd2c71da4
-    item_class: crs--vertical
-    item_uuid: bbcb711a-3959-473a-bb56-b0cfd2c71da4
     type: addition
 justification: New EVRF2019 CRS. Submitted by Martina Sacher, BKG on behalf of EUREF.
 notes: []
@@ -92,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-04-29
 timeProposed: 2021-04-29

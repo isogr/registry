@@ -4,112 +4,6 @@ id: 144e0b98-1e67-40de-a0bf-40d578f962bc
 isConcluded: true
 items:
   /coordinate-ops--transformation/68dab6aa-7bbc-4300-b233-c1beaca9b684.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.1
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2021-11-30
-      description: null
-      extent:
-        e: -101.34
-        n: 60.0
-        name: Canada - Saskatchewan.
-        s: 49.0
-        w: -110.0
-      identifier: 794
-      informationSources:
-      - author: Esri Canada
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: http://downloads2.esri.com/support/TechArticles/Grid-based_Transformation_Methods_for_Canada3.pdf
-          (accessed 2021-11-26)
-        publisher: Esri, Redlands, CA
-        seriesIssueID: 'Article ID: 000011846'
-        seriesName: null
-        seriesPage: null
-        title: 'FAQ: What are some of the transformation methods for Canada?'
-        uuid: beed3c53-6ac3-467e-a952-54f6b127dfb0
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage. https://webapp.geod.nrcan.gc.ca/geod/tools-outils/applications.php?locale=en
-          (accessed N4 (accessed 2021-11-26)
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Desktop Applications: NTv2'
-        uuid: 1f350e80-e1e4-4ac4-948e-9743539b8a77
-      - author: Saskatchewan Information Services Corporation (ISC)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage. https://www.isc.ca/MapsandPhotos/GISData/Pages/Shift.aspx
-          (accessed 2021-11-26)
-        publisher: Saskatchewan Information Services Corporation (ISC), Geomatics
-          Distribution Centre, Regina, Saskatchewan
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Grid shift files
-        uuid: 825b6a9c-6ec1-4a44-a870-c8a98e9fc86c
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
-          (accessed 2021-06-23)
-        publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON,
-          Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Coordinate Transformations
-        uuid: 9b184938-63af-4297-ba2f-67093bcf256f
-      name: NAD83(Original) to NAD83(CSRS) v2 [SKv1]
-      operationVersion: SKv1
-      parameters:
-      - fileCitation:
-          author: Saskatchewan Information Services Corporation (ISC)
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Webpage. https://www.isc.ca/MapsandPhotos/GISData/Pages/Shift.aspx
-            (accessed 2021-11-26)
-          publisher: Saskatchewan Information Services Corporation (ISC), Geomatics
-            Distribution Centre, Regina, Saskatchewan
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: Grid shift files
-          uuid: f1b30cc8-3da4-45f3-a6e9-d86bd70d7f4d
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: SK83-98.GSB
-      remarks: Grid tranformation in NTv2 format adopted for use in Saskatchewan.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 4098686c-3538-4441-b085-af045ec68ea4
-      uuid: 68dab6aa-7bbc-4300-b233-c1beaca9b684
-    item_class: coordinate-ops--transformation
-    item_uuid: 68dab6aa-7bbc-4300-b233-c1beaca9b684
     type: addition
 justification: Corrected NAD83(Original) to NAD83(CSRS) v2 SK transformation. Submitted
   by M. Craymer, Canadian Geodetic Survey
@@ -124,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-11-30
 timeProposed: 2021-11-30

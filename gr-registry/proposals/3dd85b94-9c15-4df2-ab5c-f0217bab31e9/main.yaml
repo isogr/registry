@@ -4,77 +4,6 @@ id: 3dd85b94-9c15-4df2-ab5c-f0217bab31e9
 isConcluded: true
 items:
   /crs--geodetic/3be55d39-de81-4a74-a391-4564da20540c.yaml:
-    item_body:
-      aliases:
-      - SIR10P01
-      - SIRGAS
-      - SIRGAS-CON
-      - Sistema de Referencia Geocentrico para las Americas
-      - SIRGAS Multi-Year Solution 2010
-      - Geocentric Reference System for the Americas
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: b41a3ac1-f664-4c9a-96f6-6d669e4aa4c3
-      description: null
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 211
-      informationSources:
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: 0949fc16-ca92-40bd-80cc-35fb72e046fa
-      - author: W. Seemueller, L. Sanchez, M. Seitz, H. Drewes
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
-        seriesIssueID: No. 86
-        seriesName: DGFI Report
-        seriesPage: null
-        title: The position and velocity solution SIR10P01 of the IGS Regional Network
-          Associate Analysis Centre for SIRGAS (IGS RNAAC SIR)
-        uuid: 63fa8f72-87ea-4332-99bc-a9d712581148
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
-          International Association of Geodesy Symposia, Vol 136. Springer, Berlin,
-          Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '136.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 657-664
-        title: The 2009 Horizontal Velocity Field for South America and the Caribbean
-        uuid: 17b94e3e-010e-4f4d-a3b5-a009a838f70b
-      name: SIRGAS-CON SIR10P01 - LatLonEHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 3be55d39-de81-4a74-a391-4564da20540c
-    item_class: crs--geodetic
-    item_uuid: 3be55d39-de81-4a74-a391-4564da20540c
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -88,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

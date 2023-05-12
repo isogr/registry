@@ -4,47 +4,6 @@ id: dc32ee04-48ae-4ebc-ab31-3a5c8bdc7ced
 isConcluded: true
 items:
   /datums--geodetic/0b623c9c-e08b-418c-ab70-af7743959805.yaml:
-    item_body:
-      aliases:
-      - NZGD1949
-      - NZGD49
-      - GD49
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 724fedfa-018f-4ebd-b286-97b6d918b972
-      extent:
-        e: 179.27
-        n: -33.89
-        name: New Zealand - onshore and nearshore - North Island, South Island, Stewart
-          Island.
-        s: -47.65
-        w: 165.87
-      identifier: 108
-      informationSources:
-      - author: L.P. Lee
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Department of Lands and Survey, New Zealand
-        seriesIssueID: '1.0'
-        seriesName: Technical Series
-        seriesPage: null
-        title: First-order Geodetic Triangulation of New Zealand 1909-49 and 1973-74
-        uuid: 36fc929e-b3c1-454e-a1e0-c00498aaa951
-      name: New Zealand Geodetic Datum 1949
-      originDescription: "Fundamental point: Papatahi. Latitude: 41\xB019' 8.900\"\
-        S, longitude: 175\xB002'51.000\"E (of Greenwich)."
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '1949'
-      remarks: Replaced by New Zealand Geodetic Datum 2000 from March 2000.
-      scope: Spatial referencing
-      status: valid
-      uuid: 0b623c9c-e08b-418c-ab70-af7743959805
-    item_class: datums--geodetic
-    item_uuid: 0b623c9c-e08b-418c-ab70-af7743959805
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -58,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

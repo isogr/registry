@@ -4,69 +4,6 @@ id: 689abc5a-35ed-4f2f-9dee-2c86f20c1732
 isConcluded: true
 items:
   /coordinate-ops--transformation/6ac23fb1-5c23-4231-9e72-f878b5fe4b4c.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 5.0
-      coordOperationMethod: ba7dac5d-4f79-4ac1-a7aa-96ccebc6093d
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 179.27
-        n: -33.89
-        name: New Zealand - onshore and nearshore - North Island, South Island, Stewart
-          Island.
-        s: -47.65
-        w: 165.87
-      identifier: 590
-      informationSources:
-      - author: Office of the Surveyor General
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Land Information New Zealand
-        seriesIssueID: LINZS25000
-        seriesName: null
-        seriesPage: null
-        title: Standard for New Zealand Geodetic Datum 2000
-        uuid: 3d2ebe96-7081-4a2d-8c57-6dab3e9b8c9d
-      name: NZGD1949 to NZGD2000 [LINZv1]
-      operationVersion: LINZv1
-      parameters:
-      - fileCitation: null
-        parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      remarks: Lowest accuracy three parameter version of NZGD1949 to NZGD2000 transformation
-        by LINZ. For slightly higher (4 m) accuracy accuracy use seven parameter transformation
-        version LINZv2. For highest (0.1-1 m) accuracy use grid transformation version
-        LINZv3.
-      scope:
-      - Spatial referencing.
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 82cbab29-43bb-4598-a0b3-a93ccf482a18
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: c74b8f16-4e13-40f5-a3e7-e05a0fd5042b
-      uuid: 6ac23fb1-5c23-4231-9e72-f878b5fe4b4c
-    item_class: coordinate-ops--transformation
-    item_uuid: 6ac23fb1-5c23-4231-9e72-f878b5fe4b4c
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -80,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

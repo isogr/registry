@@ -4,67 +4,6 @@ id: e835ce64-edca-471a-98fe-6b40e6ad7ae0
 isConcluded: true
 items:
   /coordinate-ops--transformation/b72a355a-914a-4854-ae8a-a9f61fe09208.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 1.5
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -63.7
-        n: 48.07
-        name: Canada - onshore and offshore - New Brunswick.
-        s: 44.56
-        w: -69.05
-      identifier: 663
-      informationSources:
-      - author: D. Ouellette
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Personal email communication.
-        publisher: GeoNB, Service New Brunswick, Government of New Brunswick
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'RE: ATS77 - NAD27 transformation grids'
-        uuid: 165224b8-98b3-46bd-a42c-5747da02fb86
-      name: NAD27 to ATS77 [NBv1]
-      operationVersion: NBv1
-      parameters:
-      - fileCitation:
-          author: D. Ouellette
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Personal email communication.
-          publisher: GeoNB, Service New Brunswick, Government of New Brunswick
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: 'RE: ATS77 - NAD27 transformation grids'
-          uuid: 85faa82e-efc0-46ed-b07c-fd7ff4127b4e
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: TRNB2777.DAT
-      remarks: Grid tranformation in NTv2 format adopted for use in New Brunswick.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: a0c01a52-f404-48f3-951a-900aba820bd7
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 369e1fef-6901-49d5-be7e-668c25c73866
-      uuid: b72a355a-914a-4854-ae8a-a9f61fe09208
-    item_class: coordinate-ops--transformation
-    item_uuid: b72a355a-914a-4854-ae8a-a9f61fe09208
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -78,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,59 +4,6 @@ id: 7bc17ded-dace-4a6a-bb01-14704243a139
 isConcluded: true
 items:
   /coordinate-ops--transformation/09449e0f-6b8f-4010-a89f-55c1f997d326.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.03
-      coordOperationMethod: 1e5c11d5-9ed1-42e7-a8de-0e6c452df611
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 154.0
-        n: 45.6
-        name: Japan - onshore and offshore
-        s: 20.4
-        w: 122.9
-      identifier: 629
-      informationSources:
-      - author: M. Tobita
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Japanese with English abstract.
-        publisher: Journal of the Geodetic Society of Japan
-        seriesIssueID: Volume 55, Number 4
-        seriesName: Journal of the Geodetic Society of Japan
-        seriesPage: 355-367
-        title: PatchJGD, Software for Correcting Geodetic Coordinates for Coseismic
-          Displacements
-        uuid: 9693a405-1056-4a0e-b7c3-aa16160aa953
-      - author: Geospatial Information Authority of Japan (GSI)
-        edition: 1.0.1
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage in Japanese.
-        publisher: Geospatial Information Authority of Japan (GSI), Tsukuba, Japan
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: PatchJGD for Height Ver.1.0.1
-        uuid: 031bff74-753e-4c73-9f73-469419a6149b
-      name: JGD2000 (vertical) to JGD2011 (vertical) [GSIv1]
-      operationVersion: GSIv1
-      parameters: []
-      remarks: PatchJGD for Height application from GSI.
-      scope:
-      - Spatial referencing
-      sourceCRS: null
-      status: valid
-      targetCRS: null
-      uuid: 09449e0f-6b8f-4010-a89f-55c1f997d326
-    item_class: coordinate-ops--transformation
-    item_uuid: 09449e0f-6b8f-4010-a89f-55c1f997d326
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -70,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

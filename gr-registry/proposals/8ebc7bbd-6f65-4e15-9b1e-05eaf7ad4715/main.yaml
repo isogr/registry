@@ -4,86 +4,6 @@ id: 8ebc7bbd-6f65-4e15-9b1e-05eaf7ad4715
 isConcluded: true
 items:
   /crs--geodetic/a9599c46-bc6c-424f-bbfb-20226b2e739f.yaml:
-    item_body:
-      aliases: []
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: ba2620c2-8dd5-4f37-9eb6-5ff02c99048f
-      description: null
-      extent:
-        e: 149.55
-        n: 23.9
-        name: Guam - onshore and offshore. Northern Mariana Islands - onshore and
-          offshore. Palau - onshore and offshore.
-        s: 1.64
-        w: 129.48
-      identifier: 280
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: aca6703f-e9df-41bc-a8c9-c8569fd7d30e
-      - author: R.A. Snay
-        edition: null
-        editionDate: 2003-01-01
-        isbn: null
-        issn: null
-        otherDetails: MARP00, PACP00
-        publisher: American Cobgress on Surveying and Mapping
-        seriesIssueID: Volume 63, No. 1
-        seriesName: Surveying and Land Information Systems
-        seriesPage: ' 5-12'
-        title: Introducing Two Spatial Reference Frames for Regions of the Pacific
-          Ocean
-        uuid: 9e719b41-125b-4f76-8356-438123336107
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: 829f683f-bff1-4a38-bece-a9db09255cb3
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: 2017-03-16
-        isbn: null
-        issn: null
-        otherDetails: webpage
-        publisher: National Oceanic and Atmospheric Administration (NOAA) National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: NGS Online listing of transformation parameters
-        seriesPage: null
-        title: NGS No Longer Updates Published CORS Coordinates in the Following Reference
-          Frames
-        uuid: 12e522a9-6540-4d48-bf9a-074289261a41
-      name: NAD 83 (MARP00) - LatLon
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: a9599c46-bc6c-424f-bbfb-20226b2e739f
-    item_class: crs--geodetic
-    item_uuid: a9599c46-bc6c-424f-bbfb-20226b2e739f
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -97,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

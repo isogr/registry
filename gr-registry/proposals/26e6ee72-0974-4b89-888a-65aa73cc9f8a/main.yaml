@@ -4,129 +4,6 @@ id: 26e6ee72-0974-4b89-888a-65aa73cc9f8a
 isConcluded: true
 items:
   /coordinate-ops--transformation/fd987eb1-9def-4404-8ac7-cff4d4e8748f.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.1
-      coordOperationMethod: caef8cd6-8fbf-47fe-945c-3cf98193caf6
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 173.4
-        n: -8.47
-        name: Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
-          Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore.
-          Cocos (Keeling) Islands - onshore and offshore.
-        s: -60.56
-        w: 93.41
-      identifier: 546
-      informationSources:
-      - author: J. Dawson, J. Steed
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geoscience Australia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: International Terrestrial Reference Frame (ITRF) to GDA94 Coordinate
-          Transformations
-        uuid: 48e56177-124e-42cb-8f54-c0c10c6c2f08
-      name: ITRF96 to GDA94 [GA v1]
-      operationVersion: GA v1
-      parameters:
-      - fileCitation: null
-        parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-        value: null
-      - fileCitation: null
-        parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-        value: null
-      - fileCitation: null
-        parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-        value: null
-      - fileCitation: null
-        parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
-        value: null
-      - fileCitation: null
-        parameter: 89e37670-d103-4c57-94f5-fca410189132
-        type: measure (w/ UoM)
-        unitOfMeasurement: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
-        value: null
-      - fileCitation: null
-        parameter: 76fd4ed1-3f83-47dc-839f-3ecf111c2636
-        type: measure (w/ UoM)
-        unitOfMeasurement: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
-        value: null
-      - fileCitation: null
-        parameter: 42c379ed-303e-4a5f-87f2-04c95d2f4b63
-        type: measure (w/ UoM)
-        unitOfMeasurement: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
-        value: null
-      - fileCitation: null
-        parameter: c127d884-6f2f-4491-99ab-1c918bd2c954
-        type: measure (w/ UoM)
-        unitOfMeasurement: 01ac3dcd-0cbb-4a3e-aaf0-d450d7ba4e02
-        value: null
-      - fileCitation: null
-        parameter: a9e25756-e699-420d-a9be-d0f83f7115d9
-        type: measure (w/ UoM)
-        unitOfMeasurement: 01ac3dcd-0cbb-4a3e-aaf0-d450d7ba4e02
-        value: null
-      - fileCitation: null
-        parameter: 88228e9d-3b44-41ff-8ca7-a73a8acdc881
-        type: measure (w/ UoM)
-        unitOfMeasurement: 01ac3dcd-0cbb-4a3e-aaf0-d450d7ba4e02
-        value: null
-      - fileCitation: null
-        parameter: 884b428c-57f0-4c0b-a054-4a49ca76ee06
-        type: measure (w/ UoM)
-        unitOfMeasurement: d978906c-4d5c-42fe-8133-e36c6fa4002e
-        value: null
-      - fileCitation: null
-        parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
-        type: measure (w/ UoM)
-        unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
-        value: null
-      remarks: Implemented 2001. Replaced by Dawson and Woods transformation of 2010,
-        ITRF96 to GDA94 [GA-Aus 2010 v2].
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 20beee39-f810-4204-951f-4c0f97413f74
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: b73b3864-4a86-472f-9c14-9f25293631cb
-      uuid: fd987eb1-9def-4404-8ac7-cff4d4e8748f
-    item_class: coordinate-ops--transformation
-    item_uuid: fd987eb1-9def-4404-8ac7-cff4d4e8748f
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -140,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

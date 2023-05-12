@@ -4,76 +4,6 @@ id: a3401477-23c4-4bc2-bbe8-f917dc514e47
 isConcluded: true
 items:
   /coordinate-ops--transformation/61dcd0bb-75db-463a-99c2-eeb79cc4e2a4.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.2
-      coordOperationMethod: c05b9dd7-4b2b-407a-b8ba-d7012e457e02
-      dateAccepted: 2021-08-30
-      description: null
-      extent:
-        e: 55.67
-        n: 32.16
-        name: Saudi Arabia - onshore.
-        s: 16.37
-        w: 34.51
-      identifier: 782
-      informationSources:
-      - author: General Directorate of Geodesy
-        edition: ''
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://www.gasgi.gov.sa/En/Products/Products_v1/Geodesy/Documents/Technical_Summary_for_SANSRS_v1.1.pdf
-          (accessed 2021-06-07)
-        publisher: General Directorate of Geodesy, General Authority for Survey and
-          Geospatial Information, Kingdom of Saudi Arabia
-        seriesIssueID: ','
-        seriesName: ','
-        seriesPage: ','
-        title: Technical Summary for Saudi Arabia National Spatial Reference System
-          (SANSRS).
-        uuid: a0daf77d-9161-40d3-932f-39d274438976
-      name: KSA-GRF17 to KSA-VRF14 [GASGI v1]
-      operationVersion: GASGI v1
-      parameters:
-      - fileCitation:
-          author: General Directorate of Geodesy
-          edition: ''
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: https://www.gasgi.gov.sa/En/Products/Products_v1/Geodesy/Documents/Technical_Summary_for_SANSRS_v1.1.pdf
-            (accessed 2021-06-07)
-          publisher: General Directorate of Geodesy, General Authority for Survey
-            and Geospatial Information, Kingdom of Saudi Arabia
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: Technical Summary for Saudi Arabia National Spatial Reference System
-            (SANSRS).
-          uuid: 9ea93f04-a7aa-43c8-8c05-f92fdd525cbf
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: KSA-GEOID17.gra
-      remarks: Hybrid geoid grid transformation with resolution 0.02 deg lat x 0.025
-        deg lon. Accuracy is ~2 cm in Eastern region and ~10-20 cm in rest of KSA.
-        The hybrid grid is based on a gravimetric geoid fitted to KSA-VRF14 through
-        a set of 280 GPS/levelling points. To obtain access to the KSA-GEOID17 grid
-        file, contact GASGI at info@gasgi.gov.sa. The grid file also available in
-        IGN2009 format.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: ee47bd3d-9b02-4747-b4ff-99d908d8eae8
-      status: valid
-      targetCRS: null
-      uuid: 61dcd0bb-75db-463a-99c2-eeb79cc4e2a4
-    item_class: coordinate-ops--transformation
-    item_uuid: 61dcd0bb-75db-463a-99c2-eeb79cc4e2a4
     type: addition
 justification: New transformation proposal for Saudi Arabia. Submitted by K. Kelly
   & M. Craymer (Control Body) on behalf of General Directorate of Geodesy, General
@@ -89,7 +19,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-08-30
 timeProposed: 2021-08-30

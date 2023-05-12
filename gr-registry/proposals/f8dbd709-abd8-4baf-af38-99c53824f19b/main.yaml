@@ -4,37 +4,6 @@ id: f8dbd709-abd8-4baf-af38-99c53824f19b
 isConcluded: true
 items:
   /unit-of-measurement/932dce03-daeb-4762-ac71-81c69c41746b.yaml:
-    item_body:
-      aliases:
-      - meter
-      - International metre
-      - m
-      dateAccepted: 2018-11-17
-      denominator: 1.0
-      identifier: 3
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 80000-3:2006
-        seriesName: International Standard
-        seriesPage: null
-        title: "ISO 80000-3 Quantities and units \u2014 Part 3: Space and time"
-        uuid: 0d572aa9-91b9-45de-9b44-9740cbb4c2e3
-      measureType: LENGTH
-      name: metre
-      numerator: 1.0
-      remarks: SI standard unit for length.
-      standardUnit: 932dce03-daeb-4762-ac71-81c69c41746b
-      status: valid
-      symbol: m
-      uuid: 932dce03-daeb-4762-ac71-81c69c41746b
-    item_class: unit-of-measurement
-    item_uuid: 932dce03-daeb-4762-ac71-81c69c41746b
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -48,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,98 +4,6 @@ id: a70a57ec-8355-48c5-9c7d-97dbdb58d93d
 isConcluded: true
 items:
   /coordinate-ops--transformation/fc4d315e-540e-4da3-9a45-b802d85ff5f3.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 1.5
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -57.1
-        n: 62.62
-        name: Canada - onshore and offshore - Quebec.
-        s: 44.99
-        w: -79.85
-      identifier: 571
-      informationSources:
-      - author: Y. Theriault
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Personal email communication.
-        publisher: "Service de la geodesie et des leves geospatiaux, Direction de\
-          \ la reference geographique, Direction generale de l\u2019information geospatiale,\
-          \ Ministere de l\u2019Energie et des Ressources naturelles, Gouvernement\
-          \ du Quebec"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'RE: GSD file'
-        uuid: 53431f21-0845-40f6-b6f2-7a45789ba82d
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Desktop Applications: NTv2'
-        uuid: 0325fc50-3e5a-4d35-8ffc-d6dd7007c853
-      - author: Esri Canada
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Esri, Redlands, CA
-        seriesIssueID: 'Article ID: 000011846'
-        seriesName: null
-        seriesPage: null
-        title: 'FAQ: What are some of the transformation methods for Canada?'
-        uuid: 7c10170d-72f7-40bd-8dfa-353355671dac
-      name: NAD27 to NAD83(Original) [QCv1]
-      operationVersion: QCv1
-      parameters:
-      - fileCitation:
-          author: Y. Theriault
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Personal email communication.
-          publisher: "Service de la geodesie et des leves geospatiaux, Direction de\
-            \ la reference geographique, Direction generale de l\u2019information\
-            \ geospatiale, Ministere de l\u2019Energie et des Ressources naturelles,\
-            \ Gouvernement du Quebec"
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: 'RE: GSD file'
-          uuid: 874dc5e0-1300-449e-812b-8f2507aaad2d
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: NA27NA83.GSB
-      remarks: Grid tranformation in NTv2 format adopted for use in Quebec.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: a0c01a52-f404-48f3-951a-900aba820bd7
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
-      uuid: fc4d315e-540e-4da3-9a45-b802d85ff5f3
-    item_class: coordinate-ops--transformation
-    item_uuid: fc4d315e-540e-4da3-9a45-b802d85ff5f3
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -109,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,46 +4,6 @@ id: 3a5a46f1-856f-44c9-b55a-0a5dd141b3e4
 isConcluded: true
 items:
   /crs--geodetic/053bb7c4-5b67-4808-bce8-b4695cc33fba.yaml:
-    item_body:
-      aliases:
-      - International GNSS Service 2008 (v1)
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2018-11-17
-      datum: 5c0123f4-5fa9-42c5-a43e-96501d15ee63
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 417
-      informationSources:
-      - author: P. Rebischung
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Springer
-        seriesIssueID: Volume 16, Issue 4
-        seriesName: GPS Solutions
-        seriesPage: null
-        title: 'IGS08: the IGS realization of ITRF2008'
-        uuid: fa1094fa-8fd6-45c9-90e8-9a3574259218
-      name: IGS08 - XYZ
-      operation: null
-      remarks: 'Replaced by IGb08 - XYZ.
-
-        Used by IGS products within the period 2011-04-17 thru 2012-10-06.'
-      scope: Spatial referencing
-      status: valid
-      uuid: 053bb7c4-5b67-4808-bce8-b4695cc33fba
-    item_class: crs--geodetic
-    item_uuid: 053bb7c4-5b67-4808-bce8-b4695cc33fba
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -57,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,82 +4,6 @@ id: d0caf230-4de6-46ff-b218-fe0aa6217fcd
 isConcluded: true
 items:
   /datums--geodetic/c89da5d3-6a7e-4033-91ad-cdec95f62a72.yaml:
-    item_body:
-      aliases:
-      - ETRF96
-      coordinateReferenceEpoch: '1989.0'
-      dateAccepted: 2018-11-17
-      definition: European Terrestrial Reference Frame 1996
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: 39.65
-        n: 84.17
-        name: 'Europe - onshore and offshore: Albania, Andorra, Austria, Belgium,
-          Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark,
-          Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Hungary,
-          Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia,
-          Malta, Monaco, Montenegro, Netherlands, Norway including Svalbard and Jan
-          Mayen, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia,
-          Spain, Sweden, Switzerland, United Kingdom (UK) including Channel Islands
-          and Isle of Man, Vatican City State.'
-        s: 32.88
-        w: -16.1
-      identifier: 141
-      informationSources:
-      - author: C. Boucher, Z. Altamimi
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Institute National de l'Information Geographique et Forestiere
-          (IGN), Laboratoire de Recherche en Geodesie (LAREG)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Memo : Specifications for reference frame fixing in the analysis of
-          a EUREF GPS campaign (version 8)'
-        uuid: 359a61f2-f3d4-4872-a457-bcf4c0f9e68b
-      - author: Z. Altamimi
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
-          re (IGN), France"
-        seriesIssueID: '1.0'
-        seriesName: IERS Technical Note
-        seriesPage: null
-        title: 'EUREF Technical Note 1: Relationship and Transformation between the
-          International and the European Terrestrial Reference Systems'
-        uuid: 8e879110-5fd4-4704-a2da-79eaa42c66dd
-      - author: Z. Altamimi
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'ETRS89 realization: Current status, ETRF2005 and Future Development'
-        uuid: 9138710e-c3b4-4f49-92a1-1976e6cea5bc
-      name: European Terrestrial Reference Frame 1996
-      originDescription: "Coincides with ITRF96 in orientation and scale at epoch\
-        \ 1989.0 realigned to ITRF89 at epoch 1989.0 using 3 translations and is fixed\
-        \ to the stable part of the Eurasian tectonic plate through 3 rotation rates\
-        \ derived from the NNR-NUVEL-1A geophysical model, representing the Eurasian\
-        \ plate\u2019s angular velocity about its Euler pole."
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: null
-      remarks: The ETRF96 reference frame is a realisation of the ETRS89 reference
-        system.
-      scope: Spatial referencing
-      status: valid
-      uuid: c89da5d3-6a7e-4033-91ad-cdec95f62a72
-    item_class: datums--geodetic
-    item_uuid: c89da5d3-6a7e-4033-91ad-cdec95f62a72
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -93,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

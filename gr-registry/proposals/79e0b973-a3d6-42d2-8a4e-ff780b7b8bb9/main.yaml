@@ -4,98 +4,6 @@ id: 79e0b973-a3d6-42d2-8a4e-ff780b7b8bb9
 isConcluded: true
 items:
   /coordinate-ops--transformation/3dd9021b-faa6-44d4-8f16-302f404d1508.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 1.0
-      coordOperationMethod: 2ef0db1a-c7e8-44a7-850b-d6fc6133e65e
-      dateAccepted: 2021-06-29
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World
-        s: -90.0
-        w: -180.0
-      identifier: 772
-      informationSources:
-      - author: IGN
-        edition: ''
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: ftp://itrf-ftp.ign.fr/pub/itrf/WGS84.TXT (accessed 2021-05-17)
-        publisher: IGN
-        seriesIssueID: ''
-        seriesName: ''
-        seriesPage: ''
-        title: ITRF and WGS84
-        uuid: 78e3316a-c682-42c5-9e84-c4ba3391465a
-      - author: D.D. McCarthy (ed.)
-        edition: ''
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://www.iers.org/IERS/EN/Publications/TechnicalNotes/tn13.html
-          (accessed 2021-04-25)
-        publisher: Central Bureau of IERS - Observatoire de Paris
-        seriesIssueID: '13'
-        seriesName: IERS Technical Notes
-        seriesPage: ''
-        title: IERS Standards (1992)
-        uuid: 1fde0d69-0c42-4ada-bea6-c0e55dcff07d
-      name: ITRF90 to WGS 84 TRANSIT [IERS v1]
-      operationVersion: IERS v1
-      parameters:
-      - fileCitation: null
-        parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
-        type: measure (w/ UoM)
-        unitOfMeasurement: 168a60b2-b4d9-4420-91e7-a2f65a8fb0af
-        value: null
-      - fileCitation: null
-        parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
-        type: measure (w/ UoM)
-        unitOfMeasurement: 168a60b2-b4d9-4420-91e7-a2f65a8fb0af
-        value: null
-      - fileCitation: null
-        parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
-        type: measure (w/ UoM)
-        unitOfMeasurement: 168a60b2-b4d9-4420-91e7-a2f65a8fb0af
-        value: null
-      - fileCitation: null
-        parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
-        value: null
-      remarks: ''
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 259f14fd-a347-41db-a39e-2092ad1bcc2c
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 1d007b7b-7628-4ea0-b0c0-81e866ee545b
-      uuid: 3dd9021b-faa6-44d4-8f16-302f404d1508
-    item_class: coordinate-ops--transformation
-    item_uuid: 3dd9021b-faa6-44d4-8f16-302f404d1508
     type: addition
 justification: Submitted by M. Craymer, Chair, Control Body for the ISO Geodetic Registry.
 notes: []
@@ -109,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-06-29
 timeProposed: 2021-06-29

@@ -4,54 +4,6 @@ id: 1456bf44-8064-45d9-931f-69a4122dde7b
 isConcluded: true
 items:
   /coordinate-op-method/2d6cb205-6fe6-4ed9-b366-1775e5a017a0.yaml:
-    item_body:
-      aliases:
-      - Geocentric Transformation
-      - Bursa-Wolf Transformation
-      - 7-Parameter Transformation
-      - Geographic Transformation
-      - Helmert Transformation
-      - Coordinate Transformation
-      dateAccepted: 2018-11-17
-      definition: null
-      description: null
-      formula: null
-      formulaCitation:
-        author: International Association of Oil and Gas Producers (IOGP)
-        edition: '51.0'
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Association of Oil and Gas Producers (IOGP)
-        seriesIssueID: 373-7-2
-        seriesName: IOGP Publication
-        seriesPage: null
-        title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
-          including Formulas'
-        uuid: 57230a30-b599-4fcf-9c53-de331e1c3fc9
-      identifier: 79
-      informationSources: []
-      name: Coordinate Frame Transformation (geographic 2D domain)
-      parameters:
-      - f2b42193-1669-4320-a2b0-c1ecf71520cb
-      - c815b6d3-19c5-4a59-8bbc-bec6416ddf28
-      - 49198a70-aaa8-4e12-9014-efb789f5a004
-      - e5c3331d-b1a1-47a7-b7aa-560e3c110928
-      - ce8ddaf4-68b2-43d1-baa9-88656ee12322
-      - 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
-      - d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
-      remarks: This method is similar to the Coordinate Frame Transformation in the
-        geographic 3D domain but in the geographic 2D domain. This method uses counter-clockwise
-        rotations and is similar to the Position Vector Transformation that uses clockwise
-        rotations. The Position Vector (clockwise) convention is used by the International
-        Earth Rotation and Reference Systems Service (IERS) and International GNSS
-        Service (IGS). See the geocentric Cartesian and geographic 3D variants of
-        this method for transformations of other CRS types.
-      status: valid
-      uuid: 2d6cb205-6fe6-4ed9-b366-1775e5a017a0
-    item_class: coordinate-op-method
-    item_uuid: 2d6cb205-6fe6-4ed9-b366-1775e5a017a0
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -65,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

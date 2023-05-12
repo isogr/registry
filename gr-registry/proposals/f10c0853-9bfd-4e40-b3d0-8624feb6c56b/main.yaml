@@ -4,44 +4,6 @@ id: f10c0853-9bfd-4e40-b3d0-8624feb6c56b
 isConcluded: true
 items:
   /datums--vertical/1bd04c4e-0ab1-4fa3-ba72-b554cea45206.yaml:
-    item_body:
-      aliases:
-      - JGD2000 (vertical)
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: null
-      extent:
-        e: 145.8
-        n: 45.5
-        name: Japan - onshore - Hokkaido, Honshu, Shikoku, Kyushu.
-        s: 31.0
-        w: 129.5
-      identifier: 180
-      informationSources:
-      - author: T. Imakiire, E. Hakoiwa
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
-        seriesIssueID: Volume 51
-        seriesName: Bulletin of the Geographical Survey Institute
-        seriesPage: "31\u201351"
-        title: JGD2000(vertical) -The New Height System of Japan
-        uuid: ed9a4ed2-6350-4690-840d-eaeb9525305b
-      name: Japanese Geodetic Datum 2000 (vertical)
-      originDescription: Japanese Geodetic Datum 2000 (Vertical) consists of a leveling
-        network on the main island of Japan referenced to a single origin point (Chiyoda-Ward,
-        Tokyo) with a height of  24.4140m above MSL.
-      releaseDate: 2002-04
-      remarks: Replaces JSLD69 & JSLD72 from 2002-04. Replaced by Japanese Geodetic
-        Datum 2011 (Vertical) from 2011-10-21.
-      scope: Spatial referencing
-      status: valid
-      uuid: 1bd04c4e-0ab1-4fa3-ba72-b554cea45206
-    item_class: datums--vertical
-    item_uuid: 1bd04c4e-0ab1-4fa3-ba72-b554cea45206
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -55,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

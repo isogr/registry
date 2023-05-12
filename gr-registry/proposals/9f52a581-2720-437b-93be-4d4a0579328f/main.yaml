@@ -4,89 +4,6 @@ id: 9f52a581-2720-437b-93be-4d4a0579328f
 isConcluded: true
 items:
   /coordinate-ops--transformation/ee071266-c987-482a-97f8-7d9c24b94f41.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 4.0
-      coordOperationMethod: 2d6cb205-6fe6-4ed9-b366-1775e5a017a0
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 179.27
-        n: -33.89
-        name: New Zealand - onshore and nearshore - North Island, South Island, Stewart
-          Island.
-        s: -47.65
-        w: 165.87
-      identifier: 711
-      informationSources:
-      - author: Office of the Surveyor General
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Land Information New Zealand
-        seriesIssueID: LINZS25000
-        seriesName: null
-        seriesPage: null
-        title: Standard for New Zealand Geodetic Datum 2000
-        uuid: f21b5f0b-e21f-4372-afd9-43d6410c7a3a
-      name: NZGD1949 to NZGD2000 [LINZv2]
-      operationVersion: LINZv2
-      parameters:
-      - fileCitation: null
-        parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
-        type: measure (w/ UoM)
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: null
-      - fileCitation: null
-        parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-        value: null
-      - fileCitation: null
-        parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-        value: null
-      - fileCitation: null
-        parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-        value: null
-      - fileCitation: null
-        parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
-        type: measure (w/ UoM)
-        unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
-        value: null
-      remarks: Medium accuracy seven parameter version of NZGD1949 to NZGD2000 transformation
-        by LINZ. For slightly lower (5 m) accuracy accuracy use three parameter transformation
-        version LINZv1. For highest (0.1-1 m) accuracy use grid transformation version
-        LINZv3.
-      scope:
-      - Spatial referencing.
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 82cbab29-43bb-4598-a0b3-a93ccf482a18
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: c74b8f16-4e13-40f5-a3e7-e05a0fd5042b
-      uuid: ee071266-c987-482a-97f8-7d9c24b94f41
-    item_class: coordinate-ops--transformation
-    item_uuid: ee071266-c987-482a-97f8-7d9c24b94f41
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -100,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

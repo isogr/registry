@@ -4,100 +4,6 @@ id: 917481bf-f6b9-482d-86e9-42bd8efccfda
 isConcluded: true
 items:
   /coordinate-ops--transformation/e8f23f35-2162-4cf6-823d-261be6d0f969.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.1
-      coordOperationMethod: 8a9ed4e6-5a23-471f-9a78-a2235e22df07
-      dateAccepted: 2021-11-19
-      description: null
-      extent:
-        e: 173.34
-        n: -8.47
-        name: Australia including Lord Howe Island, Macquarie Island, Ashmore and
-          Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Norfolk Island.
-          All onshore and offshore.
-        s: -60.56
-        w: 93.41
-      identifier: 791
-      informationSources:
-      - author: Geoscience Australia
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://s3-ap-southeast-2.amazonaws.com/geoid/AGQG/AGQG_20191107.gsb
-          (accessed 2021-09-27)
-        publisher: Geoscience Australia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: AGQG_20191107.gsb
-        uuid: d4d336a8-27a5-47c5-9277-abdb97d07ee2
-      - author: Intergovernmental Committee on Surveying and Mapping (ICSM)
-        edition: Version 1.2
-        editionDate: 2020-08-26
-        isbn: null
-        issn: null
-        otherDetails: https://www.icsm.gov.au/sites/default/files/2020-08/AVWS%20Technical%20Implementation%20Plan_V1.2.pdf
-          (accessed 2021-09-27)
-        publisher: Geoscience Australia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Australian Vertical Working Surface (AVWS): Technical Implementation
-          Plan'
-        uuid: 590f75e8-3e0a-497a-b850-bad062adeb5c
-      - author: Geoscience Australia
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website. https://www.icsm.gov.au/australian-vertical-working-surface
-          (accessed 2021-09-27)
-        publisher: Geoscience Australia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Australian Vertical Working Surface
-        uuid: a1b32bf5-f4a3-4738-8424-7a5adb472e39
-      name: GDA2020 to AVWS - NHt [GA v1]
-      operationVersion: GA v1
-      parameters:
-      - fileCitation:
-          author: Geoscience Australia
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: https://s3-ap-southeast-2.amazonaws.com/geoid/AGQG/AGQG_20191107.gsb
-            (accessed 2021-09-27)
-          publisher: Geoscience Australia
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: AGQG_20191107.gsb
-          uuid: 81238e6a-f41a-4d3a-a757-78c65847669e
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: AGQG_20191107.gsb
-      remarks: AGQG is used to realise the AVWS datum. Uncertainties (4-8 cm across
-        mainland Australia) are given in the accompanying grid file AGQG_uncertainty_20191107.gsb.
-        This version of  the AGQG model contains a systematic bias of ~0.91 m due
-        to an error in information from suppliers of the global model used in its
-        creation. This AGQG model has been replaced with version GAv2 called AGQG_20201120.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: b864475e-07ce-4bc7-8322-e25163b63ca2
-      status: invalid
-      targetCRS: null
-      uuid: e8f23f35-2162-4cf6-823d-261be6d0f969
-    item_class: coordinate-ops--transformation
-    item_uuid: e8f23f35-2162-4cf6-823d-261be6d0f969
     type: addition
 justification: Transformation for new vertical datum. Submitted by Nicholas Brown,
   Geoscience Australia.
@@ -112,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-10-25
 timeProposed: 2021-11-19

@@ -4,81 +4,6 @@ id: b43950ff-2b81-4701-a8e7-6528d06b80be
 isConcluded: true
 items:
   /datums--geodetic/4ded38f4-bc72-40be-9f70-d44b495522b1.yaml:
-    item_body:
-      aliases:
-      - SIRGAS2000
-      - SIRGAS 2000
-      - Sistema de Referencia Geocentrico para las Americas
-      - South American Geocentric Reference System 2000
-      - Geocentric Reference System for the Americas
-      - Geocentric Reference System for South America
-      coordinateReferenceEpoch: '2000.4'
-      dateAccepted: 2018-11-17
-      definition: Sistema de Referencia Geocentrico para America del Sur 2000
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 169
-      informationSources:
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
-          Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '128.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 544-549
-        title: Deformation of the South American crust estimated from finite element
-          and collocation methods
-        uuid: c532a2ce-02b7-4775-9f7d-a4be28556ecd
-      - author: H. Drewes, K. Kaniuth, C. Voelksen, S.M. Alves Costa, L.P. Souto Fortes
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '128.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 32-37
-        title: Results of the SIRGAS campaign 2000 and coordinates variations with
-          respect to the 1995 South American geocentric reference frame
-        uuid: d09fd806-5d50-4f43-a098-6806f5d3f78d
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: a4d1e475-3a0e-478e-a149-7503c4944b4a
-      name: Sistema de Referencia Geocentrico para America del Sur 2000
-      originDescription: Realized by a frame of 184 continuously operating and campaign
-        stations using GPS observations from ten days in May 2000 and aligned to ITRF2000
-        at epoch 2000.4. Velocity model VEMOS2003 used to propagate coordinates from
-        an arbitrary epoch to the 2000.4 reference epoch.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '2005'
-      remarks: Name changed from "South American Geocentric Reference System" to "Geocentric
-        Reference System of the Americas" in 2001. Replaces SIRGAS95. Replaced by
-        DGF00P01 for continuous stations in some SIRGAS countries.
-      scope: Spatial referencing
-      status: valid
-      uuid: 4ded38f4-bc72-40be-9f70-d44b495522b1
-    item_class: datums--geodetic
-    item_uuid: 4ded38f4-bc72-40be-9f70-d44b495522b1
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -92,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

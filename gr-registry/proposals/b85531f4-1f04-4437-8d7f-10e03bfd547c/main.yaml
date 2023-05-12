@@ -4,40 +4,6 @@ id: b85531f4-1f04-4437-8d7f-10e03bfd547c
 isConcluded: true
 items:
   /coordinate-op-method/9cb38505-edbf-4cf3-a465-e067d3d96ee9.yaml:
-    item_body:
-      aliases:
-      - National Transformation version 2 grid shift
-      dateAccepted: 2018-11-17
-      definition: null
-      description: null
-      formula: null
-      formulaCitation:
-        author: D. Junkings
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Institute of Surveying and Mapping, Ottawa, Canada
-        seriesIssueID: null
-        seriesName: 'Moving to NAD ''83: the new address for georeferenced data in
-          Canada, D.C. Barnes (ed.)'
-        seriesPage: 16-40
-        title: The National Transformation for Converting Between NAD27 and NAD83
-          in Canada
-        uuid: 2d5fe996-ca7b-43a4-b2b0-0b71808a99f1
-      identifier: 95
-      informationSources: []
-      name: NTv2
-      parameters:
-      - 09dd0359-80ee-4373-9001-1c0fa1033cb7
-      remarks: National Transformation version 2 grid shift file interpolation. Geodetic
-        transformation operating on a grid of 2D geographic coordinate differences
-        by bi-linear interpolation. Assumes longitudes to be positive west.
-      status: valid
-      uuid: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-    item_class: coordinate-op-method
-    item_uuid: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -51,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

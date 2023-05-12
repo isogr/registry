@@ -4,48 +4,6 @@ id: a250df35-93f2-48a4-8f1d-22fb6068dea4
 isConcluded: true
 items:
   /datums--geodetic/e207767a-422c-4069-b667-00f43c28c120.yaml:
-    item_body:
-      aliases:
-      - AGD84
-      coordinateReferenceEpoch: '1962.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: bebbfb24-0705-4b44-88fe-652d3e6b99bb
-      extent:
-        e: 157.5
-        n: -8.0
-        name: Australia - onshore and offshore.
-        s: -45.0
-        w: 111.0
-      identifier: 198
-      informationSources:
-      - author: Working Party of the National Mapping Council of Australia
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: National Mapping Council of Australia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: The Australian Geodetic Datum Technical Manual
-        uuid: 0bb5361f-733e-44ad-b923-112e40c9b50b
-      name: Australian Geodetic Datum 1984
-      originDescription: Defined through coordinates and observations used to derive
-        the previous AGD66 coordinates with the addition of point-position and multi-station
-        Doppler, SLR and VLBI observations. The final coordinates were obtained from
-        a single national least squares adjustment of all observations holding the
-        coordinate of the Johnston Origin fixed.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '1985-12-01'
-      remarks: Replaced AGD66 in Australia except in the States of New South Wales
-        and Tasmania and the Australian Capital Territory and the Northern Territory.
-      scope: Spatial referencing
-      status: valid
-      uuid: e207767a-422c-4069-b667-00f43c28c120
-    item_class: datums--geodetic
-    item_uuid: e207767a-422c-4069-b667-00f43c28c120
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -59,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

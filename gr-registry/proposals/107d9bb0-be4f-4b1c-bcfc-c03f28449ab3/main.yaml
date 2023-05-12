@@ -4,73 +4,6 @@ id: 107d9bb0-be4f-4b1c-bcfc-c03f28449ab3
 isConcluded: true
 items:
   /coordinate-ops--transformation/ff234bed-5d37-414a-81ad-9434369d1149.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.02
-      coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -66.91
-        n: 49.38
-        name: United States (USA) - onshore - CONUS (Alabama, Arizona, Arkansas, California,
-          Colorado, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana,
-          Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan,
-          Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire,
-          New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma,
-          Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee,
-          Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming).
-        s: 24.41
-        w: -124.79
-      identifier: 580
-      informationSources:
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: National Geodetic Survey Geoid Homepage
-        uuid: 121366f9-9749-41cf-988f-aa797ac3c18a
-      name: NAD 83 (FBN) to NAVD88 - OHt [v1]
-      operationVersion: v1
-      parameters:
-      - fileCitation:
-          author: National Geodetic Survey
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-          publisher: National Oceanic and Atmospheric Administration (NOAA), National
-            Geodetic Survey (NGS)
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: National Geodetic Survey Geoid Homepage
-          uuid: accd1baf-ce4f-45be-ab6f-6ee0e27e8852
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: geoid03_conus.bin
-      remarks: Grid Transformation
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 0f3edaed-095e-41aa-9829-3b0cc5731072
-      status: valid
-      targetCRS: null
-      uuid: ff234bed-5d37-414a-81ad-9434369d1149
-    item_class: coordinate-ops--transformation
-    item_uuid: ff234bed-5d37-414a-81ad-9434369d1149
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -84,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,34 +4,6 @@ id: 3610f521-c4d4-4896-ba4e-72d32e7f22e4
 isConcluded: true
 items:
   /coordinate-sys-axis/7578267e-1a3f-4bb8-97f6-07b9664f866d.yaml:
-    item_body:
-      abbreviation: h
-      dateAccepted: 2018-11-17
-      identifier: 36
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: Second Edition
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 19111:2007
-        seriesName: International Standard
-        seriesPage: null
-        title: ISO 19111 Geographical information - Spatial referencing by coordinates
-        uuid: f90f0bcc-b44f-42bf-bcb8-1c1d2476a36a
-      maxValue: null
-      minValue: null
-      name: Ellipsoidal height
-      orientation: up
-      remarks: Used only as part of an ellipsoidal 3D coordinate system in a geographic
-        3D coordinate reference system, never on its own.
-      status: valid
-      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-      uuid: 7578267e-1a3f-4bb8-97f6-07b9664f866d
-    item_class: coordinate-sys-axis
-    item_uuid: 7578267e-1a3f-4bb8-97f6-07b9664f866d
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -45,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

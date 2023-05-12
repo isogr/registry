@@ -4,77 +4,6 @@ id: a97baae0-c198-4562-82b4-d75ba85adf54
 isConcluded: true
 items:
   /crs--geodetic/33868b0f-0ea7-439d-be67-885f70190fa0.yaml:
-    item_body:
-      aliases:
-      - SIR10P01
-      - SIRGAS
-      - SIRGAS-CON
-      - Sistema de Referencia Geocentrico para las Americas
-      - SIRGAS Multi-Year Solution 2010
-      - Geocentric Reference System for the Americas
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2018-11-17
-      datum: b41a3ac1-f664-4c9a-96f6-6d669e4aa4c3
-      description: null
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 427
-      informationSources:
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
-          International Association of Geodesy Symposia, Vol 136. Springer, Berlin,
-          Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '136.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 657-664
-        title: The 2009 Horizontal Velocity Field for South America and the Caribbean
-        uuid: 14610e28-093a-4480-a0dc-1ecf63ca4cbb
-      - author: W. Seemueller, L. Sanchez, M. Seitz, H. Drewes
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
-        seriesIssueID: No. 86
-        seriesName: DGFI Report
-        seriesPage: null
-        title: The position and velocity solution SIR10P01 of the IGS Regional Network
-          Associate Analysis Centre for SIRGAS (IGS RNAAC SIR)
-        uuid: a9500b2d-120c-4138-8692-d51ef76e2719
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: 43fcbd9d-9615-4b38-a16b-76ea5bfb77a5
-      name: SIRGAS-CON SIR10P01 - XYZ
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 33868b0f-0ea7-439d-be67-885f70190fa0
-    item_class: crs--geodetic
-    item_uuid: 33868b0f-0ea7-439d-be67-885f70190fa0
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -88,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

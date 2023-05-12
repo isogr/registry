@@ -4,71 +4,6 @@ id: 47137c3e-829f-4005-b16d-68252a64a59b
 isConcluded: true
 items:
   /crs--geodetic/82bb6fd2-83d9-4e01-9b80-6821b5e2e0af.yaml:
-    item_body:
-      aliases:
-      - WGS84
-      - WGS 84
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: 3fb83b1e-0435-4d6a-b374-480eeb34408c
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 426
-      informationSources:
-      - author: L.B. Decker, Defense  Mapping Agency Aerospace Center
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Defense Mapping Agency Aerospace Center
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: World Geodetic System 1984
-        uuid: 254c1d4d-5dda-4403-a62c-68732149bc7e
-      - author: Defense Mapping Agency
-        edition: null
-        editionDate: 1987-09-30
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Defense Mapping Agency
-        seriesIssueID: TR8350.2
-        seriesName: Technical Report
-        seriesPage: null
-        title: 'Department of Defense World Geodetic System 1984: Its Definition and
-          Relationships with Local Geodetic Systems'
-        uuid: 9ec061de-893c-4ec0-b406-2eb95cbc1c66
-      - author: Defense Mapping Agency
-        edition: Second Edition
-        editionDate: 1991-09-01
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Defense Mapping Agency
-        seriesIssueID: TR8350.2
-        seriesName: Technical Report
-        seriesPage: null
-        title: 'Department of Defense World Geodetic System 1984: Its Definition and
-          Relationships with Local Geodetic Systems'
-        uuid: 8fbcefef-15cc-4205-9c07-d2dc6fc1d9df
-      name: WGS 84 TRANSIT - LatLon
-      operation: null
-      remarks: null
-      scope: Spatial referencing and GPS satellite navigation.
-      status: valid
-      uuid: 82bb6fd2-83d9-4e01-9b80-6821b5e2e0af
-    item_class: crs--geodetic
-    item_uuid: 82bb6fd2-83d9-4e01-9b80-6821b5e2e0af
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -82,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

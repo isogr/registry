@@ -4,41 +4,6 @@ id: f9055905-d848-4c3b-8df4-6bc0edabaf91
 isConcluded: true
 items:
   /coordinate-op-method/cf770dc9-bbfc-41ff-844f-81e69b2b22d1.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: 2018-11-17
-      definition: Geographic3D to Gravity Related Height (Canada)
-      description: null
-      formula: 'The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height
-        Transformation for Use With GPS in Canada'
-      formulaCitation:
-        author: M. Veronneau, A. Mainville, M.R. Craymer
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geodetic Survey Division, Natural Resources Canada, Government
-          of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height
-          Transformation for Use With GPS in Canada'
-        uuid: 4e373cbc-b9ed-4c3a-ba7c-793e493e5c83
-      identifier: 89
-      informationSources: []
-      name: Geographic3D to Gravity Related Height (Canada)
-      parameters:
-      - 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-      remarks: For consistency with earlier geoid models in Canada, reference software
-        for CGG2013 and CGG2013a uses bi-quadratic interpolation over nine grid nodes.
-        The bi-linear interpolation is sufficient for most uses as the newer models
-        have a higher spatial resolution. See information source for file format documentation.
-      status: valid
-      uuid: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
-    item_class: coordinate-op-method
-    item_uuid: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -52,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,44 +4,6 @@ id: c6781b95-2b2a-47d5-b2eb-12f84020a0e2
 isConcluded: true
 items:
   /crs--geodetic/a549e6be-be4c-40c5-9d79-9fac360e3a5e.yaml:
-    item_body:
-      aliases:
-      - AGD84
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: e207767a-422c-4069-b667-00f43c28c120
-      description: null
-      extent:
-        e: 157.5
-        n: -8.0
-        name: Australia - onshore and offshore.
-        s: -45.0
-        w: 111.0
-      identifier: 350
-      informationSources:
-      - author: Working Party of the National Mapping Council of Australia
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: National Mapping Council of Australia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: The Australian Geodetic Datum Technical Manual
-        uuid: 8a34eb42-95fc-40bd-8eeb-7273b5798aff
-      name: AGD84 - LatLon
-      operation: null
-      remarks: null
-      scope: Spatial referencing.
-      status: valid
-      uuid: a549e6be-be4c-40c5-9d79-9fac360e3a5e
-    item_class: crs--geodetic
-    item_uuid: a549e6be-be4c-40c5-9d79-9fac360e3a5e
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -55,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

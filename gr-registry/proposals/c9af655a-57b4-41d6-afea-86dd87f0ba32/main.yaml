@@ -4,48 +4,6 @@ id: c9af655a-57b4-41d6-afea-86dd87f0ba32
 isConcluded: true
 items:
   /datums--geodetic/ca368c22-d3b7-4f7c-a447-7b7bae1c44d1.yaml:
-    item_body:
-      aliases:
-      - GDA2020
-      coordinateReferenceEpoch: '2020.0'
-      dateAccepted: 2018-11-17
-      definition: Geocentric Datum of Australia 2020
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: 173.4
-        n: -8.47
-        name: Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
-          Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore.
-          Cocos (Keeling) Islands - onshore and offshore.
-        s: -60.56
-        w: 93.41
-      identifier: 186
-      informationSources:
-      - author: Permanent Committee on Geodesy of the Intergovernmental Committee
-          on Surveying and Mapping
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Intergovernmental Committee on Surveying and Mapping
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
-        uuid: 3cb002af-9461-4e88-9f64-c3daae5fb42b
-      name: Geocentric Datum of Australia 2020
-      originDescription: ITRF2014 at epoch 2020.0.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: 2017-05
-      remarks: Replaces GDA94. The reference frame is kept fixed or aligned to the
-        Australian tectonic plate by the Australian Plate Motion Model (PMM) using
-        3 rates of change of geocentric Cartesian rotations.
-      scope: Spatial referencing
-      status: valid
-      uuid: ca368c22-d3b7-4f7c-a447-7b7bae1c44d1
-    item_class: datums--geodetic
-    item_uuid: ca368c22-d3b7-4f7c-a447-7b7bae1c44d1
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -59,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

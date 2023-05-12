@@ -4,79 +4,6 @@ id: ded7cdc4-d011-4a62-afff-292d2cfdfb66
 isConcluded: true
 items:
   /datums--geodetic/4f005b53-4b99-4211-932d-96736a777814.yaml:
-    item_body:
-      aliases:
-      - SIRGAS
-      - SIRGAS-CON
-      - Sistema de Referencia Geocentrico para las Americas
-      - DGF05P01
-      - Geocentric Reference System for the Americas
-      - SIRGAS Multi-Year Solution 2005
-      - DGFI05P01
-      coordinateReferenceEpoch: '2004.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 125
-      informationSources:
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
-          Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '128.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 544-549
-        title: Deformation of the South American crust estimated from finite element
-          and collocation methods
-        uuid: 9116b653-96a2-491f-983d-f624ddbb7ee0
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: 434bbe56-4001-4952-b777-c87e83501644
-      - author: W. Seemueller
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Presented at the SIRGAS 2005 General Meeting. Caracas, Venezuela
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Report on new activities of IGS Regional Associate Analysis for SIRGAS
-          (IGS RNAAC SIR)
-        uuid: d56b3a84-881d-4b53-882c-5665311e0771
-      name: SIRGAS Continuously Operating Network DGF05P01
-      originDescription: Realized by a frame of 95 continuously operating stations
-        using GPS observations from June 1996 to September 2005 and aligned to ITRF2000
-        at epoch 2004.0. Velocity model VEMOS2003 used to propagate coordinates from
-        an arbitrary epoch to the 2004.0 reference epoch.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '2005'
-      remarks: Replaces DGF04P01. Replaced by DGF06P01.
-      scope: Spatial referencing
-      status: valid
-      uuid: 4f005b53-4b99-4211-932d-96736a777814
-    item_class: datums--geodetic
-    item_uuid: 4f005b53-4b99-4211-932d-96736a777814
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -90,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,41 +4,6 @@ id: 739bbc36-0e84-49e5-a928-01df502f47e2
 isConcluded: true
 items:
   /coordinate-op-method/274fece0-bf5a-4792-8f6e-18b74c80dc97.yaml:
-    item_body:
-      aliases:
-      - GPS-H
-      dateAccepted: 2022-07-25
-      definition: null
-      description: null
-      formula: null
-      formulaCitation:
-        author: M. Veronneau
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geodetic Survey Division, Natural Resources Canada, Government
-          of Canada
-        seriesIssueID: null
-        seriesName: Internal Report
-        seriesPage: null
-        title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
-        uuid: 9e3c4f13-1c6d-424c-a875-1d35fe9d71d2
-      identifier: 962
-      informationSources: []
-      name: Gravity-related height transformation (Canada)
-      parameters:
-      - 1a05b1d1-d7fd-4411-8640-110855a92d92
-      - 15811eed-e76f-43f1-9b66-e36d1c94aacf
-      remarks: Transforms gravity-related heights between CGVD28 and CGVD2013(CGG2013a)
-        vertical datums using GPS-H software with coordinate epoch propagation and
-        bi-quadratic interpolation of a grid of geoid model differences. See information
-        sources for algorithm and file format documentation.
-      status: valid
-      uuid: 274fece0-bf5a-4792-8f6e-18b74c80dc97
-    item_class: coordinate-op-method
-    item_uuid: 274fece0-bf5a-4792-8f6e-18b74c80dc97
     type: addition
 justification: New vertical datum transformation method for Canada. Submitted by M.
   Craymer, Canadian Geodetic Survey.
@@ -53,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-07-25
 timeProposed: 2022-07-25

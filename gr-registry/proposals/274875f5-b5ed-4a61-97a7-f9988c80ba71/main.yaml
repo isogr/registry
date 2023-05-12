@@ -4,113 +4,6 @@ id: 274875f5-b5ed-4a61-97a7-f9988c80ba71
 isConcluded: true
 items:
   /coordinate-ops--transformation/54079493-6e71-4c1c-aa4a-d3af17077a41.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 1.0
-      coordOperationMethod: 3905157c-48fe-48b2-abcd-c1ad81ac206c
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 573
-      informationSources:
-      - author: R.F. Wong, C.M. Rollins, C.F. Minter
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Institute of Navigation
-        seriesIssueID: null
-        seriesName: Proceedings of the 25th International Technical Meeting of the
-          Satellite Division of The Institue of Navigation (ION-GNSS-2012), Nashville,
-          TN, September 2012
-        seriesPage: 1164-1172
-        title: Recent Updates to the WGS 84 Reference Frame
-        uuid: 2bbe4088-b700-4067-89ad-4ffbdc3cbbc0
-      - author: NGA Office of Geomatics
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: National Geospatial-Intelligence Agency
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
-        uuid: b046a504-5db0-478a-839e-e9b6f2beade1
-      - author: F.G. Lemoine, S. C. Kenyon, J. K. Factor, R.G. Trimmer, N. K. Pavlis,
-          D. S. Chinn, C. M. Cox, S. M. Klosko, S. B. Luthcke, M. H. Torrence, Y.
-          M. Wang, R. G. Williamson, E. C. Pavlis, R. H. Rapp, T. R. Olson,
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: National Aeronautics and Space Administration
-        seriesIssueID: NASA/TP-1998-206861
-        seriesName: Technical Paper
-        seriesPage: null
-        title: The Development of the Joint NASA GSFC and the NIMA Geopotential Model
-          EGM96
-        uuid: 4d5dee1b-7c00-46bf-8514-29840f10bdd0
-      name: WGS 84 (G1674) to WGS 84 EGM96 - OHt [2]
-      operationVersion: '2.0'
-      parameters:
-      - fileCitation:
-          author: NGA Office of Geomatics
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: National Geospatial-Intelligence Agency
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
-          uuid: 03971510-a91f-46b1-8c4c-db9cb66b53d2
-        parameter: 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
-        type: parameter file name
-        unitOfMeasurement: null
-        value: egm96.exe
-      - fileCitation:
-          author: NGA Office of Geomatics
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: National Geospatial-Intelligence Agency
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: NGA/NASA EGM96,N=M=360 Earth Gravitational Model
-          uuid: 048fccd1-d600-4ddb-84ea-cccd605ff621
-        parameter: f5cb1159-d48d-4f8e-b907-824a07b3f5ad
-        type: parameter file name
-        unitOfMeasurement: null
-        value: CORRCOEF.EXE
-      remarks: Transformation from WGS 84 (G1674) ellipsoidal heights to EGM96 orthometric
-        heights using the EGM96 geoid model defind by spherical harmonic coeffcients
-        and corrections using harmonic synthesis.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 83f9b452-ab4b-43de-923c-e317518f036a
-      status: valid
-      targetCRS: null
-      uuid: 54079493-6e71-4c1c-aa4a-d3af17077a41
-    item_class: coordinate-ops--transformation
-    item_uuid: 54079493-6e71-4c1c-aa4a-d3af17077a41
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -124,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

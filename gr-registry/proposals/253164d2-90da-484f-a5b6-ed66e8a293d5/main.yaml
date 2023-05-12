@@ -4,35 +4,6 @@ id: 253164d2-90da-484f-a5b6-ed66e8a293d5
 isConcluded: true
 items:
   /unit-of-measurement/0fed4bdf-47b5-4dc3-a421-f8ef26a40ab9.yaml:
-    item_body:
-      aliases:
-      - rad
-      dateAccepted: 2018-11-17
-      denominator: 1.0
-      identifier: 2
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 80000-3:2006
-        seriesName: International Standard
-        seriesPage: null
-        title: "ISO 80000-3 Quantities and units \u2014 Part 3: Space and time"
-        uuid: 56cd6233-3ef7-49fd-a665-692959de7c47
-      measureType: ANGLE
-      name: radian
-      numerator: 1.0
-      remarks: SI standard unit for plane angle.
-      standardUnit: 0fed4bdf-47b5-4dc3-a421-f8ef26a40ab9
-      status: valid
-      symbol: rad
-      uuid: 0fed4bdf-47b5-4dc3-a421-f8ef26a40ab9
-    item_class: unit-of-measurement
-    item_uuid: 0fed4bdf-47b5-4dc3-a421-f8ef26a40ab9
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -46,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

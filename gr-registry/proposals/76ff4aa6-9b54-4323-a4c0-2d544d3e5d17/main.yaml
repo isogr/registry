@@ -4,58 +4,6 @@ id: 76ff4aa6-9b54-4323-a4c0-2d544d3e5d17
 isConcluded: true
 items:
   /crs--vertical/74d1f672-7973-4462-bc58-cb51153f74f9.yaml:
-    item_body:
-      aliases:
-      - Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimetric Geoid of 2013)
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--vertical
-        itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
-      dateAccepted: 2018-11-17
-      datum: 1e9acfa8-e567-47d5-9335-1b879f6ee8c2
-      description: null
-      extent:
-        e: -47.74
-        n: 90.0
-        name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba,
-          New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
-          Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
-        s: 40.04
-        w: -141.01
-      identifier: 423
-      informationSources:
-      - author: M. Veronneau, J. Huang
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Institute of Geomatics
-        seriesIssueID: Volume 70, No. 1
-        seriesName: Geomatica
-        seriesPage: '9.0'
-        title: The Canadian Geodetic Vertical Datum of 2013 (CGVD2013)
-        uuid: 20150ab1-910b-48d8-b262-648c5967e8e7
-      - author: Judith Bosse
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Government of Canada
-        seriesIssueID: Part I, December 5, 2015
-        seriesName: Canada Gazette
-        seriesPage: '2587.0'
-        title: Canadian Geodetic Vertical Datum of 2013
-        uuid: 10b26860-c2c9-47b3-9c00-edb8837d2028
-      name: CGVD2013(CGG2013) - OHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 74d1f672-7973-4462-bc58-cb51153f74f9
-    item_class: crs--vertical
-    item_uuid: 74d1f672-7973-4462-bc58-cb51153f74f9
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -69,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

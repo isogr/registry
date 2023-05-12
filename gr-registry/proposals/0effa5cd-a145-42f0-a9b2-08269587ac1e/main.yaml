@@ -4,44 +4,6 @@ id: 0effa5cd-a145-42f0-a9b2-08269587ac1e
 isConcluded: true
 items:
   /coordinate-op-method/75b20713-fef3-4dbc-a0d6-6736e6964ef7.yaml:
-    item_body:
-      aliases:
-      - Gauss-Boaga
-      - TM
-      - Gauss-Kruger
-      dateAccepted: 2022-06-06
-      definition: null
-      description: null
-      formula: null
-      formulaCitation:
-        author: National Geospatial-Intelligence Agency (NGA)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
-          (accessed 2022-04-20)
-        publisher: National Geospatial-Intelligence Agency (NGA)
-        seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
-        seriesName: National Geospatial-Intelligence Agency Standardization Document
-        seriesPage: null
-        title: The Universal Grids and the Transverse Mercator and Polar Stereographic
-          Map Projections
-        uuid: 86414002-cce6-4cfe-8d83-35f0bfb8279f
-      identifier: 834
-      informationSources: []
-      name: Transverse Mercator Projection
-      parameters:
-      - 1842c20c-c724-46b5-93db-75994aec4536
-      - f9e5b20f-dbd4-402e-a35c-dd26b0c58c6b
-      - bc5a79ba-6a41-4250-adc8-408b370ac9b6
-      - be6f2219-8e25-47a1-97ab-d50f686c6af6
-      - 09167146-e6a4-49e2-b275-a91e4c2a1a73
-      remarks: null
-      status: valid
-      uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
-    item_class: coordinate-op-method
-    item_uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
     type: addition
 justification: Required for projected coordinate systems.
 notes: []
@@ -55,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-06-06
 timeProposed: 2022-06-06

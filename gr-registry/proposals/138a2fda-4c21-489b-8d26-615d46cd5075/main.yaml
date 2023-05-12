@@ -4,92 +4,6 @@ id: 138a2fda-4c21-489b-8d26-615d46cd5075
 isConcluded: true
 items:
   /coordinate-ops--transformation/e5ba6cd7-cd73-41a3-a04a-c09d3e7b86c2.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.8
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -63.7
-        n: 48.07
-        name: Canada - onshore and offshore - New Brunswick.
-        s: 44.56
-        w: -69.05
-      identifier: 674
-      informationSources:
-      - author: Esri Canada
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Esri, Redlands, CA
-        seriesIssueID: 'Article ID: 000011846'
-        seriesName: null
-        seriesPage: null
-        title: 'FAQ: What are some of the transformation methods for Canada?'
-        uuid: b12d5017-4853-4557-901d-9f8882aad1e3
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Desktop Applications: NTv2'
-        uuid: 91570a84-87c9-4850-9ecc-fd4940a4ae28
-      - author: GeoNB
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Service New Brunswick, Government of New Brunswick
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Data Catalogue: NTv2 Grid Shift Files'
-        uuid: d6375580-0400-49bb-8a81-a9c50ad56bc3
-      name: NAD27 to NAD83(CSRS) v2 [NBv1]
-      operationVersion: NBv1
-      parameters:
-      - fileCitation:
-          author: Esri Canada
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: Esri, Redlands, CA
-          seriesIssueID: 'Article ID: 000011846'
-          seriesName: null
-          seriesPage: null
-          title: 'FAQ: What are some of the transformation methods for Canada?'
-          uuid: b1614200-bb24-44f2-a09b-1343af638665
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: NB2783v2.GSB
-      remarks: Grid tranformation in NTv2 format adopted for use in New Brunswick.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: a0c01a52-f404-48f3-951a-900aba820bd7
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 4098686c-3538-4441-b085-af045ec68ea4
-      uuid: e5ba6cd7-cd73-41a3-a04a-c09d3e7b86c2
-    item_class: coordinate-ops--transformation
-    item_uuid: e5ba6cd7-cd73-41a3-a04a-c09d3e7b86c2
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -103,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

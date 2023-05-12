@@ -4,53 +4,6 @@ id: 9b43aac8-e22b-4e67-9fea-80eb97719c7d
 isConcluded: true
 items:
   /ellipsoid/259ebfd0-0532-4a5d-9ea2-a7ffabb46385.yaml:
-    item_body:
-      aliases:
-      - ATS77
-      dateAccepted: 2018-11-17
-      description: null
-      identifier: 26
-      informationSources:
-      - author: Service New Brunswick
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Service New Brunswick, Government of New Brunswick
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'New Brunswick Control Monument Database Information: Explanation of
-          Fields and Glossary of Terms'
-        uuid: 10c046aa-578d-4dd3-b5ca-d7a684e51a1b
-      - author: D. Gillis, A. Hamilton, R.J. Gaudet, J. Ramsay, B. Seely, S. Blackie,
-          A. Flemming, C. Carlin, S. Bernard, L.G. LeBlanc
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Institute of Geomatics
-        seriesIssueID: Volume 54, No. 1
-        seriesName: Geomatica
-        seriesPage: 25-41
-        title: "The selection and implementation of a new spatial reference system\
-          \ for Canada\u2019s Maritime provinces"
-        uuid: 4018f19e-8d22-47cd-b610-0cf52f66461f
-      inverseFlattening: 298.257
-      inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b
-      isSphere: false
-      name: Average Terrestrial System 1977
-      remarks: null
-      semiMajorAxis: 6378135.0
-      semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
-      semiMinorAxis: null
-      semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
-      status: valid
-      uuid: 259ebfd0-0532-4a5d-9ea2-a7ffabb46385
-    item_class: ellipsoid
-    item_uuid: 259ebfd0-0532-4a5d-9ea2-a7ffabb46385
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -64,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,77 +4,6 @@ id: 149bef12-a6cb-4033-a372-37108e0ac7ba
 isConcluded: true
 items:
   /crs--geodetic/98b47a53-3127-4959-ad2b-3b904aaa1056.yaml:
-    item_body:
-      aliases:
-      - SIRGAS
-      - SIRGAS-CON
-      - DGFI06P01
-      - Sistema de Referencia Geocentrico para las Americas
-      - DGF06P01
-      - Geocentric Reference System for the Americas
-      - SIRGAS Multi-Year Solution 2006
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: 600dae84-bdd5-4d7e-b8fa-c5ff7e526f53
-      description: null
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 250
-      informationSources:
-      - author: W. Seemueller
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '134.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 167-172
-        title: The Position and Velocity Solution DGF06P01 for SIRGAS
-        uuid: 73ff1df3-c21b-46dc-8008-e7ee4a7a4a70
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
-          Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '128.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 544-549
-        title: Deformation of the South American crust estimated from finite element
-          and collocation methods
-        uuid: 98a4a447-fd8d-4a6f-94b2-9b7c696a7303
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: e0bb1f41-2a5a-41f3-9592-5de8de13c192
-      name: SIRGAS-CON DGF06P01 - LatLonEHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 98b47a53-3127-4959-ad2b-3b904aaa1056
-    item_class: crs--geodetic
-    item_uuid: 98b47a53-3127-4959-ad2b-3b904aaa1056
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -88,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

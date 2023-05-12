@@ -4,77 +4,6 @@ id: 37cec3b8-94fd-48f8-baae-92fe89218de6
 isConcluded: true
 items:
   /crs--geodetic/7d78131a-02ef-4517-bf75-1a20b9e482e5.yaml:
-    item_body:
-      aliases:
-      - DGFI00P01
-      - SIRGAS
-      - SIRGAS-CON
-      - Sistema de Referencia Geocentrico para las Americas
-      - SIRGAS Multi-Year Solution 2000
-      - Geocentric Reference System for the Americas
-      - DGF00P01
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: 971feff6-296c-4c7a-bc4d-3ee25b857ff9
-      description: null
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 322
-      informationSources:
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: cc794997-988a-4a9b-ba70-68b24cb850e7
-      - author: W. Seemueller, K. Kaniuth, H. Drewes
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '124.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: '2018-10-07'
-        title: Velocity estimates of IGS RNAAC SIRGAS stations
-        uuid: 298f989b-cf28-4694-93e7-40833d266f95
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
-          Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '128.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 544-549
-        title: Deformation of the South American crust estimated from finite element
-          and collocation methods
-        uuid: e0befe5b-75ba-429d-8cc4-90fc5119a7bd
-      name: SIRGAS-CON DGF00P01 - LatLon
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 7d78131a-02ef-4517-bf75-1a20b9e482e5
-    item_class: crs--geodetic
-    item_uuid: 7d78131a-02ef-4517-bf75-1a20b9e482e5
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -88,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

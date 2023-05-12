@@ -4,54 +4,6 @@ id: e33389e9-9235-4a53-bbe4-a84db71d012b
 isConcluded: true
 items:
   /coordinate-ops--transformation/ff64908f-4dbe-430f-8500-744bef8c2173.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.0
-      coordOperationMethod: 7fc94376-8243-4229-8d36-90d55a51299c
-      dateAccepted: null
-      description: null
-      extent:
-        e: 69.16
-        n: 77.07
-        name: Europe - onshore - Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina,
-          Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France - mainland,
-          Germany, Gibraltar, Hungary, Italy - mainland, Latvia, Liechtenstein, Lithuania,
-          Luxembourg, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania,
-          Russia - west of approximately 60 deg E, San Marino, Slovakia, Slovenia,
-          Spain - mainland, Sweden, Switzerland, Ukraine, United Kingdom - Great Britain
-          mainland, Vatican City State.
-        s: 35.95
-        w: -9.56
-      identifier: -1679066950
-      informationSources:
-      - author: "J. Ihde, J. M\xE4kinen, M. Sacher"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://evrs.bkg.bund.de/SharedDocs/Downloads/EVRS/EN/Publications/EVRFConventions2007.pdf
-          (accessed 2020-11-30)
-        publisher: International Association of Geodesy Subcommission 1.3a EUREF
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Conventions for the Definition and Realization of a European Vertical
-          Reference System (EVRS) - EVRS Conventions 2007
-        uuid: 60787177-1b4b-4531-95d8-546ab97513d7
-      name: EVRF2019 to EVRF2019mean
-      operationVersion: EUREF v1
-      parameters: []
-      remarks: Converts EVRF2019 zero tide heights to EVRF2019 mean tide heights.
-      scope:
-      - Spatial referencing and oceangraphic applications
-      sourceCRS: null
-      status: not_valid
-      targetCRS: null
-      uuid: ff64908f-4dbe-430f-8500-744bef8c2173
-    item_class: coordinate-ops--transformation
-    item_uuid: ff64908f-4dbe-430f-8500-744bef8c2173
     type: addition
 justification: New coordinate transformation for EVRF2019mean. Submitted by Martina
   Sacher, BKG on behalf of EUREF.
@@ -66,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: withdrawn
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeProposed: 2021-04-20
 title: EVRF2019 to EVRF2019mean

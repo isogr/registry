@@ -4,57 +4,6 @@ id: fc525cc1-10f7-4b13-8911-ac1faeb9480b
 isConcluded: true
 items:
   /crs--geodetic/45b9d1a8-cd3b-49fe-a882-ee7f9a906d3f.yaml:
-    item_body:
-      aliases: []
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2021-11-30
-      datum: f0835a79-f8c7-4387-a306-d9477ad3a512
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World
-        s: -90.0
-        w: -180.0
-      identifier: 796
-      informationSources:
-      - author: Robert Wong
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: National Geospatial-Intelligence Agency
-        seriesIssueID: '2021-10-25'
-        seriesName: ISOGR Control Body Meeting
-        seriesPage: null
-        title: Personal communication
-        uuid: 01a86be0-cca4-4772-b279-e12537f8be5c
-      - author: Office of Geomatics / GNSS Division, National Geospatial-Intelligence
-          Agency
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://earth-info.nga.mil/php/download.php?file=(U)WGS%2084(G2139).pdf
-          (accessed 2021-09-24)
-        publisher: National Geospatial-Intelligence Agency
-        seriesIssueID: 21-520
-        seriesName: Public Release
-        seriesPage: null
-        title: Recent Update to WGS 84 Reference Frame and NGA Transition to IGS ANTEX
-        uuid: 6d7decb9-9aa9-40dd-9974-27264c38d9c1
-      name: WGS 84 (G2139) - XYZ
-      operation: null
-      remarks: Replaces WGS 84 (G1762) - XYZ.
-      scope: Spatial referencing and GPS satellite navigation.
-      status: valid
-      uuid: 45b9d1a8-cd3b-49fe-a882-ee7f9a906d3f
-    item_class: crs--geodetic
-    item_uuid: 45b9d1a8-cd3b-49fe-a882-ee7f9a906d3f
     type: addition
 justification: New WGS 84 (G2139) proposal submitted by James Friederich, National
   Geospatial-Intelligence Agency.
@@ -69,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-11-30
 timeProposed: 2021-11-30

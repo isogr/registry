@@ -3,6 +3,7 @@ data:
     dtype: TransformationAccuracy
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.0
+  aliases: []
   coordOperationMethod: 7fc94376-8243-4229-8d36-90d55a51299c
   description: null
   extent:
@@ -43,4 +44,4 @@ data:
   targetCRS: null
 dateAccepted: null
 id: ff64908f-4dbe-430f-8500-744bef8c2173
-status: not_valid
+status: invalid

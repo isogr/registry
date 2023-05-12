@@ -4,94 +4,6 @@ id: f29ddb0e-c1fc-482f-a777-2005f07fb366
 isConcluded: true
 items:
   /coordinate-ops--transformation/cd839341-6a73-402b-a88a-9d580f46a207.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.1
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -101.34
-        n: 60.0
-        name: Canada - Saskatchewan.
-        s: 49.0
-        w: -110.0
-      identifier: 628
-      informationSources:
-      - author: Saskatchewan Information Services Corporation (ISC)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Saskatchewan Information Services Corporation (ISC), Geomatics
-          Distribution Centre, Regina, Saskatchewan
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Grid shift files
-        uuid: a0854951-3668-49c5-8203-c708aeee9c0d
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Desktop Applications: NTv2'
-        uuid: 021c8b81-232a-46f5-85c7-0464eced7eab
-      - author: Esri Canada
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Esri, Redlands, CA
-        seriesIssueID: 'Article ID: 000011846'
-        seriesName: null
-        seriesPage: null
-        title: 'FAQ: What are some of the transformation methods for Canada?'
-        uuid: 6532198b-a4da-4805-994b-9af642b5993f
-      name: NAD83(Original) to NAD83(CSRS) v3 [SKv1]
-      operationVersion: SKv1
-      parameters:
-      - fileCitation:
-          author: Saskatchewan Information Services Corporation (ISC)
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: Saskatchewan Information Services Corporation (ISC), Geomatics
-            Distribution Centre, Regina, Saskatchewan
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: Grid shift files
-          uuid: f6d3155f-d89d-4aa7-bca6-d9b1bd173721
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: SK83-98.GSB
-      remarks: Grid tranformation in NTv2 format adopted for use in Saskatchewan.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
-      status: invalid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 9ac5ba39-0f9c-4602-857e-122a38a17c72
-      uuid: cd839341-6a73-402b-a88a-9d580f46a207
-    item_class: coordinate-ops--transformation
-    item_uuid: cd839341-6a73-402b-a88a-9d580f46a207
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -105,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

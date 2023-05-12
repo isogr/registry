@@ -3,6 +3,8 @@ data:
     dtype: TransformationAccuracy
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.03
+  aliases:
+  - NZGeoid2016
   coordOperationMethod: 4a370551-f089-4518-8f3a-3b78bc9745cf
   description: null
   extent:

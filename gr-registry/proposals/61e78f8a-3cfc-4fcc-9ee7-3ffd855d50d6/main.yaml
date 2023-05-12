@@ -4,94 +4,6 @@ id: 61e78f8a-3cfc-4fcc-9ee7-3ffd855d50d6
 isConcluded: true
 items:
   /datums--geodetic/5220d4d5-1698-4d7b-ad29-9cbc1696c031.yaml:
-    item_body:
-      aliases:
-      - ITRF 91
-      - ITRF91
-      - IERS Terrestrial Reference Frame 1991
-      coordinateReferenceEpoch: '1988.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 143
-      informationSources:
-      - author: C. Boucher, Z. Altamimi, L. Duhem
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
-          75014 Paris, France
-        seriesIssueID: '12.0'
-        seriesName: IERS Technical Notes
-        seriesPage: null
-        title: ITRF 91 and its associated velocity field
-        uuid: c93516f2-99ba-4f34-9bac-c0173db7fb66
-      - author: D.F. Argus, R.G. Gordon
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: American Geophysical Union
-        seriesIssueID: Volume 18, Issue 11
-        seriesName: Geophysical Research Letters
-        seriesPage: null
-        title: No-net-rotation model of current plate velocities incorporating plate
-          motion model NUVEL-1
-        uuid: 5a91bea9-3992-4712-a2a8-fb8983e2164a
-      - author: G. Petit, B.J. Luzum (eds)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: 'ISSN: 1019-4568'
-        publisher: Verlag des Bundesamts fur Kartographie und Geodasie
-        seriesIssueID: '36.0'
-        seriesName: IERS Technical Notes
-        seriesPage: null
-        title: IERS Conventions (2010)
-        uuid: 18528752-2489-42d8-b5f7-489f0e4c3221
-      name: International Terrestrial Reference Frame 1991
-      originDescription: 'Realisation of the IERS Terrestrial Reference System (ITRS)
-        at reference epoch 2008.0.
-
-        Origin is defined by SLR.
-
-        Scale is defined by SLR noting that the scales of some VLBI Solutions (GSFC,
-        NOAA and NAOMZ) are consistent with SLR.
-
-        Orientation is defined such that no global rotation exists with respect to
-        ITRF90.
-
-        In order to insure the condition of no-net-rotation of the ITRS orientation
-        with respect to the crust, NNR-NUVEL1 was selected as the reference motion
-        model.
-
-        Datum defined by a set of 3 dimensional Cartesian station coordinates and
-        velocities given by the citations.
-
-        The ITRF91 velocity field has been obtained by combination of several site
-        velocity fields estimated by SLR and VLBI analysis centers.'
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '1992-10-01'
-      remarks: 'Replaces ITRF90. Replaced by ITRF92.
-
-        This is a purely Cartesian reference frame with no ellipsoid defined.
-
-        GRS80 is the ellipsoid recommended by the IAG and IERS.'
-      scope: Spatial referencing
-      status: valid
-      uuid: 5220d4d5-1698-4d7b-ad29-9cbc1696c031
-    item_class: datums--geodetic
-    item_uuid: 5220d4d5-1698-4d7b-ad29-9cbc1696c031
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -105,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

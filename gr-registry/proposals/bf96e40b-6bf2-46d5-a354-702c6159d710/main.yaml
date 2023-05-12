@@ -4,63 +4,6 @@ id: bf96e40b-6bf2-46d5-a354-702c6159d710
 isConcluded: true
 items:
   /coordinate-ops--transformation/529a1bd0-c731-4171-bd50-6d56a628bc18.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.004
-      coordOperationMethod: ea144e91-b722-4b93-928d-5fc40fd88e6b
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 154.0
-        n: 45.6
-        name: Japan - onshore and offshore
-        s: 20.4
-        w: 122.9
-      identifier: 467
-      informationSources:
-      - author: Geospatial Information Authority of Japan (GSI)
-        edition: 1.0.1
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage in Japanese.
-        publisher: Geospatial Information Authority of Japan (GSI), Tsukuba, Japan
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: PatchJGD Ver.1.0.1
-        uuid: ae4b62f8-9071-4696-a6a0-56ab54545b26
-      - author: M. Tobita
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Japanese with English abstract.
-        publisher: Journal of the Geodetic Society of Japan
-        seriesIssueID: Volume 55, Number 4
-        seriesName: Journal of the Geodetic Society of Japan
-        seriesPage: 355-367
-        title: PatchJGD, Software for Correcting Geodetic Coordinates for Coseismic
-          Displacements
-        uuid: 30fdc099-6706-4a46-925d-6955bba1fed4
-      name: JGD2000 to JGD2011 [GSIv1]
-      operationVersion: GSIv1
-      parameters: []
-      remarks: PatchJGD application from GSI.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 341a9595-5c5e-4cdc-9abb-252905d18baa
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 057b07c8-7781-43c3-8bb2-5989308a8714
-      uuid: 529a1bd0-c731-4171-bd50-6d56a628bc18
-    item_class: coordinate-ops--transformation
-    item_uuid: 529a1bd0-c731-4171-bd50-6d56a628bc18
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -74,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

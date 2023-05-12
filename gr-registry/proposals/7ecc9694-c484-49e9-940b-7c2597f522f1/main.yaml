@@ -4,61 +4,6 @@ id: 7ecc9694-c484-49e9-940b-7c2597f522f1
 isConcluded: true
 items:
   /coordinate-ops--conversion/ac3ecea6-544b-4b42-9c36-b8f09b357156.yaml:
-    item_body:
-      accuracy: null
-      aliases:
-      - UTM zone 60
-      dateAccepted: 2022-06-06
-      dateAmended: null
-      definition: null
-      extent:
-        e: 180.0
-        n: 84.0
-        name: "World - onshore and offshore - between 174\xB0E and 180\xB0E, northern\
-          \ hemisphere between equator and 84\xB0N."
-        s: 0.0
-        w: 174.0
-      identifier: 877
-      informationSources:
-      - author: International Association of Oil and Gas Producers (IOGP)
-        edition: '61'
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
-        publisher: International Association of Oil and Gas Producers (IOGP)
-        seriesIssueID: 373-7-2
-        seriesName: IOGP Publication
-        seriesPage: null
-        title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
-          including Formulas'
-        uuid: 3301132e-6b49-461a-9561-c564b059809a
-      - author: National Geospatial-Intelligence Agency (NGA)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
-          (accessed 2022-04-20)
-        publisher: National Geospatial-Intelligence Agency (NGA)
-        seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
-        seriesName: National Geospatial-Intelligence Agency Standardization Document
-        seriesPage: null
-        title: The Universal Grids and the Transverse Mercator and Polar Stereographic
-          Map Projections
-        uuid: 8ea49760-f880-4308-8d1c-9209543758d3
-      method_uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
-      name: UTM zone 60N
-      parameters: []
-      remarks: null
-      scope:
-      - Spatial referencing
-      sourcecrs_uuid: null
-      status: valid
-      targetcrs_uuid: null
-      uuid: ac3ecea6-544b-4b42-9c36-b8f09b357156
-    item_class: coordinate-ops--conversion
-    item_uuid: ac3ecea6-544b-4b42-9c36-b8f09b357156
     type: addition
 justification: Required for projected coordinate systems. Submitted by M. Craymer,
   Chair ISOGR Control Body.
@@ -73,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-06-06
 timeProposed: 2022-06-06

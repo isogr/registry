@@ -4,74 +4,6 @@ id: 7b92d17a-75ed-40c5-b40f-7a288f841ae2
 isConcluded: true
 items:
   /coordinate-ops--transformation/2c2e28b9-901a-42a1-9d08-c47f6c572f89.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.05
-      coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -47.74
-        n: 90.0
-        name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba,
-          New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
-          Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
-        s: 40.04
-        w: -141.01
-      identifier: 618
-      informationSources:
-      - author: M. Veronneau, A. Mainville, M.R. Craymer
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geodetic Survey Division, Natural Resources Canada, Government
-          of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height
-          Transformation for Use With GPS in Canada'
-        uuid: 35a290fc-ca36-4287-b1fe-350070913db1
-      name: NAD83(CSRS) v3 to CGVD28 - NOHt [v1]
-      operationVersion: v1
-      parameters:
-      - fileCitation:
-          author: M. Veronneau, A. Mainville, M.R. Craymer
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: Geodetic Survey Division, Natural Resources Canada, Government
-            of Canada
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: 'The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height
-            Transformation for Use With GPS in Canada'
-          uuid: 03b4fc56-05f9-4c49-895f-a4099a2ae7ce
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: HT2_0.byn
-      remarks: Grid transformation from NAD83(CSRS) v3 ellipsdoidal heights to CGVD28
-        normal-orthometric heights using hybrid geoid model NTv2.0 based on the CGG2000
-        geoid mode that has been distorted to fit with benchmarks elevations in the
-        CGVD28 vertical datum.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 47f54d19-758a-4b95-ae75-5a1a7c74e81d
-      status: valid
-      targetCRS: null
-      uuid: 2c2e28b9-901a-42a1-9d08-c47f6c572f89
-    item_class: coordinate-ops--transformation
-    item_uuid: 2c2e28b9-901a-42a1-9d08-c47f6c572f89
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -85,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

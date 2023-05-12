@@ -4,59 +4,6 @@ id: 368373e4-6fc5-451a-917a-a7d8cf186377
 isConcluded: true
 items:
   /crs--geodetic/d9b5b76b-e761-4bf1-b501-97ea25b5a75a.yaml:
-    item_body:
-      aliases: []
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2018-11-17
-      datum: f7ff2de2-2706-488b-aa4f-d62aa9c7a8ce
-      description: null
-      extent:
-        e: -151.27
-        n: 31.8
-        name: American Samoa - onshore and offshore. Marshall Islands - onshore and
-          offshore. United States (USA) - onshore and offshore - Hawaii. United States
-          Minor Outlying Islands - onshore and offshore.
-        s: -17.56
-        w: 157.47
-      identifier: 315
-      informationSources:
-      - author: R.A. Snay
-        edition: null
-        editionDate: 2003-01-01
-        isbn: null
-        issn: null
-        otherDetails: MARP00, PACP00
-        publisher: American Cobgress on Surveying and Mapping
-        seriesIssueID: Volume 63, No. 1
-        seriesName: Surveying and Land Information Systems
-        seriesPage: ' 5-12'
-        title: Introducing Two Spatial Reference Frames for Regions of the Pacific
-          Ocean
-        uuid: b3f34ec3-8096-4cff-8fe5-8809efc08fb5
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: webpage
-        publisher: National Oceanic and Atmospheric Administration (NOAA) National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: NGS Online listing of transformation parameters
-        seriesPage: null
-        title: CORS Coordinates
-        uuid: 36d4bb69-c6ee-48e3-8e4d-e41d0bd3486e
-      name: NAD 83 (PACP00) - XYZ
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: d9b5b76b-e761-4bf1-b501-97ea25b5a75a
-    item_class: crs--geodetic
-    item_uuid: d9b5b76b-e761-4bf1-b501-97ea25b5a75a
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -70,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

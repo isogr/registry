@@ -4,120 +4,6 @@ id: d8caf9f7-f425-4caa-9bee-8dd4ff16bc70
 isConcluded: true
 items:
   /coordinate-ops--transformation/61ab8e50-4ef7-44b8-99e1-548006655f05.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.05
-      coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -64.0
-        n: 19.0
-        name: Puerto Rico - onshore and offshore. Virgin Islands (US) - onshore and
-          offshore.
-        s: 17.0
-        w: -69.0
-      identifier: 599
-      informationSources:
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: d12f1e6f-8032-4d5b-b9c9-3fcf761a1de6
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: 2c98fea7-dc05-4fde-b36e-d9bf777d35a5
-      name: NAD 83 (FBN) to NAD 83 (2007) [v2]
-      operationVersion: v2
-      parameters:
-      - fileCitation:
-          author: US Government
-          edition: null
-          editionDate: 1990-08-10
-          isbn: null
-          issn: null
-          otherDetails: Mandates use of NADCON for official transformations between
-            datums
-          publisher: Office of Federal Register, NARA
-          seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-          seriesName: 'Federal Register Notice '
-          seriesPage: '32681.0'
-          title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-          uuid: e2ba5824-bc05-464e-9766-e1d8af19044f
-        parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
-        type: parameter file name
-        unitOfMeasurement: null
-        value: nadcon5.nad83_2002.nad83_2007.prvi.lat.trn.20160901.b
-      - fileCitation:
-          author: US Government
-          edition: null
-          editionDate: 1990-08-10
-          isbn: null
-          issn: null
-          otherDetails: Mandates use of NADCON for official transformations between
-            datums
-          publisher: Office of Federal Register, NARA
-          seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-          seriesName: 'Federal Register Notice '
-          seriesPage: '32681.0'
-          title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-          uuid: b827a9ec-33cf-41c4-b631-1734e3318062
-        parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
-        type: parameter file name
-        unitOfMeasurement: null
-        value: nadcon5.nad83_2002.nad83_2007.prvi.lon.trn.20160901.b
-      - fileCitation:
-          author: US Government
-          edition: null
-          editionDate: 1990-08-10
-          isbn: null
-          issn: null
-          otherDetails: Mandates use of NADCON for official transformations between
-            datums
-          publisher: Office of Federal Register, NARA
-          seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-          seriesName: 'Federal Register Notice '
-          seriesPage: '32681.0'
-          title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-          uuid: 5e48a105-b597-48dc-aabb-62a6ca1982a5
-        parameter: d0e6143c-dfc2-4796-932b-ab6b67954582
-        type: parameter file name
-        unitOfMeasurement: null
-        value: nadcon5.nad83_2002.nad83_2007.prvi.eht.trn.20160901.b
-      remarks: Grid Transformation
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 0f3edaed-095e-41aa-9829-3b0cc5731072
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 4bd35f90-809c-4696-bae4-f1f9f0f30a8c
-      uuid: 61ab8e50-4ef7-44b8-99e1-548006655f05
-    item_class: coordinate-ops--transformation
-    item_uuid: 61ab8e50-4ef7-44b8-99e1-548006655f05
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -131,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

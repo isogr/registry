@@ -4,67 +4,6 @@ id: 463677d0-5f5a-49a1-bc9d-11b5ec0da5a8
 isConcluded: true
 items:
   /coordinate-ops--transformation/5e38bb5b-88ac-4d53-8152-a4366038d864.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.02
-      coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -65.5
-        n: 18.6
-        name: Puerto Rico - onshore.
-        s: 17.6
-        w: -67.5
-      identifier: 698
-      informationSources:
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: National Geodetic Survey Geoid Homepage
-        uuid: a28eb59d-887c-483b-9742-5944893b67c6
-      name: NAD 83 (2011) Epoch 2010 to PRVD02 - NOHt [v1]
-      operationVersion: v1
-      parameters:
-      - fileCitation:
-          author: National Geodetic Survey
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-          publisher: National Oceanic and Atmospheric Administration (NOAA), National
-            Geodetic Survey (NGS)
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: National Geodetic Survey Geoid Homepage
-          uuid: 68d173a2-107e-43f1-a641-a6d407a1efa5
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: g2012bp0.bin
-      remarks: Grid Transformation
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: b8eaf2f4-54e8-4a51-9ca9-9a38b793b8fe
-      status: valid
-      targetCRS: null
-      uuid: 5e38bb5b-88ac-4d53-8152-a4366038d864
-    item_class: coordinate-ops--transformation
-    item_uuid: 5e38bb5b-88ac-4d53-8152-a4366038d864
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -78,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

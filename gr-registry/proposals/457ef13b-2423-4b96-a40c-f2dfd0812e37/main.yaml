@@ -4,38 +4,6 @@ id: 457ef13b-2423-4b96-a40c-f2dfd0812e37
 isConcluded: true
 items:
   /unit-of-measurement/e6736507-2fa3-4a3a-9b4c-cae0f2185b1a.yaml:
-    item_body:
-      aliases:
-      - m/yr
-      - m/y
-      - m/a
-      - meters per year
-      dateAccepted: 2018-11-17
-      denominator: 31556925.45
-      identifier: 19
-      informationSources:
-      - author: International Association of Oil and Gas Producers (IOGP)
-        edition: version 8.9
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Association of Oil and Gas Producers (IOGP)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: EPSG Geodetic Parameter Dataset v8.9
-        uuid: 08d15576-3016-4ec8-a367-64f4439f03b6
-      measureType: LENGTH
-      name: metre per year
-      numerator: 1.0
-      remarks: Year taken to be IUGS definition of 31556925.445 seconds.
-      standardUnit: 76550c5a-b72a-4e88-8c3e-33c2668e99f7
-      status: valid
-      symbol: m/a
-      uuid: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
-    item_class: unit-of-measurement
-    item_uuid: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -49,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

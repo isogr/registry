@@ -4,46 +4,6 @@ id: 96b0be76-dec5-4fd2-8cbc-9e0a41c76be9
 isConcluded: true
 items:
   /crs--geodetic/0db39705-d30a-49ce-b988-025df8670819.yaml:
-    item_body:
-      aliases:
-      - International Terrestrial Reference Frame 1993
-      - IERS Terrestrial Reference Frame 1993
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: c883a655-87e4-4697-adab-f75bd0f56976
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 227
-      informationSources:
-      - author: C. Boucher, Z. Altamimi, L. Duhem
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
-          75014 Paris, France
-        seriesIssueID: '18.0'
-        seriesName: IERS Technical Notes
-        seriesPage: null
-        title: Results and Analysis of the ITRF93
-        uuid: 4d13b01f-1fb1-41b9-8fcf-ddbaaa6874ef
-      name: ITRF93 - LatLonEHt
-      operation: null
-      remarks: Replaces ITRF92 - LatLonEHt. Replaced by ITRF94 - LatLonEHt.
-      scope: Spatial referencing
-      status: valid
-      uuid: 0db39705-d30a-49ce-b988-025df8670819
-    item_class: crs--geodetic
-    item_uuid: 0db39705-d30a-49ce-b988-025df8670819
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -57,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,70 +4,6 @@ id: 9caa76e8-6c30-4cc9-aaf6-bdad4fbb0108
 isConcluded: true
 items:
   /crs--geodetic/5442a330-ad3a-4274-acda-103fd953d958.yaml:
-    item_body:
-      aliases:
-      - NAD83v7
-      - CSRS
-      - NAD83(CSRS)
-      - Canadian Spatial Reference System 1998
-      - Canadian Spatial Reference System
-      - NAD83(CSRS98)
-      - NAD83(CSRS)v7
-      - CSRS98
-      - NAD83
-      - North American Datum 1983 v7
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: c87269de-82a4-4a33-9089-dbfcec201922
-      description: null
-      extent:
-        e: -47.74
-        n: 90.0
-        name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba,
-          New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
-          Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
-        s: 40.04
-        w: -141.01
-      identifier: 243
-      informationSources:
-      - author: M. Craymer
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada
-        seriesIssueID: null
-        seriesName: Presentation to Canadian Geodetic Reference Systems Committee
-          Meeting, Ottawa, May 1-2, 2017
-        seriesPage: null
-        title: 'Reference Frames: National & International'
-        uuid: facf317e-6f18-4d7d-840b-28cad81c62fd
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: The Canadian Spatial Reference System (CSRS)
-        uuid: 620fefbd-0e4d-4713-bc37-c5dd199c607c
-      name: NAD83(CSRS) v7 - LatLonEHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 5442a330-ad3a-4274-acda-103fd953d958
-    item_class: crs--geodetic
-    item_uuid: 5442a330-ad3a-4274-acda-103fd953d958
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -81,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,79 +4,6 @@ id: 90d73fc8-bea5-43af-8072-f7766ad96e78
 isConcluded: true
 items:
   /crs--geodetic/bec12738-43b3-410b-beb0-f69c04cc0fb0.yaml:
-    item_body:
-      aliases:
-      - DGFI02P01
-      - SIRGAS
-      - SIRGAS-CON
-      - Sistema de Referencia Geocentrico para las Americas
-      - SIRGAS Multi-Year Solution 2002
-      - Geocentric Reference System for the Americas
-      - DGF02P01
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: 10230a2a-fc0b-462c-9e2c-029de5e7273a
-      description: null
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 418
-      informationSources:
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
-          Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '128.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 544-549
-        title: Deformation of the South American crust estimated from finite element
-          and collocation methods
-        uuid: 3517dafa-6ac5-452e-bc41-a5250bc6bfbf
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: 9de3d0b6-c3e9-4f8b-a518-0139b1d1930d
-      - author: Deutsches Geodaetisches Forschungsinstitut (DGFI)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
-        seriesIssueID: null
-        seriesName: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht\
-          \ 2001/2002"
-        seriesPage: null
-        title: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht\
-          \ 2001/2002"
-        uuid: b63b397f-b660-4df6-b109-d9c42b3a52c1
-      name: SIRGAS-CON DGF02P01 - LatLon
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: bec12738-43b3-410b-beb0-f69c04cc0fb0
-    item_class: crs--geodetic
-    item_uuid: bec12738-43b3-410b-beb0-f69c04cc0fb0
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -90,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

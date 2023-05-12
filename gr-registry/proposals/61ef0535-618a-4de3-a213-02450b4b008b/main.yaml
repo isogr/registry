@@ -4,71 +4,6 @@ id: 61ef0535-618a-4de3-a213-02450b4b008b
 isConcluded: true
 items:
   /coordinate-op-parameter/09167146-e6a4-49e2-b275-a91e4c2a1a73.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: 2022-06-06
-      definition: null
-      identifier: 829
-      informationSources:
-      - author: International Association of Oil and Gas Producers (IOGP)
-        edition: '61'
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
-        publisher: International Association of Oil and Gas Producers (IOGP)
-        seriesIssueID: 373-7-2
-        seriesName: IOGP Publication
-        seriesPage: null
-        title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
-          including Formulas'
-        uuid: bb4b9ed0-22b4-4687-874b-c64e3404bdbc
-      - author: National Geospatial-Intelligence Agency (NGA)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
-          (accessed 2022-04-20)
-        publisher: National Geospatial-Intelligence Agency (NGA)
-        seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
-        seriesName: National Geospatial-Intelligence Agency Standardization Document
-        seriesPage: null
-        title: The Universal Grids and the Transverse Mercator and Polar Stereographic
-          Map Projections
-        uuid: 7c9ede85-20c1-4b25-85a7-271630778741
-      - author: J.P. Snyder
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://doi.org/10.3133/pp1395 (accessed 2022-01-19)
-        publisher: United States Government Printing Office, Washington, D.C.
-        seriesIssueID: '1395'
-        seriesName: U.S. Geological Survey Professional Paper
-        seriesPage: null
-        title: "Map Projections \u2013 A Working Manual"
-        uuid: 5f6e7ae5-f9b3-4fb6-8dd7-be05365fb4af
-      minimumOccurs: null
-      name: False northing
-      remarks: 'EPSG DEFINITION
-
-        Since the natural origin may be at or near the centre of the projection and
-        under normal coordinate circumstances would thus give rise to negative coordinates
-        over parts of the mapped area, this origin is usually given false coordinates
-        which are large enough to avoid this inconvenience. The False Northing, FN,
-        is the value assigned to the ordinate (north or south) axis of the projection
-        grid at the natural origin.
-
-
-        SIMPLIFIED DEFINITION
-
-        Constant value that is added to the northing coordinates of a projected coordinate
-        system to avoid negative values.'
-      status: valid
-      uuid: 09167146-e6a4-49e2-b275-a91e4c2a1a73
-    item_class: coordinate-op-parameter
-    item_uuid: 09167146-e6a4-49e2-b275-a91e4c2a1a73
     type: addition
 justification: Required for projected coordinate systems.
 notes: []
@@ -82,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-06-06
 timeProposed: 2022-06-06

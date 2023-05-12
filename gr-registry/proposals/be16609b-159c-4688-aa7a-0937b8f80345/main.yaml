@@ -4,33 +4,6 @@ id: be16609b-159c-4688-aa7a-0937b8f80345
 isConcluded: true
 items:
   /coordinate-sys-axis/cd0f204c-dcda-40a6-a48c-161b8083a3f5.yaml:
-    item_body:
-      abbreviation: Z
-      dateAccepted: 2018-11-17
-      identifier: 39
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: Second Edition
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 19111:2007
-        seriesName: International Standard
-        seriesPage: null
-        title: ISO 19111 Geographical information - Spatial referencing by coordinates
-        uuid: a1bc4602-6d4f-4bec-9851-5e0002ccc858
-      maxValue: null
-      minValue: null
-      name: Geocentric Z
-      orientation: Geocentre > north pole
-      remarks: null
-      status: valid
-      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-      uuid: cd0f204c-dcda-40a6-a48c-161b8083a3f5
-    item_class: coordinate-sys-axis
-    item_uuid: cd0f204c-dcda-40a6-a48c-161b8083a3f5
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -44,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,45 +4,6 @@ id: 61a4eb3c-c454-4be1-b3f4-a31b8c781847
 isConcluded: true
 items:
   /crs--geodetic/fb2988d3-5ab0-418f-8074-0f58433eba26.yaml:
-    item_body:
-      aliases: []
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2018-11-17
-      datum: 09391e28-e386-4760-9d93-60c922279164
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 314
-      informationSources:
-      - author: S. Malys, J.A. Slater
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Institute of Navigation
-        seriesIssueID: null
-        seriesName: Proceedings of the 7th International Technical Meeting of the
-          Satellite Division of The Institue of Navigation (ION-GPS-1994), Salt Lake
-          City, UT, September 1994
-        seriesPage: 17-24
-        title: Maintenance and Enhancement of the World Geodetic System 1984
-        uuid: 876cf560-66ba-469b-a18a-78d6ecc0cc98
-      name: WGS 84 (G730) - XYZ
-      operation: null
-      remarks: Replaces WGS 84 TRANSIT - XYZ. Replaced by WGS84 (G873) - XYZ.
-      scope: Spatial Referencing and GPS satellite navigation.
-      status: valid
-      uuid: fb2988d3-5ab0-418f-8074-0f58433eba26
-    item_class: crs--geodetic
-    item_uuid: fb2988d3-5ab0-418f-8074-0f58433eba26
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -56,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

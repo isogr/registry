@@ -4,36 +4,6 @@ id: 37ac9fcd-f287-4a52-a17c-1f9a2f9f124a
 isConcluded: true
 items:
   /unit-of-measurement/392e24fb-e09c-4d01-8000-9a44045dcec1.yaml:
-    item_body:
-      aliases:
-      - rad/s
-      - radian per second
-      dateAccepted: 2018-11-17
-      denominator: 1.0
-      identifier: 23
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 80000-3:2006
-        seriesName: International Standard
-        seriesPage: null
-        title: "ISO 80000-3 Quantities and units \u2014 Part 3: Space and time"
-        uuid: 95393759-4a4e-4370-a2d6-027d95aecaa1
-      measureType: ANGLE
-      name: radian per second
-      numerator: 1.0
-      remarks: SI derived unit for angle rate.
-      standardUnit: 392e24fb-e09c-4d01-8000-9a44045dcec1
-      status: valid
-      symbol: rad/s
-      uuid: 392e24fb-e09c-4d01-8000-9a44045dcec1
-    item_class: unit-of-measurement
-    item_uuid: 392e24fb-e09c-4d01-8000-9a44045dcec1
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -47,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

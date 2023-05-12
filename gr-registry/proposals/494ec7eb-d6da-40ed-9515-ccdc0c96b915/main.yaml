@@ -4,44 +4,6 @@ id: 494ec7eb-d6da-40ed-9515-ccdc0c96b915
 isConcluded: true
 items:
   /datums--vertical/c5a9363e-6c95-4f9c-b264-2ab601e97835.yaml:
-    item_body:
-      aliases:
-      - NZVD2016
-      coordinateReferenceEpoch: '2000.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      extent:
-        e: -170.0
-        n: -25.0
-        name: New Zealand - onshore and offshore - Antipodes Islands, Auckland Islands,
-          Bounty Islands, Campbell Island Chatham Islands, Kermadec Islands, North
-          Island, Raoul Island, Snares Islands, South Island, Stewart Island.
-        s: -60.0
-        w: 160.0
-      identifier: 107
-      informationSources:
-      - author: Land Informaiton New Zealand
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Land Information New Zealand
-        seriesIssueID: LINZS25009
-        seriesName: null
-        seriesPage: null
-        title: Standard for New Zealand Vertical Datum 2016
-        uuid: 2b4ed6f5-2547-4a8b-8bd1-379658aa1cbb
-      name: New Zealand Vertical Datum 2016
-      originDescription: New Zealand Quasigeoid 2016 which is defined by the application
-        of the NZ Quasigeoid 2016 grid to NZGD2000 ellipsoidal heights at epoch 2000.0.
-      releaseDate: '2016-06-27'
-      remarks: Replaces NZVD2009 from 2016-06-27.
-      scope: Spatial referencing
-      status: valid
-      uuid: c5a9363e-6c95-4f9c-b264-2ab601e97835
-    item_class: datums--vertical
-    item_uuid: c5a9363e-6c95-4f9c-b264-2ab601e97835
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -55,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

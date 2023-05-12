@@ -4,85 +4,6 @@ id: 663f0bb5-1610-4c01-84fa-188a71c51e11
 isConcluded: true
 items:
   /coordinate-ops--transformation/456ce06e-eb80-428b-875b-6a22b17a595b.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.1
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2021-08-12
-      description: null
-      extent:
-        e: -110.0
-        n: 60.0
-        name: Canada - Alberta
-        s: 49.0
-        w: -120.0
-      identifier: 773
-      informationSources:
-      - author: Canadian Geodetic Survey
-        edition: ''
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
-          (accessed 2021-06-23)
-        publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON,
-          Canada
-        seriesIssueID: ',,'
-        seriesName: ',,'
-        seriesPage: ',,'
-        title: Coordinate Transformations
-        uuid: ef90845d-ce6d-4c93-b193-01ff26f6092a
-      - author: Geodetic Control Unit
-        edition: ''
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: ''
-        publisher: Geodetic Control Unit, Lands Policy and Programs Branch, Lands
-          Division, Government of Alberta, Edmonton, AB, Canada
-        seriesIssueID: ',,'
-        seriesName: ',,'
-        seriesPage: ',,'
-        title: ABCSRSV7.GSB
-        uuid: 102f0576-fec3-4fa4-82ce-dd937011b60e
-      name: NAD83(Original) to NAD83(CSRS) v7 [ABv1]
-      operationVersion: ABv1
-      parameters:
-      - fileCitation:
-          author: Canadian Geodetic Survey
-          edition: ''
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Webpage https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
-            (accessed 2021-06-23)
-          publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON,
-            Canada
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: Coordinate Transformations
-          uuid: 30d6a6af-9227-4f89-b7bc-4d1aaf8012d7
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: ABCSRSV7.GSB
-      remarks: Grid transformation in NTv2 format adopted for use in the province
-        of Alberta, Canada.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 4ed35184-52e5-4262-873e-a35b45cd6113
-      uuid: 456ce06e-eb80-428b-875b-6a22b17a595b
-    item_class: coordinate-ops--transformation
-    item_uuid: 456ce06e-eb80-428b-875b-6a22b17a595b
     type: addition
 justification: New transformation for Alberta, Canada. Submitted by M. Craymer, Canadian
   Geodetic Survey, Natural Resources Canada.
@@ -97,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-08-12
 timeProposed: 2021-08-12

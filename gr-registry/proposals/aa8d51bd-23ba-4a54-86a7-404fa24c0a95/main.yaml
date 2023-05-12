@@ -4,92 +4,6 @@ id: aa8d51bd-23ba-4a54-86a7-404fa24c0a95
 isConcluded: true
 items:
   /crs--vertical/5c14482b-375b-473f-b79d-c8fd47c53cc9.yaml:
-    item_body:
-      aliases:
-      - North American Vertical Datum of 1988 height (m)
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--vertical
-        itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
-      dateAccepted: 2018-11-17
-      datum: c623103f-d8a7-4c16-9e11-3b5477550113
-      description: null
-      extent:
-        e: -66.0
-        n: 73.0
-        name: United States (USA) - onshore - Alaska, CONUS (Alabama, Arizona, Arkansas,
-          California, Colorado, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois,
-          Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts,
-          Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New
-          Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota,
-          Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
-          Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
-          Wisconsin, Wyoming).
-        s: 24.0
-        w: 172.0
-      identifier: 256
-      informationSources:
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: 2003-09-29
-        isbn: null
-        issn: null
-        otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON
-          for transformations between NGVD 29 and NAVD 88
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: VERTCON User Manual
-        uuid: 3c35cc4a-6b43-4078-9c04-c031dd336d4e
-      - author: US Government
-        edition: null
-        editionDate: 2007-07-11
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of VERTCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 72, No. 132, Document: 07-3377'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '37732.0'
-        title: Notice to Adopt a Standard Model for Mathematical Vertical Datum Transformations
-        uuid: 00b908be-455f-435e-8c87-609a710a3e3d
-      - author: D.B. Zilkoski, J.H. Richards, G.M. Young
-        edition: null
-        editionDate: 1992-03-01
-        isbn: null
-        issn: null
-        otherDetails: One of many NAVD 88 publiations. Nothing definitive was every
-          written, but this is most cited
-        publisher: American Cobgress on Surveying and Mapping
-        seriesIssueID: ' Volume 52, No. 3'
-        seriesName: Surveying and Land Information Systems
-        seriesPage: 133-149
-        title: Results of the General Adjustment of the North American Vertical Datum
-          of 1988
-        uuid: 053af9c7-2f19-48cd-9706-e8bb5d6d795c
-      - author: US Government
-        edition: null
-        editionDate: 1993-06-24
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NAVD 88
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 58, No. 120, Document: 93-14922, Docket No. 930650-3150'
-        seriesName: Federal Register Notice
-        seriesPage: null
-        title: Affirmation of Vertical Datum for Surveying and Mapping Activities
-        uuid: ec0b3876-8653-47c1-b2bb-b35e37860bec
-      name: NAVD88 - OHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 5c14482b-375b-473f-b79d-c8fd47c53cc9
-    item_class: crs--vertical
-    item_uuid: 5c14482b-375b-473f-b79d-c8fd47c53cc9
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -103,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

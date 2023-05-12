@@ -4,101 +4,6 @@ id: 29837392-5408-455b-b1eb-7cf3a926ae9e
 isConcluded: true
 items:
   /coordinate-ops--transformation/89fedebd-09df-494e-9745-e384d0b1ddc0.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.15
-      coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 128.0
-        n: 73.0
-        name: United States (USA) - onshore and offshore - Alaska.
-        s: 50.0
-        w: 172.0
-      identifier: 559
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: 0f464fc0-8980-4704-9601-d525c89d553a
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: 949a40ef-42e1-47f0-8446-ae98e49f9c33
-      name: NAD 83 (1986) to NAD 83 (HARN) [v2]
-      operationVersion: v2
-      parameters:
-      - fileCitation:
-          author: US Government
-          edition: null
-          editionDate: 1990-08-10
-          isbn: null
-          issn: null
-          otherDetails: Mandates use of NADCON for official transformations between
-            datums
-          publisher: Office of Federal Register, NARA
-          seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-          seriesName: 'Federal Register Notice '
-          seriesPage: '32681.0'
-          title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-          uuid: 0576da3b-2744-426a-b1c8-92a4aedfb4ae
-        parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
-        type: parameter file name
-        unitOfMeasurement: null
-        value: nadcon5.nad83_1986.nad83_1992.alaska.lat.trn.20160901.b
-      - fileCitation:
-          author: US Government
-          edition: null
-          editionDate: 1990-08-10
-          isbn: null
-          issn: null
-          otherDetails: Mandates use of NADCON for official transformations between
-            datums
-          publisher: Office of Federal Register, NARA
-          seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-          seriesName: 'Federal Register Notice '
-          seriesPage: '32681.0'
-          title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-          uuid: d3069ee8-61c2-4eb3-99ee-eb2e24530c47
-        parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
-        type: parameter file name
-        unitOfMeasurement: null
-        value: nadcon5.nad83_1986.nad83_1992.alaska.lon.trn.20160901.b
-      remarks: Grid Transformation
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: e7b865dd-1864-4ec7-ab47-2556a87f790e
-      uuid: 89fedebd-09df-494e-9745-e384d0b1ddc0
-    item_class: coordinate-ops--transformation
-    item_uuid: 89fedebd-09df-494e-9745-e384d0b1ddc0
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -112,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

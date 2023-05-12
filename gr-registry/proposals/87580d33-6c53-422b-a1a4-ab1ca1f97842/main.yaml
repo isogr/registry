@@ -4,94 +4,6 @@ id: 87580d33-6c53-422b-a1a4-ab1ca1f97842
 isConcluded: true
 items:
   /coordinate-ops--transformation/2a409a38-8a5b-4a7f-9083-3b144189903e.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.1
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -123.58
-        n: 50.95
-        name: Canada - onshore and offshore - British Columbia - Vancouver Island
-          excluding Capital Regional District.
-        s: 48.5
-        w: -128.45
-      identifier: 570
-      informationSources:
-      - author: Esri Canada
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Esri, Redlands, CA
-        seriesIssueID: 'Article ID: 000011846'
-        seriesName: null
-        seriesPage: null
-        title: 'FAQ: What are some of the transformation methods for Canada?'
-        uuid: 3858d923-a043-432a-8794-05342cd08595
-      - author: GeoBC
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: GeoBC, Government of British Columbia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
-        uuid: f5f8e272-9a3f-4d11-b568-87ace5cdd04c
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Desktop Applications: NTv2'
-        uuid: f318ea37-018c-4fca-b9ff-3fb7532bcc94
-      name: NAD83(Original) to NAD83(CSRS) v3 [BCv2]
-      operationVersion: BCv2
-      parameters:
-      - fileCitation:
-          author: GeoBC
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: GeoBC, Government of British Columbia
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: 'MASCOT Survey Utilities: National Transformation Coordinate Conversions'
-          uuid: 374dca73-736e-4d1a-98f1-f3417eb4d1be
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: NVI93_05.GSB
-      remarks: Grid tranformation in NTv2 format adopted for use on Vancouver Island,
-        outside the Capital Regional District, British Columbia, Canada.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 9ac5ba39-0f9c-4602-857e-122a38a17c72
-      uuid: 2a409a38-8a5b-4a7f-9083-3b144189903e
-    item_class: coordinate-ops--transformation
-    item_uuid: 2a409a38-8a5b-4a7f-9083-3b144189903e
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -105,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

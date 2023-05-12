@@ -4,33 +4,6 @@ id: 39474f7c-42b9-4f75-a0b5-75aaf03683ab
 isConcluded: true
 items:
   /coordinate-sys-axis/1dcb9318-cf33-4f7d-9b10-2f9e7a007adb.yaml:
-    item_body:
-      abbreviation: H
-      dateAccepted: 2018-11-17
-      identifier: 32
-      informationSources:
-      - author: A.V. Astin, H.A. Karo
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: 'US National Bureau of Standards '
-        seriesIssueID: Volume 24, Number 128, Document 59-5442
-        seriesName: Federal Register Notice
-        seriesPage: '5348.0'
-        title: Refinement of values for the yard and the pound
-        uuid: 8b9c9d2c-2a15-4d47-bb39-a3e61ecdf369
-      maxValue: null
-      minValue: null
-      name: Gravity-related height
-      orientation: up
-      remarks: Used in a 1D vertical coordinate system.
-      status: valid
-      unitOfMeasurement: 9e560831-7481-46c0-b54b-bf19f589ab5f
-      uuid: 1dcb9318-cf33-4f7d-9b10-2f9e7a007adb
-    item_class: coordinate-sys-axis
-    item_uuid: 1dcb9318-cf33-4f7d-9b10-2f9e7a007adb
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -44,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

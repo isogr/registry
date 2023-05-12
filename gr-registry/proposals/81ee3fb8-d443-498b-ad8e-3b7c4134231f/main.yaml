@@ -4,38 +4,6 @@ id: 81ee3fb8-d443-498b-ad8e-3b7c4134231f
 isConcluded: true
 items:
   /unit-of-measurement/2f8575eb-0c68-4abc-aa3c-8969abd89b25.yaml:
-    item_body:
-      aliases:
-      - yr
-      - annus
-      dateAccepted: 2018-11-17
-      denominator: 1.0
-      identifier: 12
-      informationSources:
-      - author: N.E. Holden, M.L. Bonardi, P. De Bievre, P.R. Renne, I.M. Villa
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Union of Geological Sciences (IUGS) and International
-          Union of Pure and Applied Chemistry (IUPAC)
-        seriesIssueID: Volume 83, No. 5
-        seriesName: Pure and Applied Chemistry
-        seriesPage: 1159-1162
-        title: IUPAC-IUGS common definition and convention on the use of the year
-          as a derived unit of time (IUPAC Recommendations 2011)
-        uuid: 66dcc379-ca83-4086-8621-2dc522b5b73f
-      measureType: TIME
-      name: year
-      numerator: 31556925.45
-      remarks: null
-      standardUnit: 168a60b2-b4d9-4420-91e7-a2f65a8fb0af
-      status: valid
-      symbol: a
-      uuid: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
-    item_class: unit-of-measurement
-    item_uuid: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -49,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

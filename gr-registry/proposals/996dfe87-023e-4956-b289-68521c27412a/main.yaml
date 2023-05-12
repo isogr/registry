@@ -4,71 +4,6 @@ id: 996dfe87-023e-4956-b289-68521c27412a
 isConcluded: true
 items:
   /crs--geodetic/7f6aadfb-3bfd-4a9b-aeb5-1f89de5a036c.yaml:
-    item_body:
-      aliases:
-      - IERS Terrestrial Reference Frame 2014
-      - International Terrestrial Reference Frame 2014
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: ae0a3486-2c4d-4c8a-a75c-3706663c0ce6
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 333
-      informationSources:
-      - author: Z. Altamimi, P. Rebischung, L. Metivier, X. Collilieux
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: American Geophysical Union
-        seriesIssueID: Volume 121, Issue 8
-        seriesName: Journal of Geophysical Research Solid Earth
-        seriesPage: null
-        title: 'ITRF2014: A new release of the International Terrestrial Reference
-          Frame modeling nonlinear station motions'
-        uuid: 2f06ee89-8271-4775-bd54-1d487f9ec2fc
-      - author: IERS
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        seriesIssueID: '289.0'
-        seriesName: IERS Message
-        seriesPage: null
-        title: ITRF2014 is available on line
-        uuid: a8f3ccab-5817-4434-8e5e-7e2f1313015e
-      - author: Z. Altamimi, P. Rebischung, L. Metivier, X. Collilieux
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Earth Rotation and Reference Systems Service Central
-          Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am
-          Main, Germany
-        seriesIssueID: '38.0'
-        seriesName: IERS Technical Notes
-        seriesPage: null
-        title: Analysis and results of ITRF2014
-        uuid: 67aa72f0-a4de-4502-baad-97a36612f12c
-      name: ITRF2014 - LatLon
-      operation: null
-      remarks: Replaces ITRF2008 - LatLon.
-      scope: Spatial referencing
-      status: valid
-      uuid: 7f6aadfb-3bfd-4a9b-aeb5-1f89de5a036c
-    item_class: crs--geodetic
-    item_uuid: 7f6aadfb-3bfd-4a9b-aeb5-1f89de5a036c
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -82,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

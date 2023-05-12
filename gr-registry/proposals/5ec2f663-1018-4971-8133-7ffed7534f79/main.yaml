@@ -4,71 +4,6 @@ id: 5ec2f663-1018-4971-8133-7ffed7534f79
 isConcluded: true
 items:
   /crs--geodetic/170ddaca-ecbd-485b-8c57-e86b2a0a0d5c.yaml:
-    item_body:
-      aliases:
-      - IERS Terrestrial Reference Frame 2000
-      - International Terrestrial Reference Frame 2000
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: f0f0d6cf-c4ad-4a7a-bda1-bbe3517e5779
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 355
-      informationSources:
-      - author: C. Boucher, Z. Altamimi, P. Sillard, M. Feissel-Vernier
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Earth Rotation and Reference Systems Service Central
-          Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am
-          Main, Germany
-        seriesIssueID: '31.0'
-        seriesName: IERS Technical Notes
-        seriesPage: null
-        title: The ITRF2000
-        uuid: be737649-8a8a-44b6-8e36-056829e7f778
-      - author: C.S. DeMets, R.G. Gordon, D.F. Argus, S. Stein
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: American Geophysical Union
-        seriesIssueID: Volume 21, Issue 20
-        seriesName: Geophysical Research Letters
-        seriesPage: null
-        title: Effect of recent revisions to the geomagnetic reversal time scale on
-          estimates of current plate motions
-        uuid: 2967baab-7901-4204-92d0-9c2b143c3181
-      - author: C. Boucher, Z. Altamimi
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        seriesIssueID: '5.0'
-        seriesName: IERS Message
-        seriesPage: null
-        title: 'IERS Message No. 5: ITRF2000 Primary Solution'
-        uuid: 537f9c4e-6f45-47de-88c3-2212ec6eecc5
-      name: ITRF2000 - LatLonEHt
-      operation: null
-      remarks: Replaces ITRF97 - LatLonEHt . Replaced by ITRF2005 - LatLonEHt.
-      scope: Spatial referencing
-      status: valid
-      uuid: 170ddaca-ecbd-485b-8c57-e86b2a0a0d5c
-    item_class: crs--geodetic
-    item_uuid: 170ddaca-ecbd-485b-8c57-e86b2a0a0d5c
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -82,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

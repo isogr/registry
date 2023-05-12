@@ -4,73 +4,6 @@ id: fc214330-36a9-41e2-b831-18df78245c6f
 isConcluded: true
 items:
   /datums--geodetic/e5940740-840a-4818-8e18-adda1ea447a7.yaml:
-    item_body:
-      aliases:
-      - International GNSS Service 2005
-      coordinateReferenceEpoch: '2000.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 202
-      informationSources:
-      - author: Remi Ferland
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International GNSS Service (IGS)
-        seriesIssueID: '5438.0'
-        seriesName: IGSMAIL
-        seriesPage: null
-        title: IGS switch to absolute antenna model and ITRF2005
-        uuid: 32bcc032-dc20-4f8b-ba8e-763478f4ebf7
-      - author: R. Ferland
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International GNSS Service (IGS)
-        seriesIssueID: '5447.0'
-        seriesName: IGSMAIL
-        seriesPage: null
-        title: Proposed IGS05 Realization
-        uuid: f553a2ce-5103-4746-ad33-0a9c2c333e8a
-      - author: International GNSS Service Analysis Centre Coordinator
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National  Geodetic
-          Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Chronology of IGS Reference Frame Usage
-        uuid: 24455009-ea15-44c1-bc81-a4177c385acd
-      name: IGS05
-      originDescription: 'Derived from and aligned to a subset of 139 stable IGS station
-        coordinates and velocities in ITRF2005 at epoch 2000.0.
-
-        The first IGS reference frame to use absolute antenna phase calibrations for
-        both ground stations and satellite antennas.'
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '2006-11-05'
-      remarks: Replaces IGb00. Replaced by IGS08. Used by IGS products within the
-        period 2006-11-05 thru 2011-04-16.
-      scope: Spatial Referencing
-      status: valid
-      uuid: e5940740-840a-4818-8e18-adda1ea447a7
-    item_class: datums--geodetic
-    item_uuid: e5940740-840a-4818-8e18-adda1ea447a7
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -84,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

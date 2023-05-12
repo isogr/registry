@@ -4,67 +4,6 @@ id: 59f75411-3fe8-472a-963f-b7dbff1480f0
 isConcluded: true
 items:
   /coordinate-ops--transformation/4c86fcd3-5cdc-4bc8-9a21-69588179a389.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.02
-      coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -170.0
-        n: -14.0
-        name: American Samoa - onshore - Tutuila.
-        s: -14.5
-        w: -171.0
-      identifier: 502
-      informationSources:
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: National Geodetic Survey Geoid Homepage
-        uuid: 9e82e168-0653-4a5c-a1ca-25e01e9bf13d
-      name: NAD 83 (PA11) Epoch 2010 to ASVD02 - NOHt [v1]
-      operationVersion: v1
-      parameters:
-      - fileCitation:
-          author: National Geodetic Survey
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-          publisher: National Oceanic and Atmospheric Administration (NOAA), National
-            Geodetic Survey (NGS)
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: National Geodetic Survey Geoid Homepage
-          uuid: fff1b056-091e-42c9-8dfe-46e5f2e643a4
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: g2012bs0.bin
-      remarks: Grid Transformation
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: c8c9838e-0b73-4674-9866-5f27dfdc5461
-      status: valid
-      targetCRS: null
-      uuid: 4c86fcd3-5cdc-4bc8-9a21-69588179a389
-    item_class: coordinate-ops--transformation
-    item_uuid: 4c86fcd3-5cdc-4bc8-9a21-69588179a389
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -78,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

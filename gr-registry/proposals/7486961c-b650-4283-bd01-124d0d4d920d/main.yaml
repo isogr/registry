@@ -4,105 +4,6 @@ id: 7486961c-b650-4283-bd01-124d0d4d920d
 isConcluded: true
 items:
   /ellipsoid/604b7473-23c9-4a3c-9f79-5965be4452dd.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: 2018-11-17
-      description: null
-      identifier: 28
-      informationSources:
-      - author: U.S. Army Map Service
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: U.S. Army Map Service
-        seriesIssueID: TM 5-241-4/2
-        seriesName: Technical Manual
-        seriesPage: null
-        title: "Universal Transverse Mercator Grid Tables For Latitudes 0\xB0-80\xB0\
-          \ Clarke 1866 Spheroid (Meters) Volume II"
-        uuid: f65acd04-2224-4ca5-a523-77195a326774
-      - author: Department of the Army
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Headquarters, Department of the Army, Washington, DC
-        seriesIssueID: TM 5-241-1
-        seriesName: Department of the Army Technical Manual
-        seriesPage: null
-        title: Grids and Grid References
-        uuid: 98ab5484-6da1-4ad5-8f55-54463c36fe44
-      - author: US Government
-        edition: null
-        editionDate: 1930-06-30
-        isbn: null
-        issn: null
-        otherDetails: NGVD29
-        publisher: Government Printing Office
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: '33.0'
-        title: Annual Report of the Director, United States Coast and Geodetic Survey
-          to the Secretary of Commerce for the Fiscal Year Ended June 30, 1930
-        uuid: 57f02e82-6a3f-47b6-87df-9b344f91ae26
-      - author: Coast and Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Coast and Geodetic Survey
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Annual Report of the Superintendent of the Coast and Geodetic Survey
-          for fiscal year ended June 30, 1927
-        uuid: bf4ad651-c415-4095-bd98-8d9ae068ac11
-      - author: U.S. Army Map Service
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: U.S. Army Map Service
-        seriesIssueID: '7.0'
-        seriesName: Army Map Services Bulletin
-        seriesPage: null
-        title: Transformation of grid coordinates
-        uuid: 93ed7697-efad-4780-9482-b1e8df3a3711
-      - author: U.S. Army Map Service
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: U.S. Army Map Service
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Universal transverse mercator grid tables. Clarke 1866 (Technical Manual
-          nos. 7, 21, 37), Clarke 1880 (nos. 9, 48), Everest (nos. 11, 49), Bessel
-          (nos. 8, 39), International (no. 6) spheroids
-        uuid: 72155696-2f3b-47cc-84d1-7a97b8fe6852
-      inverseFlattening: null
-      inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b
-      isSphere: false
-      name: Clarke 1866
-      remarks: Original definition a=20926062 and b=20855121 (British) feet. Uses
-        Clarke's 1865 inch-metre ratio of 39.370432 to obtain metres. Metric value
-        then converted to US survey feet for use in the US and international feet
-        for use in Cayman Islands.
-      semiMajorAxis: 6378206.4
-      semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
-      semiMinorAxis: 6356583.8
-      semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
-      status: valid
-      uuid: 604b7473-23c9-4a3c-9f79-5965be4452dd
-    item_class: ellipsoid
-    item_uuid: 604b7473-23c9-4a3c-9f79-5965be4452dd
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -116,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

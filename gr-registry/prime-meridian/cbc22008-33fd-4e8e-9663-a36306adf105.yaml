@@ -1,4 +1,6 @@
 data:
+  aliases:
+  - Zero meridian
   identifier: 25
   informationSources:
   - author: G. Petit, B.J. Luzum (eds)

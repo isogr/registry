@@ -4,104 +4,6 @@ id: 5cf4e465-1b31-4d4b-b39f-989cfd666c76
 isConcluded: true
 items:
   /crs--vertical/ddb4e476-26d6-4795-bab0-717382e8966c.yaml:
-    item_body:
-      aliases:
-      - National Geodetic Vertical Datum of 1929 height (ftUS),Sea Level Datum of
-        1928
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--vertical
-        itemID: ae712530-3beb-45d5-ae5b-494ed61c122b
-      dateAccepted: 2018-11-17
-      datum: c39e6ba6-0e7d-4877-91d4-3a6f3766aea6
-      description: null
-      extent:
-        e: -66.0
-        n: 50.0
-        name: United States (USA) - onshore and offshore - CONUS (Alabama, Arizona,
-          Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia,
-          Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland,
-          Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska,
-          Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina,
-          North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South
-          Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington,
-          West Virginia, Wisconsin, Wyoming).
-        s: 24.0
-        w: -135.0
-      identifier: 214
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 1930-06-30
-        isbn: null
-        issn: null
-        otherDetails: NGVD29
-        publisher: Government Printing Office
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: '33.0'
-        title: Annual Report of the Director, United States Coast and Geodetic Survey
-          to the Secretary of Commerce for the Fiscal Year Ended June 30, 1930
-        uuid: fb63c87b-44cb-43fe-b9ac-db05e1efa682
-      - author: US Government
-        edition: null
-        editionDate: 2007-07-11
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of VERTCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 72, No. 132, Document: 07-3377'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '37732.0'
-        title: Notice to Adopt a Standard Model for Mathematical Vertical Datum Transformations
-        uuid: 9b2e8525-6e6c-4a48-996a-3be84f25fc27
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: 2003-09-29
-        isbn: null
-        issn: null
-        otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON
-          for transformations between NGVD 29 and NAVD 88
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: VERTCON User Manual
-        uuid: 18d7e718-6428-447e-8850-bfb30b28f399
-      - author: US Government
-        edition: null
-        editionDate: 1973-05-16
-        isbn: null
-        issn: null
-        otherDetails: Proposed use of NGVD 29 to replace SLD 29
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: Volume 38, No. 94, Document 73-9694
-        seriesName: Federal Register Notice
-        seriesPage: '12840.0'
-        title: National Vertical Control Network - Proposed Action
-        uuid: b700fbf6-f86b-46b0-a14c-2d75d59ebe1d
-      - author: US Government
-        edition: null
-        editionDate: 1976-05-17
-        isbn: null
-        issn: null
-        otherDetails: Formally adopted usage of NGVD 29 as datum name
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: Volume 41, No. 96, Document 76-14245
-        seriesName: Federal Register Notice
-        seriesPage: '20202.0'
-        title: National Vertical Control Network - Notice of Final Action
-        uuid: 8f8b36bd-53fc-43b4-b633-ea2c86530b0d
-      name: NGVD29 - NOHt
-      operation: null
-      remarks: Replaced by NAVD88 height (ft US) (CRS code 6360).
-      scope: Spatial referencing
-      status: valid
-      uuid: ddb4e476-26d6-4795-bab0-717382e8966c
-    item_class: crs--vertical
-    item_uuid: ddb4e476-26d6-4795-bab0-717382e8966c
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -115,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

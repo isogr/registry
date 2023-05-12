@@ -4,108 +4,6 @@ id: 0d1fa9e6-4228-423c-b960-bcad6c6b788e
 isConcluded: true
 items:
   /coordinate-ops--transformation/daef03e6-60d0-4a0d-b9ec-503b8a5aad79.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.05
-      coordOperationMethod: 1059174f-cb61-43b7-ace7-59e912ed8108
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -66.0
-        n: 50.0
-        name: United States (USA) - onshore and offshore - CONUS (Alabama, Arizona,
-          Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia,
-          Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland,
-          Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska,
-          Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina,
-          North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South
-          Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington,
-          West Virginia, Wisconsin, Wyoming).
-        s: 24.0
-        w: -135.0
-      identifier: 498
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: 6028116b-0b30-4804-af60-32807ffb0252
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: feb5e25f-1f0e-43f7-847b-3c7a54c48731
-      name: NAD 83 (1986) to NAD 83 (HARN) [v1]
-      operationVersion: v1
-      parameters:
-      - fileCitation:
-          author: US Government
-          edition: null
-          editionDate: 1990-08-10
-          isbn: null
-          issn: null
-          otherDetails: Mandates use of NADCON for official transformations between
-            datums
-          publisher: Office of Federal Register, NARA
-          seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-          seriesName: 'Federal Register Notice '
-          seriesPage: '32681.0'
-          title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-          uuid: 8d82063a-14db-4ac6-b18f-311f3598844c
-        parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
-        type: parameter file name
-        unitOfMeasurement: null
-        value: nadcon5.nad83_1986.nad83_harn.conus.lat.trn.20160901.b
-      - fileCitation:
-          author: US Government
-          edition: null
-          editionDate: 1990-08-10
-          isbn: null
-          issn: null
-          otherDetails: Mandates use of NADCON for official transformations between
-            datums
-          publisher: Office of Federal Register, NARA
-          seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-          seriesName: 'Federal Register Notice '
-          seriesPage: '32681.0'
-          title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-          uuid: 1e100d63-e5d7-4c2a-ba22-96e5b6a7165d
-        parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
-        type: parameter file name
-        unitOfMeasurement: null
-        value: nadcon5.nad83_1986.nad83_harn.conus.lon.trn.20160901.b
-      remarks: Grid Transformation
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: bcac1a3a-6240-48b7-b67a-83a019ad35db
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: e7b865dd-1864-4ec7-ab47-2556a87f790e
-      uuid: daef03e6-60d0-4a0d-b9ec-503b8a5aad79
-    item_class: coordinate-ops--transformation
-    item_uuid: daef03e6-60d0-4a0d-b9ec-503b8a5aad79
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -119,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

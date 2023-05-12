@@ -4,71 +4,6 @@ id: 4ce431f3-5819-43bd-a0af-8e9397f74507
 isConcluded: true
 items:
   /coordinate-ops--transformation/e7325126-42ac-477e-babd-0182d370357b.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.1
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 173.4
-        n: -8.47
-        name: Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
-          Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore.
-          Cocos (Keeling) Islands - onshore and offshore.
-        s: -60.56
-        w: 93.41
-      identifier: 657
-      informationSources:
-      - author: Permanent Committee on Geodesy of the Intergovernmental Committee
-          on Surveying and Mapping
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Intergovernmental Committee on Surveying and Mapping
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Geocentric Datum of Australia Technical Manual Version 2.4
-        uuid: 2d5345cd-213b-461b-b6e2-392b7dbefbbd
-      name: AGD66 to GDA94 [GA v2]
-      operationVersion: GA v2
-      parameters:
-      - fileCitation:
-          author: Permanent Committee on Geodesy of the Intergovernmental Committee
-            on Surveying and Mapping
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: Intergovernmental Committee on Surveying and Mapping
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: Geocentric Datum of Australia Technical Manual Version 2.4
-          uuid: ce4ccdb6-6e25-4d7f-88f9-c20eb477e4ae
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: A66 National (13.09.01).gsb
-      remarks: Defined at epoch 1994.0.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 13391025-6c47-4868-b8ab-87bd6d118b2d
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: e4050664-82bd-45fa-8643-b0abdfa794c4
-      uuid: e7325126-42ac-477e-babd-0182d370357b
-    item_class: coordinate-ops--transformation
-    item_uuid: e7325126-42ac-477e-babd-0182d370357b
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -82,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

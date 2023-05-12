@@ -4,33 +4,6 @@ id: 3adb76f5-50f1-4307-a29d-d71acb996eb1
 isConcluded: true
 items:
   /coordinate-sys-axis/ab143abe-d350-4401-bd42-55e96a479423.yaml:
-    item_body:
-      abbreviation: Y
-      dateAccepted: 2018-11-17
-      identifier: 37
-      informationSources:
-      - author: International Organization for Standardization (ISO)
-        edition: Second Edition
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Organization for Standardization (ISO)
-        seriesIssueID: ISO 19111:2007
-        seriesName: International Standard
-        seriesPage: null
-        title: ISO 19111 Geographical information - Spatial referencing by coordinates
-        uuid: a17951e4-6139-45b7-a2b1-9fb5d8c7dec0
-      maxValue: null
-      minValue: null
-      name: Geocentric Y
-      orientation: "Geocentre > equator/90\xB0E"
-      remarks: null
-      status: valid
-      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-      uuid: ab143abe-d350-4401-bd42-55e96a479423
-    item_class: coordinate-sys-axis
-    item_uuid: ab143abe-d350-4401-bd42-55e96a479423
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -44,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,62 +4,6 @@ id: bb1645c7-d73c-40ef-bf85-5a5d3ae61526
 isConcluded: true
 items:
   /datums--vertical/d1082917-c43f-4c82-b6b2-b3f7b818117f.yaml:
-    item_body:
-      aliases:
-      - ASVD02
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: American Samoa Vertical Datum of 2002
-      extent:
-        e: -170.0
-        n: -14.0
-        name: American Samoa - onshore - Tutuila.
-        s: -14.5
-        w: -171.0
-      identifier: 121
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 2009-01-22
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of ASVD02
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 74, No. 13, Document: E9-1181, Citation: 74 FR 3991'
-        seriesName: Federal Register Notice
-        seriesPage: '3991.0'
-        title: Affirmation of Vertical Datum for Surveying and Mapping Activities
-          for the island of Tutuila, American Samoa
-        uuid: 5ad2bbbc-c5c6-4925-82f3-bb27b37ae2ae
-      - author: E. Carlson, D. Doyle, D. Smith
-        edition: null
-        editionDate: 2009-01-01
-        isbn: null
-        issn: null
-        otherDetails: ASVD02, GUVD04, NMVD03
-        publisher: American Congress on Surveying and Mapping
-        seriesIssueID: Volume 69, No. 1
-        seriesName: Surveying and Land Information Systems
-        seriesPage: 5-17
-        title: Development of Comprehensive Geodetic Vertical Datums for the United
-          States Pacific Territories of American Samoa, Guam, and the Northern Marianas
-        uuid: 9cfb1676-6f7c-4021-94da-13a13760c0b6
-      name: American Samoa Vertical Datum of 2002
-      originDescription: American Samoa Vertical Datum of 2002 (ASVD02) consists of
-        a leveling network on the island of Tutuila (in the territory of American
-        Samoa) referenced to mean sea level at the tide gauge Pago Pago Harbor. ASVD02
-        was affirmed as the official vertical datum in the National Spatial Reference
-        System for the island of Tutuila in American Samoa, replacing all previous
-        height systems for this region. The official defining document for that datum
-        was published in 2009.
-      releaseDate: '2009'
-      remarks: Normal orthometric heights. Replaced by Local Tidal at Pago Pago (item
-        740).
-      scope: Spatial referencing
-      status: valid
-      uuid: d1082917-c43f-4c82-b6b2-b3f7b818117f
-    item_class: datums--vertical
-    item_uuid: d1082917-c43f-4c82-b6b2-b3f7b818117f
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -73,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

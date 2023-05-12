@@ -4,99 +4,6 @@ id: 9ccead1d-2bee-4127-a1ae-a412db127c66
 isConcluded: true
 items:
   /datums--geodetic/d44da840-4b05-4112-8295-210f97afdfe5.yaml:
-    item_body:
-      aliases:
-      - NAD83(CSRS)v1
-      - CSRS
-      - Canadian Spatial Reference System 1996
-      - North American Datum 1983 v1
-      - CSRS96
-      - Canadian Spatial Reference System
-      - NAD83v1
-      - NAD83(CSRS96)
-      - NAD83
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: North American Datum of 1983 (CSRS96) version 1
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: -47.74
-        n: 90.0
-        name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba,
-          New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
-          Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
-        s: 40.04
-        w: -141.01
-      identifier: 148
-      informationSources:
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: The Canadian Spatial Reference System (CSRS)
-        uuid: 3216bd08-bb66-4afb-a605-5a58bfec38a9
-      - author: M. Craymer
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Institute of Geomatics
-        seriesIssueID: Volume 60, No. 4
-        seriesName: Geomatica
-        seriesPage: '433.0'
-        title: 'The Evolution of NAD83 in Canada: Addendum'
-        uuid: a78a4583-c787-4279-8a07-c3313a8789d9
-      - author: J. Kouba, J. Popelar
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        seriesIssueID: null
-        seriesName: Proceedings on the International Symposium on Kinematic Systems
-          in Geodesy, Geomatics and Navigation, Banff, Canada, August 30 - September
-          2, 1994
-        seriesPage: ' 79-86'
-        title: Modern Geodetic Reference Frames for Precise Satellite Positioning
-          and Navigation
-        uuid: 7b2a470c-be1c-4f80-ad4f-35067fe61561
-      - author: M. Craymer
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Institute of Geomatics
-        seriesIssueID: Volume 60, No. 2
-        seriesName: Geomatica
-        seriesPage: 151-164
-        title: The Evolution of NAD83 in Canada
-        uuid: 3cf393a4-c6f9-43b6-b566-b3155764b85c
-      name: North American Datum of 1983 (CSRS96) version 1
-      originDescription: Realization of the North American Datum of 1983 and the first
-        version of the Canadian Spatial Reference System, referred to as CSRS96. The
-        frame is defined by a seven parameter transformation of  ITRF92 3D geocentric
-        Cartesian coordinates for Canadian stations at reference epoch 1988.0. This
-        solution is assotiated with only a diagonal covariance matrix for the defining
-        coordinates. The origin, scale and orientation of the frame are nominally
-        defined to be that for the BIH Terrestrial System 1984 (BTS84).
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '1996-01-01'
-      remarks: Adopted by the Canadian federal government for use in Canada. Replaces
-        NAD83(Original). Replaced by NAD83(CSRS) v2.
-      scope: Spatial referencing
-      status: valid
-      uuid: d44da840-4b05-4112-8295-210f97afdfe5
-    item_class: datums--geodetic
-    item_uuid: d44da840-4b05-4112-8295-210f97afdfe5
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -110,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

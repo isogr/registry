@@ -4,68 +4,6 @@ id: 6958e632-6697-4c34-bf59-2b1de9036e19
 isConcluded: true
 items:
   /crs--geodetic/470dfa24-8bb0-4856-8f4f-14dfca7f087a.yaml:
-    item_body:
-      aliases:
-      - CSRS
-      - NAD83(CSRS)
-      - Canadian Spatial Reference System 1998
-      - NAD83v2
-      - North American Datum 1983 v2
-      - Canadian Spatial Reference System
-      - NAD83(CSRS98)
-      - CSRS98
-      - NAD83
-      - NAD83(CSRS)v2
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: 61f3c07c-3367-4297-b59a-c07e34036cfe
-      description: null
-      extent:
-        e: -47.74
-        n: 90.0
-        name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba,
-          New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
-          Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
-        s: 40.04
-        w: -141.01
-      identifier: 437
-      informationSources:
-      - author: M. Craymer
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Institute of Geomatics
-        seriesIssueID: Volume 60, No. 2
-        seriesName: Geomatica
-        seriesPage: 151-164
-        title: The Evolution of NAD83 in Canada
-        uuid: 0bbd93b9-63a1-4829-bf51-db5fbfb8bfdb
-      - author: Canadian Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences
-          Sector, Natural Resources Canada, Government of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: The Canadian Spatial Reference System (CSRS)
-        uuid: 2e1e64ca-29fe-4d33-afcb-48a2f863f72e
-      name: NAD83(CSRS) v2 - LatLonEHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 470dfa24-8bb0-4856-8f4f-14dfca7f087a
-    item_class: crs--geodetic
-    item_uuid: 470dfa24-8bb0-4856-8f4f-14dfca7f087a
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -79,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

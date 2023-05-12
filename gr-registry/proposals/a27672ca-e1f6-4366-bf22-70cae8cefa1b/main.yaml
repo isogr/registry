@@ -4,76 +4,6 @@ id: a27672ca-e1f6-4366-bf22-70cae8cefa1b
 isConcluded: true
 items:
   /crs--geodetic/ffd9ea93-576a-4b5f-95ab-5104c8a7aca1.yaml:
-    item_body:
-      aliases:
-      - North American Datum of 1983 (MA11)
-      - NAD83(MA11)
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2018-11-17
-      datum: 2a7b9fa9-a13b-46cc-887f-7a60788e983f
-      description: null
-      extent:
-        e: 149.55
-        n: 23.9
-        name: Guam - onshore and offshore. Northern Mariana Islands - onshore and
-          offshore. Palau - onshore and offshore.
-        s: 1.64
-        w: 129.48
-      identifier: 379
-      informationSources:
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: webpage
-        publisher: National Oceanic and Atmospheric Administration (NOAA) National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: NGS Online listing of transformation parameters
-        seriesPage: null
-        title: CORS Coordinates
-        uuid: 3d57b7de-f018-40f8-b974-80e901ba6753
-      - author: C. Pearson, R.A. Snay
-        edition: null
-        editionDate: 2013-01-01
-        isbn: null
-        issn: null
-        otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from
-          IGb08
-        publisher: Springer-Verlag
-        seriesIssueID: Volume 17, No. 1
-        seriesName: GPS Solutions
-        seriesPage: 1-15
-        title: Introducing HTDP 3.1 to transform coordinates across time and spatial
-          reference frames
-        uuid: 2699cb76-b573-4290-837f-ca167cdb3330
-      - author: US Government
-        edition: null
-        editionDate: 2013-08-08
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: "Volume 78, No. 153, Document: 2013\u201319167, Citation: 78\
-          \ FR 48421"
-        seriesName: Federal Register Notice
-        seriesPage: 48421-48422
-        title: Publication of North American Datum of 1983 (2011) Epoch 2010.00, North
-          American Datum of 1983 (PA2011) Epoch 2010.00 and North American Datum of
-          1983 (MA2011) Epoch 2010.00
-        uuid: d5e1226a-4d6e-4957-bdb0-ddd101dc2191
-      name: NAD 83 (MA11) Epoch 2010 - XYZ
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: ffd9ea93-576a-4b5f-95ab-5104c8a7aca1
-    item_class: crs--geodetic
-    item_uuid: ffd9ea93-576a-4b5f-95ab-5104c8a7aca1
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -87,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

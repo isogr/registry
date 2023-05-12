@@ -4,38 +4,6 @@ id: e33d07aa-53c3-4563-b1f8-42a00ea82483
 isConcluded: true
 items:
   /ellipsoid/724fedfa-018f-4ebd-b286-97b6d918b972.yaml:
-    item_body:
-      aliases:
-      - Hayford 1909
-      dateAccepted: 2018-11-17
-      description: null
-      identifier: 31
-      informationSources:
-      - author: W Torge, J. Muller
-        edition: Fourth
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Walter de Gruyter GmbH, Berlin
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Geodesy
-        uuid: c3d97293-5b73-4f55-98bb-c5cfc7affc64
-      inverseFlattening: 297.0
-      inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b
-      isSphere: false
-      name: International 1924
-      remarks: 'Adopted by IUGG 1924 in Madrid. Based on Hayford 1909/1910 figures. '
-      semiMajorAxis: 6378388.0
-      semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
-      semiMinorAxis: null
-      semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
-      status: valid
-      uuid: 724fedfa-018f-4ebd-b286-97b6d918b972
-    item_class: ellipsoid
-    item_uuid: 724fedfa-018f-4ebd-b286-97b6d918b972
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -49,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

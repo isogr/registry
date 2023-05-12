@@ -4,107 +4,6 @@ id: 93dde9e6-d6d0-4421-a90c-956429fa981b
 isConcluded: true
 items:
   /coordinate-ops--transformation/f1f2c095-f3d3-409d-8dd3-15e3092b0322.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.1
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -59.73
-        n: 47.08
-        name: Canada - onshore and offshore - Nova Scotia.
-        s: 43.41
-        w: -66.28
-      identifier: 584
-      informationSources:
-      - author: J. Bond
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Personal email communication.
-        publisher: GeoNOVA, Geographic Information Services, Nova Scotia Geomatics
-          Centre, Government of Nova Scotia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'RE: NAD27 - ATS77 transformation?'
-        uuid: 7ca45db0-b3c7-490c-9a31-5246b46dcb37
-      - author: J. Bond, W. Robertson
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Institute of Geomatics
-        seriesIssueID: Volume 69, No. 4
-        seriesName: Geomatica
-        seriesPage: 407-418
-        title: "The Evolution of Nova Scotia\u2019s Spatial Referencing System from\
-          \ its Origins until 2012"
-        uuid: e5192377-49e5-4922-99ff-deaea896b78f
-      - author: GeoNOVA Reference Coordinate System Policy Node
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: GeoNOVA, Service Nova Scotia and Municipal Relations
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'A spatial referencing policy for the Province of Nova Scotia: Policy
-          Document'
-        uuid: e5b187b3-30ba-42fa-aacc-f0d3b9ef79ee
-      - author: Esri Canada
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Esri, Redlands, CA
-        seriesIssueID: 'Article ID: 000011846'
-        seriesName: null
-        seriesPage: null
-        title: 'FAQ: What are some of the transformation methods for Canada?'
-        uuid: d70937d7-94f7-4bd8-803b-34c26a4499ea
-      name: NAD27 to ATS77 [NSv1]
-      operationVersion: NSv1
-      parameters:
-      - fileCitation:
-          author: J. Bond, W. Robertson
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: Canadian Institute of Geomatics
-          seriesIssueID: Volume 69, No. 4
-          seriesName: Geomatica
-          seriesPage: 407-418
-          title: "The Evolution of Nova Scotia\u2019s Spatial Referencing System from\
-            \ its Origins until 2012"
-          uuid: f43d7842-6014-49ad-b83a-c85a7536d5bc
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: TRNS2777.DAT
-      remarks: Grid tranformation in NTv2 format adopted for use in Nova Scotia.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: a0c01a52-f404-48f3-951a-900aba820bd7
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 369e1fef-6901-49d5-be7e-668c25c73866
-      uuid: f1f2c095-f3d3-409d-8dd3-15e3092b0322
-    item_class: coordinate-ops--transformation
-    item_uuid: f1f2c095-f3d3-409d-8dd3-15e3092b0322
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -118,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

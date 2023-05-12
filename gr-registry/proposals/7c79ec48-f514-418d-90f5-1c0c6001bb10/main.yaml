@@ -4,89 +4,6 @@ id: 7c79ec48-f514-418d-90f5-1c0c6001bb10
 isConcluded: true
 items:
   /coordinate-ops--transformation/47f5828d-e8e3-4106-a122-481cc1111065.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.02
-      coordOperationMethod: 1ec40630-37a6-4af1-8b25-a2f860b4965f
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -170.0
-        n: -25.0
-        name: New Zealand - onshore and offshore - Antipodes Islands, Auckland Islands,
-          Bounty Islands, Campbell Island Chatham Islands, Kermadec Islands, North
-          Island, Raoul Island, Snares Islands, South Island, Stewart Island.
-        s: -60.0
-        w: 160.0
-      identifier: 689
-      informationSources:
-      - author: Land Information New Zealand
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Land Information New Zealand
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: NZGD2000 Deformation Model
-        uuid: c94c2d89-5830-4ca9-892f-c6fa2f9c99ad
-      - author: Office of the Surveyor General
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Land Information New Zealand
-        seriesIssueID: LINZS25000
-        seriesName: null
-        seriesPage: null
-        title: Standard for New Zealand Geodetic Datum 2000
-        uuid: e5527468-788f-4f6c-8464-fc671d25735d
-      name: ITRF96 to NZGD2000 [LINZ v20160701]
-      operationVersion: LINZ v20160701
-      parameters:
-      - fileCitation:
-          author: Office of the Surveyor General
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: Land Information New Zealand
-          seriesIssueID: LINZS25000
-          seriesName: null
-          seriesPage: null
-          title: Standard for New Zealand Geodetic Datum 2000
-          uuid: faa67020-de41-4ae4-9415-4ae8df0ae9a2
-        parameter: 1df0907d-ac5b-4263-8d90-18d0f3c0d19c
-        type: parameter file name
-        unitOfMeasurement: null
-        value: nzgd2000_deformation_20160701_full.zip
-      remarks: Uses LINZ NZGD2000 deformation model. The deformation model transforms
-        an ITRF96 coordinate at a specified epoch to NZGD2000. NZGD2000 is equivalent
-        to ITRF96 epoch 2000 in areas unaffected by earthquakes and other localised
-        deformation. The files required for this version of the transformation are
-        contained within the most recent published version of the deformation model,
-        if a more recent version than this one exists. The nominal operation accuracy
-        is 0.02m horizontally and vertically, which represents the expected consistency
-        of NZGD2000 coordinates calculated at different epochs, in the absence of
-        significant local deformation.
-      scope:
-      - Spatial referencing.
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 2f821c74-946e-4e2e-b263-a491a1379bac
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 90080c83-c3a1-457b-9b8e-f2bb7b7650d1
-      uuid: 47f5828d-e8e3-4106-a122-481cc1111065
-    item_class: coordinate-ops--transformation
-    item_uuid: 47f5828d-e8e3-4106-a122-481cc1111065
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -100,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

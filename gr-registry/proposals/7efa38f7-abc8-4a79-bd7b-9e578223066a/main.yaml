@@ -4,82 +4,6 @@ id: 7efa38f7-abc8-4a79-bd7b-9e578223066a
 isConcluded: true
 items:
   /datums--geodetic/b41a3ac1-f664-4c9a-96f6-6d669e4aa4c3.yaml:
-    item_body:
-      aliases:
-      - SIR10P01
-      - SIRGAS
-      - SIRGAS-CON
-      - Sistema de Referencia Geocentrico para las Americas
-      - SIRGAS Multi-Year Solution 2010
-      - Geocentric Reference System for the Americas
-      coordinateReferenceEpoch: '2005.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 151
-      informationSources:
-      - author: W. Seemueller, L. Sanchez, M. Seitz, H. Drewes
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
-        seriesIssueID: No. 86
-        seriesName: DGFI Report
-        seriesPage: null
-        title: The position and velocity solution SIR10P01 of the IGS Regional Network
-          Associate Analysis Centre for SIRGAS (IGS RNAAC SIR)
-        uuid: 0e42aa3d-fe1a-41a8-a5c5-5fec989528c9
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
-          International Association of Geodesy Symposia, Vol 136. Springer, Berlin,
-          Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '136.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 657-664
-        title: The 2009 Horizontal Velocity Field for South America and the Caribbean
-        uuid: b9346e63-0246-4b74-b13c-747cb6f840e7
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: fd962ceb-5845-4dd8-bb17-fc54a9e5f29f
-      name: SIRGAS Continuously Operating Network SIR10P01
-      originDescription: Realized by a frame of 183 continuously operating stations
-        using GPS observations from January 2000 to June 2010 and aligned to ITRF2008
-        at epoch 2005.0. GPS data from January 2000 to November 2006 reprocessed using
-        the first reprocessing campaign products (IG1) of the International GNSS Service
-        and absolute phase centre calibrations referring to the IGS05/IGb05 reference
-        frame. Velocity model VEMOS2009 used to propagate coordinates from an arbitrary
-        epoch to the 2005.0 reference epoch.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '2010'
-      remarks: Replaces SIR09P01. Replaced by SIR11P01.
-      scope: Spatial referencing
-      status: valid
-      uuid: b41a3ac1-f664-4c9a-96f6-6d669e4aa4c3
-    item_class: datums--geodetic
-    item_uuid: b41a3ac1-f664-4c9a-96f6-6d669e4aa4c3
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -93,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

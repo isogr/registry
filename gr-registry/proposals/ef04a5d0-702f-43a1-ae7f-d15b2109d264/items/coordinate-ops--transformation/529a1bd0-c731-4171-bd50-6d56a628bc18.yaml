@@ -3,6 +3,7 @@ data:
     dtype: TransformationAccuracy
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.004
+  aliases: []
   coordOperationMethod: ea144e91-b722-4b93-928d-5fc40fd88e6b
   description: null
   extent:

@@ -4,61 +4,6 @@ id: c065fd1b-b719-44f3-aa74-1545502028dc
 isConcluded: true
 items:
   /crs--geodetic/58fd6eba-44e0-4e49-a350-8860ec292210.yaml:
-    item_body:
-      aliases:
-      - Australian Terrestrial Reference Frame 2014
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2021-11-19
-      datum: 75161bc6-a6db-43c3-9fe2-afaecd2a8156
-      description: null
-      extent:
-        e: 173.34
-        n: -8.47
-        name: Australia including Lord Howe Island, Macquarie Island, Ashmore and
-          Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Norfolk Island.
-          All onshore and offshore.
-        s: -60.56
-        w: 93.41
-      identifier: 785
-      informationSources:
-      - author: Geoscience Australia
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website. https://www.icsm.gov.au/australian-terrestrial-reference-frame
-          (accessed 2021-09-27)
-        publisher: Geoscience Australia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Australian Terrestrial Reference Frame
-        uuid: f4b89749-036d-4b79-b1b9-5af1765da0b6
-      - author: Intergovernmental Committee on Surveying and Mapping (ICSM)
-        edition: Version 2.3
-        editionDate: 2020-02-12
-        isbn: null
-        issn: null
-        otherDetails: https://www.icsm.gov.au/sites/default/files/2020-02/ATRF%20Technical%20Implementation%20Plan%20v2.3_1.pdf
-          (accessed 2021-09-27)
-        publisher: Geoscience Australia
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Australian Terrestrial Reference Frame (ATRF): Technical Implementation
-          Plan'
-        uuid: a6e69e5b-9571-430a-91dd-df0c3c7c4e24
-      name: ATRF2014 - XYZ
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 58fd6eba-44e0-4e49-a350-8860ec292210
-    item_class: crs--geodetic
-    item_uuid: 58fd6eba-44e0-4e49-a350-8860ec292210
     type: addition
 justification: CRS for new reference frame. Submitted by Nicholas Brown, Geoscience
   Australia.
@@ -73,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-10-25
 timeProposed: 2021-11-19

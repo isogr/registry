@@ -4,48 +4,6 @@ id: 08442d55-c6af-4c01-bf0b-0109bb093462
 isConcluded: true
 items:
   /crs--vertical/e3212b5a-c373-4c39-8243-4bc4d60bf497.yaml:
-    item_body:
-      aliases:
-      - Japanese Geodetic Datum 2011 (vertical)
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--vertical
-        itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
-      dateAccepted: 2018-11-17
-      datum: 8ed647b5-9570-46dc-8370-dec3bc7e697e
-      description: null
-      extent:
-        e: 145.8
-        n: 45.5
-        name: Japan - onshore - Hokkaido, Honshu, Shikoku, Kyushu.
-        s: 31.0
-        w: 129.5
-      identifier: 428
-      informationSources:
-      - author: Y. Hiyama, A. Yamagiwa, T. Kawahara, M. Iwata, Y. Fukuzaki, Y. Shouji,
-          Y. Sato, T. Yutsudo, T. Sasaki, H. Shigematsu, H. Yamao, T. Inukai, M. Ohtaki,
-          K. Kokado, S. Kurihara, I. Kimura, T. Tsutsumi, T. Yahagi, Y. Furuya, I.
-          Kageyama, S. Kawamoto, K. Yamaguchi, H. Tsuji, S. Matsumura
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geospatial Information Authority of Japan (GSI), Tsukuba, Japan
-        seriesIssueID: Voume 59
-        seriesName: Bulletin of the Geospatial Information Authority of Japan
-        seriesPage: 31-42
-        title: Revision of the Results of Control Points after the 2011 off the Pacific
-          coast of Tohoku Earthquake
-        uuid: 6b4bb873-f4bf-47b0-b330-8bf75a99a56c
-      name: JGD2011 (vertical) - OHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: e3212b5a-c373-4c39-8243-4bc4d60bf497
-    item_class: crs--vertical
-    item_uuid: e3212b5a-c373-4c39-8243-4bc4d60bf497
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -59,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,45 +4,6 @@ id: 47e532a2-c2bb-4567-933e-fb827c89a383
 isConcluded: true
 items:
   /crs--geodetic/6044c59a-1b7a-4483-bcea-8df99b6a597e.yaml:
-    item_body:
-      aliases:
-      - International GNSS Service 2005
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: e5940740-840a-4818-8e18-adda1ea447a7
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 453
-      informationSources:
-      - author: R. Ferland
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International GNSS Service (IGS)
-        seriesIssueID: '5447.0'
-        seriesName: IGSMAIL
-        seriesPage: null
-        title: Proposed IGS05 Realization
-        uuid: 23d37d71-9030-4741-a981-aa51072ade7a
-      name: IGS05 - LatLonEHt
-      operation: null
-      remarks: Replaces IGb00 - LatLonEHt. Replaced by IGS08 - LatLonEHt. Used by
-        IGS products within the period 2006-11-05 thru 2011-04-16.
-      scope: Spatial referencing
-      status: valid
-      uuid: 6044c59a-1b7a-4483-bcea-8df99b6a597e
-    item_class: crs--geodetic
-    item_uuid: 6044c59a-1b7a-4483-bcea-8df99b6a597e
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -56,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

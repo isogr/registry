@@ -4,65 +4,6 @@ id: d9611f6f-6bc6-4cee-9580-1bafded67144
 isConcluded: true
 items:
   /datums--geodetic/07d83fcc-3fe9-42c4-8562-d50d6aee0b09.yaml:
-    item_body:
-      aliases:
-      - ' NAD83(1997)'
-      - NAD83(HARN) Corrected
-      coordinateReferenceEpoch: null
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: -64.0
-        n: 19.0
-        name: Puerto Rico - onshore and offshore. Virgin Islands (US) - onshore and
-          offshore.
-        s: 17.0
-        w: -69.0
-      identifier: 149
-      informationSources:
-      - author: US Government
-        edition: null
-        editionDate: 1990-08-10
-        isbn: null
-        issn: null
-        otherDetails: Mandates use of NADCON for official transformations between
-          datums
-        publisher: Office of Federal Register, NARA
-        seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
-        seriesName: 'Federal Register Notice '
-        seriesPage: '32681.0'
-        title: Notice to Adopt Standard Method for Horizontal Datum Transformation
-        uuid: 56fec72c-5c45-4ff6-9b02-fd1e78830e26
-      - author: D. Smith, A. Bilich
-        edition: null
-        editionDate: 2017-03-27
-        isbn: null
-        issn: null
-        otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
-          datum transformations, and extents of covnversion grids.
-        publisher: NOAA's National Geodetic Survey
-        seriesIssueID: null
-        seriesName: NGS Technical Report
-        seriesPage: null
-        title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
-          Spatial Reference System'
-        uuid: 70483a12-2d8f-41a5-8789-0e2d7877c35c
-      name: North American Datum of 1983 (High Accuracy Regional Network) Corrected
-      originDescription: A realization of NAD83 for Puerto Rico and the U.S. Virgin
-        Islands only. The original HARN solution for Puerto Rico and the U.S. Virgin
-        Islands was found to be shifted30 cm appoximately eastward. Positions had
-        been obtained on this, so it is retained in the original HARN solutions. This
-        replaces that effective in 1997 with corrected positions.
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: null
-      remarks: Replaces ND83(HARN) in Puerto Rico and US Virgin Islands only. Replaced
-        by NAD83 (FBN).
-      scope: Spatial referencing
-      status: valid
-      uuid: 07d83fcc-3fe9-42c4-8562-d50d6aee0b09
-    item_class: datums--geodetic
-    item_uuid: 07d83fcc-3fe9-42c4-8562-d50d6aee0b09
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -76,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

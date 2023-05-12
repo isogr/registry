@@ -4,77 +4,6 @@ id: d59aaedc-bd0b-4994-a862-ed7abb6db3b1
 isConcluded: true
 items:
   /crs--geodetic/5353ac28-6145-4cc6-9273-73a71324da88.yaml:
-    item_body:
-      aliases:
-      - DGFI01P01
-      - SIRGAS
-      - DGF01P01
-      - SIRGAS-CON
-      - Sistema de Referencia Geocentrico para las Americas
-      - SIRGAS Multi-Year Solution 2001
-      - Geocentric Reference System for the Americas
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: b8fc5918-60e2-44e5-8014-f050557a1082
-      description: null
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 363
-      informationSources:
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
-          Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '128.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 544-549
-        title: Deformation of the South American crust estimated from finite element
-          and collocation methods
-        uuid: f9df8282-f17f-41a1-9761-565c7bb9056e
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: 8afe89b8-0db6-46f6-a404-25de68340942
-      - author: W. Seemueller, K. Kaniuth, H. Drewes
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '124.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: '2018-10-07'
-        title: Velocity estimates of IGS RNAAC SIRGAS stations
-        uuid: e13c515b-7637-403b-8ee9-55b05dc59454
-      name: SIRGAS-CON DGF01P01 - LatLonEHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 5353ac28-6145-4cc6-9273-73a71324da88
-    item_class: crs--geodetic
-    item_uuid: 5353ac28-6145-4cc6-9273-73a71324da88
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -88,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

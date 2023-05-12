@@ -4,33 +4,6 @@ id: ef54386b-0fea-4d65-8d19-9bd5f8f29990
 isConcluded: true
 items:
   /coordinate-op-parameter/8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe.yaml:
-    item_body:
-      aliases:
-      - rZ
-      dateAccepted: 2018-11-17
-      definition: null
-      identifier: 52
-      informationSources:
-      - author: International Association of Oil and Gas Producers (IOGP)
-        edition: '51.0'
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International Association of Oil and Gas Producers (IOGP)
-        seriesIssueID: 373-7-2
-        seriesName: IOGP Publication
-        seriesPage: null
-        title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
-          including Formulas'
-        uuid: 73293b43-a07b-43dd-9786-c74930e9d991
-      minimumOccurs: null
-      name: Z-axis rotation
-      remarks: null
-      status: valid
-      uuid: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
-    item_class: coordinate-op-parameter
-    item_uuid: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -44,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

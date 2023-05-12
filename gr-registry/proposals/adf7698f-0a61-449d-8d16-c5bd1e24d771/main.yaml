@@ -4,44 +4,6 @@ id: adf7698f-0a61-449d-8d16-c5bd1e24d771
 isConcluded: true
 items:
   /coordinate-op-method/1ec40630-37a6-4af1-8b25-a2f860b4965f.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: 2018-11-17
-      definition: null
-      description: null
-      formula: null
-      formulaCitation:
-        author: Office of the Surveyor General
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Land Information New Zealand
-        seriesIssueID: LINZS25000
-        seriesName: null
-        seriesPage: null
-        title: Standard for New Zealand Geodetic Datum 2000
-        uuid: cacae747-3618-42e8-9bc2-26c3cc824c98
-      identifier: 81
-      informationSources: []
-      name: NZGD2000 Deformation Model
-      parameters:
-      - 1df0907d-ac5b-4263-8d90-18d0f3c0d19c
-      remarks: This model provides the relationship between a global reference frame
-        (ie one of the ITRFs) and the local reference frame (NZGD2000). It includes
-        both functional definitions and spatial representations for a range of geophysical
-        deformation sources that are represented as discrete sub-models. Each sub-model
-        may include both horizontal and vertical deformation elements, as well as
-        uncertainties.  A sub-model is built of one or more components (such as co-seismic
-        and post-seismic components) that when added together give the total deformation
-        for that event. Each component consists of a time function and a spatial representation.
-        The time function defines how a time-based scale factor gets applied to each
-        deformation element.
-      status: valid
-      uuid: 1ec40630-37a6-4af1-8b25-a2f860b4965f
-    item_class: coordinate-op-method
-    item_uuid: 1ec40630-37a6-4af1-8b25-a2f860b4965f
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -55,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

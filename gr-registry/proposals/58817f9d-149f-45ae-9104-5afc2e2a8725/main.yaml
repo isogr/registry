@@ -4,67 +4,6 @@ id: 58817f9d-149f-45ae-9104-5afc2e2a8725
 isConcluded: true
 items:
   /coordinate-ops--transformation/e626556c-449e-4963-a4c4-11b175735f22.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.05
-      coordOperationMethod: 685474b9-98af-48bf-80d1-8beef082f1cf
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: 146.0
-        n: 14.0
-        name: Guam - onshore.
-        s: 13.0
-        w: 143.0
-      identifier: 519
-      informationSources:
-      - author: National Geodetic Survey
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National
-          Geodetic Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: National Geodetic Survey Geoid Homepage
-        uuid: 295ea613-6506-457c-9817-b98695bd548d
-      name: NAD 83 (FBN) to GUVD04 - NOHt [v1]
-      operationVersion: v1
-      parameters:
-      - fileCitation:
-          author: National Geodetic Survey
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
-          publisher: National Oceanic and Atmospheric Administration (NOAA), National
-            Geodetic Survey (NGS)
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: National Geodetic Survey Geoid Homepage
-          uuid: cddf319c-428c-4366-b77e-c783f19a6f77
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: g2009g01.bin
-      remarks: Grid transformation
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 0f3edaed-095e-41aa-9829-3b0cc5731072
-      status: valid
-      targetCRS: null
-      uuid: e626556c-449e-4963-a4c4-11b175735f22
-    item_class: coordinate-ops--transformation
-    item_uuid: e626556c-449e-4963-a4c4-11b175735f22
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -78,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

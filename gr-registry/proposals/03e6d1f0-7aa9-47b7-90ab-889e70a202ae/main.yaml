@@ -4,45 +4,6 @@ id: 03e6d1f0-7aa9-47b7-90ab-889e70a202ae
 isConcluded: true
 items:
   /crs--geodetic/ccfef99f-204a-49bc-a6e7-b6be279c35a0.yaml:
-    item_body:
-      aliases:
-      - International GPS Service 1997
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
-      dateAccepted: 2018-11-17
-      datum: 5c4bb421-8100-48c2-ae24-c8aacc7205ae
-      description: null
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 440
-      informationSources:
-      - author: R. Ferland
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International GNSS Service (IGS)
-        seriesIssueID: '2899.0'
-        seriesName: IGSMAIL
-        seriesPage: null
-        title: Original / New realization of ITRF97
-        uuid: 79c10cbb-74a4-40d4-a6b2-b108cf4087d8
-      name: IGS97 - LatLon
-      operation: null
-      remarks: Replaced by IGS00 - LatLon. Used by IGS products within the period
-        2000-06-04 thru 2001-12-01.
-      scope: Spatial referencing
-      status: valid
-      uuid: ccfef99f-204a-49bc-a6e7-b6be279c35a0
-    item_class: crs--geodetic
-    item_uuid: ccfef99f-204a-49bc-a6e7-b6be279c35a0
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -56,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

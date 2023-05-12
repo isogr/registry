@@ -4,81 +4,6 @@ id: fc26fae1-a014-4bc3-a42c-d0e91a13b825
 isConcluded: true
 items:
   /crs--geodetic/c2ae4418-2828-4654-b733-0876e4080e1a.yaml:
-    item_body:
-      aliases:
-      - European Terrestrial Reference Frame 2014
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--cartesian
-        itemID: c3cd36f9-6530-4432-93d7-051bed567297
-      dateAccepted: 2021-02-01
-      datum: 3fd9c4ad-e679-47fb-9ca9-130f43156069
-      description: null
-      extent:
-        e: 39.65
-        n: 84.17
-        name: 'Europe - onshore and offshore: Albania, Andorra, Austria, Belgium,
-          Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark,
-          Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Hungary,
-          Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia,
-          Malta, Monaco, Montenegro, Netherlands, Norway including Svalbard and Jan
-          Mayen, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia,
-          Spain, Sweden, Switzerland, United Kingdom (UK) including Channel Islands
-          and Isle of Man, Vatican City State.'
-        s: 32.88
-        w: -16.1
-      identifier: 748
-      informationSources:
-      - author: M. Greaves
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: http://www.euref.eu/symposia/2017Wroclaw/06-01-Resolutions-EUREF2017.pdf
-          (accessed 2020-10-14)
-        seriesIssueID: null
-        seriesName: Report on the Symposium of the IAG Subcommission for Europe (EUREF),
-          Wroclaw, Poland, 17-19 May 2017
-        seriesPage: null
-        title: EUREF 2017 Resolutions
-        uuid: 3fff1bd3-68f1-43af-8c54-5f5b4b6f0d00
-      - author: C. Bruyninx, Z. Altamimi, A. Caporali, A. Kenyeres, J. Legrand, M.
-          Lidberg
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: http://www.epncb.oma.be/_documentation/guidelines/Guidelines_for_EUREF_Densifications.pdf
-          (accessed 2020-20-14)
-        publisher: "IAG sub-commission for the European Reference Frame \u2013 EUREF"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Guidelines for EUREF Densifications
-        uuid: 0afd3d2e-7c8f-471a-91a8-3a959bad948f
-      - author: Z. Altamimi
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: http://etrs89.ensg.ign.fr/pub/EUREF-TN-1.pdf (accessed 2020-10-14)
-        publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
-          re (IGN), France"
-        seriesIssueID: null
-        seriesName: EUREF Technical Notes
-        seriesPage: null
-        title: 'EUREF Technical Note 1: Relationship and Transformation between the
-          International and the European Terrestrial Reference Systems'
-        uuid: 460bb759-0ccb-45ee-b052-68c48471640d
-      name: ETRF2014 - XYZ
-      operation: null
-      remarks: The EUREF Governing Board recommends to use the ETRF2014 for high precision
-        applications and better consistency with the ITRF2014 precise geocentric origin.
-      scope: Spatial referencing
-      status: valid
-      uuid: c2ae4418-2828-4654-b733-0876e4080e1a
-    item_class: crs--geodetic
-    item_uuid: c2ae4418-2828-4654-b733-0876e4080e1a
     type: addition
 justification: New reference frame CRSs for Europe. Submitted by Thierry Gattacceca
   and Brice Virly, IGN France.
@@ -93,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-02-01
 timeProposed: 2021-02-01

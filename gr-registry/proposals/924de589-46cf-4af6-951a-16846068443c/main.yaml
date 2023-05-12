@@ -4,31 +4,6 @@ id: 924de589-46cf-4af6-951a-16846068443c
 isConcluded: true
 items:
   /coordinate-op-parameter/15811eed-e76f-43f1-9b66-e36d1c94aacf.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: 2022-07-25
-      definition: null
-      identifier: 961
-      informationSources:
-      - author: ISO/TC 211
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: ISO/TC 211
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: ISO Geodetic Register
-        uuid: a80d287c-1724-4197-bbe1-3bb68dbb5984
-      minimumOccurs: null
-      name: ISOGR code for Interpolation CRS
-      remarks: Horizontal CRS used for interpolation of a grid.
-      status: valid
-      uuid: 15811eed-e76f-43f1-9b66-e36d1c94aacf
-    item_class: coordinate-op-parameter
-    item_uuid: 15811eed-e76f-43f1-9b66-e36d1c94aacf
     type: addition
 justification: Required parameter for interpolation of geoid difference grid. Submitted
   by M. Craymer, ISOGR Control Body Chair.
@@ -43,7 +18,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-07-25
 timeProposed: 2022-07-25

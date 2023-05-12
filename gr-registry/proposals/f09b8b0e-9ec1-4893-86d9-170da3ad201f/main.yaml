@@ -4,76 +4,6 @@ id: f09b8b0e-9ec1-4893-86d9-170da3ad201f
 isConcluded: true
 items:
   /coordinate-op-parameter/bc5a79ba-6a41-4250-adc8-408b370ac9b6.yaml:
-    item_body:
-      aliases:
-      - 'Scale on central meridian
-
-
-        REMARK: Used by citation CI2'
-      dateAccepted: 2022-06-06
-      definition: null
-      identifier: 832
-      informationSources:
-      - author: J.P. Snyder
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://doi.org/10.3133/pp1395 (accessed 2022-01-19)
-        publisher: United States Government Printing Office, Washington, D.C.
-        seriesIssueID: '1395'
-        seriesName: U.S. Geological Survey Professional Paper
-        seriesPage: null
-        title: "Map Projections \u2013 A Working Manual"
-        uuid: 3fb42f0b-2aa3-4d60-9b31-7ee41294b009
-      - author: International Association of Oil and Gas Producers (IOGP)
-        edition: '61'
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://epsg.org/guidance-notes.html (accessed 2022-01-19)
-        publisher: International Association of Oil and Gas Producers (IOGP)
-        seriesIssueID: 373-7-2
-        seriesName: IOGP Publication
-        seriesPage: null
-        title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
-          including Formulas'
-        uuid: 67cd3054-8bf2-45bd-8352-9fba8875d941
-      - author: National Geospatial-Intelligence Agency (NGA)
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: https://nsgreg.nga.mil/doc/view?i=4056&month=3&day=28&year=2022
-          (accessed 2022-04-20)
-        publisher: National Geospatial-Intelligence Agency (NGA)
-        seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS Version 2.0.0
-        seriesName: National Geospatial-Intelligence Agency Standardization Document
-        seriesPage: null
-        title: The Universal Grids and the Transverse Mercator and Polar Stereographic
-          Map Projections
-        uuid: e0f714b9-d199-4e3a-adab-810cef57b222
-      minimumOccurs: null
-      name: Scale factor at natural origin
-      remarks: 'EPSG DEFINITION
-
-        The factor by which the map grid is reduced or enlarged during the projection
-        process, defined by its value at the natural origin.
-
-
-        SIMPLIFIED DEFINITION
-
-        The factor by which a projected coordinate system is reduced or enlarged (scaled)
-        at its origin.
-
-
-        ADDTIONAL REMARK
-
-        "Scale on central meridian" name from Snyder (1987) used as alias.'
-      status: valid
-      uuid: bc5a79ba-6a41-4250-adc8-408b370ac9b6
-    item_class: coordinate-op-parameter
-    item_uuid: bc5a79ba-6a41-4250-adc8-408b370ac9b6
     type: addition
 justification: Required for projected coordinate systems.
 notes: []
@@ -87,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-06-06
 timeProposed: 2022-06-06

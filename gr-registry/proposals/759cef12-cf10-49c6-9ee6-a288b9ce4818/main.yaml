@@ -4,48 +4,6 @@ id: 759cef12-cf10-49c6-9ee6-a288b9ce4818
 isConcluded: true
 items:
   /datums--vertical/1349c163-fda2-46d0-a1d5-07f8a7273b0b.yaml:
-    item_body:
-      aliases:
-      - AHD
-      - ' Australian Height Datum (Tasmania) 1983'
-      - ' AHD71'
-      - ' Australian Height Datum 1971'
-      coordinateReferenceEpoch: '1968.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      extent:
-        e: 173.98
-        n: -8.0
-        name: Australia - onshore and offshore. Christmas Island - onshore and offshore.
-          Cocos (Keeling) Islands - onshore and offshore.
-        s: -60.98
-        w: 93.0
-      identifier: 120
-      informationSources:
-      - author: Permanent Committee on Geodesy of the Intergovernmental Committee
-          on Surveying and Mapping
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Intergovernmental Committee on Surveying and Mapping
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
-        uuid: b58a885f-26cd-4208-a91e-7cf1c6387a5b
-      name: Australian Height Datum
-      originDescription: Levelling-based datum using MSL 1966-68 at 30 tide gauges
-        around coast of mainland Australia and MSL 1972 at Hobart and Burnie tide
-        gauges and MSL on Cocos (Keeling) Islands and Christmas Island
-      releaseDate: '1971-05-05'
-      remarks: Normal orthometric heights.
-      scope: Spatial referencing
-      status: valid
-      uuid: 1349c163-fda2-46d0-a1d5-07f8a7273b0b
-    item_class: datums--vertical
-    item_uuid: 1349c163-fda2-46d0-a1d5-07f8a7273b0b
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -59,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

@@ -4,79 +4,6 @@ id: a5344a5b-cec8-4255-8518-76a1df39a2c5
 isConcluded: true
 items:
   /crs--geodetic/ea1a2878-19cc-4a8b-b66b-b9e26ec09bdc.yaml:
-    item_body:
-      aliases:
-      - SIRGAS Multi-Year Solution 2007
-      - SIRGAS
-      - SIRGAS-CON
-      - Sistema de Referencia Geocentrico para las Americas
-      - Geocentric Reference System for the Americas
-      - DGFI07P01
-      - DGF07P01
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--ellipsoidal
-        itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
-      dateAccepted: 2018-11-17
-      datum: 1998fb17-8e45-4936-8471-65f1d2e41ee5
-      description: null
-      extent:
-        e: -25.28
-        n: 32.72
-        name: South America - onshore and offshore. Central America - onshore and
-          offshore. Mexico - onshore and offshore.
-        s: -59.87
-        w: -122.19
-      identifier: 271
-      informationSources:
-      - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
-        uuid: e44e443a-45f4-4926-942a-4bff81881381
-      - author: W. Seemueller, M. Kruegel, H. Drewes, A. Abolghasem
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: AGU Fall Meeting. San Francisco, USA, December 10 - 14, 2007,
-          Abstract G43C-1471
-        publisher: American Geophysical Union
-        seriesIssueID: Volume 88, No. 52, Abstract G43C-1471
-        seriesName: Eos Transactions, Fall Meeting Supplement
-        seriesPage: null
-        title: The new position and velocity solution DGF07P01 of the IGS Regional
-          Network Associate Analysis Center for SIRGAS (IGS RNAAC SIR)
-        uuid: f4bacac1-59a2-4b7e-a441-b6f6ae3c364d
-      - author: H. Drewes, O. Heidbach
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
-          Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
-        publisher: Springer Berlin Heidelberg
-        seriesIssueID: '128.0'
-        seriesName: International Association of Geodesy Symposia
-        seriesPage: 544-549
-        title: Deformation of the South American crust estimated from finite element
-          and collocation methods
-        uuid: 87d69b6a-d4cf-4b68-90ea-0066983ca076
-      name: SIRGAS-CON DGF07P01 - LatLonEHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: ea1a2878-19cc-4a8b-b66b-b9e26ec09bdc
-    item_class: crs--geodetic
-    item_uuid: ea1a2878-19cc-4a8b-b66b-b9e26ec09bdc
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -90,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

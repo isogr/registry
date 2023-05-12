@@ -4,83 +4,6 @@ id: 38f59682-dc01-4ae8-b72c-76976389588e
 isConcluded: true
 items:
   /coordinate-ops--transformation/298ed97d-ac0b-492c-9370-9e2a03fdc742.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 0.03
-      coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -47.74
-        n: 90.0
-        name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba,
-          New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
-          Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
-        s: 40.04
-        w: -141.01
-      identifier: 596
-      informationSources:
-      - author: M. Veronneau, J. Huang
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Canadian Institute of Geomatics
-        seriesIssueID: Volume 70, No. 1
-        seriesName: Geomatica
-        seriesPage: '9.0'
-        title: The Canadian Geodetic Vertical Datum of 2013 (CGVD2013)
-        uuid: 6e7b0a03-1ccf-463f-b2c6-92ac7de1ac09
-      - author: 'M. Veronneau, J. Huang '
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Geodetic Survey Division, Natural Resources Canada, Government
-          of Canada
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: "Canadian Gravimetric Geoid 2013 \u2013 Version A (CGG2013a)"
-        uuid: cec493a7-87c8-48ea-925b-6ee04b718621
-      name: NAD83(CSRS) v6 to CGVD2013(CGG2013a) Epoch 2010 - OHt [v1]
-      operationVersion: v1
-      parameters:
-      - fileCitation:
-          author: M. Veronneau, J. Huang
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: null
-          publisher: Canadian Institute of Geomatics
-          seriesIssueID: Volume 70, No. 1
-          seriesName: Geomatica
-          seriesPage: '9.0'
-          title: The Canadian Geodetic Vertical Datum of 2013 (CGVD2013)
-          uuid: d41bf18a-6ad0-4738-9c38-d5aeeb401425
-        parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
-        type: parameter file name
-        unitOfMeasurement: null
-        value: CGG2013an83.byn
-      remarks: Grid transformation from NAD83(CSRS) v6 ellipsoidal heights at epoch
-        2010.0 to CGVD2013(CGG2013a) orthometric heights at epoch 2010.0 using the
-        CGG2013a geoid model upon which CGVD2013(CGG2013a) is defined. Bi-linear interpolation
-        of the grid file will give results agreeing to within 1cm 99.97% of the time.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: 00f5fc9b-2e5f-4548-810e-31a598dc2558
-      status: valid
-      targetCRS: null
-      uuid: 298ed97d-ac0b-492c-9370-9e2a03fdc742
-    item_class: coordinate-ops--transformation
-    item_uuid: 298ed97d-ac0b-492c-9370-9e2a03fdc742
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -94,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

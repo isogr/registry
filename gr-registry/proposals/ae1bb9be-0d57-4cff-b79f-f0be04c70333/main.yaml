@@ -4,69 +4,6 @@ id: ae1bb9be-0d57-4cff-b79f-f0be04c70333
 isConcluded: true
 items:
   /coordinate-ops--transformation/3758cca7-8bfd-4c3e-9210-0e1e0f09e06d.yaml:
-    item_body:
-      accuracy:
-        dtype: TransformationAccuracy
-        unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-        value: 1.5
-      coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
-      dateAccepted: 2018-11-17
-      description: null
-      extent:
-        e: -61.9
-        n: 47.09
-        name: Canada - onshore and offshore - Prince Edward Island.
-        s: 45.9
-        w: -64.49
-      identifier: 528
-      informationSources:
-      - author: W. Tremblay
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Personal email communication.
-        publisher: Land and Environment Surveys, Department of Transportation, Infrastructure
-          and Energy, Government of Prince Edward Island
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: 'Re: ATS77 - NAD27 transformation grids'
-        uuid: 7b57771f-8c90-43ae-958a-d8770089ce53
-      name: NAD27 to ATS77 [PEv1]
-      operationVersion: PEv1
-      parameters:
-      - fileCitation:
-          author: W. Tremblay
-          edition: null
-          editionDate: null
-          isbn: null
-          issn: null
-          otherDetails: Personal email communication.
-          publisher: Land and Environment Surveys, Department of Transportation, Infrastructure
-            and Energy, Government of Prince Edward Island
-          seriesIssueID: null
-          seriesName: null
-          seriesPage: null
-          title: 'Re: ATS77 - NAD27 transformation grids'
-          uuid: f9fc7e3d-71a5-445e-b99d-1b49e47025fa
-        parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
-        type: parameter file name
-        unitOfMeasurement: null
-        value: TRPE2777.DAT
-      remarks: Grid tranformation in NTv2 format adopted for use in New Brunswick.
-      scope:
-      - Spatial referencing
-      sourceCRS:
-        classID: crs--geodetic
-        itemID: a0c01a52-f404-48f3-951a-900aba820bd7
-      status: valid
-      targetCRS:
-        classID: crs--geodetic
-        itemID: 369e1fef-6901-49d5-be7e-668c25c73866
-      uuid: 3758cca7-8bfd-4c3e-9210-0e1e0f09e06d
-    item_class: coordinate-ops--transformation
-    item_uuid: 3758cca7-8bfd-4c3e-9210-0e1e0f09e06d
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -80,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

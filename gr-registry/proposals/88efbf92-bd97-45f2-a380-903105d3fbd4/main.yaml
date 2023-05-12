@@ -4,74 +4,6 @@ id: 88efbf92-bd97-45f2-a380-903105d3fbd4
 isConcluded: true
 items:
   /datums--geodetic/5c0123f4-5fa9-42c5-a43e-96501d15ee63.yaml:
-    item_body:
-      aliases:
-      - International GNSS Service 2008
-      coordinateReferenceEpoch: '2005.0'
-      dateAccepted: 2018-11-17
-      definition: null
-      ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
-      extent:
-        e: 180.0
-        n: 90.0
-        name: World.
-        s: -90.0
-        w: -180.0
-      identifier: 106
-      informationSources:
-      - author: International GNSS Service Analysis Centre Coordinator
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: National Oceanic and Atmospheric Administration (NOAA), National  Geodetic
-          Survey (NGS)
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Chronology of IGS Reference Frame Usage
-        uuid: 51d13e23-708c-4fba-9f1c-0e777fb7b3c4
-      - author: P. Rebischung
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Springer
-        seriesIssueID: Volume 16, Issue 4
-        seriesName: GPS Solutions
-        seriesPage: null
-        title: 'IGS08: the IGS realization of ITRF2008'
-        uuid: 78c28667-3cbe-4400-90ef-10c69ab155f7
-      - author: P. Rebischung, R. Schmid, J. Ray
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: International GNSS Service (IGS)
-        seriesIssueID: '6354.0'
-        seriesName: IGSMAIL
-        seriesPage: null
-        title: Upcoming switch to IGS08/igs08.atx
-        uuid: b126d2b8-81e5-485e-bf29-c228dca09f5d
-      name: IGS08
-      originDescription: 'Derived from and aligned to a subset of stable, well-performing
-        IGS station coordinates and velocities in ITRF2008 at epoch 2005.0 with position
-        corrections applied to account for updates to receiver antenna calibrations.
-
-        Uses updated absolute antenna calibrations for both ground stations and satellite
-        antennas (igs08.atx).'
-      primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
-      releaseDate: '2011-04-17'
-      remarks: Replaces IGS05. Replaced by IGb08. Used by IGS products within the
-        period 2011-04-17 thru 2012-10-06.
-      scope: Spatial Referencing
-      status: valid
-      uuid: 5c0123f4-5fa9-42c5-a43e-96501d15ee63
-    item_class: datums--geodetic
-    item_uuid: 5c0123f4-5fa9-42c5-a43e-96501d15ee63
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -85,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

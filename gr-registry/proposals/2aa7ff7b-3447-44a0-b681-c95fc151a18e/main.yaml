@@ -4,48 +4,6 @@ id: 2aa7ff7b-3447-44a0-b681-c95fc151a18e
 isConcluded: true
 items:
   /crs--vertical/95e6200f-d32f-45a4-b3ff-9d4957077d54.yaml:
-    item_body:
-      aliases:
-      - ' AHD71'
-      - Australian Height Datum
-      - ' Australian Height Datum 1971'
-      baseCRS: null
-      coordinateSystem:
-        classID: coordinate-sys--vertical
-        itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
-      dateAccepted: 2018-11-17
-      datum: 1349c163-fda2-46d0-a1d5-07f8a7273b0b
-      description: null
-      extent:
-        e: 173.98
-        n: -8.0
-        name: Australia - onshore and offshore. Christmas Island - onshore and offshore.
-          Cocos (Keeling) Islands - onshore and offshore.
-        s: -60.98
-        w: 93.0
-      identifier: 339
-      informationSources:
-      - author: Permanent Committee on Geodesy of the Intergovernmental Committee
-          on Surveying and Mapping
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: null
-        publisher: Intergovernmental Committee on Surveying and Mapping
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: Geocentric Datum of Australia 2020 Technical Manual Version 1.2
-        uuid: f743c95f-b48d-4c35-9184-716ce57ec216
-      name: AHD - NOHt
-      operation: null
-      remarks: null
-      scope: Spatial referencing
-      status: valid
-      uuid: 95e6200f-d32f-45a4-b3ff-9d4957077d54
-    item_class: crs--vertical
-    item_uuid: 95e6200f-d32f-45a4-b3ff-9d4957077d54
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -59,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17

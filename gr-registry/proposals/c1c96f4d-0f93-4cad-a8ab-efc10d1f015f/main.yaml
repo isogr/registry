@@ -4,36 +4,6 @@ id: c1c96f4d-0f93-4cad-a8ab-efc10d1f015f
 isConcluded: true
 items:
   /coordinate-op-method/6958648f-9e35-45fd-ac15-b1fcad9dab80.yaml:
-    item_body:
-      aliases: []
-      dateAccepted: 2018-11-17
-      definition: null
-      description: null
-      formula: null
-      formulaCitation:
-        author: NGA Office of Geomatics
-        edition: null
-        editionDate: null
-        isbn: null
-        issn: null
-        otherDetails: Website
-        publisher: National Geospatial-Intelligence Agency
-        seriesIssueID: null
-        seriesName: null
-        seriesPage: null
-        title: WGS 84, N=M=180 Earth Gravitational Model
-        uuid: 03bc35f4-2cdc-45a1-a6b1-78d0af1eace9
-      identifier: 77
-      informationSources: []
-      name: Geographic3D to Gravity Related Height (EGM84-SH)
-      parameters:
-      - 6d8ee376-aa3d-4b2d-896c-73f9f6fa1ec2
-      remarks: Spherical harmonic representaiton of EGM84 geoid using a single spherical
-        harmonic coefficients file.
-      status: valid
-      uuid: 6958648f-9e35-45fd-ac15-b1fcad9dab80
-    item_class: coordinate-op-method
-    item_uuid: 6958648f-9e35-45fd-ac15-b1fcad9dab80
     type: addition
 justification: Entered by the Control Body
 notes: []
@@ -47,7 +17,6 @@ sponsor:
       value: John Doe
   role: null
 state: accepted
-status: finished
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2018-11-17
 timeProposed: 2018-11-17
