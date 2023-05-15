@@ -1,5 +1,7 @@
 data:
-  accuracy: null
+  accuracy:
+    unitOfMeasurement: null
+    value: null
   aliases:
   - UTM zone 50
   dateAmended: null
