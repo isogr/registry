@@ -5,6 +5,7 @@ isConcluded: true
 items:
   /coordinate-ops--transformation/29c7cc67-adb1-4363-8112-0e52f0c6f018.yaml:
     amendmentType: supersession
+    supersedingItemIDs: []
     type: amendment
 justification: Replaces invalidated item 547. Corrected rotation parameter values
   from reference epoch 1993.62 to 1997.0. Submitted by Daniel Roman, US National Geodetic
