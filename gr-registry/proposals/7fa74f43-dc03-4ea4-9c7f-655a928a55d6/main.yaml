@@ -8,6 +8,7 @@ items:
     type: clarification
   /coordinate-ops--transformation/74ad9e17-c1a0-47f6-9b11-fac9b5543b65.yaml:
     type: clarification
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2023-07-06T12:28:43.696Z
+registerManagerNotes: ''
