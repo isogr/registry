@@ -14,7 +14,13 @@ data:
     s: 0
     w: 0
   operationVersion: ''
-  parameters: []
+  parameters:
+    - parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+      unitOfMeasurement: null
+      name: ''
+      type: parameter file name
+      value: null
+      fileCitation: null
   accuracy:
     value: 0
     unitOfMeasurement: ''
