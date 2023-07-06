@@ -1,6 +1,6 @@
 id: 7fa74f43-dc03-4ea4-9c7f-655a928a55d6
 timeStarted: 2023-07-06T12:13:06.184Z
-timeEdited: 2023-07-06T12:24:28.396Z
+timeEdited: 2023-07-06T13:07:22.218Z
 justification: long justification
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -8,6 +8,8 @@ items:
     type: clarification
   /coordinate-ops--transformation/74ad9e17-c1a0-47f6-9b11-fac9b5543b65.yaml:
     type: clarification
+  /coordinate-ops--transformation/4fa093de-5238-4ba4-8056-c276407f8547.yaml:
+    type: addition
 state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2023-07-06T12:28:43.696Z
