@@ -1,10 +1,12 @@
 id: 7fa74f43-dc03-4ea4-9c7f-655a928a55d6
 timeStarted: 2023-07-06T12:13:06.184Z
-timeEdited: 2023-07-06T12:13:35.748Z
+timeEdited: 2023-07-06T12:14:55.802Z
 justification: test proposal
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/393c601b-8034-477a-83b0-74e7f343962b.yaml:
     type: addition
+  /coordinate-ops--transformation/559b9972-e7d9-409f-b5d8-46d94dfdaf24.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.1'
