@@ -1,8 +1,10 @@
 id: 70a03d7a-1cd3-422d-8f3e-1dc6dce7f897
 timeStarted: 2023-08-28T10:22:28.632Z
-timeEdited: 2023-08-28T10:22:28.632Z
+timeEdited: 2023-08-28T10:22:50.246Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /datums--geodetic/46de4142-84c3-4e3c-aece-3851bebb5ecf.yaml:
+    type: addition
 state: draft
 registerVersion: '1.1'
