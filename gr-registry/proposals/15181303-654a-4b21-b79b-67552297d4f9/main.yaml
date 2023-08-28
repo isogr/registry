@@ -6,6 +6,7 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/d12240c0-05f4-4683-aea2-cfc9ca03203a.yaml:
     type: addition
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2023-08-28T12:35:40.739Z
+registerManagerNotes: Test 2
