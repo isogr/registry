@@ -1,10 +1,12 @@
 id: cc666c3e-4520-4e05-ba05-585d5f4a2dbe
 timeStarted: 2023-08-28T12:19:09.221Z
-timeEdited: 2023-08-28T12:20:15.068Z
+timeEdited: 2023-08-28T12:21:37.890Z
 justification: Add an item
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/0f8b3495-bdb2-4289-ad89-d505c491d7de.yaml:
     type: addition
+  /coordinate-ops--transformation/237125e4-3f8c-4312-b5c1-97678f9b79cf.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.1'
