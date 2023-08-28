@@ -1,12 +1,10 @@
 id: fbcc4d7e-4e2a-4b12-ab51-4d4809961b2a
 timeStarted: 2023-08-16T10:13:59.417Z
-timeEdited: 2023-08-28T08:36:30.077Z
+timeEdited: 2023-08-28T08:36:55.026Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /crs--compound/de783de4-66bf-4c04-978d-a01af6c5281d.yaml:
-    type: addition
-  /coordinate-ops--transformation/f45046b2-828c-425e-a616-7a78a2ae81e2.yaml:
     type: addition
 state: draft
 registerVersion: '1.1'
