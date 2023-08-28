@@ -1,0 +1,21 @@
+id: 02d8f524-d423-41db-9503-c670fbf2007c
+dateAccepted: 2023-08-28T08:36:17.917Z
+status: valid
+data:
+  name: ''
+  identifier: 0
+  informationSources: []
+  remarks: ''
+  aliases: []
+  scope: ''
+  extent:
+    name: ''
+    'n': 0
+    e: 0
+    s: 0
+    w: 0
+  originDescription: ''
+  releaseDate: ''
+  coordinateReferenceEpoch: null
+  ellipsoid: ''
+  primeMeridian: ''
