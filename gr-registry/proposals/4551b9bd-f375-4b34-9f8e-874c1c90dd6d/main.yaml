@@ -2,12 +2,10 @@ submittingStakeholderGitServerUsername: strogonoff
 registerVersion: ''
 id: 4551b9bd-f375-4b34-9f8e-874c1c90dd6d
 timeStarted: '2023-08-24T13:06:29.299Z'
-timeEdited: 2023-08-28T10:32:15.574Z
+timeEdited: 2023-08-28T10:32:42.981Z
 state: draft
 justification: exported via Glossarist migration adapter
 items:
-  /coordinate-ops--transformation/cd7bacd8-c8b9-468e-b6e6-b02e8390dd44.yaml:
-    type: addition
   /coordinate-ops--transformation/a365fdbb-7686-43c0-8d79-70043582162f.yaml:
     type: addition
   /coordinate-ops--transformation/ec4ae380-c74f-487a-b50e-2d8692a13855.yaml:
