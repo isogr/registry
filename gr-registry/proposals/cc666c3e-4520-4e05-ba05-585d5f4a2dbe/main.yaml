@@ -8,7 +8,9 @@ items:
     type: addition
   /coordinate-ops--transformation/237125e4-3f8c-4312-b5c1-97678f9b79cf.yaml:
     type: clarification
-state: pending-control-body-review
+state: accepted
 registerVersion: '1.1'
 timeProposed: 2023-08-28T12:22:36.191Z
 registerManagerNotes: ''
+controlBodyNotes: Accept as a test
+timeDisposed: 2023-08-28T12:25:34.581Z
