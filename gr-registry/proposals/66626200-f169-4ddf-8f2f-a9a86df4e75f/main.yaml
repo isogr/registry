@@ -4,6 +4,14 @@ controlBodyNotes: Please approve this new proposal
 id: 66626200-f169-4ddf-8f2f-a9a86df4e75f
 isConcluded: true
 items:
+  /coordinate-ops--transformation/e9b8c43b-afa2-4808-86b2-c66f6c1fcbb1.yaml:
+    type: addition
+  /crs--geodetic/401aadb1-91fb-42c5-bdaa-91eff467e966.yaml:
+    type: addition
+  /crs--geodetic/7b4c0c2f-a6dc-4307-8c44-99dfb551e8c1.yaml:
+    type: addition
+  /crs--geodetic/b8c5835e-cbde-4ded-82ce-b4cce2788dc8.yaml:
+    type: addition
   /datums--geodetic/cbd4558c-16d0-4bb8-bbc5-b30a2e06a61f.yaml:
     type: addition
 justification: 'This realization replaces IGS14 and is used by IGS from 2020-05-17.

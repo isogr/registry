@@ -3,7 +3,39 @@ controlBodyNotes: null
 id: eef86ecd-bfb3-411b-9b3b-3958ab13133f
 isConcluded: true
 items:
+  /coordinate-ops--transformation/0331b326-2e62-4b71-8e97-54534f5c7171.yaml:
+    type: addition
+  /coordinate-ops--transformation/0b998b5b-146d-42b9-ac18-6a9d5c6ac9bd.yaml:
+    type: addition
+  /coordinate-ops--transformation/1c6cb071-9cc1-4223-8835-9bb628d63d4c.yaml:
+    type: addition
+  /coordinate-ops--transformation/33edb8eb-58c6-4630-97d2-f562a0f6e3b1.yaml:
+    type: addition
+  /coordinate-ops--transformation/364f80e2-894c-4423-b156-e4caff8dcac8.yaml:
+    type: addition
+  /coordinate-ops--transformation/52af5263-fac8-422f-abc7-b36a760343aa.yaml:
+    type: addition
+  /coordinate-ops--transformation/5d55c2a4-7290-4c24-8658-55bce840db37.yaml:
+    type: addition
+  /coordinate-ops--transformation/8978301d-15b5-4f03-af46-2b0a089d2a2e.yaml:
+    type: addition
+  /coordinate-ops--transformation/a87fcde4-f2de-4283-940a-3301751eb94b.yaml:
+    type: addition
   /coordinate-ops--transformation/ad688cba-05db-4169-b574-d602e5355c9d.yaml:
+    type: addition
+  /coordinate-ops--transformation/ae0015b8-8f15-4756-8083-5dab03a70ed6.yaml:
+    type: addition
+  /coordinate-ops--transformation/c121e432-9fd9-4576-9112-678b04e321a5.yaml:
+    type: addition
+  /coordinate-ops--transformation/d2ad3a69-6184-477c-b0d0-8a3f4b240916.yaml:
+    type: addition
+  /crs--geodetic/7c5e25f9-ef1e-4700-b9bd-019a0bfe12b7.yaml:
+    type: addition
+  /crs--geodetic/c2ae4418-2828-4654-b733-0876e4080e1a.yaml:
+    type: addition
+  /crs--geodetic/f9fc86ea-8942-4c07-814d-b2a307e64bb7.yaml:
+    type: addition
+  /datums--geodetic/3fd9c4ad-e679-47fb-9ca9-130f43156069.yaml:
     type: addition
 justification: New reference frame transformation for Europe. Submitted by Thierry
   Gattacceca and Brice Virly, IGN France.

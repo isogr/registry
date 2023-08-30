@@ -3,7 +3,277 @@ controlBodyNotes: null
 id: dec15349-1bf1-42d7-b499-a0c88dce49dd
 isConcluded: true
 items:
+  /coordinate-op-method/75b20713-fef3-4dbc-a0d6-6736e6964ef7.yaml:
+    type: addition
+  /coordinate-op-parameter/09167146-e6a4-49e2-b275-a91e4c2a1a73.yaml:
+    type: addition
+  /coordinate-op-parameter/1842c20c-c724-46b5-93db-75994aec4536.yaml:
+    type: addition
+  /coordinate-op-parameter/bc5a79ba-6a41-4250-adc8-408b370ac9b6.yaml:
+    type: addition
+  /coordinate-op-parameter/be6f2219-8e25-47a1-97ab-d50f686c6af6.yaml:
+    type: addition
+  /coordinate-op-parameter/f9e5b20f-dbd4-402e-a35c-dd26b0c58c6b.yaml:
+    type: addition
+  /coordinate-ops--conversion/052e3f98-9c94-4698-b4fc-c091814d478d.yaml:
+    type: addition
+  /coordinate-ops--conversion/07f95b07-a5e6-4bc0-80a6-e0ac24ccaefd.yaml:
+    type: addition
+  /coordinate-ops--conversion/0acd2f3e-a5d3-4c2f-9817-0d51dbf6bd7a.yaml:
+    type: addition
+  /coordinate-ops--conversion/121951a7-1b13-4fee-a912-19a14db1aa79.yaml:
+    type: addition
+  /coordinate-ops--conversion/1476f07c-ff3c-4755-b598-118745b59e73.yaml:
+    type: addition
+  /coordinate-ops--conversion/1566690c-7562-4977-a5d7-d95a88d68404.yaml:
+    type: addition
+  /coordinate-ops--conversion/16eba4a5-d1aa-4fdd-9e93-05c9e793cf48.yaml:
+    type: addition
+  /coordinate-ops--conversion/18c420d8-0dcd-40f9-b338-49a35b4ac5b5.yaml:
+    type: addition
+  /coordinate-ops--conversion/18db3db7-03f0-4d37-b23a-8844ec82c900.yaml:
+    type: addition
+  /coordinate-ops--conversion/19b3085f-15a1-424e-aca1-ebaf9375cf21.yaml:
+    type: addition
+  /coordinate-ops--conversion/1deadda5-4dd0-4cf9-afee-57a25d1be6e9.yaml:
+    type: addition
+  /coordinate-ops--conversion/1e310b27-7df5-497f-9d43-d0e05f2a3ba6.yaml:
+    type: addition
+  /coordinate-ops--conversion/205646c8-59f7-4c1d-9ef8-ad7b1b258f17.yaml:
+    type: addition
+  /coordinate-ops--conversion/255a1439-597f-4c99-83f2-ad1c59367746.yaml:
+    type: addition
+  /coordinate-ops--conversion/28aa585e-5918-46f3-ae26-1a875de16dfc.yaml:
+    type: addition
+  /coordinate-ops--conversion/2b44ea93-7df0-423d-a7bb-65fdc03d7c52.yaml:
+    type: addition
+  /coordinate-ops--conversion/2b54a9a2-d209-4fb6-8d68-b275e1850be2.yaml:
+    type: addition
+  /coordinate-ops--conversion/2bb9b797-665a-4fa6-9a07-f3912694ee53.yaml:
+    type: addition
+  /coordinate-ops--conversion/2eaaac40-a71f-42de-a10a-33e3008558c1.yaml:
+    type: addition
+  /coordinate-ops--conversion/2efe12bd-5c3c-44b6-bda1-b84a18d93784.yaml:
+    type: addition
+  /coordinate-ops--conversion/2f193d64-bb18-4c57-a5a9-ea76e975b5e6.yaml:
+    type: addition
+  /coordinate-ops--conversion/326dde68-6d7f-48e5-b3f1-047667a4b6c4.yaml:
+    type: addition
+  /coordinate-ops--conversion/37279386-7ef9-46be-8480-fe9c22117597.yaml:
+    type: addition
+  /coordinate-ops--conversion/384fec18-aaaf-4687-bae8-51963645cac6.yaml:
+    type: addition
+  /coordinate-ops--conversion/395db41a-48b6-48ad-81d6-379d6365d709.yaml:
+    type: addition
+  /coordinate-ops--conversion/3b06e1db-b4ce-4c84-a531-641ada9b1a48.yaml:
+    type: addition
+  /coordinate-ops--conversion/3c412c11-936d-47ef-860a-21442f8fb13d.yaml:
+    type: addition
+  /coordinate-ops--conversion/3c865936-97c9-4994-8086-fb7bd630829d.yaml:
+    type: addition
+  /coordinate-ops--conversion/3d0c8a00-94c8-4d67-b1d0-82f2615fc870.yaml:
+    type: addition
+  /coordinate-ops--conversion/3e2dbef8-ec86-4227-94f9-6e2aaf636c6c.yaml:
+    type: addition
+  /coordinate-ops--conversion/412c00fe-9820-4adc-8e9f-07b5be0c7ae7.yaml:
+    type: addition
+  /coordinate-ops--conversion/4215ecd3-a971-4d42-9536-a403be02a026.yaml:
+    type: addition
+  /coordinate-ops--conversion/436a494e-625c-478e-a29b-57e885665098.yaml:
+    type: addition
+  /coordinate-ops--conversion/4375fe1a-2135-46fa-9369-f152aa6e6d7e.yaml:
+    type: addition
+  /coordinate-ops--conversion/46925375-1c3a-45d2-aa8e-f5e9dd169794.yaml:
+    type: addition
+  /coordinate-ops--conversion/476c77fb-2f7a-4f04-94ac-fdbd53244abc.yaml:
+    type: addition
+  /coordinate-ops--conversion/4a95870d-61d7-475c-8493-93c783e9f2c0.yaml:
+    type: addition
+  /coordinate-ops--conversion/4d68e443-7170-4ed3-9985-a536df752d66.yaml:
+    type: addition
+  /coordinate-ops--conversion/505d77c9-5889-438d-a262-8393b6d15413.yaml:
+    type: addition
+  /coordinate-ops--conversion/50a25f01-5910-41e4-9c91-141fdc4e08da.yaml:
+    type: addition
+  /coordinate-ops--conversion/5919c4e0-06b6-4631-a523-f625fa923be2.yaml:
+    type: addition
+  /coordinate-ops--conversion/59645008-56c4-4587-b579-18faadc83a83.yaml:
+    type: addition
+  /coordinate-ops--conversion/59e7093c-c1aa-4fe1-96b4-45f74518ad1d.yaml:
+    type: addition
+  /coordinate-ops--conversion/5aa1bda6-2cf8-4032-93e3-9f1fc99984d8.yaml:
+    type: addition
+  /coordinate-ops--conversion/5b95ec0e-d036-4efe-8ddf-3d0e24b05d16.yaml:
+    type: addition
+  /coordinate-ops--conversion/61920b8b-c844-4ee7-8d2f-19686b330f51.yaml:
+    type: addition
+  /coordinate-ops--conversion/65e7b8bc-db8d-43f6-9b01-968afc1de67f.yaml:
+    type: addition
+  /coordinate-ops--conversion/66f05fb7-0ba4-4383-8ce3-80fa046dd7c3.yaml:
+    type: addition
+  /coordinate-ops--conversion/67336c89-3793-4d34-b239-b6a981d1fe79.yaml:
+    type: addition
+  /coordinate-ops--conversion/676734e8-4234-4850-acdd-f49291c3a73a.yaml:
+    type: addition
+  /coordinate-ops--conversion/77a59c95-bc41-4a3b-9b3f-79333713e889.yaml:
+    type: addition
+  /coordinate-ops--conversion/7a6d607e-e989-4fd8-a52e-dce2e8f1ba30.yaml:
+    type: addition
+  /coordinate-ops--conversion/7e08fd83-04ad-4f70-8a35-c02cdc24c5da.yaml:
+    type: addition
+  /coordinate-ops--conversion/7e82e003-3ab8-41f7-8bd2-e869ad08c519.yaml:
+    type: addition
+  /coordinate-ops--conversion/7f152cf7-fa12-4fae-b7be-cf1fbaf89419.yaml:
+    type: addition
+  /coordinate-ops--conversion/7fc80f24-59d7-44b7-8bd5-7dad8a8ab5cb.yaml:
+    type: addition
+  /coordinate-ops--conversion/832da50d-d296-4ec0-9be8-a89ab1f744e1.yaml:
+    type: addition
+  /coordinate-ops--conversion/83f3cd52-e515-4a87-9ebe-9e4900b838a7.yaml:
+    type: addition
+  /coordinate-ops--conversion/8518f6c6-2ee7-403a-a788-065583bc2f30.yaml:
+    type: addition
+  /coordinate-ops--conversion/88894dfa-1d9f-4b77-b317-8947dbd06132.yaml:
+    type: addition
+  /coordinate-ops--conversion/8b8197a6-d4f2-412f-825f-0db5532aac0e.yaml:
+    type: addition
+  /coordinate-ops--conversion/8bfbfe91-cb2c-4ff9-9e8b-fb0ea140fb68.yaml:
+    type: addition
+  /coordinate-ops--conversion/8dc79d55-789c-4f3e-9365-80bea8ba09df.yaml:
+    type: addition
+  /coordinate-ops--conversion/91a0e8b0-a074-4cf7-b063-4d0512c4eeea.yaml:
+    type: addition
+  /coordinate-ops--conversion/9364bf73-24c1-4ccc-9cd3-8fa199e51668.yaml:
+    type: addition
+  /coordinate-ops--conversion/9596c213-4fd3-4151-b9cc-976fe18ef24c.yaml:
+    type: addition
+  /coordinate-ops--conversion/9862e965-09be-43a5-ad52-1f9f49569fe8.yaml:
+    type: addition
+  /coordinate-ops--conversion/9a05e09c-6104-4e77-80f3-acb10d1781d2.yaml:
+    type: addition
+  /coordinate-ops--conversion/9bc67e5f-0c38-496b-ba9f-dc77c65e3f63.yaml:
+    type: addition
+  /coordinate-ops--conversion/9ed1cc75-bc92-462d-928a-8e1e11eaa625.yaml:
+    type: addition
+  /coordinate-ops--conversion/9f19fbc1-17fa-45e2-94b1-4c9e5bc8efd9.yaml:
+    type: addition
+  /coordinate-ops--conversion/9fd31ed2-f520-4506-9fb9-3749b0564164.yaml:
+    type: addition
+  /coordinate-ops--conversion/a01c0174-901a-4ddc-8704-8dc6919ba569.yaml:
+    type: addition
+  /coordinate-ops--conversion/a0f22349-589a-4c9f-80b0-d482567d450d.yaml:
+    type: addition
+  /coordinate-ops--conversion/a6644709-ec2b-4103-87c0-9f22a703f7a5.yaml:
+    type: addition
+  /coordinate-ops--conversion/a8b33d51-f279-4712-a9ef-8784bdc0ab14.yaml:
+    type: addition
+  /coordinate-ops--conversion/a9c11800-b1f8-45d7-ac43-ed9e46484569.yaml:
+    type: addition
+  /coordinate-ops--conversion/ac3ecea6-544b-4b42-9c36-b8f09b357156.yaml:
+    type: addition
+  /coordinate-ops--conversion/ad0cd805-a7a2-4d7f-887f-cf31543a66e3.yaml:
+    type: addition
+  /coordinate-ops--conversion/b5665fb1-abfc-4186-8256-ec7072df4c65.yaml:
+    type: addition
+  /coordinate-ops--conversion/b6f15ba5-ce59-4809-ade3-0ff85e0ab535.yaml:
+    type: addition
+  /coordinate-ops--conversion/bb13edb9-c10f-4e4c-8b7d-eb501912f2a7.yaml:
+    type: addition
+  /coordinate-ops--conversion/bc40c11e-6289-4096-8730-ca30246e58e6.yaml:
+    type: addition
+  /coordinate-ops--conversion/be6a9216-3d95-46a1-8f0a-dbff969045e9.yaml:
+    type: addition
+  /coordinate-ops--conversion/c1025993-0193-42ac-88a4-f25733114c81.yaml:
+    type: addition
+  /coordinate-ops--conversion/c41ab306-a515-4d98-b33f-5ec73a91c133.yaml:
+    type: addition
+  /coordinate-ops--conversion/c6367219-9f25-444b-911e-6c9ddfbc2a08.yaml:
+    type: addition
+  /coordinate-ops--conversion/c80c3cff-3db3-4bd9-ad42-5103cca8fdfd.yaml:
+    type: addition
+  /coordinate-ops--conversion/c9db95a5-2866-4cd3-9fbb-df7a064fa74e.yaml:
+    type: addition
+  /coordinate-ops--conversion/ca4a545b-880b-414b-a7e3-c3d0fdcb6a0b.yaml:
+    type: addition
+  /coordinate-ops--conversion/cd2fdf73-894a-4b26-b1e7-51640a7e9b72.yaml:
+    type: addition
+  /coordinate-ops--conversion/cd9833ad-0a2f-4346-9486-4424c7a2cb5d.yaml:
+    type: addition
+  /coordinate-ops--conversion/ce0e04a4-e182-40b0-a8b1-a496d3616d9f.yaml:
+    type: addition
+  /coordinate-ops--conversion/d1ad012f-20f0-4833-81ff-7bdf8d18afcf.yaml:
+    type: addition
+  /coordinate-ops--conversion/d1e5743a-3ed5-4850-bfbd-4e9a6f7477a7.yaml:
+    type: addition
+  /coordinate-ops--conversion/d2b59602-fb3e-40f1-9cae-5fe06df5587c.yaml:
+    type: addition
+  /coordinate-ops--conversion/d2fdb867-320b-4d0e-a02b-013bec498b99.yaml:
+    type: addition
+  /coordinate-ops--conversion/d47d7ea8-4e5f-46b2-a0bc-b0d0300ba303.yaml:
+    type: addition
+  /coordinate-ops--conversion/da9ff03a-5347-4876-9c4e-89e67004b75c.yaml:
+    type: addition
+  /coordinate-ops--conversion/dc9de9a8-cbfb-42bb-aa83-db0f5024a25a.yaml:
+    type: addition
+  /coordinate-ops--conversion/df2685ed-b5ed-4c41-8f90-c97197f46dca.yaml:
+    type: addition
+  /coordinate-ops--conversion/e2f4fb0b-d426-4187-a603-3a7b6be288fa.yaml:
+    type: addition
+  /coordinate-ops--conversion/e4fac3ba-b287-4b95-acaf-319d85fef72c.yaml:
+    type: addition
+  /coordinate-ops--conversion/e503a34e-7bbb-4b7f-9cfb-9fa717cfa96b.yaml:
+    type: addition
+  /coordinate-ops--conversion/e8a501cf-ddeb-4438-a050-26d21ec32ade.yaml:
+    type: addition
+  /coordinate-ops--conversion/e9ae5359-aa1d-43d6-8716-bdbd142d3ee3.yaml:
+    type: addition
+  /coordinate-ops--conversion/eaaccd8a-9995-489c-ae19-27af443a5807.yaml:
+    type: addition
+  /coordinate-ops--conversion/eb14e2b2-96d0-4991-89dc-4e5e125ccd02.yaml:
+    type: addition
+  /coordinate-ops--conversion/eb39764b-6a53-421e-8d35-015df0e0e4d9.yaml:
+    type: addition
+  /coordinate-ops--conversion/eb44eb85-828b-4670-b8f1-d9ff020fe7f2.yaml:
+    type: addition
+  /coordinate-ops--conversion/ec7cd187-97d6-4d32-aa5e-47eec21fe35c.yaml:
+    type: addition
+  /coordinate-ops--conversion/ece12d3a-c737-42f0-b579-d07452db40a4.yaml:
+    type: addition
+  /coordinate-ops--conversion/f02f2781-e778-4163-b7e3-9ba797c25303.yaml:
+    type: addition
   /coordinate-ops--conversion/f60d6746-9efe-4fd7-b927-4faff842fbcb.yaml:
+    type: addition
+  /coordinate-ops--conversion/f7fd9fb2-1413-4480-80e6-f527bf587932.yaml:
+    type: addition
+  /coordinate-ops--conversion/f9c87abf-b8e1-47de-9f35-9e7f5c6bb3b6.yaml:
+    type: addition
+  /coordinate-ops--conversion/fc125677-e254-4a6c-86e5-33d22de4b501.yaml:
+    type: addition
+  /coordinate-ops--conversion/fdeed595-d1b2-46cf-aa24-530ed6b8da78.yaml:
+    type: addition
+  /coordinate-ops--conversion/fe59be04-0780-44ee-ae1e-c6bd3e35b32d.yaml:
+    type: addition
+  /coordinate-ops--conversion/ffec0510-6d79-48bc-8ac5-3bc587a4e985.yaml:
+    type: addition
+  /coordinate-sys-axis/0ada1feb-242e-4db4-9dce-41905ffc4432.yaml:
+    type: addition
+  /coordinate-sys-axis/0b35344d-5bd8-4397-a02e-cfa0c169d338.yaml:
+    type: addition
+  /coordinate-sys-axis/77cb891c-550f-4b7f-8fc9-398149a01b52.yaml:
+    type: addition
+  /coordinate-sys-axis/a3f1fe4c-1d4e-449f-808a-726543523f24.yaml:
+    type: addition
+  /coordinate-sys-axis/a6ec127e-347b-4ee7-a644-fb59d905ecf6.yaml:
+    type: addition
+  /coordinate-sys-axis/b73b6d59-a5ce-4da2-a065-1be0760a97f9.yaml:
+    type: addition
+  /coordinate-sys-axis/b901dfa3-96fc-4e8e-924d-4dc296e9d7e1.yaml:
+    type: addition
+  /coordinate-sys-axis/be71cac3-6a69-4696-a846-a2ad132a768a.yaml:
+    type: addition
+  /coordinate-sys-axis/c6cdd588-e667-440c-b312-f7a1867dce5d.yaml:
+    type: addition
+  /coordinate-sys-axis/d542a67e-00f4-4db9-8768-7fe4e133f9c8.yaml:
     type: addition
 justification: Required for projected coordinate systems. Submitted by M. Craymer,
   Chair ISOGR Control Body.

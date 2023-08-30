@@ -5,6 +5,10 @@ isConcluded: true
 items:
   /coordinate-ops--transformation/d2f8e859-4f30-463a-a189-fff86a2ba6f9.yaml:
     type: addition
+  /coordinate-ops--transformation/d68d502c-cb1e-4f72-a326-970c4aeee47d.yaml:
+    amendmentType: supersession
+    supersedingItemIDs: []
+    type: amendment
 justification: Replaces invalidated item 484. Corrected rotation parameter values
   from reference epoch 1993.62 to 1997.0. Submitted by Daniel Roman, US National Geodetic
   Survey.

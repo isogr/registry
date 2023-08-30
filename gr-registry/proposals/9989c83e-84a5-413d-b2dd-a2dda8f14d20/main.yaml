@@ -3,6 +3,10 @@ controlBodyNotes: Please approve the corrections to the rotation parameters.
 id: 9989c83e-84a5-413d-b2dd-a2dda8f14d20
 isConcluded: true
 items:
+  /coordinate-ops--transformation/29c7cc67-adb1-4363-8112-0e52f0c6f018.yaml:
+    amendmentType: supersession
+    supersedingItemIDs: []
+    type: amendment
   /coordinate-ops--transformation/8147f1c4-becc-47ec-9a21-d40cbb337f19.yaml:
     type: addition
 justification: Replaces invalidated item 547. Corrected rotation parameter values

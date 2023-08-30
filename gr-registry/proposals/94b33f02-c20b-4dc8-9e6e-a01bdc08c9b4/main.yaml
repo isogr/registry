@@ -5,6 +5,10 @@ isConcluded: true
 items:
   /coordinate-ops--transformation/308530f3-16e6-40c8-a3e2-9f2c640a318e.yaml:
     type: addition
+  /coordinate-ops--transformation/e8f23f35-2162-4cf6-823d-261be6d0f969.yaml:
+    amendmentType: supersession
+    supersedingItemIDs: []
+    type: amendment
 justification: Corrected transformation for new vertical datum. Submitted by Nicholas
   Brown, Geoscience Australia.
 notes: []
