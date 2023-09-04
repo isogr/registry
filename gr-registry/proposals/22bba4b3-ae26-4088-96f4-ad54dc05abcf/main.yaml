@@ -1,8 +1,10 @@
 id: 22bba4b3-ae26-4088-96f4-ad54dc05abcf
 timeStarted: 2023-09-04T09:23:59.742Z
-timeEdited: 2023-09-04T09:23:59.742Z
+timeEdited: 2023-09-04T09:43:30.602Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /coordinate-ops--transformation/237125e4-3f8c-4312-b5c1-97678f9b79cf.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.1'
