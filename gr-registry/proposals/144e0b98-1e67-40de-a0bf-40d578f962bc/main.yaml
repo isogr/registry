@@ -5,6 +5,8 @@ isConcluded: true
 items:
   /coordinate-ops--transformation/68dab6aa-7bbc-4300-b233-c1beaca9b684.yaml:
     type: addition
+  /coordinate-ops--transformation/6f5e6697-8b77-49d3-8158-a986865894b0.yaml:
+    type: addition
 justification: Corrected NAD83(Original) to NAD83(CSRS) v2 SK transformation. Submitted
   by M. Craymer, Canadian Geodetic Survey
 notes: []

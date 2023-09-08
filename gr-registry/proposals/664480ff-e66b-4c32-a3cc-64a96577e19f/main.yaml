@@ -3,7 +3,13 @@ controlBodyNotes: null
 id: 664480ff-e66b-4c32-a3cc-64a96577e19f
 isConcluded: true
 items:
+  /crs--vertical/43830ecc-34fd-4469-81fc-af63122b6a1c.yaml:
+    type: addition
+  /crs--vertical/49f800a9-a0d4-4075-8606-a0b48d510cb5.yaml:
+    type: addition
   /datums--vertical/48558d5a-8966-4929-934a-125f016239f8.yaml:
+    type: addition
+  /datums--vertical/85e1378b-6bf7-4ca1-ada2-1a73ab75b031.yaml:
     type: addition
 justification: Submitted by M. Craymer, Canadian Geodetic Survey on behalf of the
   Coordinating Committee on Great Lakes Bssic Hydraulic and Hydrologic Data.

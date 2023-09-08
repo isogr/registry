@@ -3,7 +3,41 @@ controlBodyNotes: null
 id: 8ea74a26-60f1-4346-93d5-341234123435
 isConcluded: true
 items:
+  /coordinate-op-method/274fece0-bf5a-4792-8f6e-18b74c80dc97.yaml:
+    type: addition
+  /coordinate-op-parameter/15811eed-e76f-43f1-9b66-e36d1c94aacf.yaml:
+    type: addition
   /coordinate-op-parameter/1a05b1d1-d7fd-4411-8640-110855a92d92.yaml:
+    type: addition
+  /coordinate-ops--transformation/2567fb0c-0a17-4904-9c99-73422c11a0ad.yaml:
+    type: addition
+  /coordinate-ops--transformation/29bab530-e985-40fa-ac17-5844757d8e36.yaml:
+    type: addition
+  /coordinate-ops--transformation/42e4a6ff-3a86-4bc5-a628-fca9afb68f36.yaml:
+    type: addition
+  /coordinate-ops--transformation/53fa269d-5b3d-41e2-a358-625defb70095.yaml:
+    type: addition
+  /coordinate-ops--transformation/5b1a3c36-2326-4b16-a807-7f12466d20c5.yaml:
+    type: addition
+  /coordinate-ops--transformation/8653108a-6a97-489b-a65b-9d0fd5ae1de0.yaml:
+    type: addition
+  /coordinate-ops--transformation/92cf67bb-d4b6-4d4e-b009-b3dddc67dab5.yaml:
+    type: addition
+  /coordinate-ops--transformation/a2cbe0f5-33ea-4ac6-92d6-c431a2d31173.yaml:
+    type: addition
+  /coordinate-ops--transformation/ab108cf3-af1b-4320-83d4-d4933f18d312.yaml:
+    type: addition
+  /coordinate-ops--transformation/c3ff16e1-9570-4655-8b55-098cd6164fc3.yaml:
+    type: addition
+  /coordinate-ops--transformation/f01bca83-7ea2-4ba2-995a-89563870e364.yaml:
+    type: addition
+  /crs--vertical/27342547-6757-4afe-8834-bd943214df17.yaml:
+    type: addition
+  /crs--vertical/dfd5589b-2795-4f2b-8f3b-3f4d2cb1dea1.yaml:
+    type: addition
+  /datums--vertical/3c3b0ba8-6661-4be6-93f5-0315afd47b56.yaml:
+    type: addition
+  /datums--vertical/5b0cabaa-9b8c-46fb-8362-3cefdf8670a0.yaml:
     type: addition
 justification: New vertical datum transformation method for Canada. Submitted by M.
   Craymer, Canadian Geodetic Survey.

@@ -3,6 +3,16 @@ controlBodyNotes: null
 id: 532e0971-a15c-4d07-8439-d1b652bba662
 isConcluded: true
 items:
+  /coordinate-op-method/7fc94376-8243-4229-8d36-90d55a51299c.yaml:
+    type: addition
+  /coordinate-ops--transformation/ff64908f-4dbe-430f-8500-744bef8c2173.yaml:
+    type: addition
+  /crs--vertical/baa58461-118b-442a-873f-cee66b1efd3c.yaml:
+    type: addition
+  /crs--vertical/bb19fcd3-77b7-4712-bbdd-dbbc688d264a.yaml:
+    type: addition
+  /datums--vertical/49791074-ca46-4cc5-92e0-88311c06c303.yaml:
+    type: addition
   /datums--vertical/ab9172cc-bb6c-42ac-bab6-3768c9338244.yaml:
     type: addition
 justification: New EVRF realization. Submitted by Martina Sacher, BKG on behalf of

@@ -3,6 +3,38 @@ controlBodyNotes: null
 id: 94b38078-06c9-41ee-b46f-ff16b485b06c
 isConcluded: true
 items:
+  /coordinate-ops--transformation/1a5ae71e-b15a-43ac-b938-d3420ecade36.yaml:
+    type: addition
+  /coordinate-ops--transformation/2cf87bfc-a89c-47ac-b8c5-12d00c655ae2.yaml:
+    type: addition
+  /coordinate-ops--transformation/36675637-7b29-4474-9806-6915641da65d.yaml:
+    type: addition
+  /coordinate-ops--transformation/5acec7e7-501a-4f65-bd7c-8b8d3bc4f609.yaml:
+    type: addition
+  /coordinate-ops--transformation/765fddaf-276c-4bf1-ab1b-f7e4cd955264.yaml:
+    type: addition
+  /coordinate-ops--transformation/91e65ccd-175c-485a-ac8d-1e5c7c1b2b8a.yaml:
+    type: addition
+  /coordinate-ops--transformation/a3a9e20d-992a-49e8-8683-29022b0da67b.yaml:
+    type: addition
+  /coordinate-ops--transformation/baefa37f-3687-42f8-8f89-9b306ce0494c.yaml:
+    type: addition
+  /coordinate-ops--transformation/c5c827f7-0364-4b54-b253-f8fa0c21c4b5.yaml:
+    type: addition
+  /coordinate-ops--transformation/e2987914-2173-4002-b6c6-d2c67596e566.yaml:
+    type: addition
+  /coordinate-ops--transformation/e7f555e4-5cba-4aea-bf34-ae138fcc52a3.yaml:
+    type: addition
+  /coordinate-ops--transformation/f6c41c0e-9c9a-403d-8f51-a6995d69921a.yaml:
+    type: addition
+  /coordinate-ops--transformation/fffc9fe3-c34d-4153-848a-bbdb8dc57fd5.yaml:
+    type: addition
+  /crs--geodetic/6f783ed3-241e-4c5c-9730-49688ddcba35.yaml:
+    type: addition
+  /crs--geodetic/933eb6a1-b1b2-4028-8ea0-eaf0785e5cdc.yaml:
+    type: addition
+  /crs--geodetic/fd507233-4a28-434d-84d8-c9afb5f41f3e.yaml:
+    type: addition
   /datums--geodetic/255f7f9b-3531-4a1c-a21f-99cb97e44eb8.yaml:
     type: addition
 justification: Datum for new ITRF2020 realization of the ITRS. Submitted by T. Gattacceca,

@@ -3,6 +3,16 @@ controlBodyNotes: null
 id: 174b8167-82f2-43d0-9d2b-f274a2512595
 isConcluded: true
 items:
+  /coordinate-ops--transformation/115c6e2e-8257-456c-9df3-f7d2c817111e.yaml:
+    type: addition
+  /coordinate-ops--transformation/5547ba84-7f13-4167-a65b-0cf2891a7074.yaml:
+    type: addition
+  /crs--geodetic/1d9fbcae-64eb-4718-becc-1b1db3c94289.yaml:
+    type: addition
+  /crs--geodetic/45b9d1a8-cd3b-49fe-a882-ee7f9a906d3f.yaml:
+    type: addition
+  /crs--geodetic/47df8b7e-b5c1-455c-b03d-43583e63a5e2.yaml:
+    type: addition
   /datums--geodetic/f0835a79-f8c7-4387-a306-d9477ad3a512.yaml:
     type: addition
 justification: New WGS 84 (G2139) proposal submitted by James Friederich, National
