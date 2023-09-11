@@ -1,10 +1,12 @@
 id: 22bba4b3-ae26-4088-96f4-ad54dc05abcf
 timeStarted: 2023-09-04T09:23:59.742Z
-timeEdited: 2023-09-11T10:33:55.248Z
+timeEdited: 2023-09-11T10:34:11.194Z
 justification: dggfsdfgsdfgdsfg
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/237125e4-3f8c-4312-b5c1-97678f9b79cf.yaml:
+    type: clarification
+  /coordinate-ops--transformation/528f8105-481f-4fc3-ba13-0d9ed2a03fd9.yaml:
     type: clarification
 state: returned-for-clarification
 registerVersion: '1.1'
