@@ -40,7 +40,23 @@ stakeholders:
         contacts:
           - label: email
             value: anton@strogonoff.name
+  - role: owner
+    name: Alex (Test)
+    gitServerUsername: CAMOBAP
+    parties:
+      - name: Alex
+        contacts:
+          - label: email
+            value: example@example.com
   - role: submitter
+    name: Alex (Test)
+    gitServerUsername: CAMOBAP
+    parties:
+      - name: Alex
+        contacts:
+          - label: email
+            value: example@example.com
+  - role: manager
     name: Alex (Test)
     gitServerUsername: CAMOBAP
     parties:
