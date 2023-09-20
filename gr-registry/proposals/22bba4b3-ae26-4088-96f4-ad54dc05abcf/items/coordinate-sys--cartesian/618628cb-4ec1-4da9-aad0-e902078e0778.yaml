@@ -11,7 +11,7 @@ data:
   informationSources: []
   name: >-
     Cartesian 2D CS. Axes: easting, northing (E,N). Orientations: east, north.
-    UoM: m. test
+    UoM: m. test2
   remarks: Used in projected and engineering coordinate reference systems.
 dateAccepted: 2022-06-06T00:00:00.000Z
 id: 618628cb-4ec1-4da9-aad0-e902078e0778
