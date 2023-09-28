@@ -1,8 +1,10 @@
 id: 1a01cb24-8939-44dd-bc44-5650f0f6b934
 timeStarted: 2023-09-04T08:37:08.706Z
-timeEdited: 2023-09-04T08:37:08.706Z
+timeEdited: 2023-09-28T04:35:55.926Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /coordinate-ops--conversion/5088718f-d2ff-4018-bc4a-4f078d2e02dd.yaml:
+    type: addition
 state: draft
 registerVersion: '1.1'
