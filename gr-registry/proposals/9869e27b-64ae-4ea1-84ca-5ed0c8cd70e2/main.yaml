@@ -1,10 +1,8 @@
 id: 9869e27b-64ae-4ea1-84ca-5ed0c8cd70e2
 timeStarted: 2023-10-09T10:14:55.004Z
-timeEdited: 2023-10-09T10:15:29.025Z
+timeEdited: 2023-10-09T10:15:49.313Z
 justification: test3
 submittingStakeholderGitServerUsername: strogonoff
-items:
-  /crs--geodetic/4431514d-75dd-474f-8006-240687f21a3c.yaml:
-    type: addition
+items: {}
 state: draft
 registerVersion: '1.1'
