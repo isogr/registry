@@ -16,7 +16,7 @@ data:
     name: World.
     s: -90
     w: -180
-  identifier: 205
+  identifier: 206
   informationSources:
     - author: P. Rebischung
       edition: null
@@ -30,7 +30,7 @@ data:
       seriesPage: null
       title: 'IGS08: the IGS realization of ITRF2008'
       uuid: 33d7dc1a-f603-49dd-8eaa-d0d63039b028
-  name: IGS08 - LatLonEHt
+  name: IGS08 - LatLonEHtggggg
   operation: null
   remarks: >-
     Replaced by IGb08 - LatLonEHt. Used by IGS products within the period
