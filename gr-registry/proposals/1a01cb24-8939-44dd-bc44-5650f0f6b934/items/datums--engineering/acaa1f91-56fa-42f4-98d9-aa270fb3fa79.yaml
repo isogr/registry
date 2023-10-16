@@ -9,11 +9,13 @@ data:
   aliases: []
   scope: ''
   extent:
-    name: ''
-    'n': 0
-    e: 0
+    e: 42
+    'n': -80
+    name: >-
+      World - onshore and offshore - between  36°E and  42°E, southern
+      hemisphere between equator and 80°S.
     s: 0
-    w: 0
+    w: 36
   originDescription: ''
   releaseDate: ''
   coordinateReferenceEpoch: null
