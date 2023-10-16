@@ -48,22 +48,6 @@ stakeholders:
         contacts:
           - label: email
             value: example@example.com
-  - role: submitter
-    name: Alex (Test)
-    gitServerUsername: CAMOBAP
-    parties:
-      - name: Alex
-        contacts:
-          - label: email
-            value: example@example.com
-  - role: manager
-    name: Alex (Test)
-    gitServerUsername: CAMOBAP
-    parties:
-      - name: Alex
-        contacts:
-          - label: email
-            value: example@example.com
 version:
   id: '1.1'
   timestamp: 2023-04-20T17:00:00.000Z
