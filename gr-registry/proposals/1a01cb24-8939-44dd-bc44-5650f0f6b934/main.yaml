@@ -1,6 +1,6 @@
 id: 1a01cb24-8939-44dd-bc44-5650f0f6b934
 timeStarted: 2023-09-04T08:37:08.706Z
-timeEdited: 2023-10-16T09:49:31.054Z
+timeEdited: 2023-10-16T10:02:22.183Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -11,5 +11,6 @@ items:
     amendmentType: supersession
     supersedingItemIDs:
       - 41c8f1a8-76fd-4edf-9bdb-6eca1931c5fb
+      - 5bf14a16-f444-4105-a50d-ea006ba854b8
 state: draft
 registerVersion: '1.1'
