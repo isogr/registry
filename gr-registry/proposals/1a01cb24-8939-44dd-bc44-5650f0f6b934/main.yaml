@@ -1,10 +1,12 @@
 id: 1a01cb24-8939-44dd-bc44-5650f0f6b934
 timeStarted: 2023-09-04T08:37:08.706Z
-timeEdited: 2023-10-16T08:50:44.078Z
+timeEdited: 2023-10-16T09:35:42.158Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--conversion/5088718f-d2ff-4018-bc4a-4f078d2e02dd.yaml:
     type: addition
+  /ellipsoid/bebbfb24-0705-4b44-88fe-652d3e6b99bb.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.1'
