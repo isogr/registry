@@ -1,8 +1,10 @@
 id: 6c48ebd6-4c49-4cff-ad54-b1114fa65c24
 timeStarted: 2023-10-19T11:59:19.545Z
-timeEdited: 2023-10-19T11:59:19.545Z
+timeEdited: 2023-10-19T12:15:21.264Z
 justification: ''
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /ellipsoid/bebbfb24-0705-4b44-88fe-652d3e6b99bb.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.1'
