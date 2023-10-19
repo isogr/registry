@@ -6,7 +6,7 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /ellipsoid/bebbfb24-0705-4b44-88fe-652d3e6b99bb.yaml:
     type: clarification
-state: proposed
+state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2023-10-19T12:16:41.910Z
 pastTransitions:
@@ -25,3 +25,19 @@ pastTransitions:
               value: anton@strogonoff.name
     input:
       justification: test
+  - label: returned-for-clarification
+    timestamp: 2023-10-19T16:12:47.969Z
+    fromState: proposed
+    toState: returned-for-clarification
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input:
+      registerManagerNotes: test dfdfd
+registerManagerNotes: test dfdfd
