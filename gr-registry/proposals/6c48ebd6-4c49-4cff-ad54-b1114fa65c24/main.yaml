@@ -1,6 +1,6 @@
 id: 6c48ebd6-4c49-4cff-ad54-b1114fa65c24
 timeStarted: 2023-10-19T11:59:19.545Z
-timeEdited: 2023-10-19T12:15:21.264Z
+timeEdited: 2023-10-24T07:34:27.367Z
 justification: >-
   Try again… Long long justification goes here. -apple-system,
   "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
@@ -9,6 +9,8 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /ellipsoid/bebbfb24-0705-4b44-88fe-652d3e6b99bb.yaml:
     type: clarification
+  /ellipsoid/81773b9a-6451-40ea-8da2-0ed5e2ddfbdb.yaml:
+    type: addition
 state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2023-10-23T15:52:30.831Z
