@@ -3,7 +3,7 @@ data:
     - meter
     - International metre
     - m
-  denominator: 1
+  denominator: null
   identifier: 3
   informationSources:
     - author: International Organization for Standardization (ISO)
