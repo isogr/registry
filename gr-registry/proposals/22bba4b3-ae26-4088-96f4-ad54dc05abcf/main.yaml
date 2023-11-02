@@ -1,6 +1,6 @@
 id: 22bba4b3-ae26-4088-96f4-ad54dc05abcf
 timeStarted: 2023-09-04T09:23:59.742Z
-timeEdited: 2023-11-02T12:54:11.420Z
+timeEdited: 2023-11-02T12:55:34.535Z
 justification: dggfsdfgsdfgdsfg
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -15,6 +15,8 @@ items:
   /unit-of-measurement/0a7eb618-4789-4f1b-a5a1-107c7476867e.yaml:
     type: clarification
   /coordinate-op-method/58878e3b-47f7-429b-9033-23e2153be09f.yaml:
+    type: clarification
+  /coordinate-ops--conversion/eb44eb85-828b-4670-b8f1-d9ff020fe7f2.yaml:
     type: clarification
 state: returned-for-clarification
 registerVersion: '1.1'
