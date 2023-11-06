@@ -53,6 +53,10 @@ data:
       unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
       name: ''
       value: '23'
+    - parameter: ''
+      unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
+      name: ''
+      value: null
   remarks: null
   scope:
     - Spatial referencing
