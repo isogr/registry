@@ -1,0 +1,30 @@
+submittingStakeholderGitServerUsername: strogonoff
+registerVersion: '1'
+id: 9f2b2032-9d18-4f06-ae6d-420ed8dceaa5
+timeStarted: '2023-11-07T16:43:44.083Z'
+timeEdited: '2023-11-07T16:43:44.083Z'
+state: draft
+justification: exported via Glossarist migration adapter
+items:
+  /unit-of-measurement/5cd4e704-cdcc-4fec-8a6f-7f838ad834d2.yaml:
+    type: addition
+  /coordinate-sys-axis/f9dc00bd-3dfd-4ad2-9d5d-b6a8bcbf8571.yaml:
+    type: addition
+  /coordinate-sys--ellipsoidal/75376d71-d743-4d7d-8796-5a9f82ac0d90.yaml:
+    type: addition
+  /coordinate-op-parameter/b00f791e-deac-4e3b-b1c3-0ad89ab8e90d.yaml:
+    type: addition
+  /coordinate-op-method/8f99294b-a597-43b9-8545-0829fa9cced3.yaml:
+    type: addition
+  /coordinate-op-method/88902984-8ce2-4091-8ec6-7019a359f800.yaml:
+    type: addition
+  /coordinate-ops--conversion/2d90a6c4-20ce-4158-b681-63da0e23021b.yaml:
+    type: addition
+  /datums--vertical/25acd14b-d6a9-49d6-af64-a737d41e0963.yaml:
+    type: addition
+  /crs--geodetic/9e4ed710-9d25-410e-9d33-ead6dfa21d53.yaml:
+    type: addition
+  /crs--compound/8b6d32eb-7e1b-445e-b0f9-40f305c2be89.yaml:
+    type: addition
+  /coordinate-ops--transformation/679f8629-26e6-44d3-a82e-6afb94811a46.yaml:
+    type: addition

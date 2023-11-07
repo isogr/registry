@@ -1,0 +1,15 @@
+id: 5cd4e704-cdcc-4fec-8a6f-7f838ad834d2
+data:
+  identifier: -1
+  name: UOM 1
+  aliases: []
+  informationSources:
+    - title: Sample citation title 1
+      publisher: Publisher 1
+  remarks: ''
+  symbol: L
+  numerator: null
+  denominator: null
+  measureType: LENGTH
+dateAccepted: '2023-11-07T16:43:44.084Z'
+status: valid

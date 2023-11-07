@@ -1,0 +1,14 @@
+id: 75376d71-d743-4d7d-8796-5a9f82ac0d90
+data:
+  identifier: -3
+  name: CS 1
+  aliases:
+    - CS one
+  informationSources:
+    - title: Sample citation title 1
+      publisher: Publisher 1
+  remarks: ''
+  coordinateSystemAxes:
+    - f9dc00bd-3dfd-4ad2-9d5d-b6a8bcbf8571
+dateAccepted: '2023-11-07T16:43:44.084Z'
+status: valid

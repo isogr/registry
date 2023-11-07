@@ -1,0 +1,14 @@
+id: f9dc00bd-3dfd-4ad2-9d5d-b6a8bcbf8571
+data:
+  identifier: -2
+  name: CS Axis 1
+  aliases: []
+  informationSources:
+    - title: Sample citation title 1
+      publisher: Publisher 1
+  remarks: ''
+  orientation: Geocentre > equator/0°E
+  abbreviation: Abbreviation 1
+  unitOfMeasurement: 5cd4e704-cdcc-4fec-8a6f-7f838ad834d2
+dateAccepted: '2023-11-07T16:43:44.084Z'
+status: valid

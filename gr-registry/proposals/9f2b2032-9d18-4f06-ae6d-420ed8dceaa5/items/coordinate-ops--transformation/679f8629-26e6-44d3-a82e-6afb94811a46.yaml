@@ -1,0 +1,28 @@
+id: 679f8629-26e6-44d3-a82e-6afb94811a46
+data:
+  identifier: -11
+  name: Coord Op Transformation 1
+  aliases: []
+  informationSources:
+    - title: Sample citation title 1
+      publisher: Publisher 1
+  remarks: ''
+  operationVersion: '1'
+  accuracy:
+    value: null
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--compound
+    itemID: 8b6d32eb-7e1b-445e-b0f9-40f305c2be89
+  targetCRS:
+    classID: crs--compound
+    itemID: 8b6d32eb-7e1b-445e-b0f9-40f305c2be89
+  extent:
+    name: Extent description 1
+    s: ''
+    w: ''
+    'n': ''
+    e: ''
+  parameters: []
+dateAccepted: '2023-11-07T16:43:44.084Z'
+status: valid
