@@ -3,7 +3,7 @@ registerVersion: '1'
 id: 9f2b2032-9d18-4f06-ae6d-420ed8dceaa5
 timeStarted: '2023-11-07T16:43:44.083Z'
 timeEdited: '2023-11-07T16:43:44.083Z'
-state: proposed
+state: returned-for-clarification
 justification: test sample sheet
 items:
   /unit-of-measurement/5cd4e704-cdcc-4fec-8a6f-7f838ad834d2.yaml:
@@ -45,3 +45,19 @@ pastTransitions:
               value: anton@strogonoff.name
     input:
       justification: test sample sheet
+  - label: Return for clarification
+    timestamp: 2023-11-08T13:03:29.665Z
+    fromState: proposed
+    toState: returned-for-clarification
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input:
+      registerManagerNotes: test
+registerManagerNotes: test
