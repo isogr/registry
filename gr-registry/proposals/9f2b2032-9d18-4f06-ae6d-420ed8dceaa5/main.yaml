@@ -2,7 +2,7 @@ submittingStakeholderGitServerUsername: strogonoff
 registerVersion: '1'
 id: 9f2b2032-9d18-4f06-ae6d-420ed8dceaa5
 timeStarted: '2023-11-07T16:43:44.083Z'
-timeEdited: 2023-11-08T13:07:40.766Z
+timeEdited: 2023-11-08T13:21:19.353Z
 state: returned-for-clarification
 justification: test sample sheet
 items:
@@ -30,6 +30,11 @@ items:
     type: addition
   /ellipsoid/14e17601-9efe-43b7-a3d9-22af2c165c88.yaml:
     type: addition
+  /coordinate-ops--transformation/c91153c0-76ce-4c49-b747-875468af716e.yaml:
+    type: amendment
+    amendmentType: supersession
+    supersedingItemIDs:
+      - 62125d2d-acb9-4020-86cd-e2aec76dbe8b
 timeProposed: 2023-11-07T16:46:31.511Z
 pastTransitions:
   - label: Propose
