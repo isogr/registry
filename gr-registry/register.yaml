@@ -82,3 +82,7 @@ contentSummary: >-
   (Procedures for item registration -- Part 1: Fundamentals).
 
   </p>
+operatingLanguage:
+  name: English
+  country: ''
+  languageCode: eng
