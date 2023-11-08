@@ -44,7 +44,22 @@ data:
     uuid: 168fe2be-1427-4da3-8148-0cb52ad9fd1c
   method_uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
   name: UTM zone 12N
-  parameters: []
+  parameters:
+  - parameter: Latitude of natural origin
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: Longitude of natural origin
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: Scale factor at natural origin
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: False easting
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: False northing
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
   remarks: null
   scope:
   - Spatial referencing

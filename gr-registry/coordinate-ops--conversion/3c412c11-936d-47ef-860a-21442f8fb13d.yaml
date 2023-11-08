@@ -44,7 +44,22 @@ data:
     uuid: 8e012f7d-baf6-4bf7-b1c5-57d670bcc6be
   method_uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
   name: UTM zone 52S
-  parameters: []
+  parameters:
+  - parameter: Latitude of natural origin
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: Longitude of natural origin
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: Scale factor at natural origin
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: False easting
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: False northing
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
   remarks: null
   scope:
   - Spatial referencing

@@ -44,7 +44,22 @@ data:
     uuid: 460b946c-0bfc-4a7b-a5bd-0d4cf3b2a999
   method_uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
   name: UTM zone 54N
-  parameters: []
+  parameters:
+  - parameter: Latitude of natural origin
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: Longitude of natural origin
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: Scale factor at natural origin
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: False easting
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
+  - parameter: False northing
+    unitOfMeasurement: coordinate-op-parameter
+    value: 0
   remarks: null
   scope:
   - Spatial referencing
