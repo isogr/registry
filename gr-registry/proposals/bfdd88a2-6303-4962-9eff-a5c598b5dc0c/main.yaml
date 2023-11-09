@@ -1,7 +1,7 @@
 id: bfdd88a2-6303-4962-9eff-a5c598b5dc0c
 timeStarted: 2023-11-09T13:11:12.213Z
 timeEdited: 2023-11-09T14:07:07.207Z
-justification: New engineering datum is being added.
+justification: New engineering datum is being added, and transformation is being superseded.
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/003db039-99d4-484a-b35b-82d5c6c5eec4.yaml:
@@ -14,9 +14,9 @@ items:
     supersedingItemIDs:
       - dc82dc52-120d-4e30-bf86-44aea6d2df21
       - 003db039-99d4-484a-b35b-82d5c6c5eec4
-state: returned-for-clarification
+state: proposed
 registerVersion: '1.1'
-timeProposed: 2023-11-09T13:47:59.218Z
+timeProposed: 2023-11-09T14:08:11.634Z
 pastTransitions:
   - label: Propose
     timestamp: 2023-11-09T13:47:59.218Z
@@ -48,4 +48,21 @@ pastTransitions:
               value: anton@strogonoff.name
     input:
       registerManagerNotes: Test
+  - label: Propose
+    timestamp: 2023-11-09T14:08:11.634Z
+    fromState: returned-for-clarification
+    toState: proposed
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input:
+      justification: >-
+        New engineering datum is being added, and transformation is being
+        superseded.
 registerManagerNotes: Test
