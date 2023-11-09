@@ -14,7 +14,7 @@ items:
     supersedingItemIDs:
       - dc82dc52-120d-4e30-bf86-44aea6d2df21
       - 003db039-99d4-484a-b35b-82d5c6c5eec4
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2023-11-09T14:08:11.634Z
 pastTransitions:
@@ -65,4 +65,19 @@ pastTransitions:
       justification: >-
         New engineering datum is being added, and transformation is being
         superseded.
+  - label: Submit for control body review
+    timestamp: 2023-11-09T14:08:20.479Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input:
+      registerManagerNotes: Test
 registerManagerNotes: Test
