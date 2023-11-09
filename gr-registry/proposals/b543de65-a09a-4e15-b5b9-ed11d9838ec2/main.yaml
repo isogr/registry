@@ -1,8 +1,11 @@
 id: b543de65-a09a-4e15-b5b9-ed11d9838ec2
 timeStarted: 2023-11-09T14:16:45.468Z
-timeEdited: 2023-11-09T14:27:10.497Z
+timeEdited: 2023-11-09T14:27:21.098Z
 justification: Invalidation test
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /coordinate-ops--transformation/dc82dc52-120d-4e30-bf86-44aea6d2df21.yaml:
+    type: amendment
+    amendmentType: invalidation
 state: draft
 registerVersion: '1.1'
