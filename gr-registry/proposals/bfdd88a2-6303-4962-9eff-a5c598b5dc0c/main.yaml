@@ -14,7 +14,7 @@ items:
     supersedingItemIDs:
       - dc82dc52-120d-4e30-bf86-44aea6d2df21
       - 003db039-99d4-484a-b35b-82d5c6c5eec4
-state: pending-control-body-review
+state: accepted
 registerVersion: '1.1'
 timeProposed: 2023-11-09T14:08:11.634Z
 pastTransitions:
@@ -80,4 +80,21 @@ pastTransitions:
               value: anton@strogonoff.name
     input:
       registerManagerNotes: Test
+  - label: Accept
+    timestamp: 2023-11-09T14:08:34.644Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input:
+      controlBodyNotes: Positive.
 registerManagerNotes: Test
+controlBodyNotes: Positive.
+timeDisposed: 2023-11-09T14:08:34.644Z
