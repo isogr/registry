@@ -91,8 +91,7 @@ contentSummary: >-
 
   </p>
 
-  <ul style="padding: 0; list-style: none; display: grid; grid-gap: 10px;
-  grid-column: 1; text-align: center;">
+  <ul>
     <li><a href="https://www.nrcan.gc.ca/"><img alt="Natural Resources Canada" src="https://user-images.githubusercontent.com/11865/128666171-6468f5ad-aa32-43da-98ca-47b074de4b55.png" style="height: 80px"/></a></li>
     <li><a href="https://www.ign.fr/"><img alt="Institut national de l'information géographique et forestière" src="https://user-images.githubusercontent.com/11865/128666318-e8f59cbc-06d9-457d-b38d-c30a8ffb4352.png" style="height: 80px"/></a></li>
     <li><a href="https://www.kartverket.no/"><img alt="Kartverket" src="https://camo.githubusercontent.com/e713dd92a4568166edfaf0694dad56ad618d73e1380430af834a13da73fe948c/68747470733a2f2f7777772e6b6172747665726b65742e6e6f2f676c6f62616c6173736574732f6f6d2d6b6172747665726b65742f6b6172747665726b736c6f676f2f6b6172747665726b65745f6c696767656e64655f7765622e737667" style="height: 60px"/></a></li>
