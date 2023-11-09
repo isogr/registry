@@ -1,0 +1,22 @@
+id: 09f1c437-f483-48c9-a802-99843a2bb5a4
+data:
+  identifier: -10
+  name: Compound CRS 1
+  aliases: []
+  informationSources: []
+  remarks: ''
+  horizontalCRS:
+    classID: crs--geodetic
+    itemID: 067a7091-12f1-435d-b16c-c8c5ebaad618
+  verticalCRS:
+    classID: crs--geodetic
+    itemID: 067a7091-12f1-435d-b16c-c8c5ebaad618
+  extent:
+    name: Extent description 1
+    s: ''
+    w: ''
+    'n': ''
+    e: ''
+  scope: Scope 1
+dateAccepted: '2023-11-09T13:51:55.048Z'
+status: valid

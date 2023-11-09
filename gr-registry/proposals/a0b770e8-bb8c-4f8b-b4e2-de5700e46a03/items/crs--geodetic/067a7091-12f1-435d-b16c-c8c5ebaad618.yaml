@@ -1,0 +1,29 @@
+id: 067a7091-12f1-435d-b16c-c8c5ebaad618
+data:
+  identifier: -9
+  name: CRS 1
+  aliases:
+    - CRS one
+  informationSources:
+    - title: Sample citation title 1
+      publisher: Publisher 1
+  remarks: Remarks 1
+  scope: This is a scope
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 8d034be8-df88-490b-87f7-307a52e13fec
+  baseCRS:
+    classID: crs--geodetic
+    itemID: 067a7091-12f1-435d-b16c-c8c5ebaad618
+  operation:
+    classID: coordinate-ops--conversion
+    itemID: 7ceac277-507c-4be2-97c1-50b2751a08bf
+  extent:
+    name: Extent description 1
+    s: ''
+    w: ''
+    'n': ''
+    e: ''
+  datum: 3dad865a-5107-4311-b462-55ee013f1b41
+dateAccepted: '2023-11-09T13:51:55.048Z'
+status: valid

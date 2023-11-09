@@ -1,0 +1,24 @@
+id: 7ceac277-507c-4be2-97c1-50b2751a08bf
+data:
+  identifier: -7
+  name: Coord Op 1
+  aliases: []
+  informationSources:
+    - title: Sample citation title 1
+      publisher: Publisher 1
+  remarks: ''
+  coordinateOperationMethod: cacb8569-0d46-45d4-a4d6-471fe8ef1ec9
+  scope: This is the scope
+  parameters:
+    - name: ''
+      value: ''
+      parameter: 15b12d55-346b-4278-a6a4-0d4c412ad5f3
+      unitOfMeasurement: null
+  extent:
+    name: Extent description 1
+    s: ''
+    w: ''
+    'n': ''
+    e: ''
+dateAccepted: '2023-11-09T13:51:55.048Z'
+status: valid
