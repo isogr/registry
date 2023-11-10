@@ -113,11 +113,10 @@ data:
       type: measure (w/ UoM)
       unitOfMeasurement: 0a7eb618-4789-4f1b-a5a1-107c7476867e
       value: null
-    - fileCitation: null
-      parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
-      type: measure (w/ UoM)
+    - parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
+      type: parameter file name
       unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
-      value: null
+      value: '14'
   remarks: >-
     Citations give the transformation from IGS05 to ITGb00. Accuracy of
     transformation is given at the reference epoch for the transformation
