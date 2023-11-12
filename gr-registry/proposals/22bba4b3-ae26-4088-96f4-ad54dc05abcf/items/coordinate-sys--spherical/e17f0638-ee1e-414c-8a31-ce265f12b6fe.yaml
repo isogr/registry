@@ -2,9 +2,11 @@ id: e17f0638-ee1e-414c-8a31-ce265f12b6fe
 dateAccepted: 2023-11-12T10:24:34.541Z
 status: valid
 data:
-  name: ''
+  name: test
   identifier: 0
   informationSources: []
   remarks: ''
-  aliases: []
-  coordinateSystemAxes: []
+  aliases:
+    - test
+  coordinateSystemAxes:
+    - d542a67e-00f4-4db9-8768-7fe4e133f9c8
