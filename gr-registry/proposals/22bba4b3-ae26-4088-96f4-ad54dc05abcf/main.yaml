@@ -1,6 +1,6 @@
 id: 22bba4b3-ae26-4088-96f4-ad54dc05abcf
 timeStarted: 2023-09-04T09:23:59.742Z
-timeEdited: 2023-11-13T08:01:53.344Z
+timeEdited: 2023-11-13T08:41:13.193Z
 justification: dggfsdfgsdfgdsfg
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -31,8 +31,6 @@ items:
   /coordinate-sys--spherical/e17f0638-ee1e-414c-8a31-ce265f12b6fe.yaml:
     type: addition
   /crs--projected/8885b9b5-1e86-46a8-a327-dc8b45aa4144.yaml:
-    type: addition
-  /coordinate-ops--concatenated/b2edc2e9-847e-4d85-a018-40943e1997ad.yaml:
     type: addition
   /coordinate-ops--transformation/003db039-99d4-484a-b35b-82d5c6c5eec4.yaml:
     type: clarification
