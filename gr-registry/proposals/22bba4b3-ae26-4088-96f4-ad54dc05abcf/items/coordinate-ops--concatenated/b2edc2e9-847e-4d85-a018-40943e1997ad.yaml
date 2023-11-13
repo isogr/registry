@@ -2,13 +2,18 @@ id: b2edc2e9-847e-4d85-a018-40943e1997ad
 dateAccepted: 2023-11-13T04:40:47.142Z
 status: valid
 data:
-  name: ''
+  name: Test concat op
   identifier: 0
   informationSources: []
   remarks: ''
-  aliases: []
+  aliases:
+    - test
   operationVersion: ''
-  operations: []
+  operations:
+    - classID: coordinate-ops--transformation
+      itemID: b8beb7ed-748a-4081-85e8-0e0a86aa7339
+    - classID: coordinate-ops--transformation
+      itemID: e303e4c0-378e-44d3-b2ce-60b6a61b44b0
   accuracy:
     value: 0
-    unitOfMeasurement: ''
+    unitOfMeasurement: 0fed4bdf-47b5-4dc3-a421-f8ef26a40ab9
