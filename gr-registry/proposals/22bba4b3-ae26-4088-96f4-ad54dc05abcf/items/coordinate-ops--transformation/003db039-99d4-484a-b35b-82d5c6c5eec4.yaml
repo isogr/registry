@@ -14,7 +14,13 @@ data:
     s: 0
     w: 18
   operationVersion: ''
-  parameters: []
+  parameters:
+    - parameter: ''
+      unitOfMeasurement: 6a54d914-a8a0-4df8-969e-57bcdb182e3c
+      name: ''
+      type: measure (w/ UoM)
+      value: '132'
+      fileCitation: null
   accuracy:
     value: 0
     unitOfMeasurement: 6a54d914-a8a0-4df8-969e-57bcdb182e3c
