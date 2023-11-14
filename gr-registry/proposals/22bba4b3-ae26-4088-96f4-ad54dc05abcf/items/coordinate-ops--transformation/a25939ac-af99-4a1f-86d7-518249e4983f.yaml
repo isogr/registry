@@ -14,7 +14,13 @@ data:
     s: 0
     w: 0
   operationVersion: ''
-  parameters: []
+  parameters:
+    - parameter: ''
+      unitOfMeasurement: null
+      name: ''
+      type: parameter file name
+      value: null
+      fileCitation: null
   accuracy:
     value: 0
     unitOfMeasurement: ''
