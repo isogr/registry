@@ -24,5 +24,8 @@ data:
   accuracy:
     value: 0
     unitOfMeasurement: 6a54d914-a8a0-4df8-969e-57bcdb182e3c
+  targetCRS:
+    classID: crs--geodetic
+    itemID: ec42feeb-de6b-4642-831f-72dd451997d2
 status: valid
 dateAccepted: 2023-11-09T14:08:34.719Z
