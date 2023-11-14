@@ -45,6 +45,7 @@ data:
     - Spatial referencing
   sourcecrs_uuid: null
   targetcrs_uuid: null
+  coordinateOperationMethod: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
 dateAccepted: 2022-06-06T00:00:00.000Z
 id: 28aa585e-5918-46f3-ae26-1a875de16dfc
 status: valid
