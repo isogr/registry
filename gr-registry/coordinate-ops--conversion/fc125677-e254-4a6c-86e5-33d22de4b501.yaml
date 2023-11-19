@@ -50,13 +50,13 @@ data:
     value: 0.0
   - parameter: f9e5b20f-dbd4-402e-a35c-dd26b0c58c6b
     unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
-    value: null
+    value: 99.0
   - parameter: bc5a79ba-6a41-4250-adc8-408b370ac9b6
     unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
-    value: null
+    value: 0.9996
   - parameter: be6f2219-8e25-47a1-97ab-d50f686c6af6
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: null
+    value: 500000.0
   - parameter: 09167146-e6a4-49e2-b275-a91e4c2a1a73
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.0
