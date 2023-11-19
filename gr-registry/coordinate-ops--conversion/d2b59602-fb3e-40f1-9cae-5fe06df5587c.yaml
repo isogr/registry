@@ -45,19 +45,19 @@ data:
   method_uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
   name: UTM zone 38N
   parameters:
-  - parameter: ff7aeba1-d5de-44e5-a82a-a4780b50364b
+  - parameter: 1842c20c-c724-46b5-93db-75994aec4536
     unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: 0.0
-  - parameter: 64e351b2-105c-4a63-a6d5-64ac653e0ddc
+  - parameter: f9e5b20f-dbd4-402e-a35c-dd26b0c58c6b
     unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: null
-  - parameter: e743695b-4a84-48ba-9655-a9a206193420
+  - parameter: bc5a79ba-6a41-4250-adc8-408b370ac9b6
     unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
     value: null
-  - parameter: 985fdb86-7f0e-4f78-903a-09263dbe4e5e
+  - parameter: be6f2219-8e25-47a1-97ab-d50f686c6af6
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: null
-  - parameter: 39a5ab2e-a281-4de6-92b5-6743da77f4d0
+  - parameter: 09167146-e6a4-49e2-b275-a91e4c2a1a73
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.0
   remarks: null
