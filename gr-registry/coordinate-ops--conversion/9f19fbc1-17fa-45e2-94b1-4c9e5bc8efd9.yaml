@@ -45,20 +45,20 @@ data:
   method_uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
   name: UTM zone 8N
   parameters:
-  - parameter: Latitude of natural origin
-    unitOfMeasurement: ANGLE
+  - parameter: 36f90e59-44ad-4ccf-984a-7714b00cb82f
+    unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: 0.0
-  - parameter: Longitude of natural origin
-    unitOfMeasurement: ANGLE
+  - parameter: c05f74d5-9c13-4e04-99ef-a247257dccfb
+    unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: null
-  - parameter: Scale factor at natural origin
-    unitOfMeasurement: SCALE
+  - parameter: 016653e0-8cfb-4e8d-9607-a8e6bbcfa10a
+    unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
     value: null
-  - parameter: False easting
-    unitOfMeasurement: LENGTH
+  - parameter: 50d35727-1f82-4ec3-ac46-dc6906822109
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: null
-  - parameter: False northing
-    unitOfMeasurement: LENGTH
+  - parameter: c57895bc-cd98-4f61-90fb-5b6a900a2e79
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.0
   remarks: null
   scope:

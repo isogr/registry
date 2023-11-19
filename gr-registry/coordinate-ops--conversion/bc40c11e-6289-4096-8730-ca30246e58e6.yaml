@@ -45,20 +45,20 @@ data:
   method_uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
   name: UTM zone 12S
   parameters:
-  - parameter: Latitude of natural origin
-    unitOfMeasurement: ANGLE
+  - parameter: 10e64b06-8a66-402c-952a-ab62319edbab
+    unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: 0.0
-  - parameter: Longitude of natural origin
-    unitOfMeasurement: ANGLE
+  - parameter: c87b9ebd-b5f3-49b7-bea3-e8bbd9a7e0e7
+    unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: null
-  - parameter: Scale factor at natural origin
-    unitOfMeasurement: SCALE
+  - parameter: b9baf7ac-a5f2-45e2-9a80-7050be31692d
+    unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
     value: null
-  - parameter: False easting
-    unitOfMeasurement: LENGTH
+  - parameter: 54cd48dc-75a9-498d-a84b-4c6b1e3cc90e
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: null
-  - parameter: False northing
-    unitOfMeasurement: LENGTH
+  - parameter: b926b924-46e0-4c26-8136-2d18341cbad6
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: null
   remarks: null
   scope:

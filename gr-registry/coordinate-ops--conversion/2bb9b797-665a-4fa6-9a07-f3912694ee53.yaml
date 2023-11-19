@@ -45,20 +45,20 @@ data:
   method_uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
   name: UTM zone 27N
   parameters:
-  - parameter: Latitude of natural origin
-    unitOfMeasurement: ANGLE
+  - parameter: a0f7e7a7-8068-4e83-bf96-fba1b13d3761
+    unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: 0.0
-  - parameter: Longitude of natural origin
-    unitOfMeasurement: ANGLE
+  - parameter: ea5ab595-640d-4d01-84e7-da413afc3d30
+    unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: null
-  - parameter: Scale factor at natural origin
-    unitOfMeasurement: SCALE
+  - parameter: a592414e-7367-4cc5-981a-dd0d414bb46d
+    unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
     value: null
-  - parameter: False easting
-    unitOfMeasurement: LENGTH
+  - parameter: 3e992fba-6891-47f2-b7c1-018559f13bc8
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: null
-  - parameter: False northing
-    unitOfMeasurement: LENGTH
+  - parameter: df3f45f7-9ca0-40ed-a368-826539866fa9
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.0
   remarks: null
   scope:

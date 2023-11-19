@@ -45,20 +45,20 @@ data:
   method_uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
   name: UTM zone 1N
   parameters:
-  - parameter: Latitude of natural origin
-    unitOfMeasurement: ANGLE
+  - parameter: 8b884c32-46c6-4de9-b047-aa464609d35d
+    unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: 0.0
-  - parameter: Longitude of natural origin
-    unitOfMeasurement: ANGLE
+  - parameter: 7bd3704a-46dc-46e8-989e-cc50f4a425e0
+    unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: null
-  - parameter: Scale factor at natural origin
-    unitOfMeasurement: SCALE
+  - parameter: 283478b0-e9e0-4772-87d9-fe4ec2904b48
+    unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
     value: null
-  - parameter: False easting
-    unitOfMeasurement: LENGTH
+  - parameter: 34e000ce-dc25-4f57-9596-ff5bb69f8100
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: null
-  - parameter: False northing
-    unitOfMeasurement: LENGTH
+  - parameter: cc859ba3-820b-406e-82bb-44b275058e2f
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.0
   remarks: "NEW REMARK\n NGA zone names using postitive zone numbers for northern\
     \ hemisphere and negative zone numbers for southern hemisphere are specified as\

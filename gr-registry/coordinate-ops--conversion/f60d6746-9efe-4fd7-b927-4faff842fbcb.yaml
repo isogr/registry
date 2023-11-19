@@ -45,20 +45,20 @@ data:
   method_uuid: 75b20713-fef3-4dbc-a0d6-6736e6964ef7
   name: UTM zone 44N
   parameters:
-  - parameter: Latitude of natural origin
-    unitOfMeasurement: ANGLE
+  - parameter: d01793c5-01de-4673-b77f-8f8d0f00de6b
+    unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: 0.0
-  - parameter: Longitude of natural origin
-    unitOfMeasurement: ANGLE
+  - parameter: 84b9e640-fa7b-483f-97e8-c00433cd7a06
+    unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
     value: null
-  - parameter: Scale factor at natural origin
-    unitOfMeasurement: SCALE
+  - parameter: 67189a4b-aebd-4dee-a3d0-4c7885785f0c
+    unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
     value: null
-  - parameter: False easting
-    unitOfMeasurement: LENGTH
+  - parameter: c264dabc-fd00-4edb-99ea-c254e0e43d16
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: null
-  - parameter: False northing
-    unitOfMeasurement: LENGTH
+  - parameter: e6315e4a-df69-4a21-9e73-686e2658414f
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
     value: 0.0
   remarks: null
   scope:
