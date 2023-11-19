@@ -56,17 +56,17 @@ data:
     parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
     type: measure (w/ UoM)
     unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-    value: null
+    value: 19.0
   - fileCitation: null
     parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
     type: measure (w/ UoM)
     unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-    value: null
+    value: 28.0
   - fileCitation: null
     parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
     type: measure (w/ UoM)
     unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-    value: null
+    value: -23.0
   - fileCitation: null
     parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
     type: measure (w/ UoM)
@@ -106,17 +106,17 @@ data:
     parameter: c127d884-6f2f-4491-99ab-1c918bd2c954
     type: measure (w/ UoM)
     unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
-    value: null
+    value: 0.11
   - fileCitation: null
     parameter: a9e25756-e699-420d-a9be-d0f83f7115d9
     type: measure (w/ UoM)
     unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
-    value: null
+    value: 0.57
   - fileCitation: null
     parameter: 88228e9d-3b44-41ff-8ca7-a73a8acdc881
     type: measure (w/ UoM)
     unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
-    value: null
+    value: -0.71
   - fileCitation: null
     parameter: 884b428c-57f0-4c0b-a054-4a49ca76ee06
     type: measure (w/ UoM)
@@ -126,7 +126,7 @@ data:
     parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
     type: measure (w/ UoM)
     unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
-    value: null
+    value: 1989.0
   remarks: 'Method A.
 
     Accuracy of transformation is given at the reference epoch for the transformation

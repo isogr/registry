@@ -47,17 +47,17 @@ data:
     parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
     type: measure (w/ UoM)
     unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-    value: null
+    value: 5.0
   - fileCitation: null
     parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
     type: measure (w/ UoM)
     unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-    value: null
+    value: 36.0
   - fileCitation: null
     parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
     type: measure (w/ UoM)
     unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-    value: null
+    value: 24.0
   - fileCitation: null
     parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
     type: measure (w/ UoM)
@@ -77,7 +77,7 @@ data:
     parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
     type: measure (w/ UoM)
     unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
-    value: null
+    value: -3.0
   remarks: No rates of change were estimated for the transformation parameters.
   scope:
   - Spatial referencing

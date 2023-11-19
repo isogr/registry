@@ -120,7 +120,7 @@ data:
     parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
     type: measure (w/ UoM)
     unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
-    value: null
+    value: 2020.0
   remarks: Null transformation. ATRF2014 is a regional densification of ITRF2014 for
     the Australian region and is aligned to ITRF2014 at epoch 2020.0.
   scope:

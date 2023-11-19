@@ -100,17 +100,17 @@ data:
     parameter: c127d884-6f2f-4491-99ab-1c918bd2c954
     type: measure (w/ UoM)
     unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
-    value: null
+    value: 1.50379
   - fileCitation: null
     parameter: a9e25756-e699-420d-a9be-d0f83f7115d9
     type: measure (w/ UoM)
     unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
-    value: null
+    value: 1.18346
   - fileCitation: null
     parameter: 88228e9d-3b44-41ff-8ca7-a73a8acdc881
     type: measure (w/ UoM)
     unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
-    value: null
+    value: 1.20716
   - fileCitation: null
     parameter: 884b428c-57f0-4c0b-a054-4a49ca76ee06
     type: measure (w/ UoM)
@@ -120,7 +120,7 @@ data:
     parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
     type: measure (w/ UoM)
     unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
-    value: null
+    value: 2020.0
   remarks: Australian Plate Motion Model
   scope:
   - Spatial referencing

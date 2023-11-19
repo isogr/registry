@@ -34,37 +34,37 @@ data:
     parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: null
+    value: 59.47
   - fileCitation: null
     parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: null
+    value: -5.04
   - fileCitation: null
     parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: null
+    value: 187.44
   - fileCitation: null
     parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
     type: measure (w/ UoM)
     unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-    value: null
+    value: -0.47
   - fileCitation: null
     parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
     type: measure (w/ UoM)
     unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-    value: null
+    value: 0.1
   - fileCitation: null
     parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
     type: measure (w/ UoM)
     unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
-    value: null
+    value: -1.024
   - fileCitation: null
     parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
     type: measure (w/ UoM)
     unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
-    value: null
+    value: -4.5993
   remarks: Medium accuracy seven parameter version of NZGD1949 to NZGD2000 transformation
     by LINZ. For slightly lower (5 m) accuracy accuracy use three parameter transformation
     version LINZv1. For highest (0.1-1 m) accuracy use grid transformation version

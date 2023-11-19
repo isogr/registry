@@ -129,7 +129,7 @@ data:
     parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
     type: measure (w/ UoM)
     unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
-    value: null
+    value: 2010.0
   remarks: Null transformation. IGS14 is aligned to ITRF2014 and is treated as the
     same reference frame.
   scope:

@@ -155,7 +155,7 @@ data:
     parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
     type: measure (w/ UoM)
     unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
-    value: null
+    value: 2005.0
   remarks: Null reference frame transformation between IGS05 and SIRGAS-CON SIR09P01.
   scope:
   - Spatial referencing
