@@ -46,20 +46,20 @@ data:
   name: UTM zone 57N
   parameters:
   - parameter: Latitude of natural origin
-    unitOfMeasurement: coordinate-op-parameter
-    value: 0
+    unitOfMeasurement: ANGLE
+    value: 0.0
   - parameter: Longitude of natural origin
-    unitOfMeasurement: coordinate-op-parameter
-    value: 0
+    unitOfMeasurement: ANGLE
+    value: null
   - parameter: Scale factor at natural origin
-    unitOfMeasurement: coordinate-op-parameter
-    value: 0
+    unitOfMeasurement: SCALE
+    value: null
   - parameter: False easting
-    unitOfMeasurement: coordinate-op-parameter
-    value: 0
+    unitOfMeasurement: LENGTH
+    value: null
   - parameter: False northing
-    unitOfMeasurement: coordinate-op-parameter
-    value: 0
+    unitOfMeasurement: LENGTH
+    value: 0.0
   remarks: null
   scope:
   - Spatial referencing
