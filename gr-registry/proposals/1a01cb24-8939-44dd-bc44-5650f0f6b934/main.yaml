@@ -1,6 +1,6 @@
 id: 1a01cb24-8939-44dd-bc44-5650f0f6b934
 timeStarted: 2023-09-04T08:37:08.706Z
-timeEdited: 2023-11-21T08:26:36.412Z
+timeEdited: 2023-11-21T08:27:03.442Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -12,6 +12,10 @@ items:
     supersedingItemIDs:
       - 5bf14a16-f444-4105-a50d-ea006ba854b8
   /datums--engineering/acaa1f91-56fa-42f4-98d9-aa270fb3fa79.yaml:
+    type: addition
+  /coordinate-ops--conversion/8dd6ee16-3432-4e41-b528-1188ad4435e4.yaml:
+    type: addition
+  /coordinate-ops--conversion/0cfb988c-4f00-4190-b2e8-6ff39f5a437c.yaml:
     type: addition
 state: draft
 registerVersion: '1.1'
