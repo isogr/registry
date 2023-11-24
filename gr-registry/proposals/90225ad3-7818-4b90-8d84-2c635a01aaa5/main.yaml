@@ -6,7 +6,7 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--conversion/6628e30e-9e3e-4372-8f9a-40d3a868fd65.yaml:
     type: addition
-state: proposed
+state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2023-11-09T11:12:18.778Z
 pastTransitions:
@@ -25,3 +25,19 @@ pastTransitions:
               value: anton@strogonoff.name
     input:
       justification: test234
+  - label: Return for clarification
+    timestamp: 2023-11-24T09:12:45.977Z
+    fromState: proposed
+    toState: returned-for-clarification
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input:
+      registerManagerNotes: Need some data
+registerManagerNotes: Need some data
