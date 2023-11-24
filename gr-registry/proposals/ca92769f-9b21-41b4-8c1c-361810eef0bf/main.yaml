@@ -1,8 +1,13 @@
 id: ca92769f-9b21-41b4-8c1c-361810eef0bf
 timeStarted: 2023-11-24T09:24:20.235Z
-timeEdited: 2023-11-24T09:24:20.235Z
+timeEdited: 2023-11-24T09:24:40.805Z
 justification: Invalidate test item
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /coordinate-ops--conversion/6628e30e-9e3e-4372-8f9a-40d3a868fd65.yaml:
+    type: amendment
+    amendmentType: supersession
+    supersedingItemIDs:
+      - 9ed1cc75-bc92-462d-928a-8e1e11eaa625
 state: draft
 registerVersion: '1.1'
