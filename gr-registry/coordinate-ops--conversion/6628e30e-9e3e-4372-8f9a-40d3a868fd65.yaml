@@ -1,0 +1,18 @@
+id: 6628e30e-9e3e-4372-8f9a-40d3a868fd65
+data:
+  name: test
+  identifier: 1111
+  informationSources: []
+  remarks: Test
+  aliases: []
+  parameters: []
+  extent:
+    name: ''
+    'n': 0
+    e: 0
+    s: 0
+    w: 0
+  scope: ''
+  coordinateOperationMethod: ''
+status: valid
+dateAccepted: 2023-11-24T09:16:27.118Z
