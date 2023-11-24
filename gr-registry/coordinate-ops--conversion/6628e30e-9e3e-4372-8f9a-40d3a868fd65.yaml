@@ -14,5 +14,9 @@ data:
     w: 0
   scope: ''
   coordinateOperationMethod: ''
-status: valid
+status: superseded
 dateAccepted: 2023-11-24T09:16:27.118Z
+amendedInCR: ca92769f-9b21-41b4-8c1c-361810eef0bf
+supersededBy:
+  - itemID: 9ed1cc75-bc92-462d-928a-8e1e11eaa625
+    classID: coordinate-ops--conversion

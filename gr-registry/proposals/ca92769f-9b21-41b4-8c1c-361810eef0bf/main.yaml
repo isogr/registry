@@ -9,7 +9,7 @@ items:
     amendmentType: supersession
     supersedingItemIDs:
       - 9ed1cc75-bc92-462d-928a-8e1e11eaa625
-state: pending-control-body-review
+state: accepted
 registerVersion: '1.1'
 timeProposed: 2023-11-24T09:24:57.230Z
 pastTransitions:
@@ -43,4 +43,21 @@ pastTransitions:
               value: anton@strogonoff.name
     input:
       registerManagerNotes: Looks good.
+  - label: Accept
+    timestamp: 2023-11-24T09:25:19.052Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input:
+      controlBodyNotes: Accepting as a test.
 registerManagerNotes: Looks good.
+controlBodyNotes: Accepting as a test.
+timeDisposed: 2023-11-24T09:25:19.052Z
