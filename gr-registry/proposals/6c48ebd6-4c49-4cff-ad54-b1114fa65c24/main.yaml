@@ -1,6 +1,6 @@
 id: 6c48ebd6-4c49-4cff-ad54-b1114fa65c24
 timeStarted: 2023-10-19T11:59:19.545Z
-timeEdited: 2023-11-09T11:05:16.788Z
+timeEdited: 2023-12-04T07:19:10.393Z
 justification: >-
   Try again… Long long justification goes here. -apple-system,
   "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
@@ -11,9 +11,6 @@ items:
     type: clarification
   /ellipsoid/81773b9a-6451-40ea-8da2-0ed5e2ddfbdb.yaml:
     type: addition
-  /coordinate-ops--transformation/d12240c0-05f4-4683-aea2-cfc9ca03203a.yaml:
-    type: amendment
-    amendmentType: invalidation
   /datums--engineering/7368a1c2-5cf3-42aa-b458-602b5245973c.yaml:
     type: addition
 state: returned-for-clarification
