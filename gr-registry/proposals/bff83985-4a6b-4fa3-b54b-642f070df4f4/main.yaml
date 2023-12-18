@@ -1,8 +1,10 @@
 id: bff83985-4a6b-4fa3-b54b-642f070df4f4
 timeStarted: 2023-12-18T14:14:26.490Z
-timeEdited: 2023-12-18T14:14:26.490Z
+timeEdited: 2023-12-18T14:16:51.702Z
 justification: Test correction
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /coordinate-ops--transformation/fffc9fe3-c34d-4153-848a-bbdb8dc57fd5.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.1'
