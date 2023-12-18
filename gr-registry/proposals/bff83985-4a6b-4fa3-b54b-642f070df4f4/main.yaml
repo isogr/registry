@@ -6,9 +6,9 @@ submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/fffc9fe3-c34d-4153-848a-bbdb8dc57fd5.yaml:
     type: clarification
-state: returned-for-clarification
+state: proposed
 registerVersion: '1.1'
-timeProposed: 2023-12-18T14:21:29.295Z
+timeProposed: 2023-12-18T14:28:26.456Z
 pastTransitions:
   - label: Propose
     timestamp: 2023-12-18T14:21:29.295Z
@@ -54,5 +54,20 @@ pastTransitions:
               value: paneron@craymer.com
     input:
       controlBodyNotes: Test return to submitter.
+  - label: Propose
+    timestamp: 2023-12-18T14:28:26.456Z
+    fromState: returned-for-clarification
+    toState: proposed
+    stakeholder:
+      role: owner
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      parties:
+        - name: Michael Craymer
+          contacts:
+            - label: email
+              value: paneron@craymer.com
+    input:
+      justification: Corrected units of rate of change of scale from mm/yr to ppb/yr.
 registerManagerNotes: ''
 controlBodyNotes: Test return to submitter.
