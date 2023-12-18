@@ -17,13 +17,13 @@ stakeholders:
           - label: email
             value: ronald.tse@ribose.com
   - role: owner
-    name: Vladimir (Test)
-    gitServerUsername: yablokov
+    name: Michael Craymer
+    gitServerUsername: maccraymer
     parties:
-      - name: Vladimir Yablokov
+      - name: Michael Craymer
         contacts:
           - label: email
-            value: vladimir.yablokov@gmail.com
+            value: paneron@craymer.com
   - role: manager
     name: Demo user
     gitServerUsername: demouser
