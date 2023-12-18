@@ -1,10 +1,27 @@
 id: bff83985-4a6b-4fa3-b54b-642f070df4f4
 timeStarted: 2023-12-18T14:14:26.490Z
 timeEdited: 2023-12-18T14:16:51.702Z
-justification: Test correction
+justification: Corrected units of rate of change of scale from mm/yr to ppb/yr.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/fffc9fe3-c34d-4153-848a-bbdb8dc57fd5.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: '1.1'
+timeProposed: 2023-12-18T14:21:29.295Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2023-12-18T14:21:29.295Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      role: owner
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      parties:
+        - name: Michael Craymer
+          contacts:
+            - label: email
+              value: paneron@craymer.com
+    input:
+      justification: Corrected units of rate of change of scale from mm/yr to ppb/yr.
