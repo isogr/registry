@@ -6,7 +6,7 @@ submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/fffc9fe3-c34d-4153-848a-bbdb8dc57fd5.yaml:
     type: clarification
-state: pending-control-body-review
+state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2023-12-18T14:21:29.295Z
 pastTransitions:
@@ -39,4 +39,20 @@ pastTransitions:
             - label: email
               value: paneron@craymer.com
     input: {}
+  - label: Return for clarification
+    timestamp: 2023-12-18T14:26:59.679Z
+    fromState: pending-control-body-review
+    toState: returned-for-clarification
+    stakeholder:
+      role: owner
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      parties:
+        - name: Michael Craymer
+          contacts:
+            - label: email
+              value: paneron@craymer.com
+    input:
+      controlBodyNotes: Test return to submitter.
 registerManagerNotes: ''
+controlBodyNotes: Test return to submitter.
