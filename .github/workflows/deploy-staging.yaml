@@ -5,6 +5,7 @@ on:
     branches: [ staging ]
   repository_dispatch:
     types: [ deploy_staging ]
+  workflow_dispatch:
 
 jobs:
   build:
