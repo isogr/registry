@@ -1,0 +1,32 @@
+data:
+  aliases: []
+  definition: null
+  description: null
+  formula: null
+  formulaCitation:
+    author: J. Lee, J.-H. Kwon
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://doi.org/10.1007/s44195-022-00013-3 (accessed 2023-04-10)
+    publisher: The Chinese Geoscience Union
+    seriesIssueID: Volume 33, Article Number 12
+    seriesName: Terrestrial, Atmospheric and Oceanic Sciences
+    seriesPage: null
+    title: Review the status of Korean geoid model development since 2000s and future
+      improvement plan
+    uuid: 55eccf97-0826-4811-b19f-e88aee8faf5f
+  identifier: 1003
+  informationSources: []
+  name: Geographic3D to Gravity Related Height (KNGeoid18)
+  parameters:
+  - 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+  remarks: A vertical transformation model between KGD2002 ellipsoid height and KVD1964
+    normal orthometric height. This transformation model uses the updated hybrid geoid
+    model KNGeoid18 with a higher precision and wider coverage of the territory of
+    the Republic of Korea than KNGeoid14. This model provides separation values on
+    a regular grid of latitude and longitude intersection points. Replaces KNGeoid14.
+dateAccepted: 2023-10-02
+id: 275f2e5a-e808-4afc-b1df-af1d0aa085bb
+status: valid
