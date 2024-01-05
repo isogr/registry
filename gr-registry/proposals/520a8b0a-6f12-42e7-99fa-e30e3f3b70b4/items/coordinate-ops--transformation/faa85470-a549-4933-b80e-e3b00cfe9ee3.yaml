@@ -1,0 +1,108 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.05
+  aliases: []
+  coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
+  description: null
+  extent:
+    e: -64.0
+    n: 19.0
+    name: Puerto Rico - onshore and offshore. Virgin Islands (US) - onshore and offshore.
+    s: 17.0
+    w: -69.0
+  identifier: 597
+  informationSources:
+  - author: US Government
+    edition: null
+    editionDate: 1990-08-10
+    isbn: null
+    issn: null
+    otherDetails: Mandates use of NADCON for official transformations between datums
+    publisher: Office of Federal Register, NARA
+    seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+    seriesName: 'Federal Register Notice '
+    seriesPage: '32681.0'
+    title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+    uuid: d663f3c2-4e6c-47f1-9594-79411871f941
+  - author: D. Smith, A. Bilich
+    edition: null
+    editionDate: 2017-03-27
+    isbn: null
+    issn: null
+    otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+      datum transformations, and extents of covnversion grids.
+    publisher: NOAA's National Geodetic Survey
+    seriesIssueID: null
+    seriesName: NGS Technical Report
+    seriesPage: null
+    title: 'NADCON 5.0: Geometric Transformation Tool for points in the National Spatial
+      Reference System'
+    uuid: ac1d2d7a-c11e-4f63-8b51-456c61c42819
+  name: NAD 83 (HARN) to NAD 83 (HARN) Corrected [v1]
+  operationVersion: v1
+  parameters:
+  - fileCitation:
+      author: US Government
+      edition: null
+      editionDate: 1990-08-10
+      isbn: null
+      issn: null
+      otherDetails: Mandates use of NADCON for official transformations between datums
+      publisher: Office of Federal Register, NARA
+      seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+      seriesName: 'Federal Register Notice '
+      seriesPage: '32681.0'
+      title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+      uuid: 3f80f162-6626-4d3a-8bb5-d97ba1f7e380
+    parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_1993.nad83_1997.prvi.lat.trn.20160901.b
+  - fileCitation:
+      author: US Government
+      edition: null
+      editionDate: 1990-08-10
+      isbn: null
+      issn: null
+      otherDetails: Mandates use of NADCON for official transformations between datums
+      publisher: Office of Federal Register, NARA
+      seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+      seriesName: 'Federal Register Notice '
+      seriesPage: '32681.0'
+      title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+      uuid: 5d05ecac-7859-4248-bfda-1162be3bf2d2
+    parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_1993.nad83_1997.prvi.lon.trn.20160901.b
+  - fileCitation:
+      author: US Government
+      edition: null
+      editionDate: 1990-08-10
+      isbn: null
+      issn: null
+      otherDetails: Mandates use of NADCON for official transformations between datums
+      publisher: Office of Federal Register, NARA
+      seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
+      seriesName: 'Federal Register Notice '
+      seriesPage: '32681.0'
+      title: Notice to Adopt Standard Method for Horizontal Datum Transformation
+      uuid: 495387f1-8019-416c-adf3-5ace37274873
+    parameter: d0e6143c-dfc2-4796-932b-ab6b67954582
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_1993.nad83_1997.prvi.eht.trn.20160901.b
+  remarks: Grid Transformation
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: fe0ef0a0-b436-4793-b978-514f9fdd045f
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 8b4bf1f3-bf61-4438-b5ac-8f759f6d0b7d
+dateAccepted: 2018-11-17
+id: faa85470-a549-4933-b80e-e3b00cfe9ee3
+status: valid

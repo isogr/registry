@@ -1,0 +1,24 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-08-12.
+controlBodyNotes: ''
+id: 663f0bb5-1610-4c01-84fa-188a71c51e11
+isConcluded: true
+items:
+  /coordinate-ops--transformation/456ce06e-eb80-428b-875b-6a22b17a595b.yaml:
+    type: addition
+justification: New transformation for Alberta, Canada. Submitted by M. Craymer, Canadian
+  Geodetic Survey, Natural Resources Canada.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-08-12
+timeProposed: 2021-08-12
+title: NAD83(Original) to NAD83(CSRS) v7 [ABv1]

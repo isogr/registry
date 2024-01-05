@@ -1,0 +1,25 @@
+controlBodyDecisionEvent: Approved by the Control Body during its meeting of 2020-09-03.
+controlBodyNotes: Please approve corrections to aliases, remarks and anchor definition.
+id: ead64aa1-0b83-43c5-8b3f-8f45082c1e89
+isConcluded: true
+items:
+  /datums--geodetic/d44da840-4b05-4112-8295-210f97afdfe5.yaml:
+    type: clarification
+justification: Corrected typos in Anchor Definition (Canadian -> Canadian stations)
+  and in Remarks (NAD83(CSRS96) v2 -> NAD83(CSRS) v2). Removed incorrect aliases NAD83(CSRS)
+  and NAD83CSRS. Submitted by Dr. Michael Craymer, Canadian Geodetic Survey.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-09-03
+timeProposed: 2020-09-03
+title: North American Datum of 1983 (CSRS96) version 1

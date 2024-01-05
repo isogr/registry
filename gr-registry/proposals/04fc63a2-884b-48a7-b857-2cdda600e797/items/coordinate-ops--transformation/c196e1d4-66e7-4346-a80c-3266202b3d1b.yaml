@@ -1,0 +1,86 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.035
+  aliases:
+  - KNGeoid14
+  coordOperationMethod: 390390d8-2300-432c-a2f3-a4572f8a907f
+  description: null
+  extent: null
+  identifier: 1014
+  informationSources:
+  - author: Geodesy Department, NGII
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Web page in Korean, accessible only within Korea. https://map.ngii.go.kr/ms/mesrInfo/geoidIntro.do
+      (accessed 2023-06-01)
+    publisher: National Geographic Information Institute (NGII), Ministry of Construction
+      and Transportation, Republic of Korea
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: National Geographic Information Institute Geoid model
+    uuid: 91735f39-3f4e-4ee5-a96e-bf287eebb3e4
+  - author: Geodesy Department, NGII
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Web page in Korean, accessible only within Korea. http://map.ngii.go.kr/ms/mesrInfo/vertclStdrOpenLctre.do#tab_3
+      (accessed 2023-06-01)
+    publisher: National Geographic Information Institute (NGII), Ministry of Construction
+      and Transportation, Republic of Korea
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Definition of Vertical Datum
+    uuid: 8ce0b2a9-bd94-4c48-bb52-2191a96248bf
+  - author: J. Lee, J.-H. Kwon
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://doi.org/10.1007/s44195-022-00013-3 (accessed 2023-04-10)
+    publisher: The Chinese Geoscience Union
+    seriesIssueID: Volume 33, Article Number 12
+    seriesName: Terrestrial, Atmospheric and Oceanic Sciences
+    seriesPage: null
+    title: Review the status of Korean geoid model development since 2000s and future
+      improvement plan
+    uuid: dd374b12-3175-4456-929c-aba46adeb14c
+  name: KGD2002 to KVD1964 [NGII v1]
+  operationVersion: NGII v1
+  parameters:
+  - fileCitation:
+      author: Geodesy Department, NGII
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Web page in Korean, accessible only within Korea. https://map.ngii.go.kr/ms/mesrInfo/geoidIntro.do
+        (accessed 2023-06-01)
+      publisher: National Geographic Information Institute (NGII), Ministry of Construction
+        and Transportation, Republic of Korea
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: National Geographic Information Institute Geoid model
+      uuid: 74cc83be-55f1-413d-a70e-b6b5824d383b
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: KNGeoid14.gri
+  remarks: Height conversion from KGD2002 GRS80 ellipsoidal height to KVD1964 normal
+    orthometric height.
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: e129d541-ab4d-4ac0-ab96-9a89e8fbbed7
+  targetCRS: null
+dateAccepted: 2023-10-02
+id: c196e1d4-66e7-4346-a80c-3266202b3d1b
+status: valid

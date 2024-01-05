@@ -1,0 +1,108 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.05
+  aliases: []
+  coordOperationMethod: ba27f915-b36e-47d6-ad7f-03a90dbc7d99
+  description: null
+  extent:
+    e: -66.0
+    n: 50.0
+    name: United States (USA) - onshore and offshore - CONUS (Alabama, Arizona, Arkansas,
+      California, Colorado, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois,
+      Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts,
+      Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire,
+      New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma,
+      Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee,
+      Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming).
+    s: 24.0
+    w: -135.0
+  identifier: 696
+  informationSources:
+  - author: D. Smith, A. Bilich
+    edition: null
+    editionDate: 2017-03-27
+    isbn: null
+    issn: null
+    otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+      datum transformations, and extents of covnversion grids.
+    publisher: NOAA's National Geodetic Survey
+    seriesIssueID: null
+    seriesName: NGS Technical Report
+    seriesPage: null
+    title: 'NADCON 5.0: Geometric Transformation Tool for points in the National Spatial
+      Reference System'
+    uuid: 6825708b-c4db-4886-ab26-5aac0f42ae4e
+  name: NAD 83 (2007) to NAD 83 (2011) [v1]
+  operationVersion: v1
+  parameters:
+  - fileCitation:
+      author: D. Smith, A. Bilich
+      edition: null
+      editionDate: 2017-03-27
+      isbn: null
+      issn: null
+      otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+        datum transformations, and extents of covnversion grids.
+      publisher: NOAA's National Geodetic Survey
+      seriesIssueID: null
+      seriesName: NGS Technical Report
+      seriesPage: null
+      title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
+        Spatial Reference System'
+      uuid: b263c313-31d6-4eac-a870-b3d5dc8ceb53
+    parameter: a9663049-694d-49ec-a9eb-7d847e6ed826
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_2007.nad83_2011.conus.lat.trn.20160901.b
+  - fileCitation:
+      author: D. Smith, A. Bilich
+      edition: null
+      editionDate: 2017-03-27
+      isbn: null
+      issn: null
+      otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+        datum transformations, and extents of covnversion grids.
+      publisher: NOAA's National Geodetic Survey
+      seriesIssueID: null
+      seriesName: NGS Technical Report
+      seriesPage: null
+      title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
+        Spatial Reference System'
+      uuid: 3d3830b5-dfd6-4117-b6a2-a427676b5d41
+    parameter: b5c0a15f-605e-435c-b762-a3c8139fe171
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_2007.nad83_2011.conus.lon.trn.20160901.b
+  - fileCitation:
+      author: D. Smith, A. Bilich
+      edition: null
+      editionDate: 2017-03-27
+      isbn: null
+      issn: null
+      otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
+        datum transformations, and extents of covnversion grids.
+      publisher: NOAA's National Geodetic Survey
+      seriesIssueID: null
+      seriesName: NGS Technical Report
+      seriesPage: null
+      title: 'NADCON 5.0: Geometric Transformation Tool for points in the National
+        Spatial Reference System'
+      uuid: d9d9d2fd-b762-4bda-91de-a428b6fbe446
+    parameter: d0e6143c-dfc2-4796-932b-ab6b67954582
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nadcon5.nad83_2007.nad83_2011.conus.eht.trn.20160901.b
+  remarks: Grid Transformation
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 4bd35f90-809c-4696-bae4-f1f9f0f30a8c
+  targetCRS:
+    classID: crs--geodetic
+    itemID: b8eaf2f4-54e8-4a51-9ca9-9a38b793b8fe
+dateAccepted: 2018-11-17
+id: 26520223-3d18-4948-ab07-d42dc96158ef
+status: valid

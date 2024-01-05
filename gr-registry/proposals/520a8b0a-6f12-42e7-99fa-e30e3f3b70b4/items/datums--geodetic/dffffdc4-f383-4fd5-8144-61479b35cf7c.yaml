@@ -1,0 +1,71 @@
+data:
+  aliases:
+  - ITRF 90
+  - ITRF90
+  - IERS Terrestrial Reference Frame 1990
+  coordinateReferenceEpoch: '1988.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 99
+  informationSources:
+  - author: C. Boucher, Z. Altamimi
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
+      75014 Paris, France
+    seriesIssueID: '9.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: ITRF 90 and other realizations of the IERS Terrestrial Reference System
+      for 1990
+    uuid: d2005b54-03ef-4f81-ad6f-4281f6fd93b5
+  - author: G. Petit, B.J. Luzum (eds)
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'ISSN: 1019-4568'
+    publisher: Verlag des Bundesamts fur Kartographie und Geodasie
+    seriesIssueID: '36.0'
+    seriesName: IERS Technical Notes
+    seriesPage: null
+    title: IERS Conventions (2010)
+    uuid: 5867d609-b03e-4db8-bfdf-612439304342
+  name: International Terrestrial Reference Frame 1990
+  originDescription: 'Realisation of the IERS Terrestrial Reference System (ITRS)
+    at reference epoch 1988.0.
+
+    Origin is defined by SLR.
+
+    Scale is defined by SLR noting that the VLBI scale (GSFC and NGS) is consistent
+    with SLR.
+
+    Orientation is defined such that no global rotation exists with respect to ITRF89.
+
+    Time evolution is defined by the AMO-2 plate motion model of Minster and Jordan
+    (1978); no global velocity field was estimated for ITRF88.
+
+    The AM0-2 model is used to estimate positions at other epochs.
+
+    Datum defined by a set of 3 dimensional Cartesian station coordinates given by
+    the citations.'
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '1991-12-01'
+  remarks: 'Replaces ITRF89. Replaced by ITRF91.
+
+    This is a purely Cartesian reference frame with no ellipsoid defined.
+
+    GRS80 is the ellipsoid recommended by the IAG and IERS.'
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: dffffdc4-f383-4fd5-8144-61479b35cf7c
+status: valid

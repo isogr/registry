@@ -1,0 +1,25 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-04-29.
+controlBodyNotes: ''
+id: 27c4a90f-8d1d-4287-a9b7-3a8eb77106c8
+isConcluded: true
+items:
+  /coordinate-op-method/3460c77c-1172-4fe9-ae3f-9c1685a55267.yaml:
+    type: clarification
+justification: Removed import spreadsheet reference from Remarks and used full names
+  of other referenced operation methods. Submitted by M. Craymer, Chair of the Control
+  Body for the ISO Geodetic Registry.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-04-29
+timeProposed: 2021-05-17
+title: Time-Dependent Position Vector Transformation (geocentric Cartesian domain)

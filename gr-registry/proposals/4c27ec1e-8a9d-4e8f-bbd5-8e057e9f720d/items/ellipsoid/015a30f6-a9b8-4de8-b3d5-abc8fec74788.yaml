@@ -1,0 +1,51 @@
+data:
+  aliases:
+  - Bessel
+  description: null
+  identifier: 996
+  informationSources:
+  - author: National Geospatial-Intelligence Agency
+    edition: Version 2.0.0
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Office of Geomatics, National Geospatial-Intelligence Agency
+    seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS
+    seriesName: National Geospatial-Intelligence Agency Standardization Document
+    seriesPage: null
+    title: The Universal Grids and the Transverse Mercator and Polar Stereographic
+      Map Projections
+    uuid: 541f8f35-958a-4a9e-aac1-04f8cf15c587
+  - author: F.W. Bessel
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://doi.org/10.1002/asna.18420190702 (accessed 2023-04-10)
+    seriesIssueID: Volumes 19, Issue 7-8, No. 438
+    seriesName: Astronomische Nachrichten (Astronomical Notes)
+    seriesPage: 97-116
+    title: "Ueber einen Fehler in der Berechnung der franz\xF6sischen Gradmessung\
+      \ und seinen Einfluss auf die Bestimmung der Figur der Erde"
+    uuid: 85f60f6a-fab5-4564-85a4-ceb61fb6ad14
+  inverseFlattening: 299.1528128
+  inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  isSphere: false
+  name: Bessel 1841
+  remarks: The Bessel ellipsoid was derived in 1841 by Friedrich Wilhelm Bessel, based
+    on several meridian arcs and other data of continental geodetic networks of Europe,
+    Russia and the British Survey of India. It is based on 10 meridional arcs and
+    38 precise measurements of astrogeodetic latitude and longitude. The dimensions
+    of the ellipsoid axes were defined by logarithms in keeping with former calculation
+    methods. The original axes were defined as a=3272077.14 and b=3261139.33 toise.
+    This was based a weighted mean of values from several authors but did not account
+    for differences in the length of the various toise. The "Bessel toise" is therefore
+    of uncertain length.
+  semiMajorAxis: 6377397.155
+  semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  semiMinorAxis: null
+  semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+dateAccepted: 2023-10-02
+id: 015a30f6-a9b8-4de8-b3d5-abc8fec74788
+status: valid

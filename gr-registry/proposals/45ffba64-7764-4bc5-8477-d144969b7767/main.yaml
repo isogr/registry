@@ -1,0 +1,27 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-10-25.
+controlBodyNotes: ''
+id: 45ffba64-7764-4bc5-8477-d144969b7767
+isConcluded: true
+items:
+  /datums--geodetic/c87269de-82a4-4a33-9089-dbfcec201922.yaml:
+    type: clarification
+justification: Added federal and provincial adoption in remarks. Submitted by M. Craymer,
+  Canadian Geodetic Survey, Natural Resources Canada.
+notes:
+- author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
+  note: '[Register Manager] Need to verify remarks regarding provincial adoption/publication.'
+  uuid: 5d235489-a30d-401d-83ca-178f0d8dc0c1
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-10-25
+timeProposed: 2021-10-25
+title: North American Datum of 1983 (CSRS) version 7

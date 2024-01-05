@@ -1,0 +1,86 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 1.5
+  aliases: []
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: -74.35
+    n: 56.9
+    name: "Canada - Ontario - excluding City of Toronto\_"
+    s: 41.67
+    w: -95.16
+  identifier: 511
+  informationSources:
+  - author: Canadian Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
+      Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'Desktop Applications: NTv2'
+    uuid: ae9ea861-5480-4e86-ab85-85e054c293b0
+  - author: Esri Canada
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Esri, Redlands, CA
+    seriesIssueID: 'Article ID: 000011846'
+    seriesName: null
+    seriesPage: null
+    title: 'FAQ: What are some of the transformation methods for Canada?'
+    uuid: 1cac944f-24e9-4676-bc2f-a4dcb2acec05
+  - author: Land Information Ontario
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Land Information Ontario, Metadata Tool
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: NTv2 Grid Shift Files for Ontario
+    uuid: 787fed04-ae2d-47fd-8aee-99ce2d3fafd1
+  name: NAD27 to NAD83(CSRS) v3 [ONv1]
+  operationVersion: ONv1
+  parameters:
+  - fileCitation:
+      author: Land Information Ontario
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: Land Information Ontario, Metadata Tool
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: NTv2 Grid Shift Files for Ontario
+      uuid: a1867eae-180d-4872-ab33-5bca47f0fced
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: ON27CSv1.GSB
+  remarks: Grid tranformation in NTv2 format adopted for use in Ontario, excluding
+    Toronto.
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: a0c01a52-f404-48f3-951a-900aba820bd7
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 9ac5ba39-0f9c-4602-857e-122a38a17c72
+dateAccepted: 2018-11-17
+id: fe9eea4b-73f5-43e0-ae27-22723facb9fb
+status: valid

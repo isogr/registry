@@ -1,0 +1,24 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting on 2020-10-19.
+controlBodyNotes: Please approve correction to typo.
+id: e2c7bf7d-cd93-4639-a4e1-139eb368c3f5
+isConcluded: true
+items:
+  /crs--geodetic/21bdeccb-74fc-4b94-8470-8d9fe91fba62.yaml:
+    type: clarification
+justification: Corrected end date for period of use in Remarks (replaced 2017-01-29
+  with 2017-01-28). Submitted by Michael Craymer, Chair of the Control Body.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-10-19
+timeProposed: 2020-10-19
+title: IGb08 - LatLonEHt

@@ -1,0 +1,24 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2022-11-28.
+controlBodyNotes: ''
+id: cc619d20-b838-456b-90ed-d4e233795187
+isConcluded: true
+items:
+  /datums--geodetic/4ded38f4-bc72-40be-9f70-d44b495522b1.yaml:
+    type: clarification
+justification: Removed extraneous text "G104" at end of anchor definition. Submitted
+  by M. Craymer, ISOGR Control Body.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2022-11-28
+timeProposed: 2022-11-28
+title: Sistema de Referencia Geocentrico para America del Sur 2000

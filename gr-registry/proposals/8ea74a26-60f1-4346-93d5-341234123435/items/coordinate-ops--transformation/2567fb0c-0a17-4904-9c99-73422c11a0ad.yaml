@@ -1,0 +1,115 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.05
+  aliases: []
+  coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
+  description: null
+  extent:
+    e: -47.74
+    n: 90.0
+    name: Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut,
+      Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: 40.04
+    w: -141.01
+  identifier: 967
+  informationSources:
+  - author: M. Veronneau
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: Internal Report
+    seriesPage: null
+    title: Referencing and Time Tagging Heights in Canada
+    uuid: ce356b45-ff20-48df-ab25-37f872eb61ec
+  - author: Canadian Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Website. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
+      (accessed 2022-01-21).
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Geoid Models
+    uuid: 6323184c-b619-462a-8013-135d6ac29758
+  - author: Canadian Geodetic Survey
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'Website: https://webapp.geod.nrcan.gc.ca/geod/tools-outils/gpsh.php'
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: GPS-H
+    uuid: 8bd14404-a45f-40e6-a6c6-61d4b39c7f4b
+  - author: M. Veronneau, A. Mainville, M. Craymer
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: Internal Report
+    seriesPage: null
+    title: 'The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height Transformation
+      for Use With GPS in Canada'
+    uuid: cb72e1ec-f41b-4703-acb9-62d34390a440
+  - author: M. Veronneau
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    seriesIssueID: null
+    seriesName: Internal Report
+    seriesPage: null
+    title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
+    uuid: 771f7706-c5fb-4263-91a0-654b84a6fa01
+  name: NAD83(CSRS) v2 to CGVD28 [v1]
+  operationVersion: v1
+  parameters:
+  - fileCitation:
+      author: Canadian Geodetic Survey
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: Website. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
+        (accessed 2022-01-21).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of
+        Canada
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: Geoid Models
+      uuid: 1425769b-6f8a-4cb0-8ccb-1a85b237dd4a
+    parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    type: parameter file name
+    unitOfMeasurement: null
+    value: HT2_1997.byn
+  remarks: Grid transformation from NAD83(CSRS) v2 ellipsoidal heights at epoch 1997.0
+    to CGVD28 normal orthometric heights. Bi-linear interpolation of the grid file
+    will give results agreeing to within 1cm 99.97% of the time. Grid file was previously
+    named HT2_0.byn.
+  scope:
+  - Spatial referencing.
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 470dfa24-8bb0-4856-8f4f-14dfca7f087a
+  targetCRS: null
+dateAccepted: 2022-07-25
+id: 2567fb0c-0a17-4904-9c99-73422c11a0ad
+status: valid

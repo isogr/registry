@@ -1,0 +1,50 @@
+data:
+  aliases:
+  - KVD1964
+  coordinateReferenceEpoch: null
+  definition: null
+  extent: null
+  identifier: 1005
+  informationSources:
+  - author: C.-K. Lee, Y.C. Suh, B.-N. Jeon, C.-H. Song
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Korean. https://koreascience.kr/article/JAKO200810737143498.pdf
+      (accessed 2023-04-10)
+    publisher: Korean Society of Surveying, Geodesy, Photogrammetry and Cartography
+    seriesIssueID: Volume 26, Issue 1
+    seriesName: Journal of the Korean Society of Surveying, Geodesy, Photogrammetry
+      and Cartography
+    seriesPage: 17-26
+    title: Adjustment of 1st Order Level Network of Korea in 2006
+    uuid: d433d930-9b92-4b86-9d85-9f1a8ddff496
+  - author: Geodesy Department, NGII
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Web page in Korean, accessible only within Korea. http://map.ngii.go.kr/ms/mesrInfo/vertclStdrOpenLctre.do#tab_3
+      (accessed 2023-06-01)
+    publisher: National Geographic Information Institute (NGII), Ministry of Construction
+      and Transportation, Republic of Korea
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Definition of Vertical Datum
+    uuid: 180b3e71-5579-4431-b758-37e2c64d496f
+  name: Korean Vertical Datum 1964
+  originDescription: Korean Vertical Datum of 1964 (KVD1964) consists of a leveling
+    network onshore and offshore, excluding remote islands, referenced to MSL at tide
+    stations at Incheon (1913-1916). The origin point at Inha technical collage, Incheon
+    was determined with a height of 26.6871m above the Incheon MSL. The datum involves
+    a leveling network of approximately 7,300 bench marks and 5,500 control points
+    across the mainland referenced to the Incheon origin. Separate island networks
+    have origins referenced to local tidal gauge stations.
+  releaseDate: '1964'
+  remarks: Levelling-based datum using normal orthometric heights.
+  scope: Spatial referencing
+dateAccepted: 2023-10-02
+id: 68f8e2b2-faaa-4ca3-890c-0476659a2699
+status: valid

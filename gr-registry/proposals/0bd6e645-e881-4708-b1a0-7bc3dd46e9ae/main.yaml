@@ -1,0 +1,25 @@
+controlBodyDecisionEvent: Approved by the Control Body during its meeting of 2020-09-03.
+controlBodyNotes: Please approve additional aliases.
+id: 0bd6e645-e881-4708-b1a0-7bc3dd46e9ae
+isConcluded: true
+items:
+  /datums--vertical/8e1e28ec-15e6-4dee-a001-fe0067b8d283.yaml:
+    type: clarification
+justification: Added new aliases (GSC Datum, Canadian Geodetic Datum) and changed
+  release date from 1935 to 1928. Submitted by Dr. Michael Craymer, Canadian Geodetic
+  Survey.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-09-03
+timeProposed: 2020-09-03
+title: Canadian Geodetic Vertical Datum of 1928

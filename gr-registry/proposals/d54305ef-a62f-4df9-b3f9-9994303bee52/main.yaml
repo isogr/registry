@@ -1,0 +1,25 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-08-30.
+controlBodyNotes: ''
+id: d54305ef-a62f-4df9-b3f9-9994303bee52
+isConcluded: true
+items:
+  /coordinate-ops--transformation/3dd9021b-faa6-44d4-8f16-302f404d1508.yaml:
+    type: clarification
+justification: Removed CS (XYZ) from CRS acronyms in transformation name for consistency
+  with other register entries. Submitted by M. Craymer, Chair of the ISGR Control
+  Body.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-08-30
+timeProposed: 2021-08-30
+title: ITRF90 to WGS 84 TRANSIT [IERS v1]

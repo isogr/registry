@@ -1,0 +1,30 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2022-07-25.
+controlBodyNotes: ''
+id: a6357837-5731-4b76-8fa5-85fd0c532885
+isConcluded: true
+items:
+  /datums--vertical/2ad690be-1d76-4cfd-8c4d-e1fb49f18f8b.yaml:
+    type: clarification
+justification: Added "Epoch 2010" to end of item name to distinguish it from datum
+  at other epochs, added original name as an alias and new aliases with epoch, revised
+  Anchor Definition to clarify epochs. Submitted by M. Craymer, Canadian Geodetic
+  Survey.
+notes:
+- author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
+  note: '[Register Manager] Return to submitter for review.'
+  uuid: d547f19c-3b0e-4334-8091-9260d4e31869
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2022-07-25
+timeProposed: 2022-07-25
+title: Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimetric Geoid of 2013a)
+  Epoch 2010

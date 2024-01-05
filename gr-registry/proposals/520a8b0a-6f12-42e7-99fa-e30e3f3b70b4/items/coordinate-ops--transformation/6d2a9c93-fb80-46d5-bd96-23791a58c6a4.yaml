@@ -1,0 +1,63 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.5
+  aliases: []
+  coordOperationMethod: 9cb38505-edbf-4cf3-a465-e067d3d96ee9
+  description: null
+  extent:
+    e: 179.27
+    n: -33.89
+    name: New Zealand - onshore and nearshore - North Island, South Island, Stewart
+      Island.
+    s: -47.65
+    w: 165.87
+  identifier: 640
+  informationSources:
+  - author: Office of the Surveyor General
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: Land Information New Zealand
+    seriesIssueID: LINZS25000
+    seriesName: null
+    seriesPage: null
+    title: Standard for New Zealand Geodetic Datum 2000
+    uuid: 9d34ede6-adc9-4b96-b85f-8134755c3a14
+  name: NZGD1949 to NZGD2000 [LINZv3]
+  operationVersion: LINZv3
+  parameters:
+  - fileCitation:
+      author: Office of the Surveyor General
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: null
+      publisher: Land Information New Zealand
+      seriesIssueID: LINZS25000
+      seriesName: null
+      seriesPage: null
+      title: Standard for New Zealand Geodetic Datum 2000
+      uuid: 4c1ab196-a61f-40b8-8222-d5232aa12aea
+    parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
+    type: parameter file name
+    unitOfMeasurement: null
+    value: nzgd2kgrid0005.gsb
+  remarks: Highest accuracy grid-based version of NZGD1949 to NZGD2000 transformation
+    by LINZ. For lower (4 m) accuracy accuracy use seven parameter transformation
+    version LINZv2. For lowest (5 m) accuracy use three transformation version LINZv1.
+  scope:
+  - Spatial referencing.
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 82cbab29-43bb-4598-a0b3-a93ccf482a18
+  targetCRS:
+    classID: crs--geodetic
+    itemID: c74b8f16-4e13-40f5-a3e7-e05a0fd5042b
+dateAccepted: 2018-11-17
+id: 6d2a9c93-fb80-46d5-bd96-23791a58c6a4
+status: valid

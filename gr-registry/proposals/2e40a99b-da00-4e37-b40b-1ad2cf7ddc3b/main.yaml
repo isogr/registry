@@ -1,0 +1,29 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-10-25.
+controlBodyNotes: ''
+id: 2e40a99b-da00-4e37-b40b-1ad2cf7ddc3b
+isConcluded: true
+items:
+  /datums--geodetic/61f3c07c-3367-4297-b59a-c07e34036cfe.yaml:
+    type: clarification
+justification: Revised/corrected provincial adoption in remarks (added Manitoba &
+  Saskatchewan, removed v3 exception for New Brunswick, Quebec and Saskatchewan as
+  for other NAD83(CSRS) versions). Submitted by M. Craymer, Canadian Geodetic Survey,
+  Natural Resources Canada.
+notes:
+- author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
+  note: '[Register Manager] Need to verify remarks regarding provincial adoption/publication.'
+  uuid: d8aa7a6b-cc38-447a-a8bb-f51caf0ee76d
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-10-25
+timeProposed: 2021-10-25
+title: North American Datum of 1983 (CSRS) version 2

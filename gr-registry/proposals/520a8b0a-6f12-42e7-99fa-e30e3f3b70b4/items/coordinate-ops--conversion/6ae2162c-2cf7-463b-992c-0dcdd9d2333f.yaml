@@ -1,0 +1,39 @@
+data:
+  accuracy:
+    unitOfMeasurement: null
+    value: null
+  aliases: []
+  dateAmended: null
+  definition: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World.
+    s: -90.0
+    w: -180.0
+  identifier: 96
+  informationSources:
+  - author: International Association of Oil and Gas Producers (IOGP)
+    edition: '51.0'
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: International Association of Oil and Gas Producers (IOGP)
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note No 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 25208c03-b17d-43ce-890c-0fec23f5d861
+  method_uuid: 1019c9aa-a8c9-43a7-859b-8c0b15839e70
+  name: geocentric to geographic3D
+  parameters: []
+  remarks: null
+  scope:
+  - For geocentric to geographic 3D conversions and vice versa.
+  sourcecrs_uuid: null
+  targetcrs_uuid: null
+dateAccepted: 2018-11-17
+id: 6ae2162c-2cf7-463b-992c-0dcdd9d2333f
+status: valid

@@ -1,0 +1,27 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2020-12-01.
+controlBodyNotes: ''
+id: 712361c7-70b4-4432-a85b-f1fe1f2aa437
+isConcluded: true
+items:
+  /crs--vertical/166fe732-f65b-4f68-b8cb-ed1bafa8fc8d.yaml:
+    type: addition
+justification: New temporary vertical datum replacing ASVD 02. Submitted by Daniel
+  Roman, US National Geodetic Survey.
+notes:
+- author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
+  note: '[Control Body] Remove Item # in justification.'
+  uuid: 510b2dbf-c884-46dd-afb7-9dbe59965b77
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-12-01
+timeProposed: 2020-12-01
+title: LT at Pago Pago - NOHt

@@ -1,0 +1,24 @@
+controlBodyDecisionEvent: Accepted by the Control Body at its meeting of 2022-02-28.
+controlBodyNotes: ''
+id: af719157-6276-4d5b-93f4-4d502731526e
+isConcluded: true
+items:
+  /coordinate-ops--transformation/ce0390a3-4c36-4016-a293-49ea6b66aca3.yaml:
+    type: clarification
+justification: Corrected typo in Remarks (removed duplicate "defined at epoch"). Submitted
+  by M. Craymer, ISOGR Control Body Chair.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2022-02-28
+timeProposed: 2022-02-28
+title: WGS 84 (G1674) to WGS 84 (G1762) [1]

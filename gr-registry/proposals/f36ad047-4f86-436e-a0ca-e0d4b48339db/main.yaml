@@ -1,0 +1,25 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-04-29.
+controlBodyNotes: ''
+id: f36ad047-4f86-436e-a0ca-e0d4b48339db
+isConcluded: true
+items:
+  /coordinate-op-method/58878e3b-47f7-429b-9033-23e2153be09f.yaml:
+    type: clarification
+justification: Removed EPSG codes from Remarks and used full name of other referenced
+  operation method. Submitted by M. Craymer, Chair of the Control Body for the ISO
+  Geodetic Registry.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-04-29
+timeProposed: 2021-05-17
+title: Coordinate Frame Transformation (geocentric Cartesian domain)

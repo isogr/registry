@@ -1,0 +1,14 @@
+data:
+  abbreviation: X
+  aliases: []
+  identifier: 825
+  informationSources: []
+  maxValue: null
+  minValue: null
+  name: Easting
+  orientation: east
+  remarks: null
+  unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+dateAccepted: 2022-06-06
+id: b901dfa3-96fc-4e8e-924d-4dc296e9d7e1
+status: valid

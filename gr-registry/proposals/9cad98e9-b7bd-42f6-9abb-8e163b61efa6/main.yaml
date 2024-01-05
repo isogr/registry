@@ -1,0 +1,25 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-10-25.
+controlBodyNotes: ''
+id: 9cad98e9-b7bd-42f6-9abb-8e163b61efa6
+isConcluded: true
+items:
+  /datums--geodetic/4c35f7be-59de-4511-910c-ca3fb1a0a0ea.yaml:
+    type: clarification
+justification: Added alias WGS 84 (G1762') and remarks for re-designated realization
+  of the reference frame. Submitted by Michael Craymer, Chair of the Control Body,
+  on behalf of James Friederich, National Geospatial-Intelligence Agency.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-10-25
+timeProposed: 2021-10-25
+title: World Geodetic System 1984 (G1762)

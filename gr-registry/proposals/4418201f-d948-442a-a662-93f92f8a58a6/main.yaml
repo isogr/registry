@@ -1,0 +1,25 @@
+controlBodyDecisionEvent: Approved by the Control Body during its meeting of 2020-09-03.
+controlBodyNotes: Please approve correction to coordinate reference epoch.
+id: 4418201f-d948-442a-a662-93f92f8a58a6
+isConcluded: true
+items:
+  /datums--geodetic/b2196b64-007b-46c7-b39a-68c1a12a42ea.yaml:
+    type: clarification
+justification: Corrected coordinate reference epoch attribute (2005.0 -> 2006.0).
+  Anchor definition is correct. Submitted by Dr. Michael Craymer, Canadian Geodetic
+  Survey.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-09-03
+timeProposed: 2020-09-03
+title: North American Datum of 1983 (CSRS) version 5

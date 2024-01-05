@@ -1,0 +1,37 @@
+data:
+  aliases: []
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--vertical
+    itemID: ae712530-3beb-45d5-ae5b-494ed61c122b
+  datum: 48558d5a-8966-4929-934a-125f016239f8
+  description: null
+  extent:
+    e: -54.75
+    n: 52.22
+    name: North America - Great Lakes - St. Lawrence River system
+    s: 40.99
+    w: -93.17
+  identifier: 770
+  informationSources:
+  - author: Coordinating Committee on Great Lakes Basic Hydraulic and Hydrologic Data
+    edition: Second
+    editionDate: 1979-01-01
+    isbn: null
+    issn: null
+    otherDetails: 'Website: http://www.greatlakescc.org/wp36/wp-content/uploads/2017/07/EstablishmentOfInternationalGreatLakesDatum-1955.pdf
+      (accesed 2021-01-30).'
+    publisher: Coordinating Committee on Great Lakes Basic Hydraulic and Hydrologic
+      Data
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Establishment of International Great Lakes Datum (1955), Second Edition
+    uuid: e4a04c69-6c0d-4e48-bdc7-3b5fa9a0224c
+  name: IGLD (1955) - DHt
+  operation: null
+  remarks: Dynamic heights.
+  scope: Spatial referencing, navigation and hydraulic & hydrologic applications.
+dateAccepted: 2021-04-29
+id: 49f800a9-a0d4-4075-8606-a0b48d510cb5
+status: valid

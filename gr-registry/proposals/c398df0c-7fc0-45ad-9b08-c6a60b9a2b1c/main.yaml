@@ -1,0 +1,24 @@
+controlBodyDecisionEvent: null
+controlBodyNotes: Please approve correction to Name and Remarks.
+id: c398df0c-7fc0-45ad-9b08-c6a60b9a2b1c
+isConcluded: true
+items:
+  /coordinate-ops--transformation/73df5748-f725-4f59-81f7-464e72ba09c6.yaml:
+    type: clarification
+justification: Corrected Name and Remarks to reflect actual transformation to NAD83(CSRS)
+  v2, not NAD83(CSRS96) v1. Added comment in Remarks about uncertainty of transformation.
+  Submitted by Michael Craymer, Canadian Geodetic Survey.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: withdrawn
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeProposed: 2020-09-15
+title: ITRF94 to NAD83(CSRS) v2 [v1]

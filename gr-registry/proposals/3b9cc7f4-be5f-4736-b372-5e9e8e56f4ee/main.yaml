@@ -1,0 +1,24 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2022-08-29.
+controlBodyNotes: ''
+id: 3b9cc7f4-be5f-4736-b372-5e9e8e56f4ee
+isConcluded: true
+items:
+  /datums--geodetic/f0835a79-f8c7-4387-a306-d9477ad3a512.yaml:
+    type: clarification
+justification: Corrected error in Coordinate Reference Epoch (2010.0 -> 2016.0). Submitted
+  by M. Craymer, ISOGR Control Body Chair.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2022-08-29
+timeProposed: 2022-08-29
+title: World Geodetic System 1984 (G2139)

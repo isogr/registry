@@ -1,0 +1,48 @@
+data:
+  aliases:
+  - Korean Vertical Datum 1964
+  - KVD1964
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--vertical
+    itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  datum: 68f8e2b2-faaa-4ca3-890c-0476659a2699
+  description: null
+  extent: null
+  identifier: 1010
+  informationSources:
+  - author: Geodesy Department, NGII
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Web page in Korean, accessible only within Korea. http://map.ngii.go.kr/ms/mesrInfo/vertclStdrOpenLctre.do#tab_3
+      (accessed 2023-06-01)
+    publisher: National Geographic Information Institute (NGII), Ministry of Construction
+      and Transportation, Republic of Korea
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Definition of Vertical Datum
+    uuid: 897a390d-25ab-42ed-8e04-91ae5535381b
+  - author: C.-K. Lee, Y.C. Suh, B.-N. Jeon, C.-H. Song
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Korean. https://koreascience.kr/article/JAKO200810737143498.pdf
+      (accessed 2023-04-10)
+    publisher: Korean Society of Surveying, Geodesy, Photogrammetry and Cartography
+    seriesIssueID: Volume 26, Issue 1
+    seriesName: Journal of the Korean Society of Surveying, Geodesy, Photogrammetry
+      and Cartography
+    seriesPage: 17-26
+    title: Adjustment of 1st Order Level Network of Korea in 2006
+    uuid: 85d1cedd-57e6-4114-9b88-0905006fad5b
+  name: KVD1964 - NOHt
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2023-10-02
+id: 165e0c86-787b-4bb9-be13-5f99e49f7a2a
+status: valid

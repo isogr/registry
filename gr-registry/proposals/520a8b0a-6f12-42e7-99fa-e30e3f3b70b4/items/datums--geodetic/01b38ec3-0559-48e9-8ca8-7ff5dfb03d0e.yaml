@@ -1,0 +1,41 @@
+data:
+  aliases:
+  - NAD27(CGQ77)
+  - NAD27
+  coordinateReferenceEpoch: null
+  definition: null
+  ellipsoid: 604b7473-23c9-4a3c-9f79-5965be4452dd
+  extent:
+    e: -57.1
+    n: 62.62
+    name: Canada - onshore and offshore - Quebec.
+    s: 44.99
+    w: -79.85
+  identifier: 164
+  informationSources:
+  - author: Y. Theriault
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Personal email communication.
+    publisher: "Service de la geodesie et des leves geospatiaux, Direction de la reference\
+      \ geographique, Direction generale de l\u2019information geospatiale, Ministere\
+      \ de l\u2019Energie et des Ressources naturelles, Gouvernement du Quebec"
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'RE: GSD file'
+    uuid: e597f435-3ad1-4ae5-ba62-b543c17e3534
+  name: North American Datum of 1927 (CGQ77)
+  originDescription: "Fundamental point: Meade's Ranch. Latitude: 39\xB013'26.686\"\
+    N, longitude: 98\xB032'30.506\"W (of Greenwich)."
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '1977-05-01'
+  remarks: Used in Quebec for all maps at scale 1/20 000 and larger; generally for
+    maps issued by the Quebec cartography office whose reference system is CGQ77.
+    Replaced by NAD83(Original).
+  scope: Spatial referencing
+dateAccepted: 2018-11-17
+id: 01b38ec3-0559-48e9-8ca8-7ff5dfb03d0e
+status: valid

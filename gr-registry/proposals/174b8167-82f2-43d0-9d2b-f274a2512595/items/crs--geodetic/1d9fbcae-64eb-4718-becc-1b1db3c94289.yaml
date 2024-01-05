@@ -1,0 +1,49 @@
+data:
+  aliases: []
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  datum: f0835a79-f8c7-4387-a306-d9477ad3a512
+  description: null
+  extent:
+    e: 180.0
+    n: 90.0
+    name: World
+    s: -90.0
+    w: -180.0
+  identifier: 797
+  informationSources:
+  - author: Office of Geomatics / GNSS Division, National Geospatial-Intelligence
+      Agency
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://earth-info.nga.mil/php/download.php?file=(U)WGS%2084(G2139).pdf
+      (accessed 2021-09-24)
+    publisher: National Geospatial-Intelligence Agency
+    seriesIssueID: 21-520
+    seriesName: Public Release
+    seriesPage: null
+    title: Recent Update to WGS 84 Reference Frame and NGA Transition to IGS ANTEX
+    uuid: f3e9dcc0-14fd-4495-aa77-2acdf8770f9f
+  - author: Robert Wong
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: null
+    publisher: National Geospatial-Intelligence Agency
+    seriesIssueID: '2021-10-25'
+    seriesName: ISOGR Control Body Meeting
+    seriesPage: null
+    title: Personal communication
+    uuid: 9e09e585-ca63-4484-a9ea-08c0282246f7
+  name: WGS 84 (G2139) - LatLonEHt
+  operation: null
+  remarks: Replaces WGS 84 (G1762) - LatLonEHt.
+  scope: Spatial referencing and GPS satellite navigation.
+dateAccepted: 2021-11-30
+id: 1d9fbcae-64eb-4718-becc-1b1db3c94289
+status: valid

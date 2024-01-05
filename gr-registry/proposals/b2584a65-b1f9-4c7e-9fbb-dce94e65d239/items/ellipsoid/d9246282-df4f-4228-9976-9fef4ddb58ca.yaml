@@ -1,0 +1,33 @@
+data:
+  aliases:
+  - China Geodetic Coordinate System 2000
+  description: null
+  identifier: 729
+  informationSources:
+  - author: P. Cheng, H. Wen, Y Cheng,H. Wang
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: In Chinese; http://xb.sinomaps.com/EN/volumn/volumn_195.shtml#1
+      (accessed 2020-05-19)
+    publisher: Surveying and Mapping Press
+    seriesIssueID: 38(3)
+    seriesName: Acta Geodaetica et Cartographica Sinica
+    seriesPage: 189-194
+    title: Parameters of the CGCS 2000 Ellipsoid and Comparisons with GRS 80 and WGS
+      84
+    uuid: 7a82cb81-6025-495d-9096-4019c5e4a81a
+  inverseFlattening: 298.257222101
+  inverseFlatteningUoM: null
+  isSphere: false
+  name: CGCS 2000
+  remarks: Defining parameters semi-major axis and inverse flattening equivalent with
+    values for GRS 1980 and IERS Conventions (2010).
+  semiMajorAxis: 6378137.0
+  semiMajorAxisUoM: null
+  semiMinorAxis: null
+  semiMinorAxisUoM: null
+dateAccepted: 2020-07-27
+id: d9246282-df4f-4228-9976-9fef4ddb58ca
+status: valid

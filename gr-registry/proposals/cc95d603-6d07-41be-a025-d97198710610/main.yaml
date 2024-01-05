@@ -1,0 +1,25 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-08-30.
+controlBodyNotes: ''
+id: cc95d603-6d07-41be-a025-d97198710610
+isConcluded: true
+items:
+  /coordinate-ops--transformation/b0addfd3-74a1-4e9b-bc3f-88bc06342531.yaml:
+    type: clarification
+justification: Removed CS (NOHt) from CRS acronyms in transformation name for consistency
+  with other register entries. Submitted by M. Craymer, Chair of the ISGR Control
+  Body.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-08-30
+timeProposed: 2021-08-30
+title: EVRF2019 to EVRF2019mean [EUREF v1]
