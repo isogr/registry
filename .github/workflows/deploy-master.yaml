@@ -26,7 +26,7 @@ jobs:
         run: |
           npx @paneron/site-builder@0.0.3 --outdir dist --datadir gr-registry
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: dist
   deploy:
