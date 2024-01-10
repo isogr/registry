@@ -21,6 +21,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2016'
     publisher: Springer Berlin Heidelberg
     seriesIssueID: '143.0'
     seriesName: International Association of Geodesy Symposia
@@ -33,6 +34,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Website
+    publicationDate: '2017'
     publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
@@ -45,6 +47,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Website
+    publicationDate: '2018'
     publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
@@ -61,6 +64,7 @@ data:
       to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.862536; Sanchez L., Drewes H (2016):
       VEMOS2015: Velocity and deformation model for Latin America and the Caribbean,
       link to ZIP archive, PANGAEA, doi:10.1594/PANGAEA.863131.'
+    publicationDate: '2016'
     publisher: Elsevier
     seriesIssueID: '102.0'
     seriesName: Journal of Geodynamics

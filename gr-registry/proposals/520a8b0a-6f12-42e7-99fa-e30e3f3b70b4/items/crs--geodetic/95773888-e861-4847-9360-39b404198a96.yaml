@@ -32,6 +32,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2016-08-30'
     publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
       Natural Resources Canada, Government of Canada
     seriesIssueID: null
@@ -45,6 +46,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1994-09-02'
     seriesIssueID: null
     seriesName: Proceedings on the International Symposium on Kinematic Systems in
       Geodesy, Geomatics and Navigation, Banff, Canada, August 30 - September 2, 1994

@@ -10,6 +10,7 @@ data:
     isbn: null
     issn: null
     otherDetails: In Japanese with English abstract.
+    publicationDate: '2009'
     publisher: Journal of the Geodetic Society of Japan
     seriesIssueID: Volume 55, Number 4
     seriesName: Journal of the Geodetic Society of Japan

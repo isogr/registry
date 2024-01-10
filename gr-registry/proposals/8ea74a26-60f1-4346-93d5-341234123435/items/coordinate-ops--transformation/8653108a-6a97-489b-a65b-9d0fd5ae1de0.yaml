@@ -22,6 +22,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2018'
     publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: Internal Report
@@ -36,6 +37,7 @@ data:
     otherDetails: Website. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
       (accessed 2022-01-21).
     publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    revisionDate: '2021-12-07'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -48,6 +50,7 @@ data:
     issn: null
     otherDetails: 'Website: https://webapp.geod.nrcan.gc.ca/geod/tools-outils/gpsh.php'
     publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    revisionDate: '2021-03-15'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -59,6 +62,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2019'
     publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: Internal Report
@@ -71,6 +75,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2001'
     publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: Internal Report
@@ -91,6 +96,7 @@ data:
         (accessed 2022-01-21).
       publisher: Geodetic Survey Division, Natural Resources Canada, Government of
         Canada
+      revisionDate: '2021-12-07'
       seriesIssueID: null
       seriesName: null
       seriesPage: null

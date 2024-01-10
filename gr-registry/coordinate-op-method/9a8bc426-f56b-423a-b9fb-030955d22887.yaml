@@ -10,6 +10,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Webpage in Japanese.
+    publicationDate: '2017-03-28'
     publisher: Geospatial Information Authority of Japan (GSI), Tsukuba, Japan
     seriesIssueID: null
     seriesName: null

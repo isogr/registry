@@ -27,6 +27,7 @@ data:
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
       datum transformations, and extents of covnversion grids.
+    publicationDate: '2017-03-27'
     publisher: NOAA's National Geodetic Survey
     seriesIssueID: null
     seriesName: NGS Technical Report
@@ -45,6 +46,7 @@ data:
       issn: null
       otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
         datum transformations, and extents of covnversion grids.
+      publicationDate: '2017-03-27'
       publisher: NOAA's National Geodetic Survey
       seriesIssueID: null
       seriesName: NGS Technical Report
@@ -64,6 +66,7 @@ data:
       issn: null
       otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
         datum transformations, and extents of covnversion grids.
+      publicationDate: '2017-03-27'
       publisher: NOAA's National Geodetic Survey
       seriesIssueID: null
       seriesName: NGS Technical Report
@@ -83,6 +86,7 @@ data:
       issn: null
       otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
         datum transformations, and extents of covnversion grids.
+      publicationDate: '2017-03-27'
       publisher: NOAA's National Geodetic Survey
       seriesIssueID: null
       seriesName: NGS Technical Report

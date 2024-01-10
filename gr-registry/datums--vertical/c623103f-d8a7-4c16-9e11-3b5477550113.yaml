@@ -23,6 +23,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Mandates use of VERTCON for official transformations between datums
+    publicationDate: '2007-07-11'
     publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 72, No. 132, Document: 07-3377'
     seriesName: 'Federal Register Notice '
@@ -35,6 +36,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Mandates use of NAVD 88
+    publicationDate: '1993-06-24'
     publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 58, No. 120, Document: 93-14922, Docket No. 930650-3150'
     seriesName: Federal Register Notice
@@ -48,6 +50,7 @@ data:
     issn: null
     otherDetails: One of many NAVD 88 publiations. Nothing definitive was every written,
       but this is most cited
+    publicationDate: '1992-03-01'
     publisher: American Cobgress on Surveying and Mapping
     seriesIssueID: ' Volume 52, No. 3'
     seriesName: Surveying and Land Information Systems
@@ -62,6 +65,7 @@ data:
     issn: null
     otherDetails: NGS Online Readme File; Provides grids and usage of VERTCON for
       transformations between NGVD 29 and NAVD 88
+    publicationDate: '2003-09-29'
     publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
       Survey (NGS)
     seriesIssueID: null

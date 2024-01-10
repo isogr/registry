@@ -11,6 +11,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2011-04-08'
     publisher: International Union of Geological Sciences (IUGS) and International
       Union of Pure and Applied Chemistry (IUPAC)
     seriesIssueID: Volume 83, No. 5

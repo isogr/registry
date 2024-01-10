@@ -12,6 +12,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2012-05-17'
     publisher: Institut National de L'Information Geographique et Forestiere, 73 Avenue
       de Paris, 94165 Saint-Mande Cedex, France
     seriesIssueID: null

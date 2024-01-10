@@ -14,6 +14,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 2003-03
     publisher: Springer International Publishing
     seriesIssueID: Volume 74, No. 1
     seriesName: Journal of Geodesy
@@ -26,6 +27,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1984'
     publisher: International Association of Geodesy
     seriesIssueID: Volume 58, No. 3
     seriesName: Bulletin Geodesique

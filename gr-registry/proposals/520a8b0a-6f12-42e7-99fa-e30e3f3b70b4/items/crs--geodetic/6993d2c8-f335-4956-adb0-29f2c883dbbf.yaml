@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 2012-09
     publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 25th International Technical Meeting of the Satellite

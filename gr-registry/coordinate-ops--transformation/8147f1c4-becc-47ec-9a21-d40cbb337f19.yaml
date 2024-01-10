@@ -22,6 +22,7 @@ data:
     issn: null
     otherDetails: MARP00, PACP00. https://www.ngs.noaa.gov/PUBS_LIB/salis.pdf (accessed
       2020-11-05)
+    publicationDate: '2003-01-01'
     publisher: American Cobgress on Surveying and Mapping
     seriesIssueID: Volume 63, No. 1
     seriesName: Surveying and Land Information Systems
@@ -37,6 +38,7 @@ data:
       (accessed 2020-11-05)
     publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
       Survey (NGS)
+    revisionDate: '2017-03-16'
     seriesIssueID: ''
     seriesName: NGS Online listing of transformation parameters
     seriesPage: ''
@@ -50,6 +52,7 @@ data:
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08.
       http://dx.doi.org/10.1007/s10291-012-0255-y (accessed 2020-11-05)
+    publicationDate: '2013-01-01'
     publisher: Springer-Verlag
     seriesIssueID: Volume 17, No. 1
     seriesName: GPS Solutions
@@ -64,6 +67,7 @@ data:
     issn: null
     otherDetails: http://dx.doi.org/10.1061/(ASCE)0733-9453(2004)130:2(49) (accessed
       2020-11-05)
+    publicationDate: 2004-05
     publisher: American Society of Civil Engineers
     seriesIssueID: Volume 130, No. 2
     seriesName: Journal of Surveying Engineering

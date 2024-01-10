@@ -30,6 +30,7 @@ data:
     otherDetails: https://evrs.bkg.bund.de/SharedDocs/Downloads/EVRS/EN/Publications/EVRFConventions2007.pdf
       (accessed 2020-11-30)
     publisher: International Association of Geodesy Subcommission 1.3a EUREF
+    revisionDate: '2019-01-11'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -44,6 +45,7 @@ data:
     otherDetails: Website. https://evrs.bkg.bund.de/Subsites/EVRS/EN/EVRF2019/evrf2019.html
       (accessed 2020-11-30)
     publisher: Bundesamt fuer Kartogrphie und Geodaesie
+    revisionDate: '2020-09-07'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -56,6 +58,7 @@ data:
     issn: null
     otherDetails: http://www.euref.eu/symposia/2019Tallinn/01-01-Sacher.pdf (accessed
       2020-11-30)
+    publicationDate: '2019-05-22'
     publisher: International Association of Geodesy Subcommission 1.3a EUREF
     seriesIssueID: null
     seriesName: EUREF Symposium 2019, Tallinn, Estonia

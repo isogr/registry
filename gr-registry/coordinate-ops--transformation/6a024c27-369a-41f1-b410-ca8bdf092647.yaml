@@ -27,6 +27,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2018-06-28'
     publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
       re (IGN), France"
     seriesIssueID: '1.0'
@@ -41,6 +42,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2011-05-18'
     publisher: Institute National de l'Information Geographique et Forestiere (IGN),
       Laboratoire de Recherche en Geodesie (LAREG)
     seriesIssueID: null

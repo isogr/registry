@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 2006-01
     publisher: GeoNOVA, Service Nova Scotia and Municipal Relations
     seriesIssueID: null
     seriesName: null
@@ -32,6 +33,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2015'
     publisher: Canadian Institute of Geomatics
     seriesIssueID: Volume 69, No. 4
     seriesName: Geomatica
@@ -45,6 +47,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2016-05-05'
     publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
@@ -61,6 +64,7 @@ data:
       isbn: null
       issn: null
       otherDetails: null
+      publicationDate: '2015'
       publisher: Canadian Institute of Geomatics
       seriesIssueID: Volume 69, No. 4
       seriesName: Geomatica

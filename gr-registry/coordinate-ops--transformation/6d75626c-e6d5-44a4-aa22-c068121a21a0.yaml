@@ -21,6 +21,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Website
+    publicationDate: '2017'
     publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
@@ -33,6 +34,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Presented at the SIRGAS 2005 General Meeting. Caracas, Venezuela
+    publicationDate: '2005'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -46,6 +48,7 @@ data:
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publicationDate: '2005'
     publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
@@ -59,6 +62,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Website
+    publicationDate: '2018'
     publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null

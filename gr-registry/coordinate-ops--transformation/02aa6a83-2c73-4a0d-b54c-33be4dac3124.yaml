@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Personal email communication.
+    publicationDate: '2017-05-09'
     publisher: GeoNOVA, Geographic Information Services, Nova Scotia Geomatics Centre,
       Government of Nova Scotia
     seriesIssueID: null
@@ -37,6 +38,7 @@ data:
       isbn: null
       issn: null
       otherDetails: Personal email communication.
+      publicationDate: '2017-05-09'
       publisher: GeoNOVA, Geographic Information Services, Nova Scotia Geomatics Centre,
         Government of Nova Scotia
       seriesIssueID: null

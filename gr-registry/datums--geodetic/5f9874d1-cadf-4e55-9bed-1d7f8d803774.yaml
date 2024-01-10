@@ -34,6 +34,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Mandates use of NADCON for official transformations between datums
+    publicationDate: '1990-08-10'
     publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 55, No. 155, Document: 00-18809'
     seriesName: 'Federal Register Notice '
@@ -46,6 +47,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1927'
     publisher: Coast and Geodetic Survey
     seriesIssueID: null
     seriesName: null
@@ -60,6 +62,7 @@ data:
     issn: null
     otherDetails: Replaces version 4.2 and all earlier. Provides gridding algorithm,
       datum transformations, and extents of covnversion grids.
+    publicationDate: '2017-03-27'
     publisher: NOAA's National Geodetic Survey
     seriesIssueID: null
     seriesName: NGS Technical Report
@@ -73,6 +76,7 @@ data:
     isbn: null
     issn: null
     otherDetails: NGVD29
+    publicationDate: '1930-06-30'
     publisher: Government Printing Office
     seriesIssueID: null
     seriesName: null

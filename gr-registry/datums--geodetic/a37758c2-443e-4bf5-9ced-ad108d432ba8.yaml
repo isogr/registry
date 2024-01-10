@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1990-05-01'
     publisher: American Geophysical Union
     seriesIssueID: Volume 18, Issue 11
     seriesName: Geophysical Research Letters
@@ -33,6 +34,7 @@ data:
     isbn: null
     issn: null
     otherDetails: 'ISSN: 1019-4568'
+    publicationDate: '2010'
     publisher: Verlag des Bundesamts fur Kartographie und Geodasie
     seriesIssueID: '36.0'
     seriesName: IERS Technical Notes
@@ -45,6 +47,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1993-10-01'
     publisher: Central Bureau of IERS - Observatoire de Paris, 61 avenue de l'Observatoire,
       75014 Paris, France
     seriesIssueID: '15.0'

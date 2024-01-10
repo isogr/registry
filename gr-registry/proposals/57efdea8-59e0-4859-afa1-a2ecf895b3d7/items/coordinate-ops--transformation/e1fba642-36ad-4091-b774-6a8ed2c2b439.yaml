@@ -30,6 +30,7 @@ data:
       https://www.ngs.noaa.gov/GEOID/ (accessed 2020-11-05)
     publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
       Survey (NGS)
+    revisionDate: '2017-04-16'
     seriesIssueID: ','
     seriesName: ','
     seriesPage: ','
@@ -48,6 +49,7 @@ data:
         https://www.ngs.noaa.gov/GEOID/ (accessed 2020-11-05)
       publisher: National Oceanic and Atmospheric Administration (NOAA), National
         Geodetic Survey (NGS)
+      revisionDate: '2017-04-16'
       seriesIssueID: null
       seriesName: null
       seriesPage: null

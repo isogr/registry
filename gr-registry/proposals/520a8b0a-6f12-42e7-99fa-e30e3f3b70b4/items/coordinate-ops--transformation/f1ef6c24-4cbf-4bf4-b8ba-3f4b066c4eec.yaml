@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Personal email communication.
+    publicationDate: '2017-03-01'
     publisher: "Service de la geodesie et des leves geospatiaux, Direction de la reference\
       \ geographique, Direction generale de l\u2019information geospatiale, Ministere\
       \ de l\u2019Energie et des Ressources naturelles, Gouvernement du Quebec"
@@ -34,6 +35,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2016-05-05'
     publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
@@ -46,6 +48,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2017-02-28'
     publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
       Natural Resources Canada, Government of Canada
     seriesIssueID: null
@@ -63,6 +66,7 @@ data:
       isbn: null
       issn: null
       otherDetails: Personal email communication.
+      publicationDate: '2017-03-01'
       publisher: "Service de la geodesie et des leves geospatiaux, Direction de la\
         \ reference geographique, Direction generale de l\u2019information geospatiale,\
         \ Ministere de l\u2019Energie et des Ressources naturelles, Gouvernement du\

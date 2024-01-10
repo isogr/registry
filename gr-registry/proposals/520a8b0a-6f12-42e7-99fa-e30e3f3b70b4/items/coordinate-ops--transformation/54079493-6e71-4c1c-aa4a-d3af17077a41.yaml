@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 2012-09
     publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 25th International Technical Meeting of the Satellite
@@ -35,6 +36,7 @@ data:
     issn: null
     otherDetails: null
     publisher: National Geospatial-Intelligence Agency
+    revisionDate: '2014-10-24'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -48,6 +50,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 1998-07
     publisher: National Aeronautics and Space Administration
     seriesIssueID: NASA/TP-1998-206861
     seriesName: Technical Paper
@@ -66,6 +69,7 @@ data:
       issn: null
       otherDetails: null
       publisher: National Geospatial-Intelligence Agency
+      revisionDate: '2014-10-24'
       seriesIssueID: null
       seriesName: null
       seriesPage: null
@@ -83,6 +87,7 @@ data:
       issn: null
       otherDetails: null
       publisher: National Geospatial-Intelligence Agency
+      revisionDate: '2014-10-24'
       seriesIssueID: null
       seriesName: null
       seriesPage: null

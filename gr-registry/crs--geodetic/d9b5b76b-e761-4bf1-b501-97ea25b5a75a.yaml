@@ -22,6 +22,7 @@ data:
     isbn: null
     issn: null
     otherDetails: MARP00, PACP00
+    publicationDate: '2003-01-01'
     publisher: American Cobgress on Surveying and Mapping
     seriesIssueID: Volume 63, No. 1
     seriesName: Surveying and Land Information Systems
@@ -36,6 +37,7 @@ data:
     otherDetails: webpage
     publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
       Survey (NGS)
+    revisionDate: '2017-05-16'
     seriesIssueID: null
     seriesName: NGS Online listing of transformation parameters
     seriesPage: null

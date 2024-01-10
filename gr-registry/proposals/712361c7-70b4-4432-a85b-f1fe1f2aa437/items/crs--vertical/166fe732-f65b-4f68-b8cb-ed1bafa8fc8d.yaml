@@ -24,6 +24,7 @@ data:
     otherDetails: Replacement of ASVD 02 with local mean sea level (MSL) datum at
       the Pago Pago tide gauge. https://www.govinfo.gov/content/pkg/FR-2020-03-12/pdf/FR-2020-03-12.pdf
       (accessed 2020-11-08)
+    publicationDate: '2020-03-12'
     publisher: Office of Federal Register, NARA
     seriesIssueID: Volume 85, No. 49, Document 2020-05047
     seriesName: Federal Register Notice

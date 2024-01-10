@@ -22,6 +22,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2007-11-16'
     publisher: Land Information New Zealand
     seriesIssueID: LINZS25000
     seriesName: null
@@ -35,6 +36,7 @@ data:
     issn: null
     otherDetails: null
     publisher: Land Information New Zealand
+    revisionDate: '2018-01-15'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -46,6 +48,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2017-05-09'
     publisher: Land Information New Zealand
     seriesIssueID: null
     seriesName: null
@@ -62,6 +65,7 @@ data:
       isbn: null
       issn: null
       otherDetails: null
+      publicationDate: '2007-11-16'
       publisher: Land Information New Zealand
       seriesIssueID: LINZS25000
       seriesName: null

@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: 'ISSN: 1019-4568'
+    publicationDate: '2010'
     publisher: Verlag des Bundesamts fur Kartographie und Geodasie
     seriesIssueID: '36.0'
     seriesName: IERS Technical Notes
@@ -33,6 +34,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Website
+    publicationDate: '2016-01-01'
     publisher: Institute National de l'Information Geographique et Forestiere (IGN),
       Laboratoire de Recherche en Geodesie (LAREG)
     seriesIssueID: null

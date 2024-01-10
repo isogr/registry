@@ -10,6 +10,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 1995-09
     publisher: Geodetic Survey Division, Geomatics Canada, Natural Resources Canada,
       Government of Canada
     seriesIssueID: null
@@ -23,6 +24,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 1995-09
     publisher: Geodetic Survey Division, Geomatics Canada, Natural Resources Canada,
       Government of Canada
     seriesIssueID: null
@@ -36,6 +38,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1990'
     publisher: Canadian Institute of Surveying and Mapping, Ottawa, Canada
     seriesIssueID: null
     seriesName: 'Moving to NAD ''83: the new address for georeferenced data in Canada,

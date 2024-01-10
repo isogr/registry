@@ -23,6 +23,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2018-08-24'
     publisher: Intergovernmental Committee on Surveying and Mapping
     seriesIssueID: null
     seriesName: null
@@ -40,6 +41,7 @@ data:
       isbn: null
       issn: null
       otherDetails: null
+      publicationDate: '2018-08-24'
       publisher: Intergovernmental Committee on Surveying and Mapping
       seriesIssueID: null
       seriesName: null

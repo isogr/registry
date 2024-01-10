@@ -29,6 +29,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1992'
     publisher: Verlag des Bayerischen Akademie der Wissenschaften
     seriesIssueID: '1.0'
     seriesName: IAG Subcommission for the European Reference Frame (EUREF) Publication
@@ -42,6 +43,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1992'
     publisher: Verlag des Bayerischen Akademie der Wissenschaften
     seriesIssueID: '1.0'
     seriesName: IAG Subcommission for the European Reference Frame (EUREF) Publication
@@ -55,6 +57,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2018-06-28'
     publisher: "Institut National de l\u2019Information G\xE9ographique et Foresti\xE8\
       re (IGN), France"
     seriesIssueID: '1.0'
@@ -69,6 +72,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1992'
     publisher: Verlag des Bayerischen Akademie der Wissenschaften
     seriesIssueID: '1.0'
     seriesName: IAG Subcommission for the European Reference Frame (EUREF) Publication
@@ -82,6 +86,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2008-06-17'
     seriesIssueID: null
     seriesName: null
     seriesPage: null

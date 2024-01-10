@@ -19,6 +19,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Mandates use of NMVD03
+    publicationDate: '2009-01-22'
     publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 74, No. 13, Document: E9-1180, Citation: 74 FR 3990'
     seriesName: Federal Register Notice
@@ -33,6 +34,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2014-07-08'
     publisher: National Geospatial-Intelligence Agency
     seriesIssueID: NGA.STND.0036_1.0.0_WGS84
     seriesName: Standardization Document
