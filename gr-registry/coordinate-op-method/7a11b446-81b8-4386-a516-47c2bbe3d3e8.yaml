@@ -1,0 +1,37 @@
+data:
+  aliases: []
+  definition: null
+  description: null
+  formula: null
+  formulaCitation:
+    author: International Association of Oil & Gas Producers
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://epsg.org/guidance-notes.html (accessed 2023-08-27)
+    publisher: International Association of Oil & Gas Producers
+    seriesIssueID: 373-7-2
+    seriesName: IOGP Publication
+    seriesPage: null
+    title: 'Geomatics Guidance Note Number 7, part 2: Coordinate Conversions and Transformations
+      including Formulas'
+    uuid: 14ea09b9-1d03-4ca3-b330-508c55042fe3
+  identifier: 1000
+  informationSources: []
+  name: Molodensky-Badekas Transformation (CF geocentric Cartesian domain)
+  parameters:
+  - f2b42193-1669-4320-a2b0-c1ecf71520cb
+  - c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+  - 49198a70-aaa8-4e12-9014-efb789f5a004
+  - e5c3331d-b1a1-47a7-b7aa-560e3c110928
+  - ce8ddaf4-68b2-43d1-baa9-88656ee12322
+  - 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+  - d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+  - d98d528d-f7fa-4b9f-9dd2-d02e101f1898
+  - 0970284b-f542-4cae-9cab-be9ab68d1e23
+  - 606672fc-8b15-4cd9-8860-24d11cf0dbe9
+  remarks: This operation is reversible.
+dateAccepted: 2023-10-02
+id: 7a11b446-81b8-4386-a516-47c2bbe3d3e8
+status: valid

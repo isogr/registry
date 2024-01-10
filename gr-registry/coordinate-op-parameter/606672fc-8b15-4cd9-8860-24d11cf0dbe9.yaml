@@ -1,0 +1,23 @@
+data:
+  aliases: []
+  definition: null
+  identifier: 999
+  informationSources:
+  - author: F.W. Bessel
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://doi.org/10.1002/asna.18420190702 (accessed 2023-04-10)
+    seriesIssueID: Volumes 19, Issue 7-8, No. 438
+    seriesName: Astronomische Nachrichten (Astronomical Notes)
+    seriesPage: 97-116
+    title: "Ueber einen Fehler in der Berechnung der franz\xF6sischen Gradmessung\
+      \ und seinen Einfluss auf die Bestimmung der Figur der Erde"
+    uuid: 53d241ea-90e5-42fb-be35-22e8576fd416
+  minimumOccurs: null
+  name: Ordinate 3 of evaluation point
+  remarks: The value of the third ordinate of the evaluation point
+dateAccepted: 2023-10-02
+id: 606672fc-8b15-4cd9-8860-24d11cf0dbe9
+status: valid

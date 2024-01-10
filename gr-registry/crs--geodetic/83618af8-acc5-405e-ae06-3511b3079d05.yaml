@@ -1,0 +1,77 @@
+data:
+  aliases:
+  - KGD2002
+  - Korean Geodetic Datum 2002
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  datum: d478dce4-fdff-43f7-bb49-f48ee48ef29d
+  description: null
+  extent: null
+  identifier: 1008
+  informationSources:
+  - author: Y.-J. Lee, H.-K. Lee, C.-O. Kwon, J.-H. Song
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://www.fig.net/resources/proceedings/fig_proceedings/fig2008
+      (accessed 2023-04-10)
+    publisher: International Federation of Surveyors (FIG)
+    seriesIssueID: null
+    seriesName: FIG Working Week 2008, Stockholm, Sweden, 14-19 June 2008
+    seriesPage: null
+    title: Implementation of the New Korean Geocentric Datum and GPS CORS Management
+    uuid: e46e717c-a40e-44bc-b91e-b1b7ec45774a
+  - author: J.-H. Kwon
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://unstats.un.org/unsd/geoinfo/rcc/docs/rccap19/ip/E_Conf.102_IP17_Korea_19th_UNRCC-AP_Session3_26%20Oct.pdf
+      (accessed 2023-04-10)
+    publisher: United Nations Economic and Social Council
+    seriesIssueID: E/CONF.102/IP.17
+    seriesName: "Nineteenth United Nations Regional Cartographic Conference for Asia\
+      \ and the Pacific, Bangkok, 29 October \u2013 1 November 2012"
+    seriesPage: null
+    title: Korea Geodetic Framework for Sustainable Development
+    uuid: 1fef0302-912d-419f-82bc-ef58489ae3e6
+  - author: C.J. Mugnier
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://doi.org/10.14358/PERS.83.8.539 (accessed 2023-04-10)
+    publisher: American Society for Photogrammetry and Remote Sensing
+    seriesIssueID: Volume 83, No. 8, August 2017
+    seriesName: Photogrammetric Engineering & Remote Sensing
+    seriesPage: 537-539
+    title: 'Grids & Datums: The Republic of Korea'
+    uuid: e146ff8f-d4b8-4fac-abff-1d8c947cd1f5
+  - author: Geodesy Department, NGII
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'Web page in Korean, accessible only within Korea. https://www.ngii.go.kr/kor/contents/view.do?sq=119&board_code=contents_data/
+      (accessed 2023-06-26) '
+    publisher: 'National Geographic Information Institute (NGII), Ministry of Construction
+      and Transportation, Republic of Korea
+
+      '
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'World Geodetic System Technical Guidelines
+
+      '
+    uuid: f5066271-290d-4996-8f5a-1073007c34b3
+  name: KGD2002 - XYZ
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2023-10-02
+id: 83618af8-acc5-405e-ae06-3511b3079d05
+status: valid

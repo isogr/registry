@@ -1,0 +1,60 @@
+data:
+  aliases:
+  - Korean 1985
+  - Korean 1985 Datum
+  baseCRS: null
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  datum: 2be2a0be-a2fa-454f-9750-639097e0ec5c
+  description: null
+  extent: null
+  identifier: 1011
+  informationSources:
+  - author: J.-H. Kwon
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://unstats.un.org/unsd/geoinfo/rcc/docs/rccap19/ip/E_Conf.102_IP17_Korea_19th_UNRCC-AP_Session3_26%20Oct.pdf
+      (accessed 2023-04-10)
+    publisher: United Nations Economic and Social Council
+    seriesIssueID: E/CONF.102/IP.17
+    seriesName: "Nineteenth United Nations Regional Cartographic Conference for Asia\
+      \ and the Pacific, Bangkok, 29 October \u2013 1 November 2012"
+    seriesPage: null
+    title: Korea Geodetic Framework for Sustainable Development
+    uuid: 2e9a694f-ad4a-47eb-a006-07c47d8da078
+  - author: Geodesy Department, NGII
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Web page in Korean, accessible only within Korea. https://www.ngii.go.kr/kor/content.do?sq=189#none
+      (accessed 2023-06-01)
+    publisher: National Geographic Information Institute (NGII), Ministry of Construction
+      and Transportation, Republic of Korea
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Korean origin of longitude and latitude
+    uuid: e0df835c-6219-4e8a-9e70-8486e4eace36
+  - author: C.J. Mugnier
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://doi.org/10.14358/PERS.83.8.539 (accessed 2023-04-10)
+    publisher: American Society for Photogrammetry and Remote Sensing
+    seriesIssueID: Volume 83, No. 8, August 2017
+    seriesName: Photogrammetric Engineering & Remote Sensing
+    seriesPage: 537-539
+    title: 'Grids & Datums: The Republic of Korea'
+    uuid: e8c197fb-10e2-4012-bed5-b512b9472c41
+  name: Korean 1985 - LatLon
+  operation: null
+  remarks: null
+  scope: Spatial referencing
+dateAccepted: 2023-10-02
+id: b2c65b1d-553e-4851-9d46-925aea94d0fb
+status: valid

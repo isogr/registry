@@ -1,0 +1,78 @@
+data:
+  aliases:
+  - KGD2002
+  coordinateReferenceEpoch: '2002.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  extent: null
+  identifier: 1006
+  informationSources:
+  - author: C.J. Mugnier
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://doi.org/10.14358/PERS.83.8.539 (accessed 2023-04-10)
+    publisher: American Society for Photogrammetry and Remote Sensing
+    seriesIssueID: Volume 83, No. 8, August 2017
+    seriesName: Photogrammetric Engineering & Remote Sensing
+    seriesPage: 537-539
+    title: 'Grids & Datums: The Republic of Korea'
+    uuid: a8b2e154-8dde-4f7f-a3a2-6da9d6dcaf21
+  - author: Y.-J. Lee, H.-K. Lee, C.-O. Kwon, J.-H. Song
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://www.fig.net/resources/proceedings/fig_proceedings/fig2008
+      (accessed 2023-04-10)
+    publisher: International Federation of Surveyors (FIG)
+    seriesIssueID: null
+    seriesName: FIG Working Week 2008, Stockholm, Sweden, 14-19 June 2008
+    seriesPage: null
+    title: Implementation of the New Korean Geocentric Datum and GPS CORS Management
+    uuid: 482889fe-7c4f-4eaf-9cfc-4c162df373db
+  - author: Geodesy Department, NGII
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: 'Web page in Korean, accessible only within Korea. https://www.ngii.go.kr/kor/contents/view.do?sq=119&board_code=contents_data/
+      (accessed 2023-06-26) '
+    publisher: 'National Geographic Information Institute (NGII), Ministry of Construction
+      and Transportation, Republic of Korea
+
+      '
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: 'World Geodetic System Technical Guidelines
+
+      '
+    uuid: 63775b0d-1466-46b3-858a-7748b095e682
+  - author: J.-H. Kwon
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://unstats.un.org/unsd/geoinfo/rcc/docs/rccap19/ip/E_Conf.102_IP17_Korea_19th_UNRCC-AP_Session3_26%20Oct.pdf
+      (accessed 2023-04-10)
+    publisher: United Nations Economic and Social Council
+    seriesIssueID: E/CONF.102/IP.17
+    seriesName: "Nineteenth United Nations Regional Cartographic Conference for Asia\
+      \ and the Pacific, Bangkok, 29 October \u2013 1 November 2012"
+    seriesPage: null
+    title: Korea Geodetic Framework for Sustainable Development
+    uuid: 2b892aef-32c9-4199-beb6-c471488eccc3
+  name: Korean Geodetic Datum 2002
+  originDescription: KGD2002 is a GRS80-based geodetic reference frame aligned to
+    ITRF2000 at epoch 2002.0. The origin of the datum was recalculated based on the
+    VLBI observations from 1995 to 2002. The datum is realized through 60 CORS and
+    a network of about 20,000 control points.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '2001-03-19'
+  remarks: Replaces Korean 1985 Datum.
+  scope: Spatial referencing
+dateAccepted: 2023-10-02
+id: d478dce4-fdff-43f7-bb49-f48ee48ef29d
+status: valid

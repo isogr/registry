@@ -1,0 +1,106 @@
+data:
+  accuracy:
+    dtype: TransformationAccuracy
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 0.8
+  aliases:
+  - ' NGI_Pro v.2.54'
+  - Bessel to GRS80 Ellipsoid Transformation v.2.54
+  coordOperationMethod: 6dc8639e-c822-4657-9ce2-fbf25b0fa219
+  description: null
+  extent: null
+  identifier: 1012
+  informationSources:
+  - author: National Geographic Information Institute (NGII)
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Web page in Korean, accessible only within Korea. https://www.ngii.go.kr/kor/board/view.do?sq=30573&board_code=notify
+      (accessed 2023-06-07)
+    publisher: National Geographic Information Institute (NGII), Ministry of Construction
+      and Transportation, Republic of Korea
+    seriesIssueID: 2003-497
+    seriesName: National Geographic Information Institute (NGII) Notice
+    seriesPage: null
+    title: National Geographic Information Institute (NGII) Notice 2003-497
+    uuid: 7f48ffd3-da46-4a38-ab78-326304627214
+  - author: Geodesy Department, NGII
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Web page in Korean, accessible only within Korea. https://www.ngii.go.kr/kor/contents/view.do?sq=565&board_code=contents_data
+      (accessed 2023-06-07)
+    publisher: National Geographic Information Institute (NGII), Ministry of Construction
+      and Transportation, Republic of Korea
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Bessel to GRS80 Ellipsoid Transformation v.2.54
+    uuid: 08a33a92-45c6-40a3-80b8-388ac1b37578
+  name: Korean 1985 to KGD2002 [NGII v1]
+  operationVersion: NGII v1
+  parameters:
+  - fileCitation: null
+    parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: -145.907
+  - fileCitation: null
+    parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 505.034
+  - fileCitation: null
+    parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 685.756
+  - fileCitation: null
+    parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+    type: measure (w/ UoM)
+    unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    value: -1.162
+  - fileCitation: null
+    parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+    type: measure (w/ UoM)
+    unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    value: 2.347
+  - fileCitation: null
+    parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+    type: measure (w/ UoM)
+    unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    value: 1.592
+  - fileCitation: null
+    parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+    type: measure (w/ UoM)
+    unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
+    value: 6.342
+  - fileCitation: null
+    parameter: d98d528d-f7fa-4b9f-9dd2-d02e101f1898
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: -3159521.31
+  - fileCitation: null
+    parameter: 0970284b-f542-4cae-9cab-be9ab68d1e23
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 4068151.32
+  - fileCitation: null
+    parameter: 606672fc-8b15-4cd9-8860-24d11cf0dbe9
+    type: measure (w/ UoM)
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    value: 3748113.85
+  remarks: null
+  scope:
+  - Spatial referencing
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: b2c65b1d-553e-4851-9d46-925aea94d0fb
+  targetCRS:
+    classID: crs--geodetic
+    itemID: d60c2499-39cc-4634-a192-be4afde0d246
+dateAccepted: 2023-10-02
+id: ff8a6ccd-0a1a-48f3-a70c-a02074550f1b
+status: valid
