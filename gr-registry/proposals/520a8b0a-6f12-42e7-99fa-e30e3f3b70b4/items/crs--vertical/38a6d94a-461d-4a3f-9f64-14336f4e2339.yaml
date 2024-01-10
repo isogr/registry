@@ -21,6 +21,7 @@ data:
     isbn: null
     issn: null
     otherDetails: ASVD02, GUVD04, NMVD03
+    publicationDate: '2009-01-01'
     publisher: American Congress on Surveying and Mapping
     seriesIssueID: Volume 69, No. 1
     seriesName: Surveying and Land Information Systems

@@ -21,6 +21,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Mandates use of VIVD09
+    publicationDate: '2011-12-12'
     publisher: Office of Federal Register, NARA
     seriesIssueID: 'Volume 76, No. 238, Document: 2011-31592, Citation: 76 FR 77208'
     seriesName: Federal Register Notice

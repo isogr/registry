@@ -22,6 +22,7 @@ data:
     otherDetails: Webpage. https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
       (accessed 2021-06-23)
     publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON, Canada
+    revisionDate: '2021-06-23'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -34,6 +35,7 @@ data:
     issn: null
     otherDetails: http://downloads2.esri.com/support/TechArticles/Grid-based_Transformation_Methods_for_Canada3.pdf
       (accessed 2021-11-26)
+    publicationDate: '2016-05-05'
     publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
@@ -47,6 +49,7 @@ data:
     issn: null
     otherDetails: Webpage. https://webapp.geod.nrcan.gc.ca/geod/tools-outils/applications.php?locale=en
       (accessed N4 (accessed 2021-11-26)
+    publicationDate: '2017-02-28'
     publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
       Natural Resources Canada, Government of Canada
     seriesIssueID: null
@@ -61,6 +64,7 @@ data:
     issn: null
     otherDetails: Webpage. https://www.isc.ca/MapsandPhotos/GISData/Pages/Shift.aspx
       (accessed 2021-11-26)
+    publicationDate: '2017-03-28'
     publisher: Saskatchewan Information Services Corporation (ISC), Geomatics Distribution
       Centre, Regina, Saskatchewan
     seriesIssueID: null
@@ -79,6 +83,7 @@ data:
       issn: null
       otherDetails: Webpage. https://www.isc.ca/MapsandPhotos/GISData/Pages/Shift.aspx
         (accessed 2021-11-26)
+      publicationDate: '2017-03-28'
       publisher: Saskatchewan Information Services Corporation (ISC), Geomatics Distribution
         Centre, Regina, Saskatchewan
       seriesIssueID: null

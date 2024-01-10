@@ -21,6 +21,7 @@ data:
     issn: null
     otherDetails: https://lists.igs.org/pipermail/igsmail/2022/008234.html (accessed
       2023-01-27)
+    publicationDate: '2022-07-26'
     publisher: International GNSS Service (IGS)
     seriesIssueID: '8238'
     seriesName: IGSMAIL
@@ -34,6 +35,7 @@ data:
     issn: null
     otherDetails: 'Webpage: https://itrf.ign.fr/docs/solutions/itrf2020/Transfo-ITRF2020_TRFs.txt
       (accessed 2023-01-27)'
+    publicationDate: '2022-04-15'
     publisher: "Institut National de l'Information G\xE9ographique et Foresti\xE8\
       re (IGN)"
     seriesIssueID: null

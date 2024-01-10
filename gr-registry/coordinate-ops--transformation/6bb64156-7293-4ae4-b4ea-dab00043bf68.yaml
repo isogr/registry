@@ -30,6 +30,7 @@ data:
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    publicationDate: '2013-01-01'
     publisher: Springer-Verlag
     seriesIssueID: Volume 17, No. 1
     seriesName: GPS Solutions
@@ -43,6 +44,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2010-04-19'
     publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
       Natural Resources Canada
     seriesIssueID: null
@@ -57,6 +59,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2016-08-30'
     publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
       Natural Resources Canada, Government of Canada
     seriesIssueID: null

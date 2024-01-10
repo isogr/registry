@@ -18,6 +18,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2016-12-21'
     publisher: International GNSS Service (IGS)
     seriesIssueID: '7399.0'
     seriesName: IGSMAIL

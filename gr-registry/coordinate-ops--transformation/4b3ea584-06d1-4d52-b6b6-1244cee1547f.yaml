@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2012-10-01'
     publisher: Springer
     seriesIssueID: Volume 16, Issue 4
     seriesName: GPS Solutions
@@ -32,6 +33,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Website
+    publicationDate: '2012-10-04'
     publisher: National Oceanic and Atmospheric Administration (NOAA), National  Geodetic
       Survey (NGS)
     seriesIssueID: null
@@ -45,6 +47,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2011-03-07'
     publisher: International GNSS Service (IGS)
     seriesIssueID: '6354.0'
     seriesName: IGSMAIL

@@ -32,6 +32,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2017-05-01'
     publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
       Natural Resources Canada
     seriesIssueID: null
@@ -46,6 +47,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2016-08-30'
     publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
       Natural Resources Canada, Government of Canada
     seriesIssueID: null

@@ -22,6 +22,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 1986-04
     publisher: Defense Mapping Agency Aerospace Center
     seriesIssueID: null
     seriesName: null
@@ -34,6 +35,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1987-09-30'
     publisher: Defense Mapping Agency
     seriesIssueID: TR8350.2
     seriesName: Technical Report
@@ -47,6 +49,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1991-09-01'
     publisher: Defense Mapping Agency
     seriesIssueID: TR8350.2
     seriesName: Technical Report

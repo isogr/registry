@@ -21,6 +21,7 @@ data:
     issn: null
     otherDetails: 'Webpage: https://itrf.ign.fr/docs/solutions/itrf2020/Transfo-ITRF2020_TRFs.txt
       (accessed 2022-04-25)'
+    publicationDate: '2022-04-15'
     publisher: Institut National de l'Information Geographique et Forestiere (IGN)
     seriesIssueID: null
     seriesName: null

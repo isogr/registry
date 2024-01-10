@@ -25,6 +25,7 @@ data:
     issn: null
     otherDetails: In Kenyon S., Pacino M., Marti U. (eds) Geodesy for Planet Earth.
       International Association of Geodesy Symposia, Vol 136. Springer, Berlin, Heidelberg
+    publicationDate: '2012'
     publisher: Springer Berlin Heidelberg
     seriesIssueID: '136.0'
     seriesName: International Association of Geodesy Symposia
@@ -38,6 +39,7 @@ data:
     issn: null
     otherDetails: Data for paper included in supplement SIRGAS reference frame realization
       SIR11P01.
+    publicationDate: '2011'
     publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany, PANGAEA
     seriesIssueID: No. 87
     seriesName: DGFI Report
@@ -51,6 +53,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Website
+    publicationDate: '2018'
     publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null

@@ -9,6 +9,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 1958-07
     publisher: U.S. Army Map Service
     seriesIssueID: TM 5-241-4/2
     seriesName: Technical Manual
@@ -22,6 +23,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1967-06-07'
     publisher: Headquarters, Department of the Army, Washington, DC
     seriesIssueID: TM 5-241-1
     seriesName: Department of the Army Technical Manual
@@ -34,6 +36,7 @@ data:
     isbn: null
     issn: null
     otherDetails: NGVD29
+    publicationDate: '1930-06-30'
     publisher: Government Printing Office
     seriesIssueID: null
     seriesName: null
@@ -47,6 +50,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1927'
     publisher: Coast and Geodetic Survey
     seriesIssueID: null
     seriesName: null
@@ -60,6 +64,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1944'
     publisher: U.S. Army Map Service
     seriesIssueID: '7.0'
     seriesName: Army Map Services Bulletin
@@ -72,6 +77,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1951'
     publisher: U.S. Army Map Service
     seriesIssueID: null
     seriesName: null

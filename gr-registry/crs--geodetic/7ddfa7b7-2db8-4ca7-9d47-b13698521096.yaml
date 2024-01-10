@@ -23,6 +23,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Personal email communication.
+    publicationDate: '2017-03-01'
     publisher: "Service de la geodesie et des leves geospatiaux, Direction de la reference\
       \ geographique, Direction generale de l\u2019information geospatiale, Ministere\
       \ de l\u2019Energie et des Ressources naturelles, Gouvernement du Quebec"

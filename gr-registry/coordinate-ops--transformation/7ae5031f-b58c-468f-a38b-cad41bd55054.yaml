@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1997-07-04'
     publisher: National Imagery and Mapping Agency
     seriesIssueID: TR8350.2
     seriesName: Technical Report
@@ -33,6 +34,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1986-05-02'
     publisher: Defense Mapping Agency Aerospace Center
     seriesIssueID: null
     seriesName: null
@@ -45,6 +47,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 1997-09
     publisher: Institute of Navigation
     seriesIssueID: null
     seriesName: Proceedings of the 10th International Technical Meeting of the Satellite
@@ -59,6 +62,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2004-06-23'
     publisher: National Imagery and Mapping Agency
     seriesIssueID: TR8350.2
     seriesName: Technical Report
@@ -72,6 +76,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2000-01-03'
     publisher: National Imagery and Mapping Agency
     seriesIssueID: TR8350.2
     seriesName: Technical Report
@@ -90,6 +95,7 @@ data:
       issn: null
       otherDetails: Website
       publisher: National Geospatial-Intelligence Agency
+      revisionDate: '2014-09-15'
       seriesIssueID: null
       seriesName: null
       seriesPage: null

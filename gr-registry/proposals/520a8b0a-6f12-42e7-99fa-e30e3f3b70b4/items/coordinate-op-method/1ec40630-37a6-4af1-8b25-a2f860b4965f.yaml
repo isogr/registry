@@ -10,6 +10,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2007-11-16'
     publisher: Land Information New Zealand
     seriesIssueID: LINZS25000
     seriesName: null

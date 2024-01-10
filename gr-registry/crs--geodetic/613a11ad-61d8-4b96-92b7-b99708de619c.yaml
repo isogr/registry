@@ -32,6 +32,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2023-05-10'
     publisher: Canadian Geodetic Survey, Surveyor General Branch, Lands and Minerals
       Sector, Natural Resources Canada, Government of Canada
     seriesIssueID: null
@@ -49,6 +50,7 @@ data:
       (accessed 2023-06-04)'
     publisher: Canadian Geodetic Survey, Surveyor General Branch, Lands and Minerals
       Sector, Natural Resources Canada, Government of Canada
+    revisionDate: '2021-04-09'
     seriesIssueID: null
     seriesName: null
     seriesPage: null

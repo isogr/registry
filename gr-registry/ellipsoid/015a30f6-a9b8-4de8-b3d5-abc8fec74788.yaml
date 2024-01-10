@@ -11,6 +11,7 @@ data:
     issn: null
     otherDetails: null
     publisher: Office of Geomatics, National Geospatial-Intelligence Agency
+    revisionDate: '2014-03-25'
     seriesIssueID: NGA.SIG.0012_2.0.0_UTMUPS
     seriesName: National Geospatial-Intelligence Agency Standardization Document
     seriesPage: null
@@ -23,6 +24,7 @@ data:
     isbn: null
     issn: null
     otherDetails: https://doi.org/10.1002/asna.18420190702 (accessed 2023-04-10)
+    publicationDate: '1841-12-01'
     seriesIssueID: Volumes 19, Issue 7-8, No. 438
     seriesName: Astronomische Nachrichten (Astronomical Notes)
     seriesPage: 97-116

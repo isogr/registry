@@ -22,6 +22,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2004-01-01'
     publisher: International Earth Rotation and Reference Systems Service Central
       Bureau, Verlag des Bundesamts fur Kartographie und Geodasie, Frankfurt am Main,
       Germany
@@ -36,6 +37,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1994-10-01'
     publisher: American Geophysical Union
     seriesIssueID: Volume 21, Issue 20
     seriesName: Geophysical Research Letters
@@ -49,6 +51,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2001-03-19'
     seriesIssueID: '5.0'
     seriesName: IERS Message
     seriesPage: null

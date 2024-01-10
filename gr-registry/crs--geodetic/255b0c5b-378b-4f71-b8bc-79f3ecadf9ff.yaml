@@ -29,6 +29,7 @@ data:
     issn: null
     otherDetails: AGU Fall Meeting. San Francisco, USA, December 10 - 14, 2007, Abstract
       G43C-1471
+    publicationDate: '2007'
     publisher: American Geophysical Union
     seriesIssueID: Volume 88, No. 52, Abstract G43C-1471
     seriesName: Eos Transactions, Fall Meeting Supplement
@@ -42,6 +43,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Website
+    publicationDate: '2018'
     publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null
@@ -55,6 +57,7 @@ data:
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publicationDate: '2005'
     publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia

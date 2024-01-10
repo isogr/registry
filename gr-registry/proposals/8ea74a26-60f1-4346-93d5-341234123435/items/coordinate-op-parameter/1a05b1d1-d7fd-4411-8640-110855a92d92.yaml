@@ -9,6 +9,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2019'
     publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: Internal Report
@@ -21,6 +22,7 @@ data:
     isbn: null
     issn: null
     otherDetails: 'Website: https://webapp.geod.nrcan.gc.ca/geod/tools-outils/sample_doc_files/NRCan_Geoid_GridFormat_EN.pdf'
+    publicationDate: '2021-12-03'
     publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
     seriesIssueID: null
     seriesName: null

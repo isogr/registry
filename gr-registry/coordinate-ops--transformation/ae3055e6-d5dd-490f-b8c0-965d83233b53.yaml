@@ -23,6 +23,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 2004-03
     publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
     seriesIssueID: Volume 51
     seriesName: Bulletin of the Geographical Survey Institute
@@ -35,6 +36,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 2004-03
     publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
     seriesIssueID: Volume 50
     seriesName: Bulletin of the Geographical Survey Institute

@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2016-05-05'
     publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
@@ -32,6 +33,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2017-02-28'
     publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
       Natural Resources Canada, Government of Canada
     seriesIssueID: null
@@ -45,6 +47,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2011-06-01'
     publisher: Service New Brunswick, Government of New Brunswick
     seriesIssueID: null
     seriesName: null
@@ -61,6 +64,7 @@ data:
       isbn: null
       issn: null
       otherDetails: null
+      publicationDate: '2016-05-05'
       publisher: Esri, Redlands, CA
       seriesIssueID: 'Article ID: 000011846'
       seriesName: null

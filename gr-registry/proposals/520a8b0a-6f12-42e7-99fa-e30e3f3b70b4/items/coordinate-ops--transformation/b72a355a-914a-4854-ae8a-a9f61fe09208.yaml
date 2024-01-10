@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Personal email communication.
+    publicationDate: '2017-05-11'
     publisher: GeoNB, Service New Brunswick, Government of New Brunswick
     seriesIssueID: null
     seriesName: null
@@ -36,6 +37,7 @@ data:
       isbn: null
       issn: null
       otherDetails: Personal email communication.
+      publicationDate: '2017-05-11'
       publisher: GeoNB, Service New Brunswick, Government of New Brunswick
       seriesIssueID: null
       seriesName: null

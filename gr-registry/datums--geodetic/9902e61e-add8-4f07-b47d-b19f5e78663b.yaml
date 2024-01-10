@@ -26,6 +26,7 @@ data:
     issn: null
     otherDetails: NAD83 (CORS96) Epoch 1996.0,NAD83 (CORS96) Epoch 1997.0,NAD83 (CORS96)
       Epoch 2002.0
+    publicationDate: '2008-04-01'
     publisher: ASCE
     seriesIssueID: Volume 134, No. 4
     seriesName: Journal of Surveying Engineering
@@ -41,6 +42,7 @@ data:
     otherDetails: webpage
     publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
       Survey (NGS)
+    revisionDate: '2017-03-16'
     seriesIssueID: null
     seriesName: NGS Online listing of transformation parameters
     seriesPage: null

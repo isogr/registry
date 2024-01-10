@@ -17,6 +17,7 @@ data:
     issn: null
     otherDetails: In Chinese; https://doi.org/10.1007/s11434-009-0342-9 (accessed
       2020-05-19)
+    publicationDate: '2009'
     publisher: Science China Press
     seriesIssueID: '54.0'
     seriesName: Chinese Science Bulletin
@@ -30,6 +31,7 @@ data:
     issn: null
     otherDetails: https://unstats.un.org/unsd/geoinfo/RCC/docs/rccap19/ip/E_Conf.102_IP16_Modernization%20of%20National%20Geodetic%20Datum%20in%20China.pdf
       (accessed 2020-05-15)
+    publicationDate: '2012'
     publisher: United Nations Economic and Social Council
     seriesIssueID: E/CONF.102/IP.16
     seriesName: "Nineteenth United Nations Regional Cartographic Conference for Asia\
@@ -44,6 +46,7 @@ data:
     issn: null
     otherDetails: In Chinese; http://xb.sinomaps.com/EN/Y2008/V37/I3/269 (accessed
       2020-05-19)
+    publicationDate: '2008'
     publisher: Surveying and Mapping Press
     seriesIssueID: 37(3)
     seriesName: Acta Geodaetica et Cartographica Sinica

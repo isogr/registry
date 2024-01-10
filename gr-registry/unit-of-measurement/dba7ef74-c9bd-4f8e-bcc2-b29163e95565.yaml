@@ -11,6 +11,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: 2006-03
     publisher: International Organization for Standardization (ISO)
     seriesIssueID: ISO 80000-3:2006
     seriesName: International Standard

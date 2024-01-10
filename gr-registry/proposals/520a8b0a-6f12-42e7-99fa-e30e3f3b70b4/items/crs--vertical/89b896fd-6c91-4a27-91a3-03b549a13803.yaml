@@ -30,6 +30,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1928'
     publisher: Department of the Interior, Dominion of Canada, Ottawa
     seriesIssueID: null
     seriesName: null
@@ -42,6 +43,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1935'
     publisher: Department of the Interior, Dominion of Canada, Ottawa
     seriesIssueID: null
     seriesName: null

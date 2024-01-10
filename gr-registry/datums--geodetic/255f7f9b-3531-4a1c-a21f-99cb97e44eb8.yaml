@@ -19,6 +19,7 @@ data:
     isbn: null
     issn: null
     otherDetails: https://datacenter.iers.org/data/2/message_456.txt (accessed 2022-04-19)
+    publicationDate: '2022-04-19'
     publisher: International Earth Rotation and Reference Systems Service (IERS)
     seriesIssueID: '456'
     seriesName: IERS Message
@@ -32,6 +33,7 @@ data:
     issn: null
     otherDetails: 'Webpage: https://itrf.ign.fr/en/solutions/itrf2020 (accessed 2022-04-18)'
     publisher: Institut National de l'Information Geographique et Forestiere (IGN)
+    revisionDate: '2022-04-15'
     seriesIssueID: null
     seriesName: null
     seriesPage: null

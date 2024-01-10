@@ -21,6 +21,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '1985-12-01'
     publisher: National Mapping Council of Australia
     seriesIssueID: null
     seriesName: null

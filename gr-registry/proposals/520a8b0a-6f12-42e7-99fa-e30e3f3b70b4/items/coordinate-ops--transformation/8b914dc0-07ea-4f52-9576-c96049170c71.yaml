@@ -21,6 +21,7 @@ data:
     issn: null
     otherDetails: null
     publisher: National Geospatial-Intelligence Agency
+    revisionDate: '2014-10-24'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -37,6 +38,7 @@ data:
       issn: null
       otherDetails: null
       publisher: National Geospatial-Intelligence Agency
+      revisionDate: '2014-10-24'
       seriesIssueID: null
       seriesName: null
       seriesPage: null

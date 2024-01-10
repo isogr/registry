@@ -22,6 +22,7 @@ data:
     otherDetails: Webpage https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
       (accessed 2021-06-23)
     publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON, Canada
+    revisionDate: '2021-06-23'
     seriesIssueID: ',,'
     seriesName: ',,'
     seriesPage: ',,'
@@ -35,6 +36,7 @@ data:
     otherDetails: ''
     publisher: Geodetic Control Unit, Lands Policy and Programs Branch, Lands Division,
       Government of Alberta, Edmonton, AB, Canada
+    revisionDate: '2021'
     seriesIssueID: ',,'
     seriesName: ',,'
     seriesPage: ',,'
@@ -52,6 +54,7 @@ data:
       otherDetails: Webpage https://webapp.geod.nrcan.gc.ca/geod/data-donnees/transformations.php
         (accessed 2021-06-23)
       publisher: Canadian Geodetic Survey, Natural Resources Canada, Ottawa, ON, Canada
+      revisionDate: '2021-06-23'
       seriesIssueID: null
       seriesName: null
       seriesPage: null

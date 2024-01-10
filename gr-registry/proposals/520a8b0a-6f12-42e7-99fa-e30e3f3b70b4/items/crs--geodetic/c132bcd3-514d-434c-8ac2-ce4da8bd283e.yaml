@@ -30,6 +30,7 @@ data:
     otherDetails: webpage
     publisher: National Oceanic and Atmospheric Administration (NOAA) National Geodetic
       Survey (NGS)
+    revisionDate: '2017-03-16'
     seriesIssueID: null
     seriesName: NGS Online listing of transformation parameters
     seriesPage: null
@@ -42,6 +43,7 @@ data:
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    publicationDate: '2013-01-01'
     publisher: Springer-Verlag
     seriesIssueID: Volume 17, No. 1
     seriesName: GPS Solutions
@@ -56,6 +58,7 @@ data:
     issn: null
     otherDetails: NAD83 (CORS96) Epoch 1996.0,NAD83 (CORS96) Epoch 1997.0,NAD83 (CORS96)
       Epoch 2002.0
+    publicationDate: '2008-04-01'
     publisher: ASCE
     seriesIssueID: Volume 134, No. 4
     seriesName: Journal of Surveying Engineering

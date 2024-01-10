@@ -30,6 +30,7 @@ data:
     otherDetails: Website. https://evrs.bkg.bund.de/Subsites/EVRS/EN/EVRF2019/evrf2019.html
       (accessed 2020-11-30)
     publisher: Bundesamt fuer Kartogrphie und Geodaesie
+    revisionDate: '2020-09-07'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -43,6 +44,7 @@ data:
     otherDetails: https://evrs.bkg.bund.de/SharedDocs/Downloads/EVRS/EN/Publications/EVRFConventions2007.pdf
       (accessed 2020-11-30)
     publisher: International Association of Geodesy Subcommission 1.3a EUREF
+    revisionDate: '2019-01-11'
     seriesIssueID: null
     seriesName: null
     seriesPage: null

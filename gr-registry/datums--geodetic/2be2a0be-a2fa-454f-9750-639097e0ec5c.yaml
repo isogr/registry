@@ -15,6 +15,7 @@ data:
       (accessed 2023-06-01)
     publisher: National Geographic Information Institute (NGII), Ministry of Construction
       and Transportation, Republic of Korea
+    revisionDate: 2018-05
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -26,6 +27,7 @@ data:
     isbn: null
     issn: null
     otherDetails: https://doi.org/10.14358/PERS.83.8.539 (accessed 2023-04-10)
+    publicationDate: '2017'
     publisher: American Society for Photogrammetry and Remote Sensing
     seriesIssueID: Volume 83, No. 8, August 2017
     seriesName: Photogrammetric Engineering & Remote Sensing
@@ -39,6 +41,7 @@ data:
     issn: null
     otherDetails: https://unstats.un.org/unsd/geoinfo/rcc/docs/rccap19/ip/E_Conf.102_IP17_Korea_19th_UNRCC-AP_Session3_26%20Oct.pdf
       (accessed 2023-04-10)
+    publicationDate: '2012'
     publisher: United Nations Economic and Social Council
     seriesIssueID: E/CONF.102/IP.17
     seriesName: "Nineteenth United Nations Regional Cartographic Conference for Asia\

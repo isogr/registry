@@ -26,6 +26,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Report in both English and Spanish.
+    publicationDate: '1997'
     publisher: Instituto Brasileiro de Geografia e Estatistica (IBGE), Rio de Janeiro,
       Brasil
     seriesIssueID: null
@@ -41,6 +42,7 @@ data:
     issn: null
     otherDetails: In Sanso F. (eds) A Window on the Future of Geodesy. International
       Association of Geodesy Symposia, Vol 128. Springer, Berlin, Heidelberg
+    publicationDate: '2005'
     publisher: Springer Berlin Heidelberg
     seriesIssueID: '128.0'
     seriesName: International Association of Geodesy Symposia
@@ -54,6 +56,7 @@ data:
     isbn: null
     issn: null
     otherDetails: Website
+    publicationDate: '2018'
     publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
     seriesIssueID: null
     seriesName: null

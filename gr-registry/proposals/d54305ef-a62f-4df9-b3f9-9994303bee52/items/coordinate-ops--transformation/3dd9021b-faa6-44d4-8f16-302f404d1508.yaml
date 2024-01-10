@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: ftp://itrf-ftp.ign.fr/pub/itrf/WGS84.TXT (accessed 2021-05-17)
+    publicationDate: '2013-12-11'
     publisher: IGN
     seriesIssueID: ''
     seriesName: ''
@@ -33,6 +34,7 @@ data:
     issn: null
     otherDetails: https://www.iers.org/IERS/EN/Publications/TechnicalNotes/tn13.html
       (accessed 2021-04-25)
+    publicationDate: 1992-07
     publisher: Central Bureau of IERS - Observatoire de Paris
     seriesIssueID: '13'
     seriesName: IERS Technical Notes

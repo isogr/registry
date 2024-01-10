@@ -22,6 +22,7 @@ data:
     otherDetails: Website. https://www.icsm.gov.au/australian-terrestrial-reference-frame
       (accessed 2021-09-27)
     publisher: Geoscience Australia
+    revisionDate: '2020'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -35,6 +36,7 @@ data:
     otherDetails: https://www.icsm.gov.au/sites/default/files/2020-02/ATRF%20Technical%20Implementation%20Plan%20v2.3_1.pdf
       (accessed 2021-09-27)
     publisher: Geoscience Australia
+    revisionDate: '2020-02-12'
     seriesIssueID: null
     seriesName: null
     seriesPage: null

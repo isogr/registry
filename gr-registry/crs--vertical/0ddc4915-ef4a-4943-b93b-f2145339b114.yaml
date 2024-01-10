@@ -16,6 +16,7 @@ data:
     issn: null
     otherDetails: In Chinese; http://doi.org/10.16441/j.cnki.hdxb.1988.03.002 (accessed
       2020-05-15)
+    publicationDate: '1988'
     seriesIssueID: 18(1)
     seriesName: Journal of Ocean University of Qingdao
     seriesPage: 9-14
@@ -28,6 +29,7 @@ data:
     issn: null
     otherDetails: https://unstats.un.org/unsd/geoinfo/RCC/docs/rccap19/ip/E_Conf.102_IP16_Modernization%20of%20National%20Geodetic%20Datum%20in%20China.pdf
       (accessed 2020-05-15)
+    publicationDate: '2012'
     publisher: United Nations Economic and Social Council
     seriesIssueID: E/CONF.102/IP.16
     seriesName: "Nineteenth United Nations Regional Cartographic Conference for Asia\

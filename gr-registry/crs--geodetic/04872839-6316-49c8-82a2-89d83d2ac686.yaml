@@ -24,6 +24,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2013-08-08'
     publisher: Office of Federal Register, NARA
     seriesIssueID: "Volume 78, No. 153, Document: 2013\u201319167, Citation: 78 FR\
       \ 48421"
@@ -39,6 +40,7 @@ data:
     isbn: null
     issn: null
     otherDetails: NAD83 (2011), NAD83 (MA11), NAD83 (PA11) transformation from IGb08
+    publicationDate: '2013-01-01'
     publisher: Springer-Verlag
     seriesIssueID: Volume 17, No. 1
     seriesName: GPS Solutions

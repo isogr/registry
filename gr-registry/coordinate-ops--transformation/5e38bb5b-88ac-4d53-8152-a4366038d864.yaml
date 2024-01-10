@@ -23,6 +23,7 @@ data:
     otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
     publisher: National Oceanic and Atmospheric Administration (NOAA), National Geodetic
       Survey (NGS)
+    revisionDate: '2017-04-16'
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -40,6 +41,7 @@ data:
       otherDetails: Webpage for GEOID12B, GEOID09, GEOID06, GEOID03, GEOID99
       publisher: National Oceanic and Atmospheric Administration (NOAA), National
         Geodetic Survey (NGS)
+      revisionDate: '2017-04-16'
       seriesIssueID: null
       seriesName: null
       seriesPage: null

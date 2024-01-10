@@ -20,6 +20,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2016-05-05'
     publisher: Esri, Redlands, CA
     seriesIssueID: 'Article ID: 000011846'
     seriesName: null
@@ -32,6 +33,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2017-03-28'
     publisher: Saskatchewan Information Services Corporation (ISC), Geomatics Distribution
       Centre, Regina, Saskatchewan
     seriesIssueID: null
@@ -45,6 +47,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2017-02-28'
     publisher: Canadian Geodetic Survey, Surveyor General Branch, Earth Sciences Sector,
       Natural Resources Canada, Government of Canada
     seriesIssueID: null
@@ -62,6 +65,7 @@ data:
       isbn: null
       issn: null
       otherDetails: null
+      publicationDate: '2017-03-28'
       publisher: Saskatchewan Information Services Corporation (ISC), Geomatics Distribution
         Centre, Regina, Saskatchewan
       seriesIssueID: null

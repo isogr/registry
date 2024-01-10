@@ -23,6 +23,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2013-05-09'
     publisher: American Geophysical Union
     seriesIssueID: Volume  118, Issue 5
     seriesName: 'Journal of Geophysical Research: Solid Earth'
@@ -36,6 +37,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2012-04-19'
     publisher: American Geophysical Union
     seriesIssueID: Volume  117, Issue B4
     seriesName: 'Journal of Geophysical Research: Solid Earth'

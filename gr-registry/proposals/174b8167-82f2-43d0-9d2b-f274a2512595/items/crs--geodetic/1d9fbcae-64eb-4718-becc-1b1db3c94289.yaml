@@ -22,6 +22,7 @@ data:
     issn: null
     otherDetails: https://earth-info.nga.mil/php/download.php?file=(U)WGS%2084(G2139).pdf
       (accessed 2021-09-24)
+    publicationDate: '2021'
     publisher: National Geospatial-Intelligence Agency
     seriesIssueID: 21-520
     seriesName: Public Release
@@ -34,6 +35,7 @@ data:
     isbn: null
     issn: null
     otherDetails: null
+    publicationDate: '2021-10-25'
     publisher: National Geospatial-Intelligence Agency
     seriesIssueID: '2021-10-25'
     seriesName: ISOGR Control Body Meeting
