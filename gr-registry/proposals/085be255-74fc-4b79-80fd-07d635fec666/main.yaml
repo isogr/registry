@@ -1,0 +1,34 @@
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2023-03-27.
+controlBodyNotes: ''
+id: 085be255-74fc-4b79-80fd-07d635fec666
+isConcluded: true
+items:
+  /coordinate-ops--transformation/1dc0ee6f-21ae-4e9f-adb8-94905e4789e3.yaml:
+    type: addition
+  /coordinate-ops--transformation/3290e44f-c49d-4f64-b1da-4aafd09cda89.yaml:
+    type: addition
+  /coordinate-ops--transformation/530f6a96-4b2f-419a-af2b-416d2b249063.yaml:
+    type: addition
+  /coordinate-ops--transformation/a087bea1-e8f4-48b0-9726-d3cb141defd8.yaml:
+    type: addition
+  /coordinate-ops--transformation/cdbcfd66-0c10-4497-a571-4aea886fd4b1.yaml:
+    type: addition
+  /coordinate-ops--transformation/cfd87eda-92b9-4de3-b5e9-b41ccd4e4ce4.yaml:
+    type: addition
+justification: Transformation from ITRF2020 to NAD 83 (2011). Submitted by M. Dennis,
+  U.S. National Geodetic Survey.
+notes: []
+sponsor:
+  gitServerUsername: ''
+  name: ''
+  parties:
+  - contacts:
+    - name: Control Body for the ISO Geodetic Registry Network
+    - label: name
+      value: John Doe
+  role: null
+state: accepted
+submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2023-04-05
+timeProposed: 2023-04-05
+title: ITRF2020 to NAD 83 (2011) Epoch 2010 [NGS v1]

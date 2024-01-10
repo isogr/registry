@@ -4,7 +4,17 @@ controlBodyNotes: null
 id: 05c09d8c-94e2-45dc-95bc-90c676817e55
 isConcluded: true
 items:
+  /coordinate-op-method/907d9606-a4c1-4d91-8259-aa62386e0145.yaml:
+    type: addition
+  /coordinate-ops--transformation/b0addfd3-74a1-4e9b-bc3f-88bc06342531.yaml:
+    type: addition
+  /crs--vertical/99fb37bc-9827-473a-9a24-31cbc817411c.yaml:
+    type: addition
+  /crs--vertical/bbcb711a-3959-473a-bb56-b0cfd2c71da4.yaml:
+    type: addition
   /datums--vertical/520e5c5f-7502-4cb6-8a1e-6144842bc869.yaml:
+    type: addition
+  /datums--vertical/75e4c8ac-8fd0-41b7-9688-4d4706359b56.yaml:
     type: addition
 justification: New EVRF realization. Submitted by Martina Sacher, BKG on behalf of
   EUREF.

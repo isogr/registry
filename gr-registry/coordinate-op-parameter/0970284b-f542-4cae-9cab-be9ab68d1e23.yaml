@@ -1,0 +1,23 @@
+data:
+  aliases: []
+  definition: null
+  identifier: 997
+  informationSources:
+  - author: F.W. Bessel
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://doi.org/10.1002/asna.18420190702 (accessed 2023-04-10)
+    seriesIssueID: Volumes 19, Issue 7-8, No. 438
+    seriesName: Astronomische Nachrichten (Astronomical Notes)
+    seriesPage: 97-116
+    title: "Ueber einen Fehler in der Berechnung der franz\xF6sischen Gradmessung\
+      \ und seinen Einfluss auf die Bestimmung der Figur der Erde"
+    uuid: a234867a-eccc-4b19-bf40-a29f7f5c75ea
+  minimumOccurs: null
+  name: Ordinate 2 of evaluation point
+  remarks: The value of the second ordinate of the evaluation point
+dateAccepted: 2023-10-02
+id: 0970284b-f542-4cae-9cab-be9ab68d1e23
+status: valid

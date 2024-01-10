@@ -3,7 +3,23 @@ controlBodyNotes: see EPSG::1291
 id: 166f7c0f-752d-42fe-a8a0-e8c79fdd00c4
 isConcluded: true
 items:
+  /coordinate-ops--transformation/09d9e2fe-27ab-403e-b78c-bec63005ff38.yaml:
+    type: addition
+  /coordinate-ops--transformation/a7d21599-7527-45d2-aa95-54e063c0e983.yaml:
+    type: addition
+  /coordinate-ops--transformation/e8f23f35-2162-4cf6-823d-261be6d0f969.yaml:
+    type: addition
+  /crs--geodetic/26ad3f61-bfcd-4181-ac4e-af6a3dbb9da3.yaml:
+    type: addition
+  /crs--geodetic/58fd6eba-44e0-4e49-a350-8860ec292210.yaml:
+    type: addition
+  /crs--geodetic/614face2-6522-45f2-a50d-13b1c481d01f.yaml:
+    type: addition
+  /crs--vertical/7249918e-8989-49d5-8fd2-fb891aa2cc29.yaml:
+    type: addition
   /datums--geodetic/75161bc6-a6db-43c3-9fe2-afaecd2a8156.yaml:
+    type: addition
+  /datums--vertical/7289c664-ba24-4f12-820d-e74931c940a8.yaml:
     type: addition
 justification: New reference frame. Submitted by Nicholas Brown, Geoscience Australia.
 notes: []

@@ -1,0 +1,61 @@
+data:
+  aliases: []
+  coordinateReferenceEpoch: null
+  definition: null
+  ellipsoid: 015a30f6-a9b8-4de8-b3d5-abc8fec74788
+  extent: null
+  identifier: 1004
+  informationSources:
+  - author: Geodesy Department, NGII
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: Web page in Korean, accessible only within Korea. https://www.ngii.go.kr/kor/content.do?sq=189#none
+      (accessed 2023-06-01)
+    publisher: National Geographic Information Institute (NGII), Ministry of Construction
+      and Transportation, Republic of Korea
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Korean origin of longitude and latitude
+    uuid: 3705f377-2ca6-4a50-b794-c82d6883df46
+  - author: C.J. Mugnier
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://doi.org/10.14358/PERS.83.8.539 (accessed 2023-04-10)
+    publisher: American Society for Photogrammetry and Remote Sensing
+    seriesIssueID: Volume 83, No. 8, August 2017
+    seriesName: Photogrammetric Engineering & Remote Sensing
+    seriesPage: 537-539
+    title: 'Grids & Datums: The Republic of Korea'
+    uuid: b2adfd8f-191a-4f3f-ae63-7cd5b22bd376
+  - author: J.-H. Kwon
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://unstats.un.org/unsd/geoinfo/rcc/docs/rccap19/ip/E_Conf.102_IP17_Korea_19th_UNRCC-AP_Session3_26%20Oct.pdf
+      (accessed 2023-04-10)
+    publisher: United Nations Economic and Social Council
+    seriesIssueID: E/CONF.102/IP.17
+    seriesName: "Nineteenth United Nations Regional Cartographic Conference for Asia\
+      \ and the Pacific, Bangkok, 29 October \u2013 1 November 2012"
+    seriesPage: null
+    title: Korea Geodetic Framework for Sustainable Development
+    uuid: 9b9e0421-9929-4f10-988b-bd8dcb872359
+  name: Korean 1985 Datum
+  originDescription: Korean 1985 Datum is the first Korean Triangulation Network based
+    on the Bessel 1841 ellipsoid. Approximately 7,000 points had been observed with
+    EDM and TRANSIT since 1975, and adjusted through  two campaigns by NGII. The origin
+    of the datum was observed and determined by astronomical surveying over 4 years
+    (1981 - 1985).
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '1985.0'
+  remarks: Replaced by KGD2002
+  scope: Spatial referencing
+dateAccepted: 2023-10-02
+id: 2be2a0be-a2fa-454f-9750-639097e0ec5c
+status: valid
