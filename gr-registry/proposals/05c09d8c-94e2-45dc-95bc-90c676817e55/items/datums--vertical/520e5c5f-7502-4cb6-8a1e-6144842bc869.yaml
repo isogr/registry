@@ -32,12 +32,11 @@ data:
     title: EVRF2019
     uuid: 81224802-011e-4902-ba2d-7b303cc073e0
   name: European Vertical Reference Frame 2019 mean tide
-  originDescription: "Height at Normal Amsterdams Peil (NAP) is zero, realised by\
-    \ least squares fit to 12 datum points of EVRF2007 solution, transformed to mean\
-    \ tide by Cmean = Czero + 0.28841\u2219sin^2(phi) + 0.00195\u2219sin^4(phi) -\
-    \ 0.09722 - 0.08432 [kgal\u2219m]. The constant 0.08432 kgal\u2219m is used to\
-    \ force the mean-tide height to equal the zero-tide height at the EVRF2000 origin\
-    \ in Amsterdam."
+  originDescription: Height at Normal Amsterdams Peil (NAP) is zero, realised by least
+    squares fit to 12 datum points of EVRF2007 solution, transformed to mean tide
+    by Cmean = Czero + 0.28841∙sin^2(phi) + 0.00195∙sin^4(phi) - 0.09722 - 0.08432
+    [kgal∙m]. The constant 0.08432 kgal∙m is used to force the mean-tide height to
+    equal the zero-tide height at the EVRF2000 origin in Amsterdam.
   releaseDate: 2020-09
   remarks: EVRF2019 is realized by an adjustment of geopotential numbers of the Unified
     European Levelling Network in the mean tide system, followed by computation of

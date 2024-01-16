@@ -16,7 +16,7 @@ data:
     seriesIssueID: ISO 80000-3:2006
     seriesName: International Standard
     seriesPage: null
-    title: "ISO 80000-3 Quantities and units \u2014 Part 3: Space and time"
+    title: 'ISO 80000-3 Quantities and units — Part 3: Space and time'
     uuid: 95393759-4a4e-4370-a2d6-027d95aecaa1
   measureType: ANGLE
   name: radian per second

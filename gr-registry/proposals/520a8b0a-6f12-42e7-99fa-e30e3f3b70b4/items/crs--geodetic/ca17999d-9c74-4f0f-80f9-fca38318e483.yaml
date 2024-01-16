@@ -28,7 +28,7 @@ data:
     publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
     seriesIssueID: Volume 51
     seriesName: Bulletin of the Geographical Survey Institute
-    seriesPage: "1\u20139"
+    seriesPage: 1–9
     title: Concept of the New Japanese Geodetic System
     uuid: 81b1a3d7-d4ca-434b-83d7-3bbdea058aae
   - author: Geographical Survey Institute
@@ -42,8 +42,8 @@ data:
     seriesIssueID: Volume 50
     seriesName: Bulletin of the Geographical Survey Institute
     seriesPage: 33-36
-    title: "The New Geodetic Reference System of Japan \u2212 Its adoption and application\
-      \ to our products"
+    title: The New Geodetic Reference System of Japan − Its adoption and application
+      to our products
     uuid: ff77a5c4-8a2d-4cb9-b064-a616f186c591
   name: JGD2000 - LatLonEHt
   operation: null

@@ -37,14 +37,14 @@ data:
     title: Deformation of the South American crust estimated from finite element and
       collocation methods
     uuid: 3517dafa-6ac5-452e-bc41-a5250bc6bfbf
-  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+  - author: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
     publicationDate: '2018'
-    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    publisher: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -59,10 +59,9 @@ data:
     publicationDate: '2002'
     publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
     seriesIssueID: null
-    seriesName: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht\
-      \ 2001/2002"
+    seriesName: Deutsches Geodätisches Forschungsinstitut (DGFI) Jahresbericht 2001/2002
     seriesPage: null
-    title: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht 2001/2002"
+    title: Deutsches Geodätisches Forschungsinstitut (DGFI) Jahresbericht 2001/2002
     uuid: b63b397f-b660-4df6-b109-d9c42b3a52c1
   name: SIRGAS-CON DGF02P01 - LatLon
   operation: null

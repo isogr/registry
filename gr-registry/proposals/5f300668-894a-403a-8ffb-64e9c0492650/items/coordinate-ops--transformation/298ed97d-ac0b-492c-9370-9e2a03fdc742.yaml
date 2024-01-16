@@ -41,7 +41,7 @@ data:
     seriesIssueID: null
     seriesName: null
     seriesPage: null
-    title: "Canadian Gravimetric Geoid 2013 \u2013 Version A (CGG2013a)"
+    title: Canadian Gravimetric Geoid 2013 – Version A (CGG2013a)
     uuid: cec493a7-87c8-48ea-925b-6ee04b718621
   name: NAD83(CSRS) v6 to CGVD2013(CGG2013a) Epoch 2010 - OHt [v1]
   operationVersion: v1

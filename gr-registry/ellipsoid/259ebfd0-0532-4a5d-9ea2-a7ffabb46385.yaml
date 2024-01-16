@@ -30,8 +30,8 @@ data:
     seriesIssueID: Volume 54, No. 1
     seriesName: Geomatica
     seriesPage: 25-41
-    title: "The selection and implementation of a new spatial reference system for\
-      \ Canada\u2019s Maritime provinces"
+    title: The selection and implementation of a new spatial reference system for
+      Canada’s Maritime provinces
     uuid: 4018f19e-8d22-47cd-b610-0cf52f66461f
   inverseFlattening: 298.257
   inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b

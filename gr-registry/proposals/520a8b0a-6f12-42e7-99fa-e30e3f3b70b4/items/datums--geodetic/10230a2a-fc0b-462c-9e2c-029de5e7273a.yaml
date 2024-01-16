@@ -19,14 +19,14 @@ data:
     w: -122.19
   identifier: 171
   informationSources:
-  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+  - author: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
     publicationDate: '2018'
-    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    publisher: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -56,10 +56,9 @@ data:
     publicationDate: '2002'
     publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
     seriesIssueID: null
-    seriesName: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht\
-      \ 2001/2002"
+    seriesName: Deutsches Geodätisches Forschungsinstitut (DGFI) Jahresbericht 2001/2002
     seriesPage: null
-    title: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht 2001/2002"
+    title: Deutsches Geodätisches Forschungsinstitut (DGFI) Jahresbericht 2001/2002
     uuid: e1ff11bb-5856-486f-b892-29ba7c899d68
   name: SIRGAS Continuously Operating Network DGF02P01
   originDescription: Realized by a frame of 53 continuously operating stations using

@@ -2,8 +2,8 @@ data:
   aliases: []
   definition: EVRF2019 zero-tide normal height to mean-tide normal height
   description: null
-  formula: "EVRF2019mean = EVRF2019 + 0.29541\u2219sin^2(lat) + 0.00042\u2219sin^4(lat)\
-    \ - 0.0994 - 0.08593 [m]"
+  formula: EVRF2019mean = EVRF2019 + 0.29541∙sin^2(lat) + 0.00042∙sin^4(lat) - 0.0994
+    - 0.08593 [m]
   formulaCitation: null
   identifier: 762
   informationSources: []

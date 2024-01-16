@@ -15,27 +15,27 @@ data:
     w: -122.19
   identifier: 536
   informationSources:
-  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+  - author: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
     publicationDate: '2018'
-    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    publisher: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: Sistema de Referencia Geocentrico para las Americas (SIRGAS)
     uuid: 459c340f-1739-430d-9c78-be15704442f8
-  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+  - author: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
     publicationDate: '2017'
-    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    publisher: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -56,7 +56,7 @@ data:
     title: Deformation of the South American crust estimated from finite element and
       collocation methods
     uuid: 356b50b1-f288-4ea1-96b7-76d0c6dddeb2
-  - author: "W. Seem\xFCller, K. Kaniuth, H. Drewes"
+  - author: W. Seemüller, K. Kaniuth, H. Drewes
     edition: null
     editionDate: null
     isbn: null

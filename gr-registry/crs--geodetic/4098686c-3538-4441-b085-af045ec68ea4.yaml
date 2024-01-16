@@ -65,7 +65,7 @@ data:
     publisher: Springer, Berlin - Heidelberg
     seriesIssueID: Volume 120
     seriesName: International Association of Geodesy Symposia
-    seriesPage: "118\u2013121"
+    seriesPage: 118–121
     title: Realisation and Unification of NAD83 in Canada and the US via the ITRF
     uuid: 4e038740-5fca-43d7-85ed-2114c2327949
   name: NAD83(CSRS) v2 - LatLon

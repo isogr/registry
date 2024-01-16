@@ -48,11 +48,11 @@ data:
     2013. The IGb08 station coordinates are considered to be equivalent to ITRF2008.
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '2013-10-16'
-  remarks: "Replaces World Geodetic System 1984 (G1674) and used in broadcast and\
-    \ precise ephemerides from 2013-10-16. The reference frame was redesignated WGS\
-    \ 84 (G1762\u2019) after coordinates of 7 NGA tracking stations were changed following\
-    \ station moves and antenna updates between 2014-08 and 2015-06. Replaced by WGS\
-    \ 84 (G2139) from 2021-01-03."
+  remarks: Replaces World Geodetic System 1984 (G1674) and used in broadcast and precise
+    ephemerides from 2013-10-16. The reference frame was redesignated WGS 84 (G1762’)
+    after coordinates of 7 NGA tracking stations were changed following station moves
+    and antenna updates between 2014-08 and 2015-06. Replaced by WGS 84 (G2139) from
+    2021-01-03.
   scope: Spatial Referencing and GPS satellite navigation
 dateAccepted: 2018-11-17
 id: 4c35f7be-59de-4511-910c-ca3fb1a0a0ea

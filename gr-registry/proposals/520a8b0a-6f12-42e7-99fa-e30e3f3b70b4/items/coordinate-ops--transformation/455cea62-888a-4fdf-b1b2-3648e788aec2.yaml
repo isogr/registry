@@ -25,8 +25,8 @@ data:
     seriesIssueID: Volume 69, No. 4
     seriesName: Geomatica
     seriesPage: 407-418
-    title: "The Evolution of Nova Scotia\u2019s Spatial Referencing System from its\
-      \ Origins until 2012"
+    title: The Evolution of Nova Scotia’s Spatial Referencing System from its Origins
+      until 2012
     uuid: 2652886c-a240-4120-a047-4b85d024eb35
   - author: GeoNOVA Reference Coordinate System Policy Node
     edition: null
@@ -69,8 +69,8 @@ data:
       seriesIssueID: Volume 69, No. 4
       seriesName: Geomatica
       seriesPage: 407-418
-      title: "The Evolution of Nova Scotia\u2019s Spatial Referencing System from\
-        \ its Origins until 2012"
+      title: The Evolution of Nova Scotia’s Spatial Referencing System from its Origins
+        until 2012
       uuid: 17d2d3a3-9be7-4457-a9f2-7c99745ca399
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name

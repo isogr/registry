@@ -31,10 +31,9 @@ data:
     publicationDate: '2002'
     publisher: Deutsches Geodaetisches Forschungsinstitut, Munich, Germany
     seriesIssueID: null
-    seriesName: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht\
-      \ 2001/2002"
+    seriesName: Deutsches Geodätisches Forschungsinstitut (DGFI) Jahresbericht 2001/2002
     seriesPage: null
-    title: "Deutsches Geod\xE4tisches Forschungsinstitut (DGFI) Jahresbericht 2001/2002"
+    title: Deutsches Geodätisches Forschungsinstitut (DGFI) Jahresbericht 2001/2002
     uuid: f75b6e12-27e2-4f34-a031-232746641cd8
   - author: H. Drewes, O. Heidbach
     edition: null
@@ -51,14 +50,14 @@ data:
     title: Deformation of the South American crust estimated from finite element and
       collocation methods
     uuid: 7901bb11-216c-47c5-bf33-bebae80f7e09
-  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+  - author: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
     publicationDate: '2018'
-    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    publisher: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null

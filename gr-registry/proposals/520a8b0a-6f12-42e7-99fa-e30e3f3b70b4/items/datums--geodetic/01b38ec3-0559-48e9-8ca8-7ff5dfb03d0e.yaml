@@ -20,17 +20,17 @@ data:
     issn: null
     otherDetails: Personal email communication.
     publicationDate: '2017-03-01'
-    publisher: "Service de la geodesie et des leves geospatiaux, Direction de la reference\
-      \ geographique, Direction generale de l\u2019information geospatiale, Ministere\
-      \ de l\u2019Energie et des Ressources naturelles, Gouvernement du Quebec"
+    publisher: Service de la geodesie et des leves geospatiaux, Direction de la reference
+      geographique, Direction generale de l’information geospatiale, Ministere de
+      l’Energie et des Ressources naturelles, Gouvernement du Quebec
     seriesIssueID: null
     seriesName: null
     seriesPage: null
     title: 'RE: GSD file'
     uuid: e597f435-3ad1-4ae5-ba62-b543c17e3534
   name: North American Datum of 1927 (CGQ77)
-  originDescription: "Fundamental point: Meade's Ranch. Latitude: 39\xB013'26.686\"\
-    N, longitude: 98\xB032'30.506\"W (of Greenwich)."
+  originDescription: 'Fundamental point: Meade''s Ranch. Latitude: 39°13''26.686"N,
+    longitude: 98°32''30.506"W (of Greenwich).'
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '1977-05-01'
   remarks: Used in Quebec for all maps at scale 1/20 000 and larger; generally for

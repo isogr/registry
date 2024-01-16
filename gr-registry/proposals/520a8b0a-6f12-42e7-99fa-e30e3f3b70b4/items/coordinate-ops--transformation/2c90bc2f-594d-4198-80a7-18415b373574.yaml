@@ -38,8 +38,8 @@ data:
     seriesIssueID: Volume 69, No. 4
     seriesName: Geomatica
     seriesPage: 407-418
-    title: "The Evolution of Nova Scotia\u2019s Spatial Referencing System from its\
-      \ Origins until 2012"
+    title: The Evolution of Nova Scotia’s Spatial Referencing System from its Origins
+      until 2012
     uuid: ab35574f-b26e-40a8-98ba-d709d3027afc
   - author: Esri Canada
     edition: null
@@ -69,8 +69,8 @@ data:
       seriesIssueID: Volume 69, No. 4
       seriesName: Geomatica
       seriesPage: 407-418
-      title: "The Evolution of Nova Scotia\u2019s Spatial Referencing System from\
-        \ its Origins until 2012"
+      title: The Evolution of Nova Scotia’s Spatial Referencing System from its Origins
+        until 2012
       uuid: 1078fd98-73d6-4696-9f8b-fd6e89fb0036
     parameter: 09dd0359-80ee-4373-9001-1c0fa1033cb7
     type: parameter file name

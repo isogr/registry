@@ -16,7 +16,7 @@ data:
     seriesIssueID: ISO 80000-3:2006
     seriesName: International Standard
     seriesPage: null
-    title: "ISO 80000-3 Quantities and units \u2014 Part 3: Space and time"
+    title: 'ISO 80000-3 Quantities and units — Part 3: Space and time'
     uuid: 23b48807-7432-423a-bdc1-f0f7ab8102f2
   measureType: TIME
   name: second

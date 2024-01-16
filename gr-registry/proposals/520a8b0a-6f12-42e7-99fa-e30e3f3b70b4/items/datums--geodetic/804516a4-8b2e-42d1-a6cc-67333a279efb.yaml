@@ -38,8 +38,8 @@ data:
     seriesIssueID: Volume 54, No. 1
     seriesName: Geomatica
     seriesPage: 25-41
-    title: "The selection and implementation of a new spatial reference system for\
-      \ Canada\u2019s Maritime provinces"
+    title: The selection and implementation of a new spatial reference system for
+      Canada’s Maritime provinces
     uuid: 53a8a9a1-1958-4103-a37c-637aa67c3d3c
   - author: J. Bond, W. Robertson
     edition: null
@@ -52,8 +52,8 @@ data:
     seriesIssueID: Volume 69, No. 4
     seriesName: Geomatica
     seriesPage: 407-418
-    title: "The Evolution of Nova Scotia\u2019s Spatial Referencing System from its\
-      \ Origins until 2012"
+    title: The Evolution of Nova Scotia’s Spatial Referencing System from its Origins
+      until 2012
     uuid: 3666b604-6f10-4398-9622-eed8c8fdefe5
   name: Average Terrestrial System of 1977
   originDescription: ATS77 is a geocentric coordinate system defined by the Canadian

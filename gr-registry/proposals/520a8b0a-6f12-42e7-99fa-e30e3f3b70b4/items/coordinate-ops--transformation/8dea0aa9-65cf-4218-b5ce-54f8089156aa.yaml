@@ -10,11 +10,10 @@ data:
   extent:
     e: -77.99
     n: 41.01
-    name: "United States (USA) - onshore - CONUS south of 41\xB0N and between 95\xB0\
-      W and 78\xB0W (Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Iowa,\
-      \ Kansas, Kentucky, Louisiana, Maryland, Mississippi, Missouri, North Carolina,\
-      \ Ohio, Oklahoma, Pennsylvania, South Carolina, Tennessee, Texas, Virginia,\
-      \ West Virginia)."
+    name: United States (USA) - onshore - CONUS south of 41°N and between 95°W and
+      78°W (Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Iowa, Kansas,
+      Kentucky, Louisiana, Maryland, Mississippi, Missouri, North Carolina, Ohio,
+      Oklahoma, Pennsylvania, South Carolina, Tennessee, Texas, Virginia, West Virginia).
     s: 24.41
     w: -95.0
   identifier: 471
