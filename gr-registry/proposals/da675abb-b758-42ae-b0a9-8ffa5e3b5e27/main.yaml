@@ -3,7 +3,7 @@ registerVersion: ''
 id: da675abb-b758-42ae-b0a9-8ffa5e3b5e27
 timeStarted: '2024-01-16T13:06:44.778Z'
 timeEdited: '2024-01-16T13:06:44.778Z'
-state: returned-for-clarification
+state: proposed
 justification: New inter-NAD83CSRS transformations.
 items:
   /coordinate-op-parameter/dd3dddc7-f9fa-43cf-903f-059248eb85ec.yaml:
@@ -54,7 +54,7 @@ items:
     type: addition
   /coordinate-ops--transformation/9de11595-4f86-4edf-bc49-683b1d065a94.yaml:
     type: addition
-timeProposed: 2024-01-16T13:21:32.359Z
+timeProposed: 2024-01-16T13:44:10.990Z
 pastTransitions:
   - label: Propose
     timestamp: 2024-01-16T13:21:32.359Z
@@ -86,4 +86,19 @@ pastTransitions:
               value: paneron@craymer.com
     input:
       registerManagerNotes: Testing return to submitter.
+  - label: Propose
+    timestamp: 2024-01-16T13:44:10.990Z
+    fromState: returned-for-clarification
+    toState: proposed
+    stakeholder:
+      role: owner
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      parties:
+        - name: Michael Craymer
+          contacts:
+            - label: email
+              value: paneron@craymer.com
+    input:
+      justification: New inter-NAD83CSRS transformations.
 registerManagerNotes: Testing return to submitter.
