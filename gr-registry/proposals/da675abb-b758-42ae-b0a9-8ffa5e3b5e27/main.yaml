@@ -3,7 +3,7 @@ registerVersion: ''
 id: da675abb-b758-42ae-b0a9-8ffa5e3b5e27
 timeStarted: '2024-01-16T13:06:44.778Z'
 timeEdited: '2024-01-16T13:06:44.778Z'
-state: pending-control-body-review
+state: returned-for-clarification
 justification: New inter-NAD83CSRS transformations.
 items:
   /coordinate-op-parameter/dd3dddc7-f9fa-43cf-903f-059248eb85ec.yaml:
@@ -146,4 +146,20 @@ pastTransitions:
               value: paneron@craymer.com
     input:
       registerManagerNotes: ''
+  - label: Return for clarification
+    timestamp: 2024-01-16T14:41:37.361Z
+    fromState: pending-control-body-review
+    toState: returned-for-clarification
+    stakeholder:
+      role: owner
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      parties:
+        - name: Michael Craymer
+          contacts:
+            - label: email
+              value: paneron@craymer.com
+    input:
+      controlBodyNotes: Test return from Control Body for correction by submitter.
 registerManagerNotes: ''
+controlBodyNotes: Test return from Control Body for correction by submitter.
