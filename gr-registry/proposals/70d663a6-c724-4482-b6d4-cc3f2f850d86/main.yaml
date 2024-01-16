@@ -3,8 +3,8 @@ registerVersion: ''
 id: 70d663a6-c724-4482-b6d4-cc3f2f850d86
 timeStarted: '2024-01-16T09:36:36.498Z'
 timeEdited: '2024-01-16T09:36:36.498Z'
-state: draft
-justification: exported via Glossarist migration adapter
+state: proposed
+justification: test
 items:
   /coordinate-op-parameter/534d6f54-1125-4279-83b5-bf6ab048b65e.yaml:
     type: addition
@@ -52,3 +52,20 @@ items:
     type: addition
   /coordinate-ops--transformation/a16c5a06-dee4-4efa-a125-1dc01fe87f78.yaml:
     type: addition
+timeProposed: 2024-01-16T09:39:56.606Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2024-01-16T09:39:56.606Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input:
+      justification: test
