@@ -9,8 +9,8 @@ data:
   extent:
     e: -66.0
     n: 84.0
-    name: "World - onshore and offshore - between 72\xB0W and 66\xB0W, northern hemisphere\
-      \ between equator and 84\xB0N."
+    name: World - onshore and offshore - between 72°W and 66°W, northern hemisphere
+      between equator and 84°N.
     s: 0.0
     w: -72.0
   identifier: 938

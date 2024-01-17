@@ -3,7 +3,7 @@ data:
   - ppm/a
   - ppm/y
   - ppm/yr
-  - "\xB5m/m/a"
+  - µm/m/a
   denominator: 31556900000000.0
   identifier: 20
   informationSources:

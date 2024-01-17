@@ -10,8 +10,8 @@ data:
   extent:
     e: -112.0
     n: 41.0
-    name: "United States (USA) - onshore - CONUS south of 41\xB0N and west of 112\xB0\
-      W (Arizona, California, Nevada, Utah)."
+    name: United States (USA) - onshore - CONUS south of 41°N and west of 112°W (Arizona,
+      California, Nevada, Utah).
     s: 31.64
     w: -124.45
   identifier: 667

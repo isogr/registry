@@ -14,8 +14,8 @@ data:
     seriesIssueID: TM 5-241-4/2
     seriesName: Technical Manual
     seriesPage: null
-    title: "Universal Transverse Mercator Grid Tables For Latitudes 0\xB0-80\xB0 Clarke\
-      \ 1866 Spheroid (Meters) Volume II"
+    title: Universal Transverse Mercator Grid Tables For Latitudes 0°-80° Clarke 1866
+      Spheroid (Meters) Volume II
     uuid: f65acd04-2224-4ca5-a523-77195a326774
   - author: Department of the Army
     edition: null

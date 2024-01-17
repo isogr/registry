@@ -13,8 +13,8 @@ data:
     seriesIssueID: Volumes 19, Issue 7-8, No. 438
     seriesName: Astronomische Nachrichten (Astronomical Notes)
     seriesPage: 97-116
-    title: "Ueber einen Fehler in der Berechnung der franz\xF6sischen Gradmessung\
-      \ und seinen Einfluss auf die Bestimmung der Figur der Erde"
+    title: Ueber einen Fehler in der Berechnung der französischen Gradmessung und
+      seinen Einfluss auf die Bestimmung der Figur der Erde
     uuid: 9bcfedf3-5259-46a9-a349-b04bd2513fc8
   minimumOccurs: null
   name: Ordinate 1 of evaluation point

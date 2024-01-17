@@ -23,8 +23,8 @@ data:
     seriesIssueID: Volume 50
     seriesName: Bulletin of the Geographical Survey Institute
     seriesPage: 33-36
-    title: "The New Geodetic Reference System of Japan \u2212 Its adoption and application\
-      \ to our products"
+    title: The New Geodetic Reference System of Japan − Its adoption and application
+      to our products
     uuid: 04a0d781-0c78-41dc-a7e8-424ef4c32f6d
   - author: Y. Hiyama, A. Yamagiwa, T. Kawahara, M. Iwata, Y. Fukuzaki, Y. Shouji,
       Y. Sato, T. Yutsudo, T. Sasaki, H. Shigematsu, H. Yamao, T. Inukai, M. Ohtaki,
@@ -39,12 +39,12 @@ data:
     publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
     seriesIssueID: Volume 51
     seriesName: Bulletin of the Geographical Survey Institute
-    seriesPage: "1\u20139"
+    seriesPage: 1–9
     title: Concept of the New Japanese Geodetic System
     uuid: c1c346d6-3ed6-4496-95ab-757f37402920
   name: Japanese Geodetic Datum 2000
-  originDescription: "Equivalent to ITRF94 at epoch 1997.0. Fundamental point: Tokyo-Taisho,\
-    \ latitude: 35\xB039'29.1572\"N, longitude: 139\xB044'28.8759\"E (of Greenwich)."
+  originDescription: 'Equivalent to ITRF94 at epoch 1997.0. Fundamental point: Tokyo-Taisho,
+    latitude: 35°39''29.1572"N, longitude: 139°44''28.8759"E (of Greenwich).'
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: 2002-04
   remarks: Replaces Tokyo Datum. Replaced by Japanese Geodetic Datum 2011 from 2011-10-21.

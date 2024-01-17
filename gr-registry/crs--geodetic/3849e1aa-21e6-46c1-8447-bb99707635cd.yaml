@@ -21,14 +21,14 @@ data:
     w: -122.19
   identifier: 446
   informationSources:
-  - author: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+  - author: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     edition: null
     editionDate: null
     isbn: null
     issn: null
     otherDetails: Website
     publicationDate: '2018'
-    publisher: "Sistema de Referencia Geoc\xE9ntrico para las Am\xE9ricas (SIRGAS)"
+    publisher: Sistema de Referencia Geocéntrico para las Américas (SIRGAS)
     seriesIssueID: null
     seriesName: null
     seriesPage: null
@@ -39,9 +39,9 @@ data:
     editionDate: null
     isbn: null
     issn: null
-    otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal deformation\
-      \ and surface kinematics after the 2010 earthquakes in Latin America. Journal\
-      \ of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
+    otherDetails: 'In supplement to: Sánchez, L; Drewes, H (2016): Crustal deformation
+      and surface kinematics after the 2010 earthquakes in Latin America. Journal
+      of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005'
     publicationDate: '2016'
     publisher: PANGAEA
     seriesIssueID: 10.1594/PANGAEA.863131
@@ -73,9 +73,9 @@ data:
     editionDate: null
     isbn: null
     issn: null
-    otherDetails: "In supplement to: S\xE1nchez, L; Drewes, H (2016): Crustal deformation\
-      \ and surface kinematics after the 2010 earthquakes in Latin America. Journal\
-      \ of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005"
+    otherDetails: 'In supplement to: Sánchez, L; Drewes, H (2016): Crustal deformation
+      and surface kinematics after the 2010 earthquakes in Latin America. Journal
+      of Geodynamics, 102, 1-23, https://doi.org/10.1016/j.jog.2016.06.005'
     publicationDate: '2016'
     publisher: PANGAEA
     seriesIssueID: 10.1594/PANGAEA.862536

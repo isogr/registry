@@ -52,8 +52,8 @@ data:
     seriesIssueID: Volume  118, Issue 5
     seriesName: 'Journal of Geophysical Research: Solid Earth'
     seriesPage: '2633.0'
-    title: "Correction to \u201CThe Development and Evaluation of the Earth Gravitational\
-      \ Model 2008 (EGM2008)\u201D"
+    title: Correction to “The Development and Evaluation of the Earth Gravitational
+      Model 2008 (EGM2008)”
     uuid: 46f8e6db-e2cd-4ed6-a4a8-a912186e940b
   name: WGS 84 (G1762) to WGS 84 EGM2008 - OHt [3]
   operationVersion: '2.0'

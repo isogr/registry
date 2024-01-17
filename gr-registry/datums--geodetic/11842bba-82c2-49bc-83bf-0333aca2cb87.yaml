@@ -30,10 +30,9 @@ data:
       coast of Tohoku Earthquake
     uuid: b31a25e1-e32e-4b05-bee9-8ff7e96d4c44
   name: Japanese Geodetic Datum 2011
-  originDescription: "Equivalent to ITRF2008 at epoch 2011.395 (2011-05-24, 12:00\
-    \ UTC) in Northern Honshu area. Fundamental point: Tokyo-Taisho, latitude: 35\xB0\
-    39'29.1572\"N, longitude: 139\xB044'28.8869\"E (of Greenwich). Equivalent to JGD2000\
-    \ elsewhere."
+  originDescription: 'Equivalent to ITRF2008 at epoch 2011.395 (2011-05-24, 12:00
+    UTC) in Northern Honshu area. Fundamental point: Tokyo-Taisho, latitude: 35°39''29.1572"N,
+    longitude: 139°44''28.8869"E (of Greenwich). Equivalent to JGD2000 elsewhere.'
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '2011-10-21'
   remarks: Replaces Japanese Geodetic Datum 2000 from 2011-10-21.

@@ -10,9 +10,9 @@ data:
   extent:
     e: -66.91
     n: 47.47
-    name: "United States (USA) - onshore - CONUS north of 41\xB0N and east of 78\xB0\
-      W (Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania,\
-      \ Rhode Island, Vermont)."
+    name: United States (USA) - onshore - CONUS north of 41°N and east of 78°W (Connecticut,
+      Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+      Island, Vermont).
     s: 41.0
     w: -78.0
   identifier: 704

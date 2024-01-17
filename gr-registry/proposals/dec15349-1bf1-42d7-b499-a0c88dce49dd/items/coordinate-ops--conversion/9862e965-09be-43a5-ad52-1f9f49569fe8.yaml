@@ -9,8 +9,8 @@ data:
   extent:
     e: -126.0
     n: -80.0
-    name: "World - onshore and offshore - between 132\xB0W and 126\xB0W, southern\
-      \ hemisphere between equator and 80\xB0S."
+    name: World - onshore and offshore - between 132°W and 126°W, southern hemisphere
+      between equator and 80°S.
     s: 0.0
     w: -132.0
   identifier: 852

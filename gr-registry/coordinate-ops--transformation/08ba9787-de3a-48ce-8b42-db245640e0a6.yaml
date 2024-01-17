@@ -10,9 +10,9 @@ data:
   extent:
     e: -71.9
     n: 41.01
-    name: "United States (USA) - onshore - CONUS south of 41\xB0N and east of 78\xB0\
-      W (Delaware, Maryland, New Jersey, New York, North Carolina, Pennsylvania, Virginia,\
-      \ West Virginia)."
+    name: United States (USA) - onshore - CONUS south of 41°N and east of 78°W (Delaware,
+      Maryland, New Jersey, New York, North Carolina, Pennsylvania, Virginia, West
+      Virginia).
     s: 33.84
     w: -78.0
   identifier: 624

@@ -26,8 +26,8 @@ data:
     seriesIssueID: Volume 50
     seriesName: Bulletin of the Geographical Survey Institute
     seriesPage: 33-36
-    title: "The New Geodetic Reference System of Japan \u2212 Its adoption and application\
-      \ to our products"
+    title: The New Geodetic Reference System of Japan − Its adoption and application
+      to our products
     uuid: 3005f30b-1921-4264-bdef-a1111334d5e8
   - author: Y. Hiyama, A. Yamagiwa, T. Kawahara, M. Iwata, Y. Fukuzaki, Y. Shouji,
       Y. Sato, T. Yutsudo, T. Sasaki, H. Shigematsu, H. Yamao, T. Inukai, M. Ohtaki,
@@ -42,7 +42,7 @@ data:
     publisher: Geographical Survey Institute (GSI), Tsukuba, Japan
     seriesIssueID: Volume 51
     seriesName: Bulletin of the Geographical Survey Institute
-    seriesPage: "1\u20139"
+    seriesPage: 1–9
     title: Concept of the New Japanese Geodetic System
     uuid: 11a03cc9-af4b-4e1d-9e08-b429d92eac8c
   name: JGD2000 - LatLon

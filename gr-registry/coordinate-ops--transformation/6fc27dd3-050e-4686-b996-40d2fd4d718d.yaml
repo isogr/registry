@@ -10,9 +10,9 @@ data:
   extent:
     e: -94.99
     n: 41.01
-    name: "United States (USA) - onshore - CONUS south of 41\xB0N and between 112\xB0\
-      W and 95\xB0W (Arizona, Colorado, Iowa, Kansas, Missouri, Nebraska, New Mexico,\
-      \ Oklahoma, Texas, Utah)."
+    name: United States (USA) - onshore - CONUS south of 41°N and between 112°W and
+      95°W (Arizona, Colorado, Iowa, Kansas, Missouri, Nebraska, New Mexico, Oklahoma,
+      Texas, Utah).
     s: 25.83
     w: -112.0
   identifier: 664

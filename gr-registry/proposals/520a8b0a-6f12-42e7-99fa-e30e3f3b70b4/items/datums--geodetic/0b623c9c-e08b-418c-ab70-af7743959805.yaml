@@ -29,8 +29,8 @@ data:
     title: First-order Geodetic Triangulation of New Zealand 1909-49 and 1973-74
     uuid: 36fc929e-b3c1-454e-a1e0-c00498aaa951
   name: New Zealand Geodetic Datum 1949
-  originDescription: "Fundamental point: Papatahi. Latitude: 41\xB019' 8.900\"S, longitude:\
-    \ 175\xB002'51.000\"E (of Greenwich)."
+  originDescription: 'Fundamental point: Papatahi. Latitude: 41°19'' 8.900"S, longitude:
+    175°02''51.000"E (of Greenwich).'
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '1949'
   remarks: Replaced by New Zealand Geodetic Datum 2000 from March 2000.

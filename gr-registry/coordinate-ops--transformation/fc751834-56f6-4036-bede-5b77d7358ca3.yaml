@@ -10,9 +10,9 @@ data:
   extent:
     e: -95.0
     n: 49.38
-    name: "United States (USA) - onshore - CONUS north of 41\xB0N and between 112\xB0\
-      W and 95\xB0W (Idaho, Iowa, Minnesota, Montana, Nebraska, North Dakota, South\
-      \ Dakota, Utah, Wyoming)."
+    name: United States (USA) - onshore - CONUS north of 41°N and between 112°W and
+      95°W (Idaho, Iowa, Minnesota, Montana, Nebraska, North Dakota, South Dakota,
+      Utah, Wyoming).
     s: 41.0
     w: -112.0
   identifier: 717

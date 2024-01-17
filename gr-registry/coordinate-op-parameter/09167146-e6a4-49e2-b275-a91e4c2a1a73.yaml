@@ -43,7 +43,7 @@ data:
     seriesIssueID: '1395'
     seriesName: U.S. Geological Survey Professional Paper
     seriesPage: null
-    title: "Map Projections \u2013 A Working Manual"
+    title: Map Projections – A Working Manual
     uuid: 5f6e7ae5-f9b3-4fb6-8dd7-be05365fb4af
   minimumOccurs: null
   name: False northing

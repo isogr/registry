@@ -29,8 +29,8 @@ data:
     title: Test Adjustment of the Canadian Primary Horizontal Network
     uuid: 141279f4-4ba1-4bef-865d-c403ceb3ebda
   name: North American Datum of 1927 (MAY76)
-  originDescription: "Fundamental point: Meade's Ranch. Latitude: 39\xB013'26.686\"\
-    N, longitude: 98\xB032'30.506\"W (of Greenwich)."
+  originDescription: 'Fundamental point: Meade''s Ranch. Latitude: 39°13''26.686"N,
+    longitude: 98°32''30.506"W (of Greenwich).'
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '1976-05-01'
   remarks: NAD27(MAY76) used in Ontario for all maps at scale 1/20000 and larger.
