@@ -31,7 +31,9 @@ data:
     title: Technical Summary for Saudi Arabia National Spatial Reference System (SANSRS).
     uuid: 5b935338-c6cd-430a-b5ba-ca6695586545
   name: KSA-GRF17 / UTM zone 39N
-  operation: 4d68e443-7170-4ed3-9985-a536df752d66
+  operation:
+    classID: coordinate-ops--conversion
+    itemID: 4d68e443-7170-4ed3-9985-a536df752d66
   remarks: Unified national system replacing Ain el Abd / UTM zone 39N and MTRF-2000
     / UTM zone 39N from 2018.
   scope: Spatial referencing
