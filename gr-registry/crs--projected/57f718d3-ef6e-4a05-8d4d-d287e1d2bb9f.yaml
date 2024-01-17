@@ -1,6 +1,8 @@
 data:
   aliases: []
-  baseCRS: 3d030485-e0d9-4937-aa4a-0874321795af
+  baseCRS:
+    classID: b8a1d920-61bb-4a2e-a111-b49df172719c
+    itemID: 3d030485-e0d9-4937-aa4a-0874321795af
   coordinateSystem:
     classID: coordinate-sys--cartesian
     itemID: 618628cb-4ec1-4da9-aad0-e902078e0778
@@ -8,7 +10,7 @@ data:
   extent:
     e: 36.0
     n: 29.38
-    name: "Saudi Arabia - onshore and offshore - west of 36\xB0E"
+    name: Saudi Arabia - onshore and offshore - west of 36°E
     s: 24.92
     w: 34.44
   identifier: 955
