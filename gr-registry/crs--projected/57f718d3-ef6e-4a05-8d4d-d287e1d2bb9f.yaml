@@ -1,7 +1,7 @@
 data:
   aliases: []
   baseCRS:
-    classID: b8a1d920-61bb-4a2e-a111-b49df172719c
+    classID: crs--geodetic
     itemID: 3d030485-e0d9-4937-aa4a-0874321795af
   coordinateSystem:
     classID: coordinate-sys--cartesian
