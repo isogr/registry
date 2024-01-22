@@ -3,7 +3,7 @@ registerVersion: ''
 id: d94541ad-0a08-487c-85db-7a667036e424
 timeStarted: '2024-01-22T13:49:33.833Z'
 timeEdited: '2024-01-22T13:49:33.833Z'
-state: proposed
+state: withdrawn
 justification: Test with fixed accuracy
 items:
   /coordinate-op-parameter/970dca17-81c9-4ba6-979e-bbbc3420de82.yaml:
@@ -71,3 +71,18 @@ pastTransitions:
               value: anton@strogonoff.name
     input:
       justification: Test with fixed accuracy
+  - label: Withdraw
+    timestamp: 2024-01-22T14:14:19.947Z
+    fromState: proposed
+    toState: withdrawn
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input: {}
+timeDisposed: 2024-01-22T14:14:19.947Z
