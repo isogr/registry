@@ -1,0 +1,32 @@
+id: 959b3e43-4c10-4c28-871d-3d8f23a5df7f
+data:
+  identifier: 1004
+  name: Geographic3D Shift by Velocity Grid
+  aliases:
+    - Coordinate Epoch Propagation
+  informationSources:
+    - title: Coordinate Transformations
+      publisher: >-
+        Canadian Geodetic Survey, Surveyor General Branch, Lands and Minerals
+        Sector, Natural Resources Canada, Government of Canada
+  remarks: >-
+    Transformation method between different static NAD83(CSRS) realizations
+    (datums) at different fixed coordinate reference epochs (defined in each
+    datum entry) using an NRCan velocity grid to account for crustal motions
+    between epochs, which represent the primary differences between such
+    realizations. Residual differences are due to the use of more data and
+    improved adjustment methodologies in successive realizations, which are
+    considered insignificant for practical purposes and quantified by the
+    specific transformation accuracies. The transformation involves
+    interpolation of the specified velocity grid using ellipsoidal coordinates
+    in the interpolation CRS to obtain the predicted velocities in mm/yr in
+    north, east and up. See formula citation for description of grid format. No
+    official reference is provided by NRCan for the transformation formula. See
+    instead the description in EPSG Geomatics Guidance Note Number 7, part 2.
+    Method is reversible to any practical accuracy level (better than 0.001
+    mm/yr).
+  parameters:
+    - 534d6f54-1125-4279-83b5-bf6ab048b65e
+    - 15811eed-e76f-43f1-9b66-e36d1c94aacf
+status: valid
+dateAccepted: 2024-01-22T13:24:45.671Z
