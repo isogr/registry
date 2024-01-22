@@ -3,8 +3,8 @@ registerVersion: ''
 id: 81e4aedc-02e7-4e13-b43b-d6b63afc9beb
 timeStarted: '2024-01-22T14:14:39.091Z'
 timeEdited: '2024-01-22T14:14:39.091Z'
-state: draft
-justification: exported via Glossarist migration adapter
+state: proposed
+justification: Sheet ISOGRv6_InterNAD83 conversion result with fixed parameter values
 items:
   /coordinate-op-parameter/e5c32464-982c-4f1a-b5c6-0f17b730a193.yaml:
     type: addition
@@ -54,3 +54,20 @@ items:
     type: addition
   /coordinate-ops--transformation/ab48b811-d74c-4d50-9e6b-28dc9a9beade.yaml:
     type: addition
+timeProposed: 2024-01-22T14:15:28.950Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2024-01-22T14:15:28.950Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input:
+      justification: Sheet ISOGRv6_InterNAD83 conversion result with fixed parameter values
