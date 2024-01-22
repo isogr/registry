@@ -3,7 +3,7 @@ registerVersion: ''
 id: 70d663a6-c724-4482-b6d4-cc3f2f850d86
 timeStarted: '2024-01-16T09:36:36.498Z'
 timeEdited: '2024-01-16T09:36:36.498Z'
-state: accepted
+state: pending-control-body-review
 justification: test
 items:
   /coordinate-op-parameter/534d6f54-1125-4279-83b5-bf6ab048b65e.yaml:
@@ -84,21 +84,4 @@ pastTransitions:
               value: anton@strogonoff.name
     input:
       registerManagerNotes: test
-  - label: Accept
-    timestamp: 2024-01-22T08:37:39.056Z
-    fromState: pending-control-body-review
-    toState: accepted
-    stakeholder:
-      role: owner
-      name: Anton (Test)
-      gitServerUsername: strogonoff
-      parties:
-        - name: Anton
-          contacts:
-            - label: email
-              value: anton@strogonoff.name
-    input:
-      controlBodyNotes: test2
 registerManagerNotes: test
-controlBodyNotes: test2
-timeDisposed: 2024-01-22T08:37:39.056Z
