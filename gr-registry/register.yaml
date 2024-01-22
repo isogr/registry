@@ -32,14 +32,6 @@ stakeholders:
         contacts:
           - label: email
             value: ''
-  - role: submitter
-    name: Anton (Test)
-    gitServerUsername: strogonoff
-    parties:
-      - name: Anton
-        contacts:
-          - label: email
-            value: anton@strogonoff.name
   - role: owner
     name: Alex (Test)
     gitServerUsername: CAMOBAP
