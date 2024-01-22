@@ -1,0 +1,56 @@
+submittingStakeholderGitServerUsername: strogonoff
+registerVersion: ''
+id: d94541ad-0a08-487c-85db-7a667036e424
+timeStarted: '2024-01-22T13:49:33.833Z'
+timeEdited: '2024-01-22T13:49:33.833Z'
+state: draft
+justification: exported via Glossarist migration adapter
+items:
+  /coordinate-op-parameter/970dca17-81c9-4ba6-979e-bbbc3420de82.yaml:
+    type: addition
+  /coordinate-op-method/afd7b969-f6d0-416d-a038-b48faf341edb.yaml:
+    type: addition
+  /coordinate-ops--transformation/fc2b01fe-7214-4dc8-bd49-b5e89bac87e2.yaml:
+    type: addition
+  /coordinate-ops--transformation/e019f968-45db-4aa1-8f2e-1b390277c59b.yaml:
+    type: addition
+  /coordinate-ops--transformation/c7209754-0840-4241-824a-37c47a181023.yaml:
+    type: addition
+  /coordinate-ops--transformation/7e7b03f3-debf-415a-a07a-8bc65940ad48.yaml:
+    type: addition
+  /coordinate-ops--transformation/556f0127-4095-4b95-8310-e20f57ad9191.yaml:
+    type: addition
+  /coordinate-ops--transformation/0a9a7158-ef37-4249-a8e5-8a5d96b4b302.yaml:
+    type: addition
+  /coordinate-ops--transformation/ac5f155a-4233-4ece-9649-3395f9a9b452.yaml:
+    type: addition
+  /coordinate-ops--transformation/c6075939-0bbd-42f4-8f11-aafc584109a2.yaml:
+    type: addition
+  /coordinate-ops--transformation/a099ed23-b51a-4884-8808-b5b97702e93d.yaml:
+    type: addition
+  /coordinate-ops--transformation/a017a53b-be8b-4f95-b5b6-3ab0eb3dd6d0.yaml:
+    type: addition
+  /coordinate-ops--transformation/85b6bf6b-b410-4640-bc39-8fb45d7d459b.yaml:
+    type: addition
+  /coordinate-ops--transformation/caa7ddca-bc3b-45f2-9803-fe824420da1f.yaml:
+    type: addition
+  /coordinate-ops--transformation/96e75041-43c0-4b9c-bde9-705c64b2675f.yaml:
+    type: addition
+  /coordinate-ops--transformation/4edd0f27-23cc-4ae0-9216-f777bfe871bd.yaml:
+    type: addition
+  /coordinate-ops--transformation/5a6730b5-9482-4e54-9ef4-c820108ec3db.yaml:
+    type: addition
+  /coordinate-ops--transformation/66d91246-fce6-4f99-82a1-6595b6f63b44.yaml:
+    type: addition
+  /coordinate-ops--transformation/a47c960b-94c3-4d41-a1ac-24dbf637e672.yaml:
+    type: addition
+  /coordinate-ops--transformation/49a8811b-2a4e-45e5-a992-3e007dda7ac8.yaml:
+    type: addition
+  /coordinate-ops--transformation/b7290d09-40d3-4ec9-a07f-4cb697045e53.yaml:
+    type: addition
+  /coordinate-ops--transformation/3b56894c-1651-46c3-bde9-9bf12443352c.yaml:
+    type: addition
+  /coordinate-ops--transformation/a14e8e2a-fe5f-4f9f-9e54-c702381bbf9e.yaml:
+    type: addition
+  /coordinate-ops--transformation/947e478a-00ce-4583-a30d-484fa1d91fc2.yaml:
+    type: addition
