@@ -1,0 +1,50 @@
+id: f9e6dc71-fd65-4745-ad6b-eafe5cfc46a5
+data:
+  identifier: -11
+  name: NAD83(CSRS) v3 to NAD83(CSRS) v4 [NRCan v2]
+  aliases:
+    - NAD83(CSRS) epoch 1997 to NAD83(CSRS) epoch 2002
+  informationSources:
+    - title: 'NAD83v70VG: a new national crustal velocity model for Canada'
+      publisher: Geomatics Canada
+    - title: Coordinate Transformations
+      publisher: >-
+        Canadian Geodetic Survey, Surveyor General Branch, Lands and Minerals
+        Sector, Natural Resources Canada, Government of Canada
+  remarks: >-
+    Transformation based on propagation between coordinate reference epochs
+    using the NAD83(CSRS) v7.0 velocity model/grid.
+  operationVersion: NRCan v2
+  accuracy:
+    value: 0
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 470dfa24-8bb0-4856-8f4f-14dfca7f087a
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 874ac0b8-666c-4330-a00d-c73f9e23c344
+  extent:
+    name: >-
+      Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
+      Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: 40.04
+    w: -141.01
+    'n': 90
+    e: -47.74
+  parameters:
+    - type: parameter file name
+      fileCitation: null
+      name: ''
+      value: NAD83v70VG
+      parameter: 534d6f54-1125-4279-83b5-bf6ab048b65e
+      unitOfMeasurement: null
+    - type: measure (w/ UoM)
+      fileCitation: null
+      name: ''
+      value: '320'
+      parameter: 15811eed-e76f-43f1-9b66-e36d1c94aacf
+      unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
+status: valid
+dateAccepted: 2024-01-22T08:44:10.828Z
