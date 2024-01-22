@@ -1,0 +1,77 @@
+id: dd225a6d-c210-47cd-91a6-982f8ca41ebd
+data:
+  identifier: -21
+  name: NAD83(CSRS) v6 to NAD83(CSRS) v8 [NRCan v1]
+  aliases: []
+  informationSources:
+    - title: Coordinate Transformations
+      publisher: >-
+        Canadian Geodetic Survey, Surveyor General Branch, Lands and Minerals
+        Sector, Natural Resources Canada, Government of Canada
+  remarks: >-
+    Null transformation. NAD83(CSRS) v6 and NAD83(CSRS) v8 are referenced to the
+    same coordinate reference epoch and considered compatible with each other.
+  operationVersion: NRCan v1
+  accuracy:
+    value: 0
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: cf510fac-6870-48c0-96f3-6e7415b4edcb
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 613a11ad-61d8-4b96-92b7-b99708de619c
+  extent:
+    name: >-
+      Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
+      Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: 40.04
+    w: -141.01
+    'n': 90
+    e: -47.74
+  parameters:
+    - type: measure (w/ UoM)
+      fileCitation: null
+      name: ''
+      value: ''
+      parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    - type: measure (w/ UoM)
+      fileCitation: null
+      name: ''
+      value: ''
+      parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    - type: measure (w/ UoM)
+      fileCitation: null
+      name: ''
+      value: ''
+      parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    - type: measure (w/ UoM)
+      fileCitation: null
+      name: ''
+      value: ''
+      parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      name: ''
+      value: ''
+      parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      name: ''
+      value: ''
+      parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      name: ''
+      value: ''
+      parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+      unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
+dateAccepted: '2024-01-16T09:36:36.498Z'
+status: valid
