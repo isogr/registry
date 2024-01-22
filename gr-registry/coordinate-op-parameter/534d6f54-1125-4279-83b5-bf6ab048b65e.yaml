@@ -1,0 +1,16 @@
+id: 534d6f54-1125-4279-83b5-bf6ab048b65e
+data:
+  identifier: -1
+  name: Point motion velocity grid file
+  aliases: []
+  informationSources:
+    - title: >-
+        Geomatics Guidance Note Number 7, part 2: Coordinate Conversions and
+        Transformations including Formulas
+      publisher: International Association of Oil & Gas Producers
+  remarks: >-
+    The name of a point motion grid file containing velocities, together with
+    the source of the file.
+  minimumOccurs: null
+status: valid
+dateAccepted: 2024-01-22T08:56:40.469Z
