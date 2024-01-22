@@ -3,8 +3,8 @@ registerVersion: ''
 id: d94541ad-0a08-487c-85db-7a667036e424
 timeStarted: '2024-01-22T13:49:33.833Z'
 timeEdited: '2024-01-22T13:49:33.833Z'
-state: draft
-justification: exported via Glossarist migration adapter
+state: proposed
+justification: Test with fixed accuracy
 items:
   /coordinate-op-parameter/970dca17-81c9-4ba6-979e-bbbc3420de82.yaml:
     type: addition
@@ -54,3 +54,20 @@ items:
     type: addition
   /coordinate-ops--transformation/947e478a-00ce-4583-a30d-484fa1d91fc2.yaml:
     type: addition
+timeProposed: 2024-01-22T13:53:02.371Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2024-01-22T13:53:02.371Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input:
+      justification: Test with fixed accuracy
