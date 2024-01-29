@@ -16,16 +16,13 @@ jobs:
       url: https://staging-isogr.demo.paneron.org
     steps:
       - name: Use Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
-          node-version: '14.x'
+          node-version: '20.11.0'
       - uses: actions/checkout@master
-      - name: Install NPM dependencies
+      - name: Build
         run: |
-          yarn install
-      - name: Build site
-        run: |
-          yarn build
+          npx @paneron/site-builder@0.0.6 --outdir dist --datadir gr-registry
       - name: Deploy to AWS
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
