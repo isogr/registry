@@ -5,7 +5,7 @@ isConcluded: true
 items:
   /coordinate-ops--transformation/237125e4-3f8c-4312-b5c1-97678f9b79cf.yaml:
     amendmentType: supersession
-    supersedingItemIDs: []
+    supersedingItemIDs: 97f68412-13dd-4aad-817a-75fbde99b0f3
     type: amendment
 justification: Added "Epoch 2010" to item name and in Remarks, added original item
   name as an alias, corrected grid file name. Submitted by M. Craymer, Canadian Geodetic
