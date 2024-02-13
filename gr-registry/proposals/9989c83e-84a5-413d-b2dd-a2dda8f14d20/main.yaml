@@ -5,7 +5,8 @@ isConcluded: true
 items:
   /coordinate-ops--transformation/29c7cc67-adb1-4363-8112-0e52f0c6f018.yaml:
     amendmentType: supersession
-    supersedingItemIDs: 8147f1c4-becc-47ec-9a21-d40cbb337f19
+    supersedingItemIDs:
+    - 8147f1c4-becc-47ec-9a21-d40cbb337f19
     type: amendment
   /coordinate-ops--transformation/8147f1c4-becc-47ec-9a21-d40cbb337f19.yaml:
     type: addition
