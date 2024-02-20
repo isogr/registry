@@ -40,6 +40,14 @@ stakeholders:
         contacts:
           - label: email
             value: example@example.com
+  - role: owner
+    name: Stefano (Test)
+    gitServerUsername: stefanomunarini
+    parties:
+      - name: Stefano
+        contacts:
+          - label: email
+            value: stefano@placeholder.name
 version:
   id: '1.1'
   timestamp: 2023-04-20T17:00:00.000Z
