@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: ''
 controlBodyNotes: null
+datedisposed: 2018-11-17
+dateproposed: 2018-11-17
 id: 37ac9fcd-f287-4a52-a17c-1f9a2f9f124a
 isConcluded: true
 items:
@@ -7,9 +9,10 @@ items:
     type: addition
 justification: Entered by the Control Body
 notes: []
+register_manager_notes: null
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -18,6 +21,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2018-11-17
-timeProposed: 2018-11-17
 title: radian per second

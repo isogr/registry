@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2022-07-25.
 controlBodyNotes: ''
+datedisposed: 2022-07-25
+dateproposed: 2022-07-25
 id: 5f300668-894a-403a-8ffb-64e9c0492650
 isConcluded: true
 items:
@@ -12,9 +14,10 @@ notes:
 - author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
   note: '[Register Manager] Return to submitter for review.'
   uuid: 2cb71715-5ab6-48c4-a696-ad4cbeb84055
+register_manager_notes: ''
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -23,6 +26,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2022-07-25
-timeProposed: 2022-07-25
 title: NAD83(CSRS) v6 to CGVD2013(CGG2013a) - OHt [v1]

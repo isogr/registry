@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by Control Body Chair, 2021-06-08.
 controlBodyNotes: ''
+datedisposed: 2021-06-08
+dateproposed: 2021-06-08
 id: 4e94ac4f-e3ad-4e48-b0d7-d6136de2d18f
 isConcluded: true
 items:
@@ -8,9 +10,10 @@ items:
 justification: Corrected format of name following ISO 19127 naming convention. Submitted
   by M. Craymer, Control Body Chair.
 notes: []
+register_manager_notes: ''
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -19,6 +22,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2021-06-08
-timeProposed: 2021-06-08
 title: EVRF2019-NHt

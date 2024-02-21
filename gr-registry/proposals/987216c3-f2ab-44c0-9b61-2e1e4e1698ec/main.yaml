@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-04-29.
 controlBodyNotes: ''
+datedisposed: 2021-05-17
+dateproposed: 2021-04-29
 id: 987216c3-f2ab-44c0-9b61-2e1e4e1698ec
 isConcluded: true
 items:
@@ -9,9 +11,10 @@ justification: Removed import spreadsheet reference from Remarks and used full n
   of other referenced operation methods. Submitted by M. Craymer, Chair of the Control
   Body for the ISO Geodetic Registry.
 notes: []
+register_manager_notes: ''
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -20,6 +23,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2021-04-29
-timeProposed: 2021-05-17
 title: Time-Dependent Coordinate Frame Transformation (geocentric Cartesian domain)

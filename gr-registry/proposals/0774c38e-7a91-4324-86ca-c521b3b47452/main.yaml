@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-04-29.
 controlBodyNotes: ''
+datedisposed: 2021-05-17
+dateproposed: 2021-04-29
 id: 0774c38e-7a91-4324-86ca-c521b3b47452
 isConcluded: true
 items:
@@ -9,9 +11,10 @@ justification: Removed EPSG codes from Remarks and used full name of other refer
   operation method. Submitted by M. Craymer, Chair of the Control Body for the ISO
   Geodetic Registry.
 notes: []
+register_manager_notes: ''
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -20,6 +23,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2021-04-29
-timeProposed: 2021-05-17
 title: Position Vector Transformation (geocentric Cartesian domain)

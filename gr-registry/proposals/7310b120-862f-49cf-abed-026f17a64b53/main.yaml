@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Accepted proposal to invalidate this incorrect item.
 controlBodyNotes: Required to remove incorrect item.
+datedisposed: 2019-06-05
+dateproposed: 2019-06-05
 id: 7310b120-862f-49cf-abed-026f17a64b53
 isConcluded: true
 items:
@@ -9,9 +11,10 @@ items:
 justification: This item is a conventional horizontal coordinate reference system
   and a 3D coordinate system does not exist.
 notes: []
+register_manager_notes: Required to remove incorrect item.
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -20,6 +23,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2019-06-05
-timeProposed: 2019-06-05
 title: AGD66 - LatLonEHt

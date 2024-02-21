@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2023-01-30.
 controlBodyNotes: null
+datedisposed: 2023-02-26
+dateproposed: 2023-02-26
 id: a02f6da1-6bd8-4089-ba06-a4f66bc90d74
 isConcluded: true
 items:
@@ -8,9 +10,10 @@ items:
 justification: New NGA-approved transformation. Submitted by K. Kelly, Esri & M. Dennis,
   U.S. National Geodetic Survey.
 notes: []
+register_manager_notes: null
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -19,6 +22,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2023-02-26
-timeProposed: 2023-02-26
 title: ' WGS 84 (G1150) to WGS 84 (G1674) [KD v1]'
