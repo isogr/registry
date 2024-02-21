@@ -2,10 +2,10 @@ id: dc918baf-969e-42b4-8586-e16dba8f6c58
 dateAccepted: 2024-02-21T11:50:07.131Z
 status: valid
 data:
-  name: ''
-  identifier: 0
+  name: Test transformation
+  identifier: -1
   informationSources: []
-  remarks: ''
+  remarks: Test
   aliases: []
   extent:
     name: ''
