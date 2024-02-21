@@ -6,7 +6,7 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /coordinate-ops--transformation/dc918baf-969e-42b4-8586-e16dba8f6c58.yaml:
     type: addition
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2024-02-21T11:50:59.449Z
 pastTransitions:
@@ -25,3 +25,19 @@ pastTransitions:
               value: anton@strogonoff.name
     input:
       justification: Test proposal
+  - label: Submit for control body review
+    timestamp: 2024-02-21T11:51:24.511Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      role: owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      parties:
+        - name: Anton
+          contacts:
+            - label: email
+              value: anton@strogonoff.name
+    input:
+      registerManagerNotes: Register manager notes go here
+registerManagerNotes: Register manager notes go here
