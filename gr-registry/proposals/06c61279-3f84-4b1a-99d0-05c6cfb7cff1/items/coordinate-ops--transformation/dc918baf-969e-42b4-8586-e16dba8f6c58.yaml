@@ -1,0 +1,21 @@
+id: dc918baf-969e-42b4-8586-e16dba8f6c58
+dateAccepted: 2024-02-21T11:50:07.131Z
+status: valid
+data:
+  name: ''
+  identifier: 0
+  informationSources: []
+  remarks: ''
+  aliases: []
+  extent:
+    name: ''
+    'n': 0
+    e: 0
+    s: 0
+    w: 0
+  scope: ''
+  operationVersion: ''
+  parameters: []
+  accuracy:
+    value: 0
+    unitOfMeasurement: ''
