@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Accepted by Control Body during meeting of 2020-07-27.
 controlBodyNotes: NEW
+datedisposed: 2020-07-27
+dateproposed: 2020-07-27
 id: 2221e4b1-c8cf-498e-9257-c1e46475a320
 isConcluded: true
 items:
@@ -19,9 +21,10 @@ items:
     type: addition
 justification: Submitted by China National Bureau of Surveying, Mapping and Geo-information
 notes: []
+register_manager_notes: NEW
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -30,6 +33,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2020-07-27
-timeProposed: 2020-07-27
 title: CGCS 2000

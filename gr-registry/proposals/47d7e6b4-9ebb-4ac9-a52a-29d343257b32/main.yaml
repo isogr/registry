@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body in its meeting of 2020-09-28.
 controlBodyNotes: Please approve additional Remarks..
+datedisposed: 2020-09-28
+dateproposed: 2020-09-28
 id: 47d7e6b4-9ebb-4ac9-a52a-29d343257b32
 isConcluded: true
 items:
@@ -9,9 +11,10 @@ justification: Added comment on alignment of GDA2020 to the Australian tectonic 
   in the Remarks. Submitted by Dr. Michael Craymer, Chair of the Control Body and
   Nicholas Brown, Geoscience Australia.
 notes: []
+register_manager_notes: Please accept proposal.
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -20,6 +23,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2020-09-28
-timeProposed: 2020-09-28
 title: Geocentric Datum of Australia 2020

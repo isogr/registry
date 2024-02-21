@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-03-01.
 controlBodyNotes: ''
+datedisposed: 2021-03-01
+dateproposed: 2021-03-01
 id: e19e08ec-1177-4ea9-b70a-aeb022f39768
 isConcluded: true
 items:
@@ -8,9 +10,10 @@ items:
 justification: Corrected formatting of name (added space before the hyphen). Submitted
   by M. Craymer, Chair of the Control Body.
 notes: []
+register_manager_notes: ''
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -19,6 +22,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2021-03-01
-timeProposed: 2021-03-01
 title: ETRF2014- LatLon

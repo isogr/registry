@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-08-30.
 controlBodyNotes: ''
+datedisposed: 2021-08-30
+dateproposed: 2021-08-30
 id: e260afe3-3a0f-45b2-964b-dc1691a94326
 isConcluded: true
 items:
@@ -25,9 +27,10 @@ justification: New operation method proposal for Saudi Arabia. Submitted by K. K
   & M. Craymer (Control Body) on behalf of General Directorate of Geodesy, General
   Authority for Survey and Geospatial Information, Kingdom of Saudi Arabia.
 notes: []
+register_manager_notes: ''
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -36,6 +39,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2021-08-30
-timeProposed: 2021-08-30
 title: Geographic3D to Gravity Related Height (GRAVSOFT)

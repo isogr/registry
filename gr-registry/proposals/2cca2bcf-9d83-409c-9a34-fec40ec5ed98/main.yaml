@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2023-02-27.
 controlBodyNotes: null
+datedisposed: 2023-02-27
+dateproposed: 2023-02-27
 id: 2cca2bcf-9d83-409c-9a34-fec40ec5ed98
 isConcluded: true
 items:
@@ -18,9 +20,10 @@ items:
 justification: New IGS CRS. Submitted by M. Craymer, ISOGR Chair and T. Gattacceca,
   IGN.
 notes: []
+register_manager_notes: null
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -29,6 +32,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2023-02-27
-timeProposed: 2023-02-27
 title: IGS20 - XYZ

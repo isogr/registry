@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2023-07-24.
 controlBodyNotes: null
+datedisposed: 2023-10-02
+dateproposed: 2023-10-02
 id: 04fc63a2-884b-48a7-b857-2cdda600e797
 isConcluded: true
 items:
@@ -34,9 +36,10 @@ items:
 justification: New Korean entry. Submitted by D.-Y. Kim & J.-Y. Moon, National Geographic
   Information Institute (NGII), Republic of Korea.
 notes: []
+register_manager_notes: null
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -45,6 +48,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2023-10-02
-timeProposed: 2023-10-02
 title: KGD2002 - LatLonEHt

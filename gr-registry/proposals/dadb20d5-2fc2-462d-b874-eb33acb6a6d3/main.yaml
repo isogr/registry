@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body during its meeting of 2020-09-03.
 controlBodyNotes: NEW
+datedisposed: 2020-09-03
+dateproposed: 2020-09-03
 id: dadb20d5-2fc2-462d-b874-eb33acb6a6d3
 isConcluded: true
 items:
@@ -7,9 +9,10 @@ items:
     type: addition
 justification: Submitted by Dr. Michael Craymer, Canadian Geodetic Survey.
 notes: []
+register_manager_notes: NEW
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -18,6 +21,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2020-09-03
-timeProposed: 2020-09-03
 title: NAD83(Original) to NAD83(CSRS) v6 [NLv1]

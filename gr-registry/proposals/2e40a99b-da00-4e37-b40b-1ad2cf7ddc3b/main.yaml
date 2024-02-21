@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-10-25.
 controlBodyNotes: ''
+datedisposed: 2021-10-25
+dateproposed: 2021-10-25
 id: 2e40a99b-da00-4e37-b40b-1ad2cf7ddc3b
 isConcluded: true
 items:
@@ -13,9 +15,10 @@ notes:
 - author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
   note: '[Register Manager] Need to verify remarks regarding provincial adoption/publication.'
   uuid: d8aa7a6b-cc38-447a-a8bb-f51caf0ee76d
+register_manager_notes: ''
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -24,6 +27,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2021-10-25
-timeProposed: 2021-10-25
 title: North American Datum of 1983 (CSRS) version 2

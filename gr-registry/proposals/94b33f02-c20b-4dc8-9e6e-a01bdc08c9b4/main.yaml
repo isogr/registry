@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-10-25.
 controlBodyNotes: See EPSG::9692
+datedisposed: 2021-11-19
+dateproposed: 2021-11-19
 id: 94b33f02-c20b-4dc8-9e6e-a01bdc08c9b4
 isConcluded: true
 items:
@@ -7,14 +9,16 @@ items:
     type: addition
   /coordinate-ops--transformation/e8f23f35-2162-4cf6-823d-261be6d0f969.yaml:
     amendmentType: supersession
-    supersedingItemIDs: []
+    supersedingItemIDs:
+    - 308530f3-16e6-40c8-a3e2-9f2c640a318e
     type: amendment
 justification: Corrected transformation for new vertical datum. Submitted by Nicholas
   Brown, Geoscience Australia.
 notes: []
+register_manager_notes: ''
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -23,6 +27,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2021-11-19
-timeProposed: 2021-11-19
 title: GDA2020 to AVWS - NHt [GA v2]

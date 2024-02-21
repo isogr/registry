@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body in its meeting of 2020-09-28.
 controlBodyNotes: Please approve new alias and additional Remarks.
+datedisposed: 2020-09-28
+dateproposed: 2020-09-28
 id: e16645b9-9929-40dd-8df1-9630772949d0
 isConcluded: true
 items:
@@ -9,9 +11,10 @@ justification: Added alias AUSGeoid2020 and additional remark about AUSGeoid2020
   Submitted by Dr. Michael Craymer, Chair of the Control Body on behalf of Geoscience
   Australia.
 notes: []
+register_manager_notes: Please accept proposal.
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -20,6 +23,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2020-09-28
-timeProposed: 2020-09-28
 title: GDA2020 to AHD [GA v1]

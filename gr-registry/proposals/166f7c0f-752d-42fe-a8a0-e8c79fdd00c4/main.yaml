@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-10-25.
 controlBodyNotes: see EPSG::1291
+datedisposed: 2021-11-19
+dateproposed: 2021-10-25
 id: 166f7c0f-752d-42fe-a8a0-e8c79fdd00c4
 isConcluded: true
 items:
@@ -23,9 +25,10 @@ items:
     type: addition
 justification: New reference frame. Submitted by Nicholas Brown, Geoscience Australia.
 notes: []
+register_manager_notes: null
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -34,6 +37,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2021-10-25
-timeProposed: 2021-11-19
 title: Australian Terrestrial Reference Frame 2014

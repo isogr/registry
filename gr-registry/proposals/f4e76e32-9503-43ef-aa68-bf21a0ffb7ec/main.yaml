@@ -1,5 +1,7 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting on 2020-10-19.
 controlBodyNotes: Please approve additional aliases.
+datedisposed: 2020-10-19
+dateproposed: 2020-10-19
 id: f4e76e32-9503-43ef-aa68-bf21a0ffb7ec
 isConcluded: true
 items:
@@ -8,9 +10,10 @@ items:
 justification: Added additional aliases (GSC Datum, Canadian Geodetic Datum). Submitted
   by Michael Craymer, Canadian Geodetic Survey.
 notes: []
+register_manager_notes: Please accept proposal.
 sponsor:
   gitServerUsername: ''
-  name: ''
+  name: Control Body for the ISO Geodetic Registry Network
   parties:
   - contacts:
     - name: Control Body for the ISO Geodetic Registry Network
@@ -19,6 +22,4 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeDisposed: 2020-10-19
-timeProposed: 2020-10-19
 title: CGVD28 - NOHt
