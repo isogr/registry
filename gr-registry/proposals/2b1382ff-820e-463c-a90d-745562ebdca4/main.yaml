@@ -13,7 +13,7 @@ items:
     amendmentType: supersession
     supersedingItemIDs:
       - c2bf952f-1846-4bc7-ae08-9cab81b0a4f1
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2024-02-22T08:51:23.499Z
 pastTransitions:
@@ -62,4 +62,19 @@ pastTransitions:
               value: stefano@placeholder.name
     input:
       justification: testjjg
-registerManagerNotes: hh
+  - label: Submit for control body review
+    timestamp: 2024-02-22T10:19:41.985Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      role: owner
+      name: Stefano (Test)
+      gitServerUsername: stefanomunarini
+      parties:
+        - name: Stefano
+          contacts:
+            - label: email
+              value: stefano@placeholder.name
+    input:
+      registerManagerNotes: hhggg
+registerManagerNotes: hhggg
