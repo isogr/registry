@@ -1,10 +1,12 @@
 id: 2b1382ff-820e-463c-a90d-745562ebdca4
 timeStarted: 2024-02-22T08:44:27.584Z
-timeEdited: 2024-02-22T08:45:35.813Z
+timeEdited: 2024-02-22T08:47:51.177Z
 justification: testjj
 submittingStakeholderGitServerUsername: stefanomunarini
 items:
   /coordinate-ops--transformation/a8f8d395-0def-480f-8433-e568954f44ed.yaml:
+    type: addition
+  /coordinate-ops--transformation/6f83c5d6-64bf-4c63-8b93-5463c64815a2.yaml:
     type: addition
 state: returned-for-clarification
 registerVersion: '1.1'
