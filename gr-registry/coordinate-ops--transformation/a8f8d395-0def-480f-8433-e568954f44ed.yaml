@@ -173,5 +173,9 @@ data:
   targetCRS:
     classID: crs--geodetic
     itemID: d9b5b76b-e761-4bf1-b501-97ea25b5a75a
-status: valid
+status: superseded
 dateAccepted: 2024-02-22T10:19:52.073Z
+amendedInCR: 07e61776-7b0e-4b42-af33-21382f785015
+supersededBy:
+  - itemID: d2f8e859-4f30-463a-a189-fff86a2ba6f9
+    classID: coordinate-ops--transformation
