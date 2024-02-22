@@ -1,6 +1,6 @@
 id: 2b1382ff-820e-463c-a90d-745562ebdca4
 timeStarted: 2024-02-22T08:44:27.584Z
-timeEdited: 2024-02-22T08:48:12.607Z
+timeEdited: 2024-02-22T08:50:33.744Z
 justification: testjj
 submittingStakeholderGitServerUsername: stefanomunarini
 items:
@@ -8,6 +8,11 @@ items:
     type: addition
   /coordinate-ops--transformation/6f83c5d6-64bf-4c63-8b93-5463c64815a2.yaml:
     type: addition
+  /coordinate-ops--transformation/237125e4-3f8c-4312-b5c1-97678f9b79cf.yaml:
+    type: amendment
+    amendmentType: supersession
+    supersedingItemIDs:
+      - c2bf952f-1846-4bc7-ae08-9cab81b0a4f1
 state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2024-02-22T08:46:17.292Z
