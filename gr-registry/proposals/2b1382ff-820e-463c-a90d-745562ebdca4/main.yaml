@@ -6,7 +6,7 @@ submittingStakeholderGitServerUsername: stefanomunarini
 items:
   /coordinate-ops--transformation/a8f8d395-0def-480f-8433-e568954f44ed.yaml:
     type: addition
-state: proposed
+state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2024-02-22T08:46:17.292Z
 pastTransitions:
@@ -25,3 +25,19 @@ pastTransitions:
               value: stefano@placeholder.name
     input:
       justification: testjj
+  - label: Return for clarification
+    timestamp: 2024-02-22T08:47:42.864Z
+    fromState: proposed
+    toState: returned-for-clarification
+    stakeholder:
+      role: owner
+      name: Stefano (Test)
+      gitServerUsername: stefanomunarini
+      parties:
+        - name: Stefano
+          contacts:
+            - label: email
+              value: stefano@placeholder.name
+    input:
+      registerManagerNotes: hh
+registerManagerNotes: hh
