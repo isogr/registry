@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2022-07-25.
 controlBodyNotes: EPSG code 9356
-datedisposed: 2022-07-25
-dateproposed: 2022-07-25
 id: 840ba5a0-6b4b-4fcb-b253-0623f241b11e
 isConcluded: true
 items:
@@ -19,7 +17,7 @@ justification: New projected CRS proposal for Saudi Arabia. Submitted by Abdulla
   Al-Qahtani, General Directorate of Geodesy, General Authority for Survey and Geospatial
   Information, Kingdom of Saudi Arabia.
 notes: []
-register_manager_notes: null
+registerManagerNotes: null
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -31,4 +29,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2022-07-25
+timeProposed: 2022-07-25
 title: KSA-GRF17 / UTM zone 36N

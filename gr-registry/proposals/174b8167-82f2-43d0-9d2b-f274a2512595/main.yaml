@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-11-30.
 controlBodyNotes: null
-datedisposed: 2021-11-30
-dateproposed: 2021-11-30
 id: 174b8167-82f2-43d0-9d2b-f274a2512595
 isConcluded: true
 items:
@@ -20,7 +18,7 @@ items:
 justification: New WGS 84 (G2139) proposal submitted by James Friederich, National
   Geospatial-Intelligence Agency.
 notes: []
-register_manager_notes: null
+registerManagerNotes: null
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -32,4 +30,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-11-30
+timeProposed: 2021-11-30
 title: World Geodetic System 1984 (G2139)

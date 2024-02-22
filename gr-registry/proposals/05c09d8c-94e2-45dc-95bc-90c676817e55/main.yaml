@@ -1,8 +1,6 @@
 controlBodyDecisionEvent: Proposal accepted by the Control Body at its meeting of
   2021-04-29.
 controlBodyNotes: null
-datedisposed: 2021-04-29
-dateproposed: 2021-04-29
 id: 05c09d8c-94e2-45dc-95bc-90c676817e55
 isConcluded: true
 items:
@@ -21,7 +19,7 @@ items:
 justification: New EVRF realization. Submitted by Martina Sacher, BKG on behalf of
   EUREF.
 notes: []
-register_manager_notes: null
+registerManagerNotes: null
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -33,4 +31,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-04-29
+timeProposed: 2021-04-29
 title: European Vertical Reference Frame 2019 mean tide

@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-02-01.
 controlBodyNotes: null
-datedisposed: 2021-02-01
-dateproposed: 2021-02-01
 id: eef86ecd-bfb3-411b-9b3b-3958ab13133f
 isConcluded: true
 items:
@@ -42,7 +40,7 @@ items:
 justification: New reference frame transformation for Europe. Submitted by Thierry
   Gattacceca and Brice Virly, IGN France.
 notes: []
-register_manager_notes: null
+registerManagerNotes: null
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -54,4 +52,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-02-01
+timeProposed: 2021-02-01
 title: ITRF94 to ETRF2014 [EUREF v1]

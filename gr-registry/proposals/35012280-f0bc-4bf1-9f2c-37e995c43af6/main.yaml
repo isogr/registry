@@ -1,8 +1,6 @@
 controlBodyDecisionEvent: Approved by the Control Body in its meeting on 2020-09-03.
 controlBodyNotes: Please approve typo correction in name, minor revision of anchor
   definition, and additional remark.
-datedisposed: 2020-09-03
-dateproposed: 2020-09-03
 id: 35012280-f0bc-4bf1-9f2c-37e995c43af6
 isConcluded: true
 items:
@@ -12,7 +10,7 @@ justification: Corrected typo in name (Gravitmetric -> Gravimetric), minor editi
   of anchor definition, and added additional remark "Second realization of CGVD2013".
   Submitted by Dr. Michael Craymer, Canadian Geodetic Survey.
 notes: []
-register_manager_notes: Please accept proposal.
+registerManagerNotes: Please accept proposal.
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -24,4 +22,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-09-03
+timeProposed: 2020-09-03
 title: Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimetric Geoid of 2013a)

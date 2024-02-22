@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body in its meeting of 2020-09-28.
 controlBodyNotes: Please approve new transformation for New Zealand.
-datedisposed: 2020-09-28
-dateproposed: 2020-09-28
 id: dfb89a9d-a3d1-4fc6-b5cf-4151c2761d9e
 isConcluded: true
 items:
@@ -10,7 +8,7 @@ items:
 justification: New transformation for updated New Zealand deformation model. Submitted
   by Dr. Nic Donnelly, Land Information New Zealand.
 notes: []
-register_manager_notes: Please accept proposal.
+registerManagerNotes: Please accept proposal.
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -22,4 +20,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-09-28
+timeProposed: 2020-09-28
 title: ITRF96 to NZGD2000 [LINZ v20180701]

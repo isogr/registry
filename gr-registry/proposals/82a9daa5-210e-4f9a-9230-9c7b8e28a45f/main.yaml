@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body in its meeting of 2020-09-28.
 controlBodyNotes: Please approve typo correction in name.
-datedisposed: 2020-09-28
-dateproposed: 2020-09-28
 id: 82a9daa5-210e-4f9a-9230-9c7b8e28a45f
 isConcluded: true
 items:
@@ -10,7 +8,7 @@ items:
 justification: Corrected typo in version number part of name (v1 -> GA v1). Submitted
   by Dr. Michael Craymer, Chair of the Control Body on behalf of Geoscience Australia.
 notes: []
-register_manager_notes: Please accept proposal.
+registerManagerNotes: Please accept proposal.
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -22,4 +20,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-09-28
+timeProposed: 2020-09-28
 title: AGD66 to GDA94 [v1]

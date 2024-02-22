@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting on 2020-11-09.
 controlBodyNotes: Please approve the corrections to the rotation parameters.
-datedisposed: 2020-11-09
-dateproposed: 2020-11-09
 id: 4ffc6a7d-3183-4087-96cd-3436b6a02f74
 isConcluded: true
 items:
@@ -16,7 +14,7 @@ justification: Replaces invalidated item 484. Corrected rotation parameter value
   from reference epoch 1993.62 to 1997.0. Submitted by Daniel Roman, US National Geodetic
   Survey.
 notes: []
-register_manager_notes: Please accept this proposal.
+registerManagerNotes: Please accept this proposal.
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -28,4 +26,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-11-09
+timeProposed: 2020-11-09
 title: ITRF2000 to NAD 83 (PACP00) [v1]

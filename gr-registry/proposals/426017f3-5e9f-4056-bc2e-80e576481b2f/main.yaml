@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Accepted by the Control Body at its meeting of 2022-07-25.
 controlBodyNotes: ''
-datedisposed: 2022-07-25
-dateproposed: 2022-07-25
 id: 426017f3-5e9f-4056-bc2e-80e576481b2f
 isConcluded: true
 items:
@@ -14,7 +12,7 @@ notes:
 - author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
   note: '[Register Manager] Accidentally submitted before review. M. Craymer'
   uuid: 1d650863-c8db-40d1-97f3-7d10614936ee
-register_manager_notes: ''
+registerManagerNotes: ''
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -26,4 +24,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2022-07-25
+timeProposed: 2022-07-25
 title: ITRF2008 to CGVD2013(CGG2013a) Epoch 2010 - OHt [v1]

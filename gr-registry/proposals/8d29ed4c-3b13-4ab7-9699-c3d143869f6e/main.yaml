@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-02-01.
 controlBodyNotes: ''
-datedisposed: 2021-02-24
-dateproposed: 2021-02-24
 id: 8d29ed4c-3b13-4ab7-9699-c3d143869f6e
 isConcluded: true
 items:
@@ -11,7 +9,7 @@ justification: Revised anchor definition for consistency with definition in EURE
   Technical Note 1. Submitted by Michael Craymer, Chair of the Control Body on behalf
   of IGN, France.
 notes: []
-register_manager_notes: ''
+registerManagerNotes: ''
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -23,4 +21,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-02-24
+timeProposed: 2021-02-24
 title: European Terrestrial Reference Frame 2005

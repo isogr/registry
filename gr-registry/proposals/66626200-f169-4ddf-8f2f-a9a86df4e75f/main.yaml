@@ -1,8 +1,6 @@
 controlBodyDecisionEvent: The Control Body accepted the proposal at its meeting on
   2020-06-10. M. Craymer.
 controlBodyNotes: Please approve this new proposal
-datedisposed: 2020-06-10
-dateproposed: 2020-06-10
 id: 66626200-f169-4ddf-8f2f-a9a86df4e75f
 isConcluded: true
 items:
@@ -20,7 +18,7 @@ justification: 'This realization replaces IGS14 and is used by IGS from 2020-05-
 
   Submitted by IGN France (B. Virly)'
 notes: []
-register_manager_notes: Please accept this new proposal
+registerManagerNotes: Please accept this new proposal
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -32,4 +30,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-06-10
+timeProposed: 2020-06-10
 title: IGb14

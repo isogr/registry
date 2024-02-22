@@ -1,8 +1,6 @@
 controlBodyDecisionEvent: null
 controlBodyNotes: Per the FRN, only the tie at the tide gauge will provide vertical
   control until NAPGD2022 is put in place.
-datedisposed: 2020-06-09
-dateproposed: null
 id: d0c50f4f-936e-4b8b-bf04-83e569870b7f
 isConcluded: true
 items:
@@ -15,7 +13,7 @@ justification: Per Federal Register Notice  2020-05047 pp. 14466-14467, "Superse
   there is no vertical datum. Local surveyors must occupy the tide gauge at Pago Pago
   in there GNSS campaigns to obtain a tie to vertical control.
 notes: []
-register_manager_notes: I looked at just superseding the ASVD02, but only LT is used
+registerManagerNotes: I looked at just superseding the ASVD02, but only LT is used
   to replace it. There is no such entry for vertical datums. Retiring seemed the only
   option.
 sponsor:
@@ -29,4 +27,6 @@ sponsor:
   role: null
 state: withdrawn
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-06-09
+timeProposed: null
 title: American Samoa Vertical Datum of 2002

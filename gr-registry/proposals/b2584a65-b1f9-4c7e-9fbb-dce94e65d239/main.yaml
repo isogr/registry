@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-08-12.
 controlBodyNotes: ''
-datedisposed: 2021-08-12
-dateproposed: 2021-08-12
 id: b2584a65-b1f9-4c7e-9fbb-dce94e65d239
 isConcluded: true
 items:
@@ -11,7 +9,7 @@ justification: Corrected minor typo (Convensions -> Conventions) and name of inv
   flattening parameter (flattening -> inverse flattening) in Remarks. Submitted by
   M. Craymer, Chair of the Control Body for the ISOGR.
 notes: []
-register_manager_notes: ''
+registerManagerNotes: ''
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -23,4 +21,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-08-12
+timeProposed: 2021-08-12
 title: CGCS 2000

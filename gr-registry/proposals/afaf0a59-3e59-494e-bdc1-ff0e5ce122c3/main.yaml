@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-11-30.
 controlBodyNotes: Please approve this invalidation.
-datedisposed: 2021-11-30
-dateproposed: 2021-11-30
 id: afaf0a59-3e59-494e-bdc1-ff0e5ce122c3
 isConcluded: true
 items:
@@ -11,7 +9,7 @@ items:
 justification: Incorrect NAD83(CSRS) version used for target CRS. Corrected transformation
   entry to be resubmitted. Submitted by M. Craymer, Canadian Geodetic Survey.
 notes: []
-register_manager_notes: Please accept this invalidation.
+registerManagerNotes: Please accept this invalidation.
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -23,4 +21,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-11-30
+timeProposed: 2021-11-30
 title: NAD83(Original) to NAD83(CSRS) v3 [SKv1]

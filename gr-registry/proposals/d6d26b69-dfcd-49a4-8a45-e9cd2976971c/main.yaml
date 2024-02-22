@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-04-29.
 controlBodyNotes: ''
-datedisposed: 2021-06-27
-dateproposed: 2021-06-27
 id: d6d26b69-dfcd-49a4-8a45-e9cd2976971c
 isConcluded: true
 items:
@@ -11,7 +9,7 @@ justification: Corrected name to conform to adopted naming convention in ISO 191
   (added spaces before & after hyphen). Submitted by M. Craymer, Chair of the ISOGR
   Control Body.
 notes: []
-register_manager_notes: ''
+registerManagerNotes: ''
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -23,4 +21,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-06-27
+timeProposed: 2021-06-27
 title: EVRF2019-NHt to EVRF2019mean-NHt [EUREF v1]

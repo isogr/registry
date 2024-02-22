@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2021-06-29.
 controlBodyNotes: ''
-datedisposed: 2021-06-29
-dateproposed: 2021-06-29
 id: 79e0b973-a3d6-42d2-8a4e-ff780b7b8bb9
 isConcluded: true
 items:
@@ -9,7 +7,7 @@ items:
     type: addition
 justification: Submitted by M. Craymer, Chair, Control Body for the ISO Geodetic Registry.
 notes: []
-register_manager_notes: ''
+registerManagerNotes: ''
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -21,4 +19,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2021-06-29
+timeProposed: 2021-06-29
 title: ITRF90 - YXZ to WGS 84 TRANSIT - XYZ [IERS v1]

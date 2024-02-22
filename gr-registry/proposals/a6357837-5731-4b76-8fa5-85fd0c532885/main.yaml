@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2022-07-25.
 controlBodyNotes: ''
-datedisposed: 2022-07-25
-dateproposed: 2022-07-25
 id: a6357837-5731-4b76-8fa5-85fd0c532885
 isConcluded: true
 items:
@@ -15,7 +13,7 @@ notes:
 - author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
   note: '[Register Manager] Return to submitter for review.'
   uuid: d547f19c-3b0e-4334-8091-9260d4e31869
-register_manager_notes: ''
+registerManagerNotes: ''
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -27,5 +25,7 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2022-07-25
+timeProposed: 2022-07-25
 title: Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimetric Geoid of 2013a)
   Epoch 2010

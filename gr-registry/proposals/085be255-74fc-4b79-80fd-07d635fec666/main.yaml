@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2023-03-27.
 controlBodyNotes: ''
-datedisposed: 2023-04-05
-dateproposed: 2023-04-05
 id: 085be255-74fc-4b79-80fd-07d635fec666
 isConcluded: true
 items:
@@ -20,7 +18,7 @@ items:
 justification: Transformation from ITRF2020 to NAD 83 (2011). Submitted by M. Dennis,
   U.S. National Geodetic Survey.
 notes: []
-register_manager_notes: ''
+registerManagerNotes: ''
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -32,4 +30,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2023-04-05
+timeProposed: 2023-04-05
 title: ITRF2020 to NAD 83 (2011) Epoch 2010 [NGS v1]

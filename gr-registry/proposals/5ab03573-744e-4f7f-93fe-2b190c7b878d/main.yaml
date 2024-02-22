@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2023-06-26.
 controlBodyNotes: null
-datedisposed: 2023-06-27
-dateproposed: 2023-06-27
 id: 5ab03573-744e-4f7f-93fe-2b190c7b878d
 isConcluded: true
 items:
@@ -17,7 +15,7 @@ items:
     type: addition
 justification: New NAD83(CSRS) v8 realization. M. Craymer, Canadian Geodetic Survey.
 notes: []
-register_manager_notes: null
+registerManagerNotes: null
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -29,4 +27,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2023-06-27
+timeProposed: 2023-06-27
 title: North American Datum of 1983 (CSRS) version 8

@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Accepted by the Control Body at its meeting of 2022-02-28.
 controlBodyNotes: ''
-datedisposed: 2022-02-28
-dateproposed: 2022-02-28
 id: a7c4c2c5-0eb3-43f3-a334-1aa1b03865bc
 isConcluded: true
 items:
@@ -10,7 +8,7 @@ items:
 justification: Updated Remarks with adoption in Prince Edward Island. Submitted M.
   Craymer, Canadian Geodetic Survey.
 notes: []
-register_manager_notes: ''
+registerManagerNotes: ''
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -22,4 +20,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2022-02-28
+timeProposed: 2022-02-28
 title: North American Datum of 1983 (CSRS) version 7

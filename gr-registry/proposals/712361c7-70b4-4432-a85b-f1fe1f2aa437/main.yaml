@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2020-12-01.
 controlBodyNotes: ''
-datedisposed: 2020-12-01
-dateproposed: 2020-12-01
 id: 712361c7-70b4-4432-a85b-f1fe1f2aa437
 isConcluded: true
 items:
@@ -13,7 +11,7 @@ notes:
 - author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
   note: '[Control Body] Remove Item # in justification.'
   uuid: 510b2dbf-c884-46dd-afb7-9dbe59965b77
-register_manager_notes: ''
+registerManagerNotes: ''
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -25,4 +23,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2020-12-01
+timeProposed: 2020-12-01
 title: LT at Pago Pago - NOHt

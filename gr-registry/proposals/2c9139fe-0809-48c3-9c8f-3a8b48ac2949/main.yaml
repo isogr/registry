@@ -1,7 +1,5 @@
 controlBodyDecisionEvent: Accepted by the Control Body at its meeting of 2022-02-28.
 controlBodyNotes: ''
-datedisposed: 2022-02-28
-dateproposed: 2022-02-28
 id: 2c9139fe-0809-48c3-9c8f-3a8b48ac2949
 isConcluded: true
 items:
@@ -10,7 +8,7 @@ items:
 justification: 'Correcte4d two typos in Remarks: defind -> defined and coeffcients
   -> coefficients. Submitted by T. Gattacceca, ISOGR Control Body.'
 notes: []
-register_manager_notes: ''
+registerManagerNotes: ''
 sponsor:
   gitServerUsername: ''
   name: Control Body for the ISO Geodetic Registry Network
@@ -22,4 +20,6 @@ sponsor:
   role: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
+timeDisposed: 2022-02-28
+timeProposed: 2022-02-28
 title: WGS 84 (G730) to WGS 84 EGM84 - OHt [2]
