@@ -93,6 +93,9 @@ data:
   sourceCRS:
     classID: crs--geodetic
     itemID: b864475e-07ce-4bc7-8322-e25163b63ca2
+  supersededBy:
+    supersedingitem_classID: null
+    supersedingitem_uuid: 308530f3-16e6-40c8-a3e2-9f2c640a318e
   targetCRS: null
 dateAccepted: 2021-11-19
 id: e8f23f35-2162-4cf6-823d-261be6d0f969
