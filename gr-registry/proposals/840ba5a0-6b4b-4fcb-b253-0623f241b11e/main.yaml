@@ -17,15 +17,24 @@ justification: New projected CRS proposal for Saudi Arabia. Submitted by Abdulla
   Al-Qahtani, General Directorate of Geodesy, General Authority for Survey and Geospatial
   Information, Kingdom of Saudi Arabia.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: New projected CRS proposal for Saudi Arabia. Submitted by Abdullah
+      Al-Qahtani, General Directorate of Geodesy, General Authority for Survey and
+      Geospatial Information, Kingdom of Saudi Arabia.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2022-07-25'
+- input:
+    controlBodyNotes: EPSG code 9356
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2022-07-25'
+registerManagerNotes: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-07-25

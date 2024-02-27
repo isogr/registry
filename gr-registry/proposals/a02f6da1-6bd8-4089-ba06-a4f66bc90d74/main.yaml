@@ -8,15 +8,23 @@ items:
 justification: New NGA-approved transformation. Submitted by K. Kelly, Esri & M. Dennis,
   U.S. National Geodetic Survey.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: New NGA-approved transformation. Submitted by K. Kelly, Esri &
+      M. Dennis, U.S. National Geodetic Survey.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2023-02-26'
+- input:
+    controlBodyNotes: null
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2023-02-26'
+registerManagerNotes: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2023-02-26

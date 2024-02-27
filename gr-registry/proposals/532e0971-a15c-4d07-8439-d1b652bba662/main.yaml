@@ -6,16 +6,17 @@ items: {}
 justification: New EVRF realization. Submitted by Martina Sacher, BKG on behalf of
   EUREF.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    controlBodyNotes: null
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-04-20'
+registerManagerNotes: null
 state: withdrawn
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeProposed: 2021-04-20
+timeDisposed: 2021-04-20
+timeProposed: null
 title: European Vertical Reference Frame 2019

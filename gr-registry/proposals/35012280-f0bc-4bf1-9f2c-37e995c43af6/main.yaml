@@ -10,15 +10,25 @@ justification: Corrected typo in name (Gravitmetric -> Gravimetric), minor editi
   of anchor definition, and added additional remark "Second realization of CGVD2013".
   Submitted by Dr. Michael Craymer, Canadian Geodetic Survey.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Corrected typo in name (Gravitmetric -> Gravimetric), minor editing
+      of anchor definition, and added additional remark "Second realization of CGVD2013".
+      Submitted by Dr. Michael Craymer, Canadian Geodetic Survey.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-09-03'
+- input:
+    controlBodyNotes: Please approve typo correction in name, minor revision of anchor
+      definition, and additional remark.
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-09-03'
+registerManagerNotes: Please accept proposal.
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2020-09-03

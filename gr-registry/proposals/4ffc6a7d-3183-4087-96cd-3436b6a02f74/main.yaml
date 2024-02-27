@@ -14,15 +14,24 @@ justification: Replaces invalidated item 484. Corrected rotation parameter value
   from reference epoch 1993.62 to 1997.0. Submitted by Daniel Roman, US National Geodetic
   Survey.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Replaces invalidated item 484. Corrected rotation parameter values
+      from reference epoch 1993.62 to 1997.0. Submitted by Daniel Roman, US National
+      Geodetic Survey.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-11-09'
+- input:
+    controlBodyNotes: Please approve the corrections to the rotation parameters.
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-11-09'
+registerManagerNotes: Please accept this proposal.
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2020-11-09

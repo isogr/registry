@@ -40,15 +40,23 @@ items:
 justification: New reference frame transformation for Europe. Submitted by Thierry
   Gattacceca and Brice Virly, IGN France.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: New reference frame transformation for Europe. Submitted by Thierry
+      Gattacceca and Brice Virly, IGN France.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-02-01'
+- input:
+    controlBodyNotes: null
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-02-01'
+registerManagerNotes: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-02-01

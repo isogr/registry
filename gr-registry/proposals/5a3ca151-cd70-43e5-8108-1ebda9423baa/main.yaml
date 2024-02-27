@@ -14,16 +14,17 @@ notes:
   note: '[Register Manager] Use clarification rather than supersession/invalidation
     and manually correct grid file name parameter in the database.'
   uuid: 61ceb56a-4310-4509-808b-34f359f2e0f2
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    controlBodyNotes: Correcting grid file name with supersession.
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2022-07-20'
+registerManagerNotes: Correcting grid file name with supersession.
 state: withdrawn
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeProposed: 2022-07-20
+timeDisposed: 2022-07-20
+timeProposed: null
 title: ITRF2008 to CGVD2013(CGG2013a) - OHt [v1]

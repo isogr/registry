@@ -8,15 +8,23 @@ items:
 justification: New transformation for updated New Zealand deformation model. Submitted
   by Dr. Nic Donnelly, Land Information New Zealand.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: New transformation for updated New Zealand deformation model. Submitted
+      by Dr. Nic Donnelly, Land Information New Zealand.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-09-28'
+- input:
+    controlBodyNotes: Please approve new transformation for New Zealand.
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-09-28'
+registerManagerNotes: Please accept proposal.
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2020-09-28

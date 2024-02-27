@@ -41,15 +41,25 @@ justification: Datum for new ITRF2020 realization of the ITRS. Submitted by T. G
   National Institute of Geographic and Forest Information (IGN), France on behalf
   of the International Earth Rotation and Reference Systems Service (IERS).
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Datum for new ITRF2020 realization of the ITRS. Submitted by T.
+      Gattacceca, National Institute of Geographic and Forest Information (IGN), France
+      on behalf of the International Earth Rotation and Reference Systems Service
+      (IERS).
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2022-06-06'
+- input:
+    controlBodyNotes: null
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2022-06-06'
+registerManagerNotes: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-06-06

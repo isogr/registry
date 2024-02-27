@@ -12,16 +12,17 @@ justification: Added "Epoch 2010" to item name and in Remarks, added original it
   name as an alias, corrected grid file name. Submitted by M. Craymer, Canadian Geodetic
   Survey.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    controlBodyNotes: ''
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2022-07-20'
+registerManagerNotes: ''
 state: withdrawn
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeProposed: 2022-07-20
+timeDisposed: 2022-07-20
+timeProposed: null
 title: NAD83(CSRS) v6 to CGVD2013(CGG2013) - OHt [v1]
