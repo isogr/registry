@@ -11,16 +11,17 @@ justification: Corrected Name and Remarks to reflect actual transformation to NA
   attribute rounded off to 0.0 m. Submitted by Michael Craymer, Canadian Geodetic
   Survey.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    controlBodyNotes: Please approve correction of Name and Remarks.
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-09-15'
+registerManagerNotes: Please accept proposal.
 state: withdrawn
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeProposed: 2020-09-15
+timeDisposed: 2020-09-15
+timeProposed: null
 title: ITRF92 to NAD83(CSRS) v2 [v1]

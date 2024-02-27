@@ -7,15 +7,23 @@ items:
     type: addition
 justification: Submitted by M. Craymer, Chair, Control Body for the ISO Geodetic Registry.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Submitted by M. Craymer, Chair, Control Body for the ISO Geodetic
+      Registry.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-06-29'
+- input:
+    controlBodyNotes: ''
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-06-29'
+registerManagerNotes: ''
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-06-29

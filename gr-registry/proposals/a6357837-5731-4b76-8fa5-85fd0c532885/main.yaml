@@ -13,15 +13,25 @@ notes:
 - author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
   note: '[Register Manager] Return to submitter for review.'
   uuid: d547f19c-3b0e-4334-8091-9260d4e31869
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Added "Epoch 2010" to end of item name to distinguish it from datum
+      at other epochs, added original name as an alias and new aliases with epoch,
+      revised Anchor Definition to clarify epochs. Submitted by M. Craymer, Canadian
+      Geodetic Survey.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2022-07-25'
+- input:
+    controlBodyNotes: ''
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2022-07-25'
+registerManagerNotes: ''
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-07-25

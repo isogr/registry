@@ -8,15 +8,24 @@ items:
 justification: Added remark that datum has been replaced by Local Tidal Datum at Pago
   Pago (item 740). Submitted by Daniel Roman, US National Geodetic Survey.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Added remark that datum has been replaced by Local Tidal Datum
+      at Pago Pago (item 740). Submitted by Daniel Roman, US National Geodetic Survey.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-11-09'
+- input:
+    controlBodyNotes: Please approve the additional remark that the datum as been
+      replaced.
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-11-09'
+registerManagerNotes: Please accept this proposal.
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2020-11-09

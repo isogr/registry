@@ -8,15 +8,22 @@ items:
     type: clarification
 justification: Corrected typo in name (Gravitmetric -> Gravimetric).
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Corrected typo in name (Gravitmetric -> Gravimetric).
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2019-08-21'
+- input:
+    controlBodyNotes: Please approve typo correction.
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2019-08-21'
+registerManagerNotes: Proposed by M. Craymer, Canadian Geodetic Survey.
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2019-08-21

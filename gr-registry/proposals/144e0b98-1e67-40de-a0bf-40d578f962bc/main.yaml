@@ -10,15 +10,23 @@ items:
 justification: Corrected NAD83(Original) to NAD83(CSRS) v2 SK transformation. Submitted
   by M. Craymer, Canadian Geodetic Survey
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Corrected NAD83(Original) to NAD83(CSRS) v2 SK transformation.
+      Submitted by M. Craymer, Canadian Geodetic Survey
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-11-30'
+- input:
+    controlBodyNotes: null
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-11-30'
+registerManagerNotes: null
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-11-30

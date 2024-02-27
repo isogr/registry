@@ -12,15 +12,24 @@ notes:
 - author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
   note: '[Register Manager] Return to submitter for review.'
   uuid: 2cb71715-5ab6-48c4-a696-ad4cbeb84055
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Added "Epoch 2010" to item name and in Remarks, added original
+      item name as an alias, corrected typo in grid file parameter name (CGG2013n83a.byn
+      -> CGG2013an83.byn). Submitted by M. Craymer, Canadian Geodetic Survey.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2022-07-25'
+- input:
+    controlBodyNotes: ''
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2022-07-25'
+registerManagerNotes: ''
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2022-07-25

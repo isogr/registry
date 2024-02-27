@@ -9,15 +9,24 @@ justification: Removed CS (NOHt) from CRS acronyms in transformation name for co
   with other register entries. Submitted by M. Craymer, Chair of the ISGR Control
   Body.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Removed CS (NOHt) from CRS acronyms in transformation name for
+      consistency with other register entries. Submitted by M. Craymer, Chair of the
+      ISGR Control Body.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-08-30'
+- input:
+    controlBodyNotes: ''
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-08-30'
+registerManagerNotes: ''
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-08-30

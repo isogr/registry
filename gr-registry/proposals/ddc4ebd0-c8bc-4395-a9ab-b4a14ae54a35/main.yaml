@@ -14,15 +14,24 @@ notes:
 - author_uuid: e11c956a-1825-49a4-9da7-20fc706cf85d
   note: '[Control Body] Please resubmit without duplicate alias.'
   uuid: ceb18e20-f349-4f24-ae60-bd8629005fe8
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: "Publication of IGb14 that replaces IGS14 and is used by IGS from\
+      \ 2020-05-17. Modified Remarks. Submitted by Thierry Gattacceca, IGN, France.\r\
+      \n"
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-06-10'
+- input:
+    controlBodyNotes: Please approve this proposal.
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-06-10'
+registerManagerNotes: Please accept this proposal.
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2020-06-10

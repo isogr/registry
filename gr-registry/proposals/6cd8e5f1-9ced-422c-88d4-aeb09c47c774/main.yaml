@@ -8,15 +8,23 @@ items:
 justification: Corrected anchor definition. Submitted by Michael Craymer, Control
   Body Chair on behalf of NGA.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Corrected anchor definition. Submitted by Michael Craymer, Control
+      Body Chair on behalf of NGA.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-06-08'
+- input:
+    controlBodyNotes: ''
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-06-08'
+registerManagerNotes: ''
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-06-08

@@ -9,15 +9,24 @@ justification: Corrected minor typo (Convensions -> Conventions) and name of inv
   flattening parameter (flattening -> inverse flattening) in Remarks. Submitted by
   M. Craymer, Chair of the Control Body for the ISOGR.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Corrected minor typo (Convensions -> Conventions) and name of inverse
+      flattening parameter (flattening -> inverse flattening) in Remarks. Submitted
+      by M. Craymer, Chair of the Control Body for the ISOGR.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-08-12'
+- input:
+    controlBodyNotes: ''
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2021-08-12'
+registerManagerNotes: ''
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2021-08-12

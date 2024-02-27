@@ -9,15 +9,24 @@ justification: Added new aliases (GSC Datum, Canadian Geodetic Datum) and change
   release date from 1935 to 1928. Submitted by Dr. Michael Craymer, Canadian Geodetic
   Survey.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    justification: Added new aliases (GSC Datum, Canadian Geodetic Datum) and changed
+      release date from 1935 to 1928. Submitted by Dr. Michael Craymer, Canadian Geodetic
+      Survey.
+  label: Propose
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-09-03'
+- input:
+    controlBodyNotes: Please approve additional aliases.
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-09-03'
+registerManagerNotes: Please accept proposal.
 state: accepted
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
 timeDisposed: 2020-09-03

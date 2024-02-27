@@ -13,16 +13,20 @@ justification: Per Federal Register Notice  2020-05047 pp. 14466-14467, "Superse
   there is no vertical datum. Local surveyors must occupy the tide gauge at Pago Pago
   in there GNSS campaigns to obtain a tie to vertical control.
 notes: []
-sponsor:
-  gitServerUsername: ''
-  name: ''
-  parties:
-  - contacts:
-    - name: Control Body for the ISO Geodetic Registry Network
-    - label: name
-      value: John Doe
-  role: null
+pastTransitions:
+- input:
+    controlBodyNotes: Per the FRN, only the tie at the tide gauge will provide vertical
+      control until NAPGD2022 is put in place.
+  label: Accept
+  stakeholder:
+    name: Control Body for the ISO Geodetic Registry Network
+    role: null
+  timestamp: '2020-06-09'
+registerManagerNotes: I looked at just superseding the ASVD02, but only LT is used
+  to replace it. There is no such entry for vertical datums. Retiring seemed the only
+  option.
 state: withdrawn
 submittingStakeholderGitServerUsername: 984851E6-82C6-4CE6-AB58-EF09D3FE412B
-timeProposed: 2020-06-09
+timeDisposed: 2020-06-09
+timeProposed: null
 title: American Samoa Vertical Datum of 2002
