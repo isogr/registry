@@ -62,7 +62,7 @@ data:
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 237125e4-3f8c-4312-b5c1-97678f9b79cf
-status: valid
+status: superseded
 supersededBy:
 - classID: 546b4647-1d3a-4b9b-9640-862ab3fd9867
   itemID: 97f68412-13dd-4aad-817a-75fbde99b0f3
