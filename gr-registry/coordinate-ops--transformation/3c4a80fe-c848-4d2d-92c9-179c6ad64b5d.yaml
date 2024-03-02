@@ -78,5 +78,5 @@ dateAccepted: 2018-11-17
 id: 3c4a80fe-c848-4d2d-92c9-179c6ad64b5d
 status: superseded
 supersededBy:
-- classID: 546b4647-1d3a-4b9b-9640-862ab3fd9867
+- classID: coordinate-ops--transformation
   itemID: 53d8ba86-9b59-4298-9700-d6541b9656f6
