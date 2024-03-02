@@ -162,5 +162,5 @@ dateAccepted: 2018-11-17
 id: 29c7cc67-adb1-4363-8112-0e52f0c6f018
 status: invalid
 supersededBy:
-  supersedingitem_classID: 546b4647-1d3a-4b9b-9640-862ab3fd9867
-  supersedingitem_uuid: 8147f1c4-becc-47ec-9a21-d40cbb337f19
+  classID: 546b4647-1d3a-4b9b-9640-862ab3fd9867
+  itemID: 8147f1c4-becc-47ec-9a21-d40cbb337f19
