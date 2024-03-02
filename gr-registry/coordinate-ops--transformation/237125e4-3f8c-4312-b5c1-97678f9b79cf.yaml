@@ -59,10 +59,10 @@ data:
   sourceCRS:
     classID: crs--geodetic
     itemID: 00f5fc9b-2e5f-4548-810e-31a598dc2558
-  supersededBy:
-    supersedingitem_classID: 546b4647-1d3a-4b9b-9640-862ab3fd9867
-    supersedingitem_uuid: 97f68412-13dd-4aad-817a-75fbde99b0f3
   targetCRS: null
 dateAccepted: 2018-11-17
 id: 237125e4-3f8c-4312-b5c1-97678f9b79cf
 status: valid
+supersededBy:
+  supersedingitem_classID: 546b4647-1d3a-4b9b-9640-862ab3fd9867
+  supersedingitem_uuid: 97f68412-13dd-4aad-817a-75fbde99b0f3

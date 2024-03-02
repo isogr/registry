@@ -155,12 +155,12 @@ data:
   sourceCRS:
     classID: crs--geodetic
     itemID: d512f92c-4bca-4881-935c-c0d6faa11bef
-  supersededBy:
-    supersedingitem_classID: 546b4647-1d3a-4b9b-9640-862ab3fd9867
-    supersedingitem_uuid: 8147f1c4-becc-47ec-9a21-d40cbb337f19
   targetCRS:
     classID: crs--geodetic
     itemID: c6503b0b-7569-42ae-90a9-704068af1ae1
 dateAccepted: 2018-11-17
 id: 29c7cc67-adb1-4363-8112-0e52f0c6f018
 status: invalid
+supersededBy:
+  supersedingitem_classID: 546b4647-1d3a-4b9b-9640-862ab3fd9867
+  supersedingitem_uuid: 8147f1c4-becc-47ec-9a21-d40cbb337f19
