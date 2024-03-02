@@ -1,10 +1,15 @@
 id: a801854c-9eac-4934-9379-e8cd392b6283
 timeStarted: 2024-03-02T14:18:56.885Z
-timeEdited: 2024-03-02T14:19:05.289Z
+timeEdited: 2024-03-02T14:21:09.064Z
 justification: Test
 submittingStakeholderGitServerUsername: stefanomunarini
 items:
   /coordinate-ops--transformation/9fcbc6d9-1287-4377-8c67-9620a615fd96.yaml:
     type: addition
+  /coordinate-ops--transformation/3340b6a7-92c3-4231-aa8f-ff164202253b.yaml:
+    type: amendment
+    amendmentType: supersession
+    supersedingItemIDs:
+      - d2f8e859-4f30-463a-a189-fff86a2ba6f9
 state: draft
 registerVersion: '1.1'
