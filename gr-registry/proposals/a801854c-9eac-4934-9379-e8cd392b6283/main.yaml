@@ -1,7 +1,7 @@
 id: a801854c-9eac-4934-9379-e8cd392b6283
 timeStarted: 2024-03-02T14:18:56.885Z
 timeEdited: 2024-03-02T14:21:21.405Z
-justification: Test
+justification: Test.
 submittingStakeholderGitServerUsername: stefanomunarini
 items:
   /coordinate-ops--transformation/3340b6a7-92c3-4231-aa8f-ff164202253b.yaml:
@@ -9,5 +9,22 @@ items:
     amendmentType: supersession
     supersedingItemIDs:
       - d2f8e859-4f30-463a-a189-fff86a2ba6f9
-state: draft
+state: proposed
 registerVersion: '1.1'
+timeProposed: 2024-03-02T14:21:32.149Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2024-03-02T14:21:32.150Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      role: owner
+      name: Stefano (Test)
+      gitServerUsername: stefanomunarini
+      parties:
+        - name: Stefano
+          contacts:
+            - label: email
+              value: stefano@placeholder.name
+    input:
+      justification: Test.
