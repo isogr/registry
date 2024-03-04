@@ -96,7 +96,7 @@ data:
   targetCRS: null
 dateAccepted: 2021-11-19
 id: e8f23f35-2162-4cf6-823d-261be6d0f969
-status: superseded
+status: invalid
 supersededBy:
 - classID: coordinate-ops--transformation
   itemID: 308530f3-16e6-40c8-a3e2-9f2c640a318e
