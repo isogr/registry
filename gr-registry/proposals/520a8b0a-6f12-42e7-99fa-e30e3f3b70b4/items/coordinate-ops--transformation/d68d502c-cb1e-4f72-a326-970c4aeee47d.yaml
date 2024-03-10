@@ -156,6 +156,9 @@ data:
   sourceCRS:
     classID: crs--geodetic
     itemID: d512f92c-4bca-4881-935c-c0d6faa11bef
+  supersededBy:
+  - classID: coordinate-ops--transformation
+    itemID: d2f8e859-4f30-463a-a189-fff86a2ba6f9
   targetCRS:
     classID: crs--geodetic
     itemID: d9b5b76b-e761-4bf1-b501-97ea25b5a75a
