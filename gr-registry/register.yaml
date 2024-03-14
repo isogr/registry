@@ -3,51 +3,39 @@ stakeholders:
   - role: owner
     name: Anton (Test)
     gitServerUsername: strogonoff
-    parties:
-      - name: Anton
-        contacts:
-          - label: email
-            value: anton@strogonoff.name
+    contacts:
+      - label: email
+        value: anton@strogonoff.name
   - role: owner
     name: Ronald Tse
     gitServerUsername: ronaldtse
-    parties:
-      - name: Ronald Tse
-        contacts:
-          - label: email
-            value: ronald.tse@ribose.com
+    contacts:
+      - label: email
+        value: ronald.tse@ribose.com
   - role: owner
     name: Michael Craymer
     gitServerUsername: maccraymer
-    parties:
-      - name: Michael Craymer
-        contacts:
-          - label: email
-            value: paneron@craymer.com
+    contacts:
+      - label: email
+        value: paneron@craymer.com
   - role: manager
     name: Demo user
     gitServerUsername: demouser
-    parties:
-      - name: Demo user
-        contacts:
-          - label: email
-            value: ''
+    contacts:
+      - label: email
+        value: ''
   - role: owner
     name: Alex (Test)
     gitServerUsername: CAMOBAP
-    parties:
-      - name: Alex
-        contacts:
-          - label: email
-            value: example@example.com
+    contacts:
+      - label: email
+        value: example@example.com
   - role: owner
     name: Stefano (Test)
     gitServerUsername: stefanomunarini
-    parties:
-      - name: Stefano
-        contacts:
-          - label: email
-            value: stefano@placeholder.name
+    contacts:
+      - label: email
+        value: stefano@placeholder.name
 version:
   id: '1.1'
   timestamp: 2023-04-20T17:00:00.000Z
