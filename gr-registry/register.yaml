@@ -1,41 +1,54 @@
 name: ISO Geodetic Registry
 stakeholders:
-  - roles: [owner]
-    name: Anton (Test)
-    gitServerUsername: strogonoff
-    contacts:
-      - label: email
-        value: anton@strogonoff.name
-  - roles: [owner]
+  - roles:
+      - owner
     name: Ronald Tse
     gitServerUsername: ronaldtse
     contacts:
       - label: email
         value: ronald.tse@ribose.com
-  - roles: [owner]
+  - roles:
+      - owner
     name: Michael Craymer
     gitServerUsername: maccraymer
     contacts:
       - label: email
         value: paneron@craymer.com
-  - roles: [manager]
+  - roles:
+      - manager
     name: Demo user
     gitServerUsername: demouser
     contacts:
       - label: email
         value: ''
-  - roles: [owner]
+  - roles:
+      - owner
     name: Alex (Test)
     gitServerUsername: CAMOBAP
     contacts:
       - label: email
         value: example@example.com
-  - roles: [owner]
+  - roles:
+      - owner
     name: Stefano (Test)
     gitServerUsername: stefanomunarini
     contacts:
       - label: email
         value: stefano@placeholder.name
+  - roles:
+      - submitter
+      - manager
+      - control-body-reviewer
+      - control-body
+      - owner
+    name: Anton (Test)
+    gitServerUsername: strogonoff
+    affiliations:
+      bd260310-533a-4659-9be4-d944b60a9778:
+        role: member
+    contacts:
+      - label: email
+        value: anton@strogonoff.name
 version:
   id: '1.1'
   timestamp: 2023-04-20T17:00:00.000Z
@@ -110,3 +123,7 @@ operatingLanguage:
   name: English
   country: N/A
   languageCode: eng
+organizations:
+  bd260310-533a-4659-9be4-d944b60a9778:
+    name: Ribose
+    logoURL: ''
