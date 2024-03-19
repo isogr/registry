@@ -1,8 +1,7 @@
 data:
   accuracy:
-    dtype: TransformationAccuracy
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: 0.035
+    value: '0.035'
   aliases:
   - KNGeoid14
   coordOperationMethod: 390390d8-2300-432c-a2f3-a4572f8a907f

@@ -1,8 +1,7 @@
 data:
   accuracy:
-    dtype: TransformationAccuracy
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: 0.8
+    value: '0.8'
   aliases:
   - ' NGI_Pro v.2.54'
   - Bessel to GRS80 Ellipsoid Transformation v.2.54

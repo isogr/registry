@@ -1,8 +1,7 @@
 data:
   accuracy:
-    dtype: TransformationAccuracy
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: 0.01
+    value: '0.01'
   aliases: []
   coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
   description: null

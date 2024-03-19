@@ -1,8 +1,7 @@
 data:
   accuracy:
-    dtype: TransformationAccuracy
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: 0.05
+    value: '0.05'
   aliases:
   - Height Transformation version 2.0
   - ' HTv2.0'
