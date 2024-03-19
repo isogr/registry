@@ -50,17 +50,17 @@ data:
     parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
     type: measure (w/ UoM)
     unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-    value: 0.0
+    value: '0.0'
   - fileCitation: null
     parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
     type: measure (w/ UoM)
     unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-    value: 0.0
+    value: '0.0'
   - fileCitation: null
     parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
     type: measure (w/ UoM)
     unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
-    value: 0.0
+    value: '0.0'
   remarks: Null transformation. JGD2000 equivalent to ITRF94 at epoch 1997.0.
   scope:
   - Spatial referencing
