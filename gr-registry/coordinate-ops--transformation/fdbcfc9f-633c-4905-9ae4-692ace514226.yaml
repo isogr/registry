@@ -36,17 +36,17 @@ data:
     parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: 0.0
+    value: '0.0'
   - fileCitation: null
     parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: 0.0
+    value: '0.0'
   - fileCitation: null
     parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: 0.0
+    value: '0.0'
   remarks: null
   scope:
   - Spatial referencing

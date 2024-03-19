@@ -47,37 +47,37 @@ data:
     parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: 0.06
+    value: '0.06'
   - fileCitation: null
     parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: -0.517
+    value: '-0.517'
   - fileCitation: null
     parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
     type: measure (w/ UoM)
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
-    value: -0.223
+    value: '-0.223'
   - fileCitation: null
     parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
     type: measure (w/ UoM)
     unitOfMeasurement: 168a60b2-b4d9-4420-91e7-a2f65a8fb0af
-    value: 0.0183
+    value: '0.0183'
   - fileCitation: null
     parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
     type: measure (w/ UoM)
     unitOfMeasurement: 168a60b2-b4d9-4420-91e7-a2f65a8fb0af
-    value: -0.0003
+    value: '-0.0003'
   - fileCitation: null
     parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
     type: measure (w/ UoM)
     unitOfMeasurement: 168a60b2-b4d9-4420-91e7-a2f65a8fb0af
-    value: 0.007
+    value: '0.007'
   - fileCitation: null
     parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
     type: measure (w/ UoM)
     unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
-    value: -0.011
+    value: '-0.011'
   remarks: ''
   scope:
   - Spatial referencing

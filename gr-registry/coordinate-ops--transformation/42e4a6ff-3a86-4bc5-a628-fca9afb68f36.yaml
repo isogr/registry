@@ -97,7 +97,7 @@ data:
     parameter: 15811eed-e76f-43f1-9b66-e36d1c94aacf
     type: measure (w/ UoM)
     unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
-    value: 320.0
+    value: '320.0'
   remarks: Grid transformation from CGVD28 normal orthometric heights to CGVD2013(CGG2013a)
     orthometric heights at epoch 1997.0. Bi-linear interpolation of the grid file
     will give results agreeing to within 1cm 99.97% of the time.
