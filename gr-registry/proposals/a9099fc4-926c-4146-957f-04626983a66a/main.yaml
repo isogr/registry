@@ -1,14 +1,14 @@
 id: a9099fc4-926c-4146-957f-04626983a66a
 timeStarted: 2024-03-14T13:44:11.463Z
 timeEdited: 2024-04-24T06:05:28.190Z
-justification: Test 2
+justification: Proposal again, let’s try
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /extent/f79e763b-a641-4bde-a304-72d6f563e1ea.yaml:
     type: addition
-state: returned-for-clarification
+state: proposed
 registerVersion: '1.1'
-timeProposed: 2024-03-14T13:44:43.798Z
+timeProposed: 2024-04-24T06:07:39.336Z
 pastTransitions:
   - label: Propose
     timestamp: 2024-03-14T13:44:43.798Z
@@ -52,4 +52,25 @@ pastTransitions:
           value: anton@strogonoff.name
     input:
       registerManagerNotes: dfgsda
+  - label: Propose
+    timestamp: 2024-04-24T06:07:39.336Z
+    fromState: returned-for-clarification
+    toState: proposed
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input:
+      justification: Proposal again, let’s try
 registerManagerNotes: dfgsda
