@@ -6,7 +6,7 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /extent/f79e763b-a641-4bde-a304-72d6f563e1ea.yaml:
     type: addition
-state: proposed
+state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2024-04-24T06:07:39.336Z
 pastTransitions:
@@ -73,4 +73,25 @@ pastTransitions:
           value: anton@strogonoff.name
     input:
       justification: Proposal again, let’s try
-registerManagerNotes: dfgsda
+  - label: Return for clarification
+    timestamp: 2024-04-24T06:19:35.581Z
+    fromState: proposed
+    toState: returned-for-clarification
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input:
+      registerManagerNotes: Let’s make more changes, again
+registerManagerNotes: Let’s make more changes, again
