@@ -15,7 +15,7 @@ data:
     w: 54
   identifier: 959
   informationSources:
-    - author: General Directorate of Geodesy
+    - author: ''
       edition: null
       editionDate: null
       isbn: null
@@ -30,9 +30,7 @@ data:
       seriesIssueID: null
       seriesName: null
       seriesPage: null
-      title: >-
-        Technical Summary for Saudi Arabia National Spatial Reference System
-        (SANSRS).
+      title: ''
       uuid: ed06b221-d64a-40da-bb9d-0aa5ebd32d88
       publicationDate: 2021-02
   name: KSA-GRF17 / UTM zone 40N
