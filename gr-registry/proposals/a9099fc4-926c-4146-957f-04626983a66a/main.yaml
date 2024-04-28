@@ -1,6 +1,6 @@
 id: a9099fc4-926c-4146-957f-04626983a66a
 timeStarted: 2024-03-14T13:44:11.463Z
-timeEdited: 2024-04-28T12:27:09.107Z
+timeEdited: 2024-04-28T12:29:43.105Z
 justification: Proposal again, let’s try
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -11,8 +11,6 @@ items:
     amendmentType: supersession
     supersedingItemIDs:
       - 529a1bd0-c731-4171-bd50-6d56a628bc18
-  /crs--projected/468723de-d4d8-47be-a36b-bd104960458e.yaml:
-    type: clarification
 state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2024-04-24T06:07:39.336Z
