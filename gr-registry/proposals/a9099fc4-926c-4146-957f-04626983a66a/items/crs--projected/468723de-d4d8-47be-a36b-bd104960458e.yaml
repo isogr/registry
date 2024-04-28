@@ -31,7 +31,7 @@ data:
         (SANSRS).
       uuid: ed06b221-d64a-40da-bb9d-0aa5ebd32d88
       publicationDate: 2021-02
-  name: KSA-GRF17 / UTM zone 40N
+  name: KSA-GRF17 / UTM zone 40N (F)
   operation:
     classID: coordinate-ops--conversion
     itemID: a6644709-ec2b-4103-87c0-9f22a703f7a5
