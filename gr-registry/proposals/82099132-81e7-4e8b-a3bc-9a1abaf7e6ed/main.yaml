@@ -6,7 +6,7 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /extent/538fb551-86ee-4938-96dd-710226645762.yaml:
     type: addition
-state: proposed
+state: pending-control-body-review
 registerVersion: 04fc63a2-884b-48a7-b857-2cdda600e797
 timeProposed: 2024-04-29T08:19:02.710Z
 pastTransitions:
@@ -31,3 +31,25 @@ pastTransitions:
           value: anton@strogonoff.name
     input:
       justification: Add World extent (test)
+  - label: Submit for control body review
+    timestamp: 2024-04-29T08:19:21.773Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input:
+      registerManagerNotes: Test world extent acceptance
+registerManagerNotes: Test world extent acceptance
