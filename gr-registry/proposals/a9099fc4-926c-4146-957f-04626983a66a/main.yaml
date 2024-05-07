@@ -1,6 +1,6 @@
 id: a9099fc4-926c-4146-957f-04626983a66a
 timeStarted: 2024-03-14T13:44:11.463Z
-timeEdited: 2024-05-07T09:10:08.011Z
+timeEdited: 2024-05-07T09:10:16.574Z
 justification: Proposal again, let’s try
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -19,8 +19,6 @@ items:
     type: addition
   /coordinate-ops--transformation/1425ae92-91fa-49ce-a98e-c0fa29c21837.yaml:
     type: clarification
-  /crs--engineering/eed6950e-84ae-42c6-b218-e6fb200a840c.yaml:
-    type: addition
 state: returned-for-clarification
 registerVersion: '1.1'
 timeProposed: 2024-04-24T06:07:39.336Z
