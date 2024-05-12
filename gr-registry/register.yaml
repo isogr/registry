@@ -29,13 +29,6 @@ stakeholders:
       - label: email
         value: example@example.com
   - roles:
-      - owner
-    name: Stefano (Test)
-    gitServerUsername: stefanomunarini
-    contacts:
-      - label: email
-        value: stefano@placeholder.name
-  - roles:
       - submitter
       - manager
       - control-body-reviewer
