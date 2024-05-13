@@ -2,13 +2,13 @@ id: 4efbd649-671f-4e00-9757-a0690247ac0f
 dateAccepted: 2024-05-13T11:15:42.081Z
 status: valid
 data:
-  name: American Samoa - onshore - Tutuila
+  name: American Samoa - Tutuila
   identifier: 0
   informationSources: []
   remarks: ''
   aliases: []
   extent:
-    name: ''
+    name: American Samoa - onshore - Tutuila
     'n': -14
     e: -170
     s: -14.5
