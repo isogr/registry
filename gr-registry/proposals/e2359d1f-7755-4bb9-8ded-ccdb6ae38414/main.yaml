@@ -1,6 +1,6 @@
 id: e2359d1f-7755-4bb9-8ded-ccdb6ae38414
 timeStarted: 2024-05-13T09:29:59.397Z
-timeEdited: 2024-05-14T14:54:36.477Z
+timeEdited: 2024-05-14T14:55:47.121Z
 justification: Migrate extents
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -20,5 +20,7 @@ items:
     type: clarification
   /datums--vertical/066b63c0-eb25-4498-82cd-5997caa95486.yaml:
     type: clarification
+  /extent/3e0589b8-e5e9-4d2d-9c01-08a7fedd9a21.yaml:
+    type: addition
 state: draft
 registerVersion: 82099132-81e7-4e8b-a3bc-9a1abaf7e6ed
