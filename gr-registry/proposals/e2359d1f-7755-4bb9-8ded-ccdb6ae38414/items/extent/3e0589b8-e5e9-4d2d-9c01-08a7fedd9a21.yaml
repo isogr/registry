@@ -2,14 +2,14 @@ id: 3e0589b8-e5e9-4d2d-9c01-08a7fedd9a21
 dateAccepted: 2024-05-14T14:55:47.121Z
 status: valid
 data:
-  name: Unnamed item
+  name: American Samoa
   identifier: 0
   informationSources: []
   remarks: ''
   aliases: []
   extent:
-    name: ''
-    'n': 0
-    e: 0
-    s: 0
-    w: 0
+    name: American Samoa - onshore and offshore
+    'n': -13
+    e: -167
+    s: -16
+    w: -172
