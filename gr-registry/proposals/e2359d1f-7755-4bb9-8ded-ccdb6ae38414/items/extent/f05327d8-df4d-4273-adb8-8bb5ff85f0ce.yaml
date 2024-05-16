@@ -2,14 +2,17 @@ id: f05327d8-df4d-4273-adb8-8bb5ff85f0ce
 dateAccepted: 2024-05-16T13:28:48.421Z
 status: valid
 data:
-  name: Unnamed item
+  name: American Territories - Pacific
   identifier: 0
   informationSources: []
   remarks: ''
   aliases: []
   extent:
-    name: ''
-    'n': 0
-    e: 0
-    s: 0
-    w: 0
+    name: >-
+      American Samoa - onshore and offshore. Marshall Islands - onshore and
+      offshore. United States (USA) - onshore and offshore - Hawaii. United
+      States Minor Outlying Islands - onshore and offshore
+    'n': 31.8
+    e: -151.27
+    s: -17.56
+    w: 157.47
