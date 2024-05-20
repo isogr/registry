@@ -1,6 +1,6 @@
 id: e2359d1f-7755-4bb9-8ded-ccdb6ae38414
 timeStarted: 2024-05-13T09:29:59.397Z
-timeEdited: 2024-05-20T08:01:59.882Z
+timeEdited: 2024-05-20T08:02:10.627Z
 justification: Migrate extents
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -72,5 +72,7 @@ items:
     type: clarification
   /datums--geodetic/e207767a-422c-4069-b667-00f43c28c120.yaml:
     type: clarification
+  /crs--geodetic/222ece43-f3e2-420b-aea6-a3616545fe9a.yaml:
+    type: addition
 state: draft
 registerVersion: 82099132-81e7-4e8b-a3bc-9a1abaf7e6ed
