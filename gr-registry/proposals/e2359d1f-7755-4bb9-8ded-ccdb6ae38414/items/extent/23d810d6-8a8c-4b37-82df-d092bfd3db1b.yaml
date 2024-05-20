@@ -2,14 +2,14 @@ id: 23d810d6-8a8c-4b37-82df-d092bfd3db1b
 dateAccepted: 2024-05-20T07:56:18.601Z
 status: valid
 data:
-  name: Unnamed item
+  name: Australia - AGD84
   identifier: 0
   informationSources: []
   remarks: ''
   aliases: []
   extent:
-    name: ''
-    'n': 0
-    e: 0
-    s: 0
-    w: 0
+    name: Australia - onshore and offshore
+    'n': -8
+    e: 157.5
+    s: -45
+    w: 111
