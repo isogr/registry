@@ -2,14 +2,17 @@ id: fa85fdb8-6168-465e-80be-538ef94ded3b
 dateAccepted: 2024-05-20T07:50:54.225Z
 status: valid
 data:
-  name: Unnamed item
+  name: Australia - Mainland
   identifier: 0
   informationSources: []
   remarks: ''
   aliases: []
   extent:
-    name: ''
-    'n': 0
-    e: 0
-    s: 0
-    w: 0
+    name: >-
+      Australia - onshore and nearshore - Australian Capital Territory, New
+      South Wales, Northern Territory, Queensland, South Australia, Western
+      Australia, Victoria
+    'n': -10.65
+    e: 153.69
+    s: -39.2
+    w: 112.85
