@@ -2,32 +2,12 @@ name: ISO Geodetic Registry
 stakeholders:
   - roles:
       - owner
-    name: Ronald Tse
-    gitServerUsername: ronaldtse
-    contacts:
-      - label: email
-        value: ronald.tse@ribose.com
-  - roles:
-      - owner
+      - manager
     name: Michael Craymer
     gitServerUsername: maccraymer
     contacts:
       - label: email
         value: paneron@craymer.com
-  - roles:
-      - manager
-    name: Demo user
-    gitServerUsername: demouser
-    contacts:
-      - label: email
-        value: ''
-  - roles:
-      - owner
-    name: Alex (Test)
-    gitServerUsername: CAMOBAP
-    contacts:
-      - label: email
-        value: example@example.com
   - roles:
       - submitter
       - manager
@@ -42,6 +22,17 @@ stakeholders:
     contacts:
       - label: email
         value: anton@strogonoff.name
+  - roles:
+      - submitter
+      - owner
+    name: Ronald Tse
+    gitServerUsername: ronaldtse
+    affiliations:
+      bd260310-533a-4659-9be4-d944b60a9778:
+        role: pointOfContact
+    contacts:
+      - label: email
+        value: ronald.tse@ribose.com
 version:
   id: '1.1'
   timestamp: 2023-04-20T17:00:00.000Z
