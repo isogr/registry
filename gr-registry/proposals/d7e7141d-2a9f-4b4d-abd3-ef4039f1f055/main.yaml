@@ -1,8 +1,8 @@
 id: d7e7141d-2a9f-4b4d-abd3-ef4039f1f055
-justification: Migrating extents
+justification: Migrating extents (1)
 timeStarted: '2024-05-30T09:51:41.397Z'
 timeEdited: '2024-05-30T09:51:41.397Z'
-state: draft
+state: proposed
 registerVersion: 82099132-81e7-4e8b-a3bc-9a1abaf7e6ed
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -2144,3 +2144,26 @@ items:
     type: addition
   /coordinate-ops--conversion/be6a9216-3d95-46a1-8f0a-dbff969045e9.yaml:
     type: clarification
+timeProposed: 2024-05-30T10:01:35.300Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2024-05-30T10:01:35.300Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input:
+      justification: Migrating extents (1)
