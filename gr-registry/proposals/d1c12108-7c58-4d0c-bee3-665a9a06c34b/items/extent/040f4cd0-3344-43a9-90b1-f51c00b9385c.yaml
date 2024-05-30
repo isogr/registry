@@ -1,0 +1,15 @@
+id: 040f4cd0-3344-43a9-90b1-f51c00b9385c
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: American Samoa
+  extent:
+    'n': -13
+    e: -167
+    s: -16
+    w: -172
+    name: American Samoa - onshore and offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,17 @@
+id: dd478b3d-215c-40cc-8b22-f392522610d1
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: World - Between 18°W and 12°W, Southern Hemisphere Between Equator and 80°S
+  extent:
+    'n': -80
+    e: -12
+    s: 0
+    w: -18
+    name: >-
+      World - onshore and offshore - between  18°W and  12°W, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []

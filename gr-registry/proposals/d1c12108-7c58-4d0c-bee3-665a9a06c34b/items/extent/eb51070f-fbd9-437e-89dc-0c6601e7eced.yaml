@@ -1,0 +1,17 @@
+id: eb51070f-fbd9-437e-89dc-0c6601e7eced
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: World - Between 24°E and 30°E, Southern Hemisphere Between Equator and 80°S
+  extent:
+    'n': -80
+    e: 30
+    s: 0
+    w: 24
+    name: >-
+      World - onshore and offshore - between  24°E and  30°E, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []

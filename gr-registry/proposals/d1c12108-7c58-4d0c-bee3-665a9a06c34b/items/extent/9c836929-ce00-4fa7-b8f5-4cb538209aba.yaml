@@ -1,0 +1,23 @@
+id: 9c836929-ce00-4fa7-b8f5-4cb538209aba
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: United States - CONUS Onshore & Offshore
+  extent:
+    'n': 50
+    e: -66
+    s: 24
+    w: -135
+    name: >-
+      United States (USA) - onshore and offshore - CONUS (Alabama, Arizona,
+      Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia,
+      Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine,
+      Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri,
+      Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New
+      York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania,
+      Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah,
+      Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming).
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,15 @@
+id: 8c43db33-b215-4777-b56b-67d79f6108b4
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: Saudi Arabia - East of 54°E
+  extent:
+    'n': 22.77
+    e: 55.67
+    s: 19.66
+    w: 54
+    name: Saudi Arabia - east of 54°E.
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,17 @@
+id: 312464ce-14b2-48aa-aab4-e9837df7632e
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: Guam, Northern Mariana Islands
+  extent:
+    'n': 22
+    e: 147
+    s: 12
+    w: 143
+    name: >-
+      Guam - onshore and offshore. Northern Mariana Islands - onshore and
+      offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,15 @@
+id: 1bf5a0bd-aff0-455c-9608-f6774f81670f
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: United States - Alaska Onshore
+  extent:
+    'n': 71.4
+    e: -129.99
+    s: 54.34
+    w: -168.26
+    name: United States (USA) - onshore - Alaska.
+  informationSources: []
+  remarks: ''
+  aliases: []
