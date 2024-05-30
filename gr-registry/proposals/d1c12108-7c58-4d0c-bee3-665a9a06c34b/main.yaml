@@ -2,7 +2,7 @@ id: d1c12108-7c58-4d0c-bee3-665a9a06c34b
 justification: Migrating extents (2)
 timeStarted: '2024-05-30T10:01:07.237Z'
 timeEdited: 2024-05-30T10:12:54.765Z
-state: returned-for-clarification
+state: withdrawn
 registerVersion: 82099132-81e7-4e8b-a3bc-9a1abaf7e6ed
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -2188,4 +2188,25 @@ pastTransitions:
           value: anton@strogonoff.name
     input:
       registerManagerNotes: Reference already added World extent
+  - label: Withdraw
+    timestamp: 2024-05-30T10:21:11.887Z
+    fromState: returned-for-clarification
+    toState: withdrawn
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input: {}
 registerManagerNotes: Reference already added World extent
+timeDisposed: 2024-05-30T10:21:11.887Z
