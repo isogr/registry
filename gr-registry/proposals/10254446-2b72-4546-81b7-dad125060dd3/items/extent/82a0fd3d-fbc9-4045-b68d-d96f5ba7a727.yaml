@@ -1,0 +1,15 @@
+id: 82a0fd3d-fbc9-4045-b68d-d96f5ba7a727
+dateAccepted: '2024-05-30T09:34:17.220Z'
+status: valid
+data:
+  identifier: 0
+  name: Canada - Nova Scotia
+  extent:
+    'n': 47.08
+    e: -59.73
+    s: 43.41
+    w: -66.28
+    name: Canada - onshore and offshore - Nova Scotia.
+  informationSources: []
+  remarks: ''
+  aliases: []

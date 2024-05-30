@@ -1,0 +1,15 @@
+id: 8e0d44e1-3253-4611-b49e-e3e9cbce55ae
+dateAccepted: '2024-05-30T09:34:17.228Z'
+status: valid
+data:
+  identifier: 0
+  name: Virgin Islands (US)
+  extent:
+    'n': 18.5
+    e: -64.5
+    s: 17.5
+    w: -65.5
+    name: Virgin Islands (US) - onshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

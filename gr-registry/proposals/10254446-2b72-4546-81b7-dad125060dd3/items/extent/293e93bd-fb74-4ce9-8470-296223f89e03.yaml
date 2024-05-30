@@ -1,0 +1,19 @@
+id: 293e93bd-fb74-4ce9-8470-296223f89e03
+dateAccepted: '2024-05-30T09:34:17.236Z'
+status: valid
+data:
+  identifier: 0
+  name: >-
+    World - Between 180°W and 174¬∞W, Northern Hemisphere Between Equator and
+    84¬∞N
+  extent:
+    'n': 84
+    e: -174
+    s: 0
+    w: -180
+    name: >-
+      World - onshore and offshore - between 180°W and 174°W, northern
+      hemisphere between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []

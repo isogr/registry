@@ -1,0 +1,19 @@
+id: 1d9d4310-283c-4b55-bd57-e513dc2a030a
+dateAccepted: '2024-05-30T09:34:17.243Z'
+status: valid
+data:
+  identifier: 0
+  name: >-
+    World - Between 90°E and 96¬∞E, Southern Hemisphere Between Equator and
+    80¬∞S
+  extent:
+    'n': -80
+    e: 96
+    s: 0
+    w: 90
+    name: >-
+      World - onshore and offshore - between  90°E and  96°E, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []

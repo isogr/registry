@@ -1,0 +1,19 @@
+id: 15b551bb-d3d5-45af-8423-9eae5600febd
+dateAccepted: '2024-05-30T09:34:17.242Z'
+status: valid
+data:
+  identifier: 0
+  name: >-
+    World - Between 78°W and 72¬∞W, Northern Hemisphere Between Equator and
+    84¬∞N
+  extent:
+    'n': 84
+    e: -72
+    s: 0
+    w: -78
+    name: >-
+      World - onshore and offshore - between 78°W and 72°W, northern hemisphere
+      between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []
