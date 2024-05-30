@@ -1,0 +1,19 @@
+id: 1e12ca8e-8160-4a21-af6c-c7d464c69c38
+dateAccepted: '2024-05-30T09:20:09.677Z'
+status: valid
+data:
+  identifier: 0
+  name: >-
+    World - Between 144¬∞E and 150¬∞E, Southern Hemisphere Between Equator and
+    80¬∞S
+  extent:
+    'n': -80
+    e: 150
+    s: 0
+    w: 144
+    name: >-
+      World - onshore and offshore - between 144°E and 150°E, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []

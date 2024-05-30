@@ -1,0 +1,17 @@
+id: c22b4252-c192-456a-9a05-4330108914af
+dateAccepted: '2024-05-30T09:20:09.674Z'
+status: valid
+data:
+  identifier: 0
+  name: World - Between 0¬∞E and 6¬∞E, Northern Hemisphere Between Equator and 84¬∞N
+  extent:
+    'n': 84
+    e: 6
+    s: 0
+    w: 0
+    name: >-
+      World - onshore and offshore - between 0°E and 6°E, northern hemisphere
+      between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []

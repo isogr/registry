@@ -1,0 +1,19 @@
+id: be20444a-37bd-439c-9ac8-f37b8ef26884
+dateAccepted: '2024-05-30T09:20:09.680Z'
+status: valid
+data:
+  identifier: 0
+  name: >-
+    World - Between 18¬∞E and 24¬∞E, Northern Hemisphere Between Equator and
+    84¬∞N
+  extent:
+    'n': 84
+    e: 24
+    s: 0
+    w: 18
+    name: >-
+      World - onshore and offshore - between 18°E and 24°E, northern hemisphere
+      between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []

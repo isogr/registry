@@ -1,0 +1,15 @@
+id: 9a147668-ca1e-4cde-8feb-32f356bf5826
+dateAccepted: '2024-05-30T09:20:09.671Z'
+status: valid
+data:
+  identifier: 0
+  name: Puerto Rico - Onshore
+  extent:
+    'n': 18.6
+    e: -65.5
+    s: 17.6
+    w: -67.5
+    name: Puerto Rico - onshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

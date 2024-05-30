@@ -1,0 +1,18 @@
+id: a5d1decb-0ff7-4202-b5c8-2523c1078f7f
+dateAccepted: '2024-05-30T09:20:09.666Z'
+status: valid
+data:
+  identifier: 0
+  name: Australia - ATRF2014
+  extent:
+    'n': -8.47
+    e: 173.34
+    s: -60.56
+    w: 93.41
+    name: >-
+      Australia including Lord Howe Island, Macquarie Island, Ashmore and
+      Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Norfolk
+      Island. All onshore and offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []
