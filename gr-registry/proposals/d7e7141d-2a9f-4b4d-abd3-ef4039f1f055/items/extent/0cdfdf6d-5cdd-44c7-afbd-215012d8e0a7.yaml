@@ -1,0 +1,17 @@
+id: 0cdfdf6d-5cdd-44c7-afbd-215012d8e0a7
+dateAccepted: '2024-05-30T09:51:41.410Z'
+status: valid
+data:
+  identifier: 0
+  name: World - Between 54°E and 60°E, Southern Hemisphere Between Equator and 80°S
+  extent:
+    'n': -80
+    e: 60
+    s: 0
+    w: 54
+    name: >-
+      World - onshore and offshore - between  54°E and  60°E, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []

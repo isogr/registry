@@ -1,0 +1,18 @@
+id: 1a744788-d7b5-4a0e-8bdb-1dccc17b07e6
+dateAccepted: '2024-05-30T09:51:41.403Z'
+status: valid
+data:
+  identifier: 0
+  name: United States - Western CONUS
+  extent:
+    'n': 50
+    e: -102
+    s: 24
+    w: -125
+    name: >-
+      United States (USA) - onshore - western CONUS (Arizona, California,
+      Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington,
+      Wyoming).
+  informationSources: []
+  remarks: ''
+  aliases: []

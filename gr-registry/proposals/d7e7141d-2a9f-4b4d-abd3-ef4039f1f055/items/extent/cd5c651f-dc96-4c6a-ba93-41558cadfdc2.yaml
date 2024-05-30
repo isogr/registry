@@ -1,0 +1,18 @@
+id: cd5c651f-dc96-4c6a-ba93-41558cadfdc2
+dateAccepted: '2024-05-30T09:51:41.399Z'
+status: valid
+data:
+  identifier: 0
+  name: Canada - Onshore and Offshore
+  extent:
+    'n': 90
+    e: -47.74
+    s: 40.04
+    w: -141.01
+    name: >-
+      Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
+      Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+  informationSources: []
+  remarks: ''
+  aliases: []

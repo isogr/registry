@@ -1,0 +1,17 @@
+id: 3745156e-bbf1-4891-a557-da5cee871b68
+dateAccepted: '2024-05-30T09:51:41.399Z'
+status: valid
+data:
+  identifier: 0
+  name: Australia - AHD
+  extent:
+    'n': -8
+    e: 173.98
+    s: -60.98
+    w: 93
+    name: >-
+      Australia - onshore and offshore. Christmas Island - onshore and offshore.
+      Cocos (Keeling) Islands - onshore and offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

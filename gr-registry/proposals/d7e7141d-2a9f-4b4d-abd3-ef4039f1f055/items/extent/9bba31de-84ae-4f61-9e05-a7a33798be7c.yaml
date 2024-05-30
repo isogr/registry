@@ -1,0 +1,22 @@
+id: 9bba31de-84ae-4f61-9e05-a7a33798be7c
+dateAccepted: '2024-05-30T09:51:41.401Z'
+status: valid
+data:
+  identifier: 0
+  name: Europe - EVRF2000
+  extent:
+    'n': 71.21
+    e: 31.59
+    s: 35.95
+    w: -9.56
+    name: >-
+      Europe - onshore - Andorra, Austria, Belgium, Bosnia and Herzegovina,
+      Croatia, Czech Republic, Denmark, Estonia, Finland, France - mainland,
+      Germany, Gibraltar, Hungary, Italy - mainland and Sicily, Latvia,
+      Liechtenstein, Lithuania, Luxembourg, Netherlands, Norway, Poland,
+      Portugal, Romania, San Marino, Slovakia, Slovenia, Spain - mainland,
+      Sweden, Switzerland, United Kingdom (UK) - Great Britain mainland, Vatican
+      City State.
+  informationSources: []
+  remarks: ''
+  aliases: []

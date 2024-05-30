@@ -1,0 +1,17 @@
+id: 4a9f2e72-5933-4ad3-acd2-17ce106c4ab2
+dateAccepted: '2024-05-30T09:51:41.409Z'
+status: valid
+data:
+  identifier: 0
+  name: World - Between 30°W and 24°W, Northern Hemisphere Between Equator and 84°N
+  extent:
+    'n': 84
+    e: -24
+    s: 0
+    w: -30
+    name: >-
+      World - onshore and offshore - between 30°W and 24°W, northern hemisphere
+      between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []

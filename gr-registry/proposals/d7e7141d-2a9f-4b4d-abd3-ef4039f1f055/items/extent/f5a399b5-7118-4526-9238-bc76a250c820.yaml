@@ -1,0 +1,18 @@
+id: f5a399b5-7118-4526-9238-bc76a250c820
+dateAccepted: '2024-05-30T09:51:41.398Z'
+status: valid
+data:
+  identifier: 0
+  name: Australia - GDA2020
+  extent:
+    'n': -8.47
+    e: 173.4
+    s: -60.56
+    w: 93.41
+    name: >-
+      Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
+      Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore.
+      Cocos (Keeling) Islands - onshore and offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

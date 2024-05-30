@@ -1,0 +1,15 @@
+id: 1a24e6b3-585c-4fae-a3c9-b0093b2b5609
+dateAccepted: '2024-05-30T09:51:41.399Z'
+status: valid
+data:
+  identifier: 0
+  name: Canada - Alberta
+  extent:
+    'n': 60
+    e: -110
+    s: 49
+    w: -120
+    name: Canada - Alberta
+  informationSources: []
+  remarks: ''
+  aliases: []

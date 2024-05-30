@@ -1,0 +1,15 @@
+id: 4524b39c-ba03-459c-a97a-0e2714b3478c
+dateAccepted: '2024-05-30T09:51:41.403Z'
+status: valid
+data:
+  identifier: 0
+  name: Saudi Arabia - West of 36°E
+  extent:
+    'n': 29.38
+    e: 36
+    s: 24.92
+    w: 34.44
+    name: Saudi Arabia - onshore and offshore - west of 36°E
+  informationSources: []
+  remarks: ''
+  aliases: []

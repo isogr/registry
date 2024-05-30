@@ -1,0 +1,15 @@
+id: 8416677e-271c-48a8-b393-3211f471a3cf
+dateAccepted: '2024-05-30T09:51:41.400Z'
+status: valid
+data:
+  identifier: 0
+  name: Canada - Quebec
+  extent:
+    'n': 62.62
+    e: -57.1
+    s: 44.99
+    w: -79.85
+    name: Canada - onshore and offshore - Quebec.
+  informationSources: []
+  remarks: ''
+  aliases: []
