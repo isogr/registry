@@ -1,8 +1,8 @@
 id: 925bc9d4-575e-4a14-8708-370f0c521851
-justification: Migrating extents
+justification: Migrate extents to separate item class
 timeStarted: '2024-05-30T10:23:21.840Z'
 timeEdited: 2024-05-30T10:27:23.480Z
-state: draft
+state: proposed
 registerVersion: 82099132-81e7-4e8b-a3bc-9a1abaf7e6ed
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -2142,3 +2142,26 @@ items:
     type: addition
   /coordinate-ops--conversion/be6a9216-3d95-46a1-8f0a-dbff969045e9.yaml:
     type: clarification
+timeProposed: 2024-05-30T10:29:47.624Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2024-05-30T10:29:47.624Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input:
+      justification: Migrate extents to separate item class
