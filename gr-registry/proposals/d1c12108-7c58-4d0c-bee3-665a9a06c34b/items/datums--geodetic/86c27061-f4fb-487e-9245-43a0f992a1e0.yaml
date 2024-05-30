@@ -58,7 +58,7 @@ data:
     This is a purely Cartesian reference frame with no ellipsoid defined.
     GRS80 is the ellipsoid recommended by the IAG and IERS.
   scope: Spatial referencing
-  extentRef: 846e4e03-2cab-4bd7-a7d1-e1693055c731
+  extentRef: 538fb551-86ee-4938-96dd-710226645762
 id: 86c27061-f4fb-487e-9245-43a0f992a1e0
 dateAccepted: '2018-11-17'
 status: valid
