@@ -1,0 +1,17 @@
+id: 2d03f19e-c248-4e46-ace7-f4356f0f8842
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: World - Between 54°W and 48°W, Northern Hemisphere Between Equator and 84°N
+  extent:
+    'n': 84
+    e: -48
+    s: 0
+    w: -54
+    name: >-
+      World - onshore and offshore - between 54°W and 48°W, northern hemisphere
+      between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,15 @@
+id: a084a130-fa0a-4bb9-8832-7714c9abf989
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: Saudi Arabia - Between 48°E and 54°E
+  extent:
+    'n': 28.94
+    e: 54
+    s: 17.94
+    w: 48
+    name: Saudi Arabia - onshore and offshore - between 48°E and 54°E.
+  informationSources: []
+  remarks: ''
+  aliases: []

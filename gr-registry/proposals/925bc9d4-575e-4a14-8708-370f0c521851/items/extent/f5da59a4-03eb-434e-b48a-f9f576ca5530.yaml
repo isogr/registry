@@ -1,0 +1,19 @@
+id: f5da59a4-03eb-434e-b48a-f9f576ca5530
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: >-
+    World - Between 132°W and 126°W, Southern Hemisphere Between Equator and
+    80°S
+  extent:
+    'n': -80
+    e: -126
+    s: 0
+    w: -132
+    name: >-
+      World - onshore and offshore - between 132°W and 126°W, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []

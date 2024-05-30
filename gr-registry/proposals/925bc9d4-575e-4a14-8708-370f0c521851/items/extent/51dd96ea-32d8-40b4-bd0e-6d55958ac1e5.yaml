@@ -1,0 +1,15 @@
+id: 51dd96ea-32d8-40b4-bd0e-6d55958ac1e5
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: Northern Mariana Islands
+  extent:
+    'n': 18
+    e: 146
+    s: 14
+    w: 143
+    name: Northern Mariana Islands - onshore - Saipan, Tinian, and Rota.
+  informationSources: []
+  remarks: ''
+  aliases: []

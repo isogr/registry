@@ -1,0 +1,19 @@
+id: d6ae7d4c-bb25-465c-8fbb-7e1ff53bb021
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: >-
+    World - Between 102°E and 108°E, northern hemisphere between equator and
+    84°N
+  extent:
+    'n': 84
+    e: 108
+    s: 0
+    w: 102
+    name: >-
+      World - onshore and offshore - between 102°E and 108°E, northern
+      hemisphere between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,19 @@
+id: 1c26e2fc-b2f0-4e92-9554-4a2e5ab450bd
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: >-
+    World - Between 156°W and 150°W, Northern Hemisphere Between Equator and
+    84°N
+  extent:
+    'n': 84
+    e: -150
+    s: 0
+    w: -156
+    name: >-
+      World - onshore and offshore - between 156°W and 150°W, northern
+      hemisphere between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []

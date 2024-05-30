@@ -1,0 +1,18 @@
+id: a6fc0220-4736-441d-955a-5c397cc4a220
+dateAccepted: '2024-05-30'
+status: valid
+data:
+  identifier: 0
+  name: United States - CONUS South of 41°N and Between 112°W and 95°W
+  extent:
+    'n': 41.01
+    e: -94.99
+    s: 25.83
+    w: -112
+    name: >-
+      United States (USA) - onshore - CONUS south of 41°N and between 112°W and
+      95°W (Arizona, Colorado, Iowa, Kansas, Missouri, Nebraska, New Mexico,
+      Oklahoma, Texas, Utah).
+  informationSources: []
+  remarks: ''
+  aliases: []
