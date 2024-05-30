@@ -1,0 +1,17 @@
+id: a4abc0cc-8302-4d79-b86a-6d2eeee5abe6
+data:
+  identifier: 1154
+  name: World - Between 18°E and 24°E, Southern Hemisphere Between Equator and 80°S
+  extent:
+    'n': -80
+    e: 24
+    s: 0
+    w: 18
+    name: >-
+      World - onshore and offshore - between  18°E and  24°E, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.607Z

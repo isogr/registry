@@ -1,0 +1,15 @@
+id: beda6b2d-1a71-4f39-9b01-4db0978cbc5e
+data:
+  identifier: 1021
+  name: Australia - AGD84
+  extent:
+    'n': -8
+    e: 157.5
+    s: -45
+    w: 111
+    name: Australia - onshore and offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.601Z

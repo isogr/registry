@@ -2,7 +2,7 @@ id: 925bc9d4-575e-4a14-8708-370f0c521851
 justification: Migrate extents to separate item class
 timeStarted: '2024-05-30T10:23:21.840Z'
 timeEdited: 2024-05-30T10:27:23.480Z
-state: pending-control-body-review
+state: accepted
 registerVersion: 82099132-81e7-4e8b-a3bc-9a1abaf7e6ed
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -2186,4 +2186,29 @@ pastTransitions:
           value: anton@strogonoff.name
     input:
       registerManagerNotes: Accepting, looks OK.
+  - label: Accept
+    timestamp: 2024-05-30T10:32:06.810Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input:
+      controlBodyNotes: Looks OK.
+      controlBodyDecisionEvent: Test run.
 registerManagerNotes: Accepting, looks OK.
+controlBodyNotes: Looks OK.
+controlBodyDecisionEvent: Test run.
+timeDisposed: 2024-05-30T10:32:06.810Z

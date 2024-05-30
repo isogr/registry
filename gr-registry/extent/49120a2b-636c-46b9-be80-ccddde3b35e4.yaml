@@ -1,0 +1,17 @@
+id: 49120a2b-636c-46b9-be80-ccddde3b35e4
+data:
+  identifier: 1037
+  name: Canada - Maritimes
+  extent:
+    'n': 48.07
+    e: -63.7
+    s: 44.56
+    w: -69.05
+    name: >-
+      Canada - onshore and offshore - Maritimes (New Brunswick, Nova Scotia,
+      Prince Edward Island).
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.602Z

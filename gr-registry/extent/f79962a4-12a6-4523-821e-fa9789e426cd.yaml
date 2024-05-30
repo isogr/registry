@@ -1,0 +1,17 @@
+id: f79962a4-12a6-4523-821e-fa9789e426cd
+data:
+  identifier: 1155
+  name: World - Between 18°W and 12°W, Northern Hemisphere Between Equator and 84°N
+  extent:
+    'n': 84
+    e: -12
+    s: 0
+    w: -18
+    name: >-
+      World - onshore and offshore - between 18°W and 12°W, northern hemisphere
+      between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.607Z

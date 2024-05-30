@@ -1,0 +1,20 @@
+id: db70bca9-1fda-4145-8a8b-af67796bb20e
+data:
+  identifier: 1084
+  name: United States - Eastern CONUS
+  extent:
+    'n': 50
+    e: -66
+    s: 24
+    w: -89
+    name: >-
+      United States (USA) - onshore - eastern CONUS (Alabama, Connecticut,
+      Delaware, Florida, Georgia, Indiana, Kentucky, Maine, Maryland,
+      Massachusetts, Michigan, New Hampshire, New Jersey, New York, North
+      Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Tennessee,
+      Vermont, Virginia, West Virginia).
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.604Z

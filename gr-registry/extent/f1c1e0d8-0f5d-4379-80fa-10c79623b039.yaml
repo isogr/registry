@@ -1,0 +1,15 @@
+id: f1c1e0d8-0f5d-4379-80fa-10c79623b039
+data:
+  identifier: 1027
+  name: Canada - Ontario
+  extent:
+    'n': 56.9
+    e: -74.35
+    s: 41.67
+    w: -95.16
+    name: Canada - Ontario.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.601Z

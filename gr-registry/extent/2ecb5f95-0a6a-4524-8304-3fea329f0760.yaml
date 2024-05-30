@@ -1,0 +1,18 @@
+id: 2ecb5f95-0a6a-4524-8304-3fea329f0760
+data:
+  identifier: 1020
+  name: Australia - Mainland
+  extent:
+    'n': -10.65
+    e: 153.69
+    s: -39.2
+    w: 112.85
+    name: >-
+      Australia - onshore and nearshore - Australian Capital Territory, New
+      South Wales, Northern Territory, Queensland, South Australia, Western
+      Australia, Victoria.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.601Z

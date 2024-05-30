@@ -1,0 +1,18 @@
+id: 003e7b47-a014-4b05-b8a6-aecda65b1ccd
+data:
+  identifier: 1076
+  name: United States - CONUS North of 41°N and Between 95°W and 78°W
+  extent:
+    'n': 49.37
+    e: -77.99
+    s: 41
+    w: -95
+    name: >-
+      United States (USA) - onshore - CONUS north of 41°N and between 95°W and
+      78°W (Illinois, Indiana, Iowa, Michigan, Minnesota, New York, Ohio,
+      Pennsylvania, Wisconsin).
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.604Z

@@ -1,0 +1,17 @@
+id: ae7c709b-08ff-4ce2-a323-a617aeff5f24
+data:
+  identifier: 1062
+  name: Puerto Rico - Onshore & Offshore
+  extent:
+    'n': 19
+    e: -64
+    s: 17
+    w: -69
+    name: >-
+      Puerto Rico - onshore and offshore. Virgin Islands (US) - onshore and
+      offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.603Z

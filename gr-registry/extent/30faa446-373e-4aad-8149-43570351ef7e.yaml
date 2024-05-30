@@ -1,0 +1,17 @@
+id: 30faa446-373e-4aad-8149-43570351ef7e
+data:
+  identifier: 1071
+  name: South & Central America, Mexico
+  extent:
+    'n': 32.72
+    e: -25.28
+    s: -59.87
+    w: -122.19
+    name: >-
+      South America - onshore and offshore. Central America - onshore and
+      offshore. Mexico - onshore and offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.603Z

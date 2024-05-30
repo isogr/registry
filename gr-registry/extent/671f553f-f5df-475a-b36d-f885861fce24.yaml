@@ -1,0 +1,15 @@
+id: 671f553f-f5df-475a-b36d-f885861fce24
+data:
+  identifier: 1029
+  name: Canada - Ontario Except Toronto
+  extent:
+    'n': 56.9
+    e: -74.35
+    s: 41.67
+    w: -95.16
+    name: "Canada - Ontario - excluding City of Toronto\_"
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.601Z

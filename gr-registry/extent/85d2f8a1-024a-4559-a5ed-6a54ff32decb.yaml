@@ -1,0 +1,15 @@
+id: 85d2f8a1-024a-4559-a5ed-6a54ff32decb
+data:
+  identifier: 1036
+  name: Canada - British Columbia Mainland
+  extent:
+    'n': 49
+    e: -123
+    s: 49
+    w: -139.04
+    name: Canada - onshore and offshore - British Columbia - mainland.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.601Z

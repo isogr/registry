@@ -1,0 +1,17 @@
+id: ccfe749d-761e-40e1-8884-e0b93ca52d42
+data:
+  identifier: 1078
+  name: United States - CONUS North of 41°N and West of 112°W
+  extent:
+    'n': 49.05
+    e: -112
+    s: 41
+    w: -124.79
+    name: >-
+      United States (USA) - onshore - CONUS north of 41°N and west of 112°W
+      (California, Idaho, Montana, Nevada, Oregon, Utah, Washington).
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.604Z

@@ -1,0 +1,18 @@
+id: ba536915-1c31-487a-a739-7c57bdf8f900
+data:
+  identifier: 1075
+  name: United States - CONUS North of 41°N and Between 112°W and 95°W
+  extent:
+    'n': 49.38
+    e: -95
+    s: 41
+    w: -112
+    name: >-
+      United States (USA) - onshore - CONUS north of 41°N and between 112°W and
+      95°W (Idaho, Iowa, Minnesota, Montana, Nebraska, North Dakota, South
+      Dakota, Utah, Wyoming).
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.604Z

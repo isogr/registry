@@ -1,0 +1,15 @@
+id: 7dccb358-c7d7-4f12-a0a4-3f6dca2b35eb
+data:
+  identifier: 1030
+  name: Canada - Saskatchewan
+  extent:
+    'n': 60
+    e: -101.34
+    s: 49
+    w: -110
+    name: Canada - Saskatchewan.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.601Z

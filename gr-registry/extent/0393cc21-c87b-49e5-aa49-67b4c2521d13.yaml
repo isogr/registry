@@ -1,0 +1,19 @@
+id: 0393cc21-c87b-49e5-aa49-67b4c2521d13
+data:
+  identifier: 1102
+  name: >-
+    World - Between 108°W and 102°W, Southern Hemisphere Between Equator and
+    80°S
+  extent:
+    'n': -80
+    e: -102
+    s: 0
+    w: -108
+    name: >-
+      World - onshore and offshore - between 108°W and 102°W, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.606Z

@@ -1,0 +1,15 @@
+id: 44d09e9b-2bf6-4196-95c5-20a06347c032
+data:
+  identifier: 1053
+  name: Japan - Onshore & Offshore
+  extent:
+    'n': 45.6
+    e: 154
+    s: 20.4
+    w: 122.9
+    name: Japan - onshore and offshore
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.602Z

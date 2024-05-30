@@ -1,0 +1,23 @@
+id: ed419b04-bcd6-4d9c-ba92-9332a55b5692
+data:
+  identifier: 1048
+  name: Europe - ETRS89
+  extent:
+    'n': 84.17
+    e: 39.65
+    s: 32.88
+    w: -16.1
+    name: >-
+      Europe - onshore and offshore: Albania, Andorra, Austria, Belgium, Bosnia
+      and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark,
+      Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece,
+      Hungary, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg,
+      Macedonia, Malta, Monaco, Montenegro, Netherlands, Norway including
+      Svalbard and Jan Mayen, Poland, Portugal, Romania, San Marino, Serbia,
+      Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom (UK)
+      including Channel Islands and Isle of Man, Vatican City State.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.602Z

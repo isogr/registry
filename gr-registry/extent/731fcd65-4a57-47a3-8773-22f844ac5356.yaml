@@ -1,0 +1,15 @@
+id: 731fcd65-4a57-47a3-8773-22f844ac5356
+data:
+  identifier: 1019
+  name: Australia - Tasmania
+  extent:
+    'n': -40.24
+    e: 148.44
+    s: -43.7
+    w: 144.55
+    name: Australia - onshore and nearoffshore - Tasmania.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.601Z
