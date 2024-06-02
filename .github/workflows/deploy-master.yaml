@@ -24,7 +24,7 @@ jobs:
       - uses: actions/checkout@master
       - name: Build
         run: |
-          npx @paneron/site-builder@0.0.26 --outdir dist --datadir gr-registry
+          npx @paneron/site-builder@0.0.27 --outdir dist --datadir gr-registry
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
