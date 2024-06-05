@@ -1,8 +1,10 @@
 id: 804cf6a8-c8a8-418b-9e76-34319f504675
 timeStarted: 2024-06-05T11:51:59.744Z
-timeEdited: 2024-06-05T11:51:59.744Z
+timeEdited: 2024-06-05T11:52:25.061Z
 justification: Correct trailing punctuation in Canada - Alberta extent description
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /extent/f86655b5-9e2a-42b4-b525-52cb34b9a539.yaml:
+    type: clarification
 state: draft
 registerVersion: 925bc9d4-575e-4a14-8708-370f0c521851

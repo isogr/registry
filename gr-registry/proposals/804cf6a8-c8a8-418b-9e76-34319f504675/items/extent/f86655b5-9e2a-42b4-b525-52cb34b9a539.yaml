@@ -1,0 +1,15 @@
+id: f86655b5-9e2a-42b4-b525-52cb34b9a539
+data:
+  identifier: 1026
+  name: Canada - Alberta
+  extent:
+    'n': 60
+    e: -110
+    s: 49
+    w: -120
+    name: Canada - Alberta.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-05-30T10:32:07.601Z
