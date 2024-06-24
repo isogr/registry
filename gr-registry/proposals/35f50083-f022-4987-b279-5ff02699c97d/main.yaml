@@ -6,7 +6,7 @@ submittingStakeholderGitServerUsername: strogonoff
 items:
   /ellipsoid/41c8f1a8-76fd-4edf-9bdb-6eca1931c5fb.yaml:
     type: clarification
-state: proposed
+state: pending-control-body-review
 registerVersion: 925bc9d4-575e-4a14-8708-370f0c521851
 timeProposed: 2024-06-24T13:10:27.763Z
 pastTransitions:
@@ -31,3 +31,25 @@ pastTransitions:
           value: anton@strogonoff.name
     input:
       justification: Test change, editing the name of ellipsoid 30
+  - label: Submit for control body review
+    timestamp: 2024-06-24T13:12:34.802Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input:
+      registerManagerNotes: Looks good to me.
+registerManagerNotes: Looks good to me.
