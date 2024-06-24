@@ -29,7 +29,7 @@ data:
       seriesPage: null
       title: Transforming between ITRF and NZGD2000
       uuid: 09ffd0b4-09f4-4982-a33b-89cba635646b
-  name: ITRF96 to ITRF97 [LINZ v1] (test)
+  name: ITRF96 to ITRF97 [LINZ v1]
   operationVersion: LINZ v1
   parameters:
     - fileCitation: null
