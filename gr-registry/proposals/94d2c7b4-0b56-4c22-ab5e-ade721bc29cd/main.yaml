@@ -2,7 +2,7 @@ submittingStakeholderGitServerUsername: maccraymer
 registerVersion: ''
 id: 94d2c7b4-0b56-4c22-ab5e-ade721bc29cd
 timeStarted: '2024-08-20T13:25:24.076Z'
-timeEdited: '2024-08-20T13:25:24.076Z'
+timeEdited: 2024-08-20T13:38:19.185Z
 state: draft
 justification: exported via Glossarist migration adapter
 items:
@@ -41,4 +41,6 @@ items:
   /coordinate-ops--transformation/95685b31-6d94-43b8-9347-cfe29f0c0d59.yaml:
     type: addition
   /coordinate-ops--transformation/f20e51a9-bd46-42a7-a75d-3f90a40535a5.yaml:
+    type: addition
+  /extent/6bbefd4f-8ce4-4de4-a064-dafba0f9b532.yaml:
     type: addition
