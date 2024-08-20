@@ -1,0 +1,40 @@
+id: b2a0587a-3613-4781-a828-a526452ecce8
+data:
+  identifier: -1
+  name: Geoid model difference file
+  aliases: []
+  informationSources:
+    - title: BYN Grid Format Description
+      publicationDate: '2021-12-03'
+      revisionDate: ''
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Website:
+        https://webapp.geod.nrcan.gc.ca/geod/tools-outils/sample_doc_files/NRCan_Geoid_GridFormat_EN.pdf
+        (accessed 2022-01-21).
+      uri: >-
+        https://webapp.geod.nrcan.gc.ca/geod/tools-outils/sample_doc_files/NRCan_Geoid_GridFormat_EN.pdf
+        (accessed 2022-01-21).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
+      publicationDate: '2019'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+  remarks: >-
+    Grid file containing geoid model height differences between the CGVD28 and
+    CGVD2013(CGG2013a) vertical datums. See information source for file format
+    documentation.
+  minimumOccurs: null
+dateAccepted: '2024-08-20T13:25:24.077Z'
+status: valid

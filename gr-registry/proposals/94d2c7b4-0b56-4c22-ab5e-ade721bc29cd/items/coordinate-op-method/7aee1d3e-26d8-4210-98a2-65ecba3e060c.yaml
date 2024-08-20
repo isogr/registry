@@ -1,0 +1,28 @@
+id: 7aee1d3e-26d8-4210-98a2-65ecba3e060c
+data:
+  identifier: -3
+  name: Gravity-related height transformation (Canada)
+  aliases:
+    - GPS-H
+  informationSources:
+    - title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
+      publicationDate: '2019'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+  remarks: >-
+    Transforms gravity-related heights between CGVD28 and CGVD2013(CGG2013a)
+    vertical datums using GPS-H software with coordinate epoch propagation and
+    bi-quadratic interpolation of a grid of geoid model differences. See
+    information sources for algorithm and file format documentation.
+  parameters:
+    - b2a0587a-3613-4781-a828-a526452ecce8
+    - 3054d27d-d4ca-4691-b0c7-3b54a889051f
+dateAccepted: '2024-08-20T13:25:24.077Z'
+status: valid

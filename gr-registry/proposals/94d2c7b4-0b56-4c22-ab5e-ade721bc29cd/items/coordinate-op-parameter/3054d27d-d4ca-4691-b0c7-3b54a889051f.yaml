@@ -1,0 +1,21 @@
+id: 3054d27d-d4ca-4691-b0c7-3b54a889051f
+data:
+  identifier: -2
+  name: ISOGR code for Interpolation CRS
+  aliases: []
+  informationSources:
+    - title: ISO Geodetic Register
+      publicationDate: '2022'
+      revisionDate: ''
+      edition: ''
+      author: ISO/TC 211
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: ISO/TC 211
+  remarks: Horizontal CRS used for interpolation of a grid.
+  minimumOccurs: null
+dateAccepted: '2024-08-20T13:25:24.077Z'
+status: valid
