@@ -1,0 +1,126 @@
+id: dae41c32-64e0-4ff8-8b59-ca9795777025
+data:
+  identifier: -10
+  name: NAD83(CSRS) v6 to CGVD28 [v1]
+  aliases: []
+  informationSources:
+    - title: Geoid Models
+      publicationDate: ''
+      revisionDate: '2021-12-07'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Website.
+        https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
+        (accessed 2022-01-21).
+      uri: >-
+        https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
+        (accessed 2022-01-21).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: >-
+        The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height
+        Transformation for Use With GPS in Canada
+      publicationDate: '2001'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau, A. Mainville, M. Craymer
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: GPS-H
+      publicationDate: ''
+      revisionDate: '2021-03-15'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Website: https://webapp.geod.nrcan.gc.ca/geod/tools-outils/gpsh.php
+        (accessed 2022-01-21).
+      uri: >-
+        https://webapp.geod.nrcan.gc.ca/geod/tools-outils/gpsh.php (accessed
+        2022-01-21).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Referencing and Time Tagging Heights in Canada
+      publicationDate: '2018'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
+      publicationDate: '2019'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+  remarks: >-
+    Grid transformation from NAD83(CSRS) v6 ellipsoidal heights at epoch 2010.0
+    to CGVD28 normal orthometric heights. Derived from the NAD83(CSRS) v3 to
+    CGVD28 transformation by applying the NAD83(CSRS) v7 velocity model to
+    incorporate the propagation of heights from epoch 1997.0 to 2010.0.
+    Bi-linear interpolation of the grid file will give results agreeing to
+    within 1cm 99.97% of the time.
+  operationVersion: v1
+  coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
+  scope: Spatial referencing.
+  accuracy:
+    value: 0.05
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 00f5fc9b-2e5f-4548-810e-31a598dc2558
+  targetCRS:
+    classID: crs--vertical
+    itemID: 89b896fd-6c91-4a27-91a3-03b549a13803
+  extent:
+    name: >-
+      Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
+      Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: 40.04
+    w: -141.01
+    'n': 90
+    e: -47.74
+  parameters:
+    - type: parameter file name
+      fileCitation:
+        title: Geoid Models
+        publicationDate: ''
+        revisionDate: '2021-12-07'
+        edition: ''
+        author: Canadian Geodetic Survey
+        seriesName: ''
+        seriesIssueID: ''
+        seriesPage: ''
+        otherDetails: >-
+          Website.
+          https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
+          (accessed 2022-01-21).
+        uri: >-
+          https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
+          (accessed 2022-01-21).
+        publisher: >-
+          Geodetic Survey Division, Natural Resources Canada, Government of
+          Canada
+      value: HT2_2010v70.byn
+      parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+      unitOfMeasurement: null
+dateAccepted: '2024-08-22T14:31:51.303Z'
+status: valid
