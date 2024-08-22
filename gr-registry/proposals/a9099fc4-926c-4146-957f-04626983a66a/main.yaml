@@ -17,7 +17,7 @@ items:
     type: addition
   /crs--engineering/a02b1ff1-cca9-4647-a6fb-b5b012cfcd97.yaml:
     type: addition
-state: returned-for-clarification
+state: withdrawn
 registerVersion: '1.1'
 timeProposed: 2024-04-24T06:07:39.336Z
 pastTransitions:
@@ -105,4 +105,25 @@ pastTransitions:
           value: anton@strogonoff.name
     input:
       registerManagerNotes: Let’s make more changes, again
+  - label: Withdraw
+    timestamp: 2024-08-22T14:40:35.954Z
+    fromState: returned-for-clarification
+    toState: withdrawn
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input: {}
 registerManagerNotes: Let’s make more changes, again
+timeDisposed: 2024-08-22T14:40:35.954Z
