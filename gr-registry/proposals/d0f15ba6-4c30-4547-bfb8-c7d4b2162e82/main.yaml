@@ -2,7 +2,7 @@ id: d0f15ba6-4c30-4547-bfb8-c7d4b2162e82
 justification: Migrating extent information to dedicated register item class
 timeStarted: '2024-08-23T08:50:42.838Z'
 timeEdited: 2024-08-23T09:04:47.780Z
-state: proposed
+state: pending-control-body-review
 registerVersion: cc8a5bb1-95d1-4797-8e88-e8fbe971730d
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -2211,3 +2211,24 @@ pastTransitions:
           value: anton@strogonoff.name
     input:
       justification: Migrating extent information to dedicated register item class
+  - label: Submit for control body review
+    timestamp: 2024-08-23T09:08:04.931Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input: {}
+registerManagerNotes: ''
