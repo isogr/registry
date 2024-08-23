@@ -1,0 +1,15 @@
+id: 4fc81951-36ab-4bda-b6b5-92b3d98df299
+data:
+  identifier: 1075
+  name: Japan - Onshore
+  extent:
+    'n': '45.5'
+    e: '145.8'
+    s: '31'
+    w: '129.5'
+    name: Japan - onshore - Hokkaido, Honshu, Shikoku, Kyushu.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-08-23T09:08:29.016Z

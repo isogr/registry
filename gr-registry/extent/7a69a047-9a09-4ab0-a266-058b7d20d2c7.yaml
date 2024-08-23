@@ -1,0 +1,15 @@
+id: 7a69a047-9a09-4ab0-a266-058b7d20d2c7
+data:
+  identifier: 1059
+  name: Canada - British Columbia Mainland
+  extent:
+    'n': '49'
+    e: '-123'
+    s: '49'
+    w: '-139.04'
+    name: Canada - onshore and offshore - British Columbia - mainland.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-08-23T09:08:29.015Z

@@ -1,0 +1,17 @@
+id: d5cf3754-48fc-4add-8fdb-33796184f1bc
+data:
+  identifier: 1105
+  name: United States - CONUS South of 41°N and West of 112°W
+  extent:
+    'n': '41'
+    e: '-112'
+    s: '31.64'
+    w: '-124.45'
+    name: >-
+      United States (USA) - onshore - CONUS south of 41°N and west of 112°W
+      (Arizona, California, Nevada, Utah).
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-08-23T09:08:29.054Z

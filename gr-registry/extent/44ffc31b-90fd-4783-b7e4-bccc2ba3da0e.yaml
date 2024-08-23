@@ -1,0 +1,15 @@
+id: 44ffc31b-90fd-4783-b7e4-bccc2ba3da0e
+data:
+  identifier: 1064
+  name: Canada - Prince Edward Island
+  extent:
+    'n': '47.09'
+    e: '-61.9'
+    s: '45.9'
+    w: '-64.49'
+    name: Canada - onshore and offshore - Prince Edward Island.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-08-23T09:08:29.015Z

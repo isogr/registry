@@ -58,5 +58,6 @@ data:
       value: '320'
       parameter: 15811eed-e76f-43f1-9b66-e36d1c94aacf
       unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
+  extentRef: d799c152-be40-4402-a717-9049cdf7695b
 status: valid
 dateAccepted: 2024-08-23T08:11:04.894Z

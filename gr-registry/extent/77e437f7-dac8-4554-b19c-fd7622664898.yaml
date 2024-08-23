@@ -1,0 +1,19 @@
+id: 77e437f7-dac8-4554-b19c-fd7622664898
+data:
+  identifier: 1172
+  name: >-
+    World - Between 174°E and 180°E, Southern Hemisphere Between Equator and
+    80°S
+  extent:
+    'n': '-80'
+    e: '180'
+    s: '0'
+    w: '174'
+    name: >-
+      World - onshore and offshore - between 174°E and 180°E, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-08-23T09:08:29.060Z
