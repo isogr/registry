@@ -3,8 +3,10 @@ registerVersion: ''
 id: cc8a5bb1-95d1-4797-8e88-e8fbe971730d
 timeStarted: '2024-08-23T07:25:38.740Z'
 timeEdited: '2024-08-23T07:25:38.740Z'
-state: draft
-justification: exported via Glossarist migration adapter
+state: proposed
+justification: >-
+  New inter-NAD83(CSRS) transformations. Submitted by M. Craymer, Canadian
+  Geodetic Survey.
 items:
   /coordinate-op-parameter/f9c0706b-5151-4e04-83dc-ba164b2d8579.yaml:
     type: addition
@@ -54,3 +56,28 @@ items:
     type: addition
   /coordinate-ops--transformation/84c5673a-a25d-43a1-8123-649269f2f991.yaml:
     type: addition
+timeProposed: 2024-08-23T07:29:59.191Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2024-08-23T07:29:59.193Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input:
+      justification: >-
+        New inter-NAD83(CSRS) transformations. Submitted by M. Craymer, Canadian
+        Geodetic Survey.
