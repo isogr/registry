@@ -1,0 +1,15 @@
+id: 57a799d2-7f1b-422c-9500-637aac93a6f4
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: United States - Hawaii
+  extent:
+    'n': 23
+    e: -154
+    s: 18
+    w: -161
+    name: United States (USA) - onshore and offshore - Hawaii.
+  informationSources: []
+  remarks: ''
+  aliases: []

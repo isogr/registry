@@ -1,0 +1,17 @@
+id: 460a373d-492f-4fad-b9e4-c8965e741160
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: World - Between 78°E and 84°E, Southern Hemisphere Between Equator and 80°S
+  extent:
+    'n': -80
+    e: 84
+    s: 0
+    w: 78
+    name: >-
+      World - onshore and offshore - between  78°E and  84°E, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,18 @@
+id: 7a5be631-a036-4c0b-b266-7612a55f4f7e
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: United States - Central CONUS
+  extent:
+    'n': 50
+    e: -84
+    s: 24
+    w: -107
+    name: >-
+      United States (USA) - onshore - central CONUS (Arkansas, Illinois, Iowa,
+      Kansas, Louisiana, Minnesota, Mississippi, Missouri, Nebraska, North
+      Dakota, Oklahoma, South Dakota, Texas, Wisconsin).
+  informationSources: []
+  remarks: ''
+  aliases: []

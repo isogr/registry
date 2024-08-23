@@ -1,0 +1,17 @@
+id: a94cf64e-1e29-4fe3-9c3d-13bce2921c52
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: Canada - Vancouber Island Except CRD
+  extent:
+    'n': 50.95
+    e: -123.58
+    s: 48.5
+    w: -128.45
+    name: >-
+      Canada - onshore and offshore - British Columbia - Vancouver Island
+      excluding Capital Regional District.
+  informationSources: []
+  remarks: ''
+  aliases: []
