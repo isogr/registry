@@ -3,7 +3,7 @@ registerVersion: ''
 id: cc8a5bb1-95d1-4797-8e88-e8fbe971730d
 timeStarted: '2024-08-23T07:25:38.740Z'
 timeEdited: '2024-08-23T07:25:38.740Z'
-state: proposed
+state: pending-control-body-review
 justification: >-
   New inter-NAD83(CSRS) transformations. Submitted by M. Craymer, Canadian
   Geodetic Survey.
@@ -81,3 +81,24 @@ pastTransitions:
       justification: >-
         New inter-NAD83(CSRS) transformations. Submitted by M. Craymer, Canadian
         Geodetic Survey.
+  - label: Submit for control body review
+    timestamp: 2024-08-23T07:31:43.065Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input: {}
+registerManagerNotes: ''
