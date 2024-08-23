@@ -1,0 +1,15 @@
+id: ceed31ba-3f17-4dd9-835d-fb9232927f77
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: Canada - New Brunswick
+  extent:
+    'n': '48.07'
+    e: '-63.7'
+    s: '44.56'
+    w: '-69.05'
+    name: Canada - onshore and offshore - New Brunswick.
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,20 @@
+id: 4780d2d3-a668-4e43-bed9-d0db6397546c
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: United States - CONUS South of 41°N and Between 95°W and 78°W
+  extent:
+    'n': '41.01'
+    e: '-77.99'
+    s: '24.41'
+    w: '-95'
+    name: >-
+      United States (USA) - onshore - CONUS south of 41°N and between 95°W and
+      78°W (Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Iowa,
+      Kansas, Kentucky, Louisiana, Maryland, Mississippi, Missouri, North
+      Carolina, Ohio, Oklahoma, Pennsylvania, South Carolina, Tennessee, Texas,
+      Virginia, West Virginia).
+  informationSources: []
+  remarks: ''
+  aliases: []

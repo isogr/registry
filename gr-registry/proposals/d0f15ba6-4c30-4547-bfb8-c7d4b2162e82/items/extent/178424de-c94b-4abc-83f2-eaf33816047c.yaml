@@ -1,0 +1,15 @@
+id: 178424de-c94b-4abc-83f2-eaf33816047c
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: North America - Great Lakes & St. Lawrence Rivver
+  extent:
+    'n': '52.22'
+    e: '-54.75'
+    s: '40.99'
+    w: '-93.17'
+    name: North America - Great Lakes - St. Lawrence River system
+  informationSources: []
+  remarks: ''
+  aliases: []

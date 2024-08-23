@@ -1,0 +1,15 @@
+id: a95d5a6a-1bd2-4016-bcb3-361361c55ca6
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: Canada - Newfoundland & Labrador
+  extent:
+    'n': '60.38'
+    e: '-52.54'
+    s: '46.56'
+    w: '-67.82'
+    name: Canada - onshore and offshore - Newfoundland and Labrador.
+  informationSources: []
+  remarks: ''
+  aliases: []

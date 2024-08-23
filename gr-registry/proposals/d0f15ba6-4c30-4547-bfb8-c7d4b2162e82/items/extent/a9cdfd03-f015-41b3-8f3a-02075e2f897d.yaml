@@ -1,0 +1,17 @@
+id: a9cdfd03-f015-41b3-8f3a-02075e2f897d
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: World - Between 36°E and 42°E, Southern Hemisphere Between Equator and 80°S
+  extent:
+    'n': '-80'
+    e: '42'
+    s: '0'
+    w: '36'
+    name: >-
+      World - onshore and offshore - between  36°E and  42°E, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []

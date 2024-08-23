@@ -1,0 +1,15 @@
+id: 3fc450ec-914b-43fb-8de9-18cdccbf2a1e
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: Australia - Tasmania
+  extent:
+    'n': '-40.24'
+    e: '148.44'
+    s: '-43.7'
+    w: '144.55'
+    name: Australia - onshore and nearoffshore - Tasmania.
+  informationSources: []
+  remarks: ''
+  aliases: []

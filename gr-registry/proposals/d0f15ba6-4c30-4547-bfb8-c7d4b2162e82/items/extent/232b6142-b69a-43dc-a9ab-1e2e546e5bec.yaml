@@ -1,0 +1,15 @@
+id: 232b6142-b69a-43dc-a9ab-1e2e546e5bec
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: Christmas Island
+  extent:
+    'n': '-9'
+    e: '107'
+    s: '-12'
+    w: '104'
+    name: Christmas Island - onshore and offshore
+  informationSources: []
+  remarks: ''
+  aliases: []

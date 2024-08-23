@@ -1,0 +1,17 @@
+id: 3857b133-4be5-4b4d-8de8-13b0e899033a
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: Canada - British Columbia CRD
+  extent:
+    'n': '49'
+    e: '-123'
+    s: '48.25'
+    w: '-128.45'
+    name: >-
+      Canada - onshore and offshore - British Columbia - Capital Regional
+      District.
+  informationSources: []
+  remarks: ''
+  aliases: []

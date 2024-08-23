@@ -1,0 +1,20 @@
+id: 66cab092-d237-4678-922f-b562ecd24851
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: Canada - Onshore
+  extent:
+    'n': '69.8'
+    e: '-59.73'
+    s: '41.67'
+    w: '-141.01'
+    name: >-
+      Canada - onshore - Alberta, British Columbia, Manitoba south of 57°N, New
+      Brunswick, Northwest Territories south west of a line between 60°N, 110°W
+      and the coast at 132°W, Nova Scotia, Ontario south of 52°N, Prince Edward
+      Island, Quebec - mainland west of 66°W and south of 55°N, Saskatchewan
+      south of 55°N, Yukon.
+  informationSources: []
+  remarks: ''
+  aliases: []

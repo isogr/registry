@@ -1,0 +1,22 @@
+id: d8213d09-7b8e-4d01-8579-6550177627a8
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: Europe - EVRF2019
+  extent:
+    'n': '77.07'
+    e: '69.16'
+    s: '35.95'
+    w: '-9.56'
+    name: >-
+      Europe - onshore - Andorra, Austria, Belarus, Belgium, Bosnia and
+      Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland,
+      France - mainland, Germany, Gibraltar, Hungary, Italy - mainland, Latvia,
+      Liechtenstein, Lithuania, Luxembourg, Netherlands, North Macedonia,
+      Norway, Poland, Portugal, Romania, Russia - west of approximately 60 deg
+      E, San Marino, Slovakia, Slovenia, Spain - mainland, Sweden, Switzerland,
+      Ukraine, United Kingdom - Great Britain mainland, Vatican City State.
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,18 @@
+id: 61a5f26e-9b75-48da-86a9-63bf46af5733
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: United States - CONUS North of 41°N and East of 78°W
+  extent:
+    'n': '47.47'
+    e: '-66.91'
+    s: '41'
+    w: '-78'
+    name: >-
+      United States (USA) - onshore - CONUS north of 41°N and east of 78°W
+      (Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York,
+      Pennsylvania, Rhode Island, Vermont).
+  informationSources: []
+  remarks: ''
+  aliases: []

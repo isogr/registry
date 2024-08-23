@@ -1,0 +1,15 @@
+id: 26f2fe1a-2460-405e-ae93-0abbde82dcbf
+dateAccepted: '2024-08-23'
+status: valid
+data:
+  identifier: 0
+  name: Canada - British Columbia
+  extent:
+    'n': '60.01'
+    e: '-114.08'
+    s: '48.25'
+    w: '-139.04'
+    name: Canada - onshore and offshore - British Columbia.
+  informationSources: []
+  remarks: ''
+  aliases: []
