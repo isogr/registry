@@ -1,0 +1,25 @@
+id: 0dac5b10-074c-4267-94d3-1d7e2c358566
+data:
+  identifier: -1
+  name: 3D point motion velocity grid file
+  aliases: []
+  informationSources:
+    - title: >-
+        Geomatics Guidance Note Number 7, part 2: Coordinate Conversions and
+        Transformations including Formulas
+      publicationDate: ''
+      revisionDate: 2022-05
+      edition: ''
+      author: International Association of Oil & Gas Producers
+      seriesName: IOGP Publication
+      seriesIssueID: 373-7-2
+      seriesPage: ''
+      otherDetails: 'Web page: https://epsg.org/guidance-notes.html (accessed 2024-02-25)'
+      uri: ''
+      publisher: International Association of Oil & Gas Producers
+  remarks: >-
+    The name of a 3D point motion grid file containing velocities, together with
+    the source of the file.
+  minimumOccurs: null
+dateAccepted: '2024-08-23T07:16:33.429Z'
+status: valid
