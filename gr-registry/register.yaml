@@ -2,39 +2,12 @@ name: ISO Geodetic Registry
 stakeholders:
   - roles:
       - owner
-    name: Ronald Tse
-    gitServerUsername: ronaldtse
-    contacts:
-      - label: email
-        value: ronald.tse@ribose.com
-  - roles:
-      - owner
+      - manager
     name: Michael Craymer
     gitServerUsername: maccraymer
     contacts:
       - label: email
         value: paneron@craymer.com
-  - roles:
-      - manager
-    name: Demo user
-    gitServerUsername: demouser
-    contacts:
-      - label: email
-        value: ''
-  - roles:
-      - owner
-    name: Alex (Test)
-    gitServerUsername: CAMOBAP
-    contacts:
-      - label: email
-        value: example@example.com
-  - roles:
-      - owner
-    name: Stefano (Test)
-    gitServerUsername: stefanomunarini
-    contacts:
-      - label: email
-        value: stefano@placeholder.name
   - roles:
       - submitter
       - manager
@@ -49,76 +22,115 @@ stakeholders:
     contacts:
       - label: email
         value: anton@strogonoff.name
+  - roles:
+      - submitter
+      - owner
+    name: Ronald Tse
+    gitServerUsername: ronaldtse
+    affiliations:
+      bd260310-533a-4659-9be4-d944b60a9778:
+        role: pointOfContact
+    contacts:
+      - label: email
+        value: ronald.tse@ribose.com
 version:
   id: '1.1'
   timestamp: 2023-04-20T17:00:00.000Z
 contentSummary: >-
   <p>
-
-  The ISO Geodetic Registry is a structured database of coordinate reference
-  systems (CRS) and transformations
-
-  that is accessible through this online registry system. The Register includes
-  only systems and transformations of international application.
-
-  It does not include all possible coordinate reference systems and
-  transformations.
-
+    The ISO Geodetic Registry is a structured database of coordinate reference systems (CRS) and transformations that is accessible through this online registry system.
+    The Register includes only systems and transformations of international application.
+    It does not include all possible coordinate reference systems and transformations.
   </p>
 
   <p>
-
-  This Registry is provided under the auspices of <a
-  href="https://committee.iso.org/home/tc211">ISO Technical Committee 211</a>
-
-  on geographic information/geomatics and conforms to ISO standards
-
-  <a href="https://www.iso.org/standard/41126.html">ISO 19111:2007</a> (Spatial
-  referencing by coordinates),
-
-  <a href="https://www.iso.org/standard/67252.html">ISO 19127:2019</a> (Geodetic
-  register)
-
-  and <a href="https://www.iso.org/standard/54721.html">ISO 19135-1:2015</a>
-  (Procedures for item registration -- Part 1: Fundamentals).
-
+    This Registry is provided under the auspices of
+    <a href="https://committee.iso.org/home/tc211" target="_blank" title="ISO Technical Committee 211">ISO Technical Committee 211</a>
+    on geographic information/geomatics and conforms to the following ISO standards:
   </p>
 
-
-  <p>
-
-  If you encounter issues or have any questions about the ISO Geodetic Register,
-  please use the <a href="https://geodetic.isotc211.org/feedback">Feedback</a>
-  page to submit them. A member of the team will reach out to you directly.
-
-  </p>
-
-
-  <p>Ribose is appointed as Registration Authority of the ISO Geodetic Register
-  by ISO in 2019 in accordance to ISO/TMB resolution 4/2019 and ISO/TC 211
-  Resolution 912. As Registration Authority, Ribose is responsible for providing
-  registration services for the ISO Geodetic Register in relation to the <a
-  href="https://www.iso.org/standard/67252.html">ISO 19127</a> International
-  Standard.
-
-  </p>
-
-
-
-  <p>
-
-  The ISO Geodetic Register is made available to the public free-of-charge with
-  financial support given by the sponsors including:
-
-  </p>
-
-  <ul style="padding: 0; list-style: none; display: grid; grid-gap: 10px;
-  grid-column: 1;">
-    <li><a href="https://www.nrcan.gc.ca/"><img alt="Natural Resources Canada" src="https://user-images.githubusercontent.com/11865/128666171-6468f5ad-aa32-43da-98ca-47b074de4b55.png" style="height: 80px"/></a></li>
-    <li><a href="https://www.ign.fr/"><img alt="Institut national de l'information géographique et forestière" src="https://user-images.githubusercontent.com/11865/128666318-e8f59cbc-06d9-457d-b38d-c30a8ffb4352.png" style="height: 80px"/></a></li>
-    <li><a href="https://www.kartverket.no/"><img alt="Kartverket" src="https://camo.githubusercontent.com/e713dd92a4568166edfaf0694dad56ad618d73e1380430af834a13da73fe948c/68747470733a2f2f7777772e6b6172747665726b65742e6e6f2f676c6f62616c6173736574732f6f6d2d6b6172747665726b65742f6b6172747665726b736c6f676f2f6b6172747665726b65745f6c696767656e64655f7765622e737667" style="height: 60px"/></a></li>
-    <li><a href="https://www.ribose.com/"><img alt="Ribose" src="https://github.com/ISO-TC211/jekyll-theme-isotc211/raw/master/assets/logo-ribose.svg" style="height: 50px"/></a></li>
+  <ul>
+    <li><a href="https://committee.iso.org/home/tc211" target="_blank" title="ISO 19111:2007">ISO 19111:2007</a> (Spatial referencing by coordinates)</li>
+    <li><a href="https://www.iso.org/standard/67252.html" target="_blank" title="ISO 19127:2019">ISO 19127:2019</a> (Geodetic register)</li>
+    <li><a href="https://www.iso.org/standard/54721.html" target="_blank" title="ISO 19135-1:2015">ISO 19135-1:2015</a> (Procedures for item registration -- Part 1: Fundamentals)</li>
   </ul>
+
+  <p>
+    Work is also underway to upgrade the Registry to conform to the recently revised ISO 19111:2019 standard, which includes support for dynamic datums and geoid-based datums.
+  </p>
+
+
+  <p>
+    <b>July 2022</b>: ISO/TC 211, OGC and IOGP have jointly published the
+    "<a href="https://committee.iso.org/files/live/sites/tc211/files/Resources/GuideToCRSRegistries3.pdf">Guide to Coordinate Reference System (CRS) Resources</a>".
+    The guide describes basic information and the intended purposes of the three authoritative
+    CRS registers: EPSG, ISO Geodetic and OGC CRS registries, for the user community.
+  </p>
+
+
+
+  <h3>Usage and license</h3>
+
+  <p>
+    The Registry may be used free of charge but its use is subject to acceptance of the <a href="https://geodetic.isotc211.org/terms.html">Terms of Use</a>.
+    Use of the Registry implies acceptance of these Terms of Use.
+  </p><p>
+
+  Users of the Registry may query and view data and generate reports via
+  anonymous guest access.
+
+  Only approved authoritative agencies may submit proposals for new additions or
+  clarifications to the Registry.
+
+  Authoritative agencies may request to register for submissions using the <a
+  href="https://geodetic.isotc211.org/feedback.html">Feedback page</a>.
+
+  </p>
+
+
+  <h3>Registration Authority</h3>
+
+  <p>
+    Ribose was appointed as Registration Authority of the ISO Geodetic Register by ISO in 2019 in accordance to ISO/TMB resolution 4/2019 and ISO/TC 211 Resolution 912.
+    As Registration Authority, Ribose is responsible for providing registration services for the ISO Geodetic Register following the
+    <a href="https://www.iso.org/standard/67252.html" target="_blank" title="ISO 19127">ISO 19127</a> International Standard.
+  </p>
+
+
+
+  <h3>Contacting us</h3>
+
+  <p>
+    If you encounter issues or have any questions about the ISO Geodetic Register, please use the <a href="https://geodetic.isotc211.org/feedback.html" target="_blank" title="Feedback">Feedback page</a> to submit them.
+    A member of the team will reach out to you directly.
+  </p>
+
+
+
+  <h3>Sponsors</h3>
+
+  <p>The ISO Geodetic Register is made available to the public free of charge
+  with financial support provided by the following sponsors:</p>
+
+  <br />
+
+
+  <TABLE WIDTH="100%" CELLPADDING="5%" style="margin-bottom: 25px;">
+    <!-- ><TR ALIGN="center"> -->
+    <TR>
+      <TD WIDTH="50%" VALIGN="top">
+        <p><img alt="Ribose Logo" style="max-height: 20%;max-width: 20%;" src="https://geodetic.isotc211.org/resources/images/brands/ribose/logo-ribose.svg" /></p>
+        <p><img alt="Kartverket Logo" style="max-height: 25%;max-width: 25%;" src="https://geodetic.isotc211.org/resources/images/brands/kartverket/logo-kartverket.svg" /></p>
+        <p><img alrt="Natural Resources Canada Logo" style="max-height: 80%;max-width: 80%;" src="https://geodetic.isotc211.org/resources/images/brands/nrcan/logo-nrcan.svg" /></p>
+      </TD>
+      <TD WIDTH="50%" VALIGN="top">
+        <p><img class="Institut national de l&#39;information géographique et forestière" style="max-height: 21%;max-width: 21%;" src="https://geodetic.isotc211.org/resources/images/brands/ign/logo-ign.svg" /></p>
+      </TD>
+    </TR>
+    <TR>
+      <TD><p></p></TD>
+    </TR>
+  </TABLE>
 operatingLanguage:
   name: English
   country: N/A
