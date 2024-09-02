@@ -1,0 +1,17 @@
+id: d640dc7c-c6f3-4a4c-b93e-247ec43e9076
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: 179.27 -33.89 165.87 -47.65
+  extent:
+    'n': '-33.89'
+    e: '179.27'
+    s: '-47.65'
+    w: '165.87'
+    name: >-
+      New Zealand - onshore and nearshore - North Island, South Island, Stewart
+      Island.
+  informationSources: []
+  remarks: ''
+  aliases: []

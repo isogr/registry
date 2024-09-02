@@ -1,0 +1,18 @@
+id: 29e273e0-20a8-496e-916f-1ce86d658a4f
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: '-8.47 93.41 -60.56'
+  extent:
+    'n': '-8.47'
+    e: '173.4'
+    s: '-60.56'
+    w: '93.41'
+    name: >-
+      Australia - onshore and offshore - mainland, Tasmania, Lord Howe Island,
+      Norfolk Island, Macquarie Island. Christmas Island - onshore and offshore.
+      Cocos (Keeling) Islands - onshore and offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

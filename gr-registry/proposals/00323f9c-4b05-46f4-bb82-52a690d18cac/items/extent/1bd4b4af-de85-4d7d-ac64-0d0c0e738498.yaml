@@ -1,0 +1,18 @@
+id: 1bd4b4af-de85-4d7d-ac64-0d0c0e738498
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: CONUS Onshore -84 50 -107 24
+  extent:
+    'n': '50'
+    e: '-84'
+    s: '24'
+    w: '-107'
+    name: >-
+      United States (USA) - onshore - central CONUS (Arkansas, Illinois, Iowa,
+      Kansas, Louisiana, Minnesota, Mississippi, Missouri, Nebraska, North
+      Dakota, Oklahoma, South Dakota, Texas, Wisconsin).
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,20 @@
+id: 19492009-de90-4589-8e6c-b285e009d3ba
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: CONUS Onshore -66 50 -89 24
+  extent:
+    'n': '50'
+    e: '-66'
+    s: '24'
+    w: '-89'
+    name: >-
+      United States (USA) - onshore - eastern CONUS (Alabama, Connecticut,
+      Delaware, Florida, Georgia, Indiana, Kentucky, Maine, Maryland,
+      Massachusetts, Michigan, New Hampshire, New Jersey, New York, North
+      Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Tennessee,
+      Vermont, Virginia, West Virginia).
+  informationSources: []
+  remarks: ''
+  aliases: []

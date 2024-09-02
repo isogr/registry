@@ -1,0 +1,15 @@
+id: e538105c-d117-45b2-97cf-827d53c10226
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: '& Offshore 55.67 32.16 34.44 16.29'
+  extent:
+    'n': '32.16'
+    e: '55.67'
+    s: '16.29'
+    w: '34.44'
+    name: Saudi Arabia - onshore and offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

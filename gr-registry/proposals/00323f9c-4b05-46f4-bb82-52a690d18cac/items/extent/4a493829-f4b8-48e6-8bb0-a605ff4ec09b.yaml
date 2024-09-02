@@ -1,0 +1,18 @@
+id: 4a493829-f4b8-48e6-8bb0-a605ff4ec09b
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: CSW Onshore -94.99 41.01 -112 25.83
+  extent:
+    'n': '41.01'
+    e: '-94.99'
+    s: '25.83'
+    w: '-112'
+    name: >-
+      United States (USA) - onshore - CONUS south of 41°N and between 112°W and
+      95°W (Arizona, Colorado, Iowa, Kansas, Missouri, Nebraska, New Mexico,
+      Oklahoma, Texas, Utah).
+  informationSources: []
+  remarks: ''
+  aliases: []

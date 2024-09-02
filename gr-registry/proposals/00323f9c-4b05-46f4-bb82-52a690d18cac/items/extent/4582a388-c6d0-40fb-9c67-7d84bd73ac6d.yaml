@@ -1,0 +1,17 @@
+id: 4582a388-c6d0-40fb-9c67-7d84bd73ac6d
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: '-8 93 -60.98'
+  extent:
+    'n': '-8'
+    e: '173.98'
+    s: '-60.98'
+    w: '93'
+    name: >-
+      Australia - onshore and offshore. Christmas Island - onshore and offshore.
+      Cocos (Keeling) Islands - onshore and offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

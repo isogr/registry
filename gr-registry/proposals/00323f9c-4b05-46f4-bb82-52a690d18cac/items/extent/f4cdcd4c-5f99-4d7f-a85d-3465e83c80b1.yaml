@@ -1,0 +1,17 @@
+id: f4cdcd4c-5f99-4d7f-a85d-3465e83c80b1
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: Palau 149.55 23.9 129.48 1.64
+  extent:
+    'n': '23.9'
+    e: '149.55'
+    s: '1.64'
+    w: '129.48'
+    name: >-
+      Guam - onshore and offshore. Northern Mariana Islands - onshore and
+      offshore. Palau - onshore and offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,15 @@
+id: 17328972-5766-40db-9899-204523dc8dec
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: 55.67 32.16 34.51 16.37
+  extent:
+    'n': '32.16'
+    e: '55.67'
+    s: '16.37'
+    w: '34.51'
+    name: Saudi Arabia - onshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

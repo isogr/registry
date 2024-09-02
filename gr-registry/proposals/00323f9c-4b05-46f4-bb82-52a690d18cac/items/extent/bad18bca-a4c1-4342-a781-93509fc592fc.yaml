@@ -1,0 +1,17 @@
+id: bad18bca-a4c1-4342-a781-93509fc592fc
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: and 114°W, Northern Hemisphere Between Equator and 84°N -114 84 -120 0
+  extent:
+    'n': '84'
+    e: '-114'
+    s: '0'
+    w: '-120'
+    name: >-
+      World - onshore and offshore - between 120°W and 114°W, northern
+      hemisphere between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []

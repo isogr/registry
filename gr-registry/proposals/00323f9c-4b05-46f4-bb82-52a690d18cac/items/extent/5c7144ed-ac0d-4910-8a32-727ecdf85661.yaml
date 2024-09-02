@@ -1,0 +1,23 @@
+id: 5c7144ed-ac0d-4910-8a32-727ecdf85661
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: >-
+    American Samoa, Guam, Northern Mariana Islands, Puerto Rico, Virgin Islands
+    (US) -64.51 49.38 144.58 -17.56
+  extent:
+    'n': '49.38'
+    e: '-64.51'
+    s: '-17.56'
+    w: '144.58'
+    name: >-
+      United States and Territories - onshore and offshore: American Samoa.
+      Guam. Northern Mariana Islands. Puerto Rico. United States (USA) - CONUS
+      (California, Connecticut, Florida, Idaho, Maine, Massachusetts, Montana,
+      Nevada, New Hampshire, New Jersey, New York, North Carolina, Oregon, Rhode
+      Island, South Carolina, Tennessee, Vermont, Washington, Wisconsin). Virgin
+      Islands (US).
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,15 @@
+id: 81ea7c06-9a06-48a2-8baa-e4e9d7d5d4ae
+dateAccepted: '2024-09-02'
+status: valid
+data:
+  identifier: 0
+  name: '-8 111 -45'
+  extent:
+    'n': '-8'
+    e: '157.5'
+    s: '-45'
+    w: '111'
+    name: Australia - onshore and offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []
