@@ -1,11 +1,4 @@
 data:
-  identifier: 958
-  extent:
-    'n': 28.94
-    e: 54
-    s: 17.94
-    w: 48
-    name: Saudi Arabia - onshore and offshore - between 48°E and 54°E.
   aliases: []
   baseCRS:
     classID: crs--geodetic
@@ -14,35 +7,36 @@ data:
     classID: coordinate-sys--cartesian
     itemID: 618628cb-4ec1-4da9-aad0-e902078e0778
   datum: 0d8b39b8-0bba-435b-b4f5-2aa151d0bcf1
+  extent:
+    e: 54.0
+    n: 28.94
+    name: Saudi Arabia - onshore and offshore - between 48°E and 54°E.
+    s: 17.94
+    w: 48.0
+  identifier: 958
   informationSources:
-    - author: General Directorate of Geodesy
-      edition: null
-      editionDate: null
-      isbn: null
-      issn: null
-      otherDetails: >-
-        https://www.gasgi.gov.sa/En/Products/Products_v1/Geodesy/Documents/Technical_Summary_for_SANSRS_v1.1.pdf
-        (accessed 2021-111-28)
-      publisher: >-
-        General Directorate of Geodesy, General Authority for Survey and
-        Geospatial Information, Kingdom of Saudi Arabia
-      revisionDate: 2021-02
-      seriesIssueID: null
-      seriesName: null
-      seriesPage: null
-      title: >-
-        Technical Summary for Saudi Arabia National Spatial Reference System
-        (SANSRS).
-      uuid: 5b935338-c6cd-430a-b5ba-ca6695586545
+  - author: General Directorate of Geodesy
+    edition: null
+    editionDate: null
+    isbn: null
+    issn: null
+    otherDetails: https://www.gasgi.gov.sa/En/Products/Products_v1/Geodesy/Documents/Technical_Summary_for_SANSRS_v1.1.pdf
+      (accessed 2021-111-28)
+    publisher: General Directorate of Geodesy, General Authority for Survey and Geospatial
+      Information, Kingdom of Saudi Arabia
+    revisionDate: 2021-02
+    seriesIssueID: null
+    seriesName: null
+    seriesPage: null
+    title: Technical Summary for Saudi Arabia National Spatial Reference System (SANSRS).
+    uuid: 5b935338-c6cd-430a-b5ba-ca6695586545
   name: KSA-GRF17 / UTM zone 39N
   operation:
     classID: coordinate-ops--conversion
     itemID: 4d68e443-7170-4ed3-9985-a536df752d66
-  remarks: >-
-    Unified national system replacing Ain el Abd / UTM zone 39N and MTRF-2000 /
-    UTM zone 39N from 2018.
+  remarks: Unified national system replacing Ain el Abd / UTM zone 39N and MTRF-2000
+    / UTM zone 39N from 2018.
   scope: Spatial referencing
-  extentRef: c12274f9-bdc8-4395-8492-3b022a2692af
-dateAccepted: 2022-07-25T00:00:00.000Z
+dateAccepted: 2022-07-25
 id: 03045115-4fcc-4983-867e-d97fa32cabd3
 status: valid
