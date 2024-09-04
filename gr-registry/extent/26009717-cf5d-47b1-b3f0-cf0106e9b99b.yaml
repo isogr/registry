@@ -1,0 +1,17 @@
+id: 26009717-cf5d-47b1-b3f0-cf0106e9b99b
+data:
+  identifier: 1232
+  name: World - Between 96°E and 102°E, Northern Hemisphere Between Equator and 84°N
+  extent:
+    'n': '84'
+    e: '102'
+    s: '0'
+    w: '96'
+    name: >-
+      World - onshore and offshore - between 96°E and 102°E, northern hemisphere
+      between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-09-04T07:28:25.005Z

@@ -1,0 +1,19 @@
+id: bb103844-4d04-4928-9e27-01b6be2e2f54
+data:
+  identifier: 1045
+  name: Australia - AGD66
+  extent:
+    'n': '0'
+    e: '168'
+    s: '-56'
+    w: '96'
+    name: >-
+      Australia - onshore and offshore - mainland, Lord Howe Island, Norfolk
+      Island, Macquarie Island. Christmas Island - onshore and offshore. Cocos
+      (Keeling) Islands - onshore and offshore. Papua New Guinea - onshore and
+      offshore.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-09-04T07:28:24.959Z

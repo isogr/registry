@@ -1,0 +1,17 @@
+id: c6d85773-404b-4239-9a6a-40279cc48ca4
+data:
+  identifier: 1213
+  name: World - Between 6°E and 12°E, Southern Hemisphere Between Equator and 80°S
+  extent:
+    'n': '-80'
+    e: '12'
+    s: '0'
+    w: '6'
+    name: >-
+      World - onshore and offshore - between   6°E and  12°E, southern
+      hemisphere between equator and 80°S.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-09-04T07:28:25.005Z

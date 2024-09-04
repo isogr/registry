@@ -1,0 +1,18 @@
+id: 3ab1754f-5016-42e9-8ec2-b3762f796e02
+data:
+  identifier: 1108
+  name: United States - Western CONUS Onshore
+  extent:
+    'n': '50'
+    e: '-102'
+    s: '24'
+    w: '-125'
+    name: >-
+      United States (USA) - onshore - western CONUS (Arizona, California,
+      Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington,
+      Wyoming).
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-09-04T07:28:24.995Z

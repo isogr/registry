@@ -1,0 +1,19 @@
+id: 249c1389-3144-4e32-971a-2041c75eab1f
+data:
+  identifier: 1149
+  name: >-
+    World - Between 138°W and 132°W, Northern Hemisphere Between Equator and
+    84°N
+  extent:
+    'n': '84'
+    e: '-132'
+    s: '0'
+    w: '-138'
+    name: >-
+      World - onshore and offshore - between 138°W and 132°W, northern
+      hemisphere between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-09-04T07:28:25.003Z

@@ -1,0 +1,15 @@
+id: 89cb4824-93ca-47d8-a33b-a53c7fd061ca
+data:
+  identifier: 1087
+  name: Saudi Arabia - Onshore
+  extent:
+    'n': '32.16'
+    e: '55.67'
+    s: '16.37'
+    w: '34.51'
+    name: Saudi Arabia - onshore.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-09-04T07:28:24.963Z
