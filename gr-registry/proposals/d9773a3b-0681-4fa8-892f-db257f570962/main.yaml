@@ -1,7 +1,7 @@
 id: d9773a3b-0681-4fa8-892f-db257f570962
 justification: Migrating extents
 timeStarted: '2024-09-04T07:16:28.539Z'
-timeEdited: 2024-09-04T07:23:55.915Z
+timeEdited: 2024-09-04T07:24:12.259Z
 state: draft
 registerVersion: cc8a5bb1-95d1-4797-8e88-e8fbe971730d
 submittingStakeholderGitServerUsername: strogonoff
@@ -2167,4 +2167,6 @@ items:
   /coordinate-ops--transformation/28c66cd1-46bf-4e73-b68c-c660c2cc9750.yaml:
     type: clarification
   /coordinate-ops--transformation/6f237cc3-102c-499d-90a8-ab93c9c6ad08.yaml:
+    type: clarification
+  /coordinate-ops--transformation/b7c6fa3f-b9bd-4341-9fc6-c1956899b4a0.yaml:
     type: clarification
