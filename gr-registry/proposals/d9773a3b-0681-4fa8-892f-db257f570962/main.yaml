@@ -1,8 +1,8 @@
 id: d9773a3b-0681-4fa8-892f-db257f570962
-justification: Migrating extents
+justification: Migrating extent information to dedicated register item class
 timeStarted: '2024-09-04T07:16:28.539Z'
 timeEdited: 2024-09-04T07:26:08.527Z
-state: draft
+state: proposed
 registerVersion: cc8a5bb1-95d1-4797-8e88-e8fbe971730d
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -2188,3 +2188,26 @@ items:
     type: clarification
   /coordinate-ops--transformation/c111307f-5a1d-4d27-bd6b-a111d15d3bcb.yaml:
     type: clarification
+timeProposed: 2024-09-04T07:26:59.146Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2024-09-04T07:26:59.147Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - submitter
+        - manager
+        - control-body-reviewer
+        - control-body
+        - owner
+      name: Anton (Test)
+      gitServerUsername: strogonoff
+      affiliations:
+        bd260310-533a-4659-9be4-d944b60a9778:
+          role: member
+      contacts:
+        - label: email
+          value: anton@strogonoff.name
+    input:
+      justification: Migrating extent information to dedicated register item class
