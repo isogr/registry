@@ -1,0 +1,15 @@
+id: ceff2dcc-e1b1-403c-b7da-36fcbaed4bf3
+dateAccepted: '2024-09-04'
+status: valid
+data:
+  identifier: 0
+  name: World
+  extent:
+    'n': '90'
+    e: '180'
+    s: '-90'
+    w: '-180'
+    name: World.
+  informationSources: []
+  remarks: ''
+  aliases: []

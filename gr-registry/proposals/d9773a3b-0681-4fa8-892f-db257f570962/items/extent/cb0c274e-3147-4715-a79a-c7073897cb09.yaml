@@ -1,0 +1,18 @@
+id: cb0c274e-3147-4715-a79a-c7073897cb09
+dateAccepted: '2024-09-04'
+status: valid
+data:
+  identifier: 0
+  name: New Zealand - Onshore & Offshore
+  extent:
+    'n': '-25'
+    e: '-170'
+    s: '-60'
+    w: '160'
+    name: >-
+      New Zealand - onshore and offshore - Antipodes Islands, Auckland Islands,
+      Bounty Islands, Campbell Island Chatham Islands, Kermadec Islands, North
+      Island, Raoul Island, Snares Islands, South Island, Stewart Island.
+  informationSources: []
+  remarks: ''
+  aliases: []

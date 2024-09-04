@@ -1,0 +1,18 @@
+id: 97ee9dd3-f0f4-45d4-bcfe-687e5ce1a166
+dateAccepted: '2024-09-04'
+status: valid
+data:
+  identifier: 0
+  name: United States - CONUS SE Onshore
+  extent:
+    'n': '41.01'
+    e: '-71.9'
+    s: '33.84'
+    w: '-78'
+    name: >-
+      United States (USA) - onshore - CONUS south of 41°N and east of 78°W
+      (Delaware, Maryland, New Jersey, New York, North Carolina, Pennsylvania,
+      Virginia, West Virginia).
+  informationSources: []
+  remarks: ''
+  aliases: []

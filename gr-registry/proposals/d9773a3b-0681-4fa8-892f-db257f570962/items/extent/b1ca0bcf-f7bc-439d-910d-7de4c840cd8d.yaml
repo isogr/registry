@@ -1,0 +1,15 @@
+id: b1ca0bcf-f7bc-439d-910d-7de4c840cd8d
+dateAccepted: '2024-09-04'
+status: valid
+data:
+  identifier: 0
+  name: South America
+  extent:
+    'n': '16.75'
+    e: '-26'
+    s: '-59.87'
+    w: '-113.21'
+    name: South America - onshore and offshore
+  informationSources: []
+  remarks: ''
+  aliases: []

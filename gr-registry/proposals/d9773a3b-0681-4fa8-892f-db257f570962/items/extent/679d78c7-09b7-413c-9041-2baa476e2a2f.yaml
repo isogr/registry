@@ -1,0 +1,15 @@
+id: 679d78c7-09b7-413c-9041-2baa476e2a2f
+dateAccepted: '2024-09-04'
+status: valid
+data:
+  identifier: 0
+  name: Canada - Saskatchewan
+  extent:
+    'n': '60'
+    e: '-101.34'
+    s: '49'
+    w: '-110'
+    name: Canada - Saskatchewan.
+  informationSources: []
+  remarks: ''
+  aliases: []

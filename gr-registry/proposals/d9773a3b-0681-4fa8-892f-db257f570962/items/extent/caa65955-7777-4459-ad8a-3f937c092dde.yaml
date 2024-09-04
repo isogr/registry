@@ -1,0 +1,17 @@
+id: caa65955-7777-4459-ad8a-3f937c092dde
+dateAccepted: '2024-09-04'
+status: valid
+data:
+  identifier: 0
+  name: World - Between 84°E and 90°E, Northern Hemisphere Between Equator and 84°N
+  extent:
+    'n': '84'
+    e: '90'
+    s: '0'
+    w: '84'
+    name: >-
+      World - onshore and offshore - between 84°E and 90°E, northern hemisphere
+      between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []

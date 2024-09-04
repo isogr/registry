@@ -1,0 +1,17 @@
+id: 28479637-fec3-4133-bb41-87e6b8653a3f
+dateAccepted: '2024-09-04'
+status: valid
+data:
+  identifier: 0
+  name: World - Between 102°W and 96°W, northern hemisphere between equator and 84°N
+  extent:
+    'n': '84'
+    e: '-96'
+    s: '0'
+    w: '-102'
+    name: >-
+      World - onshore and offshore - between 102°W and 96°W, northern hemisphere
+      between equator and 84°N.
+  informationSources: []
+  remarks: ''
+  aliases: []

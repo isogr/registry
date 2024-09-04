@@ -1,0 +1,18 @@
+id: d3e0857b-fd5c-429d-a424-f66e08345c27
+dateAccepted: '2024-09-04'
+status: valid
+data:
+  identifier: 0
+  name: United States - CONUS CNE Onshore
+  extent:
+    'n': '49.37'
+    e: '-77.99'
+    s: '41'
+    w: '-95'
+    name: >-
+      United States (USA) - onshore - CONUS north of 41°N and between 95°W and
+      78°W (Illinois, Indiana, Iowa, Michigan, Minnesota, New York, Ohio,
+      Pennsylvania, Wisconsin).
+  informationSources: []
+  remarks: ''
+  aliases: []

@@ -1,0 +1,15 @@
+id: eb5939f3-f008-4483-8a1a-91957ac109fa
+dateAccepted: '2024-09-04'
+status: valid
+data:
+  identifier: 0
+  name: Guam
+  extent:
+    'n': '14'
+    e: '146'
+    s: '13'
+    w: '143'
+    name: Guam - onshore.
+  informationSources: []
+  remarks: ''
+  aliases: []

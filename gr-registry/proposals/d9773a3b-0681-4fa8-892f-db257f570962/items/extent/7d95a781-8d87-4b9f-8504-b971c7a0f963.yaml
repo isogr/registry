@@ -1,0 +1,15 @@
+id: 7d95a781-8d87-4b9f-8504-b971c7a0f963
+dateAccepted: '2024-09-04'
+status: valid
+data:
+  identifier: 0
+  name: Saudi Arabia - Between 36°E and 42°E
+  extent:
+    'n': '31.15'
+    e: '42'
+    s: '16.35'
+    w: '36'
+    name: Saudi Arabia - onshore and offshore - between 36°E and 42°E.
+  informationSources: []
+  remarks: ''
+  aliases: []

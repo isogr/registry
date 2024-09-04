@@ -1,0 +1,15 @@
+id: a6db8842-371d-497f-8ab1-53e77a547e57
+dateAccepted: '2024-09-04'
+status: valid
+data:
+  identifier: 0
+  name: Cocos Islands
+  extent:
+    'n': '-11'
+    e: '98'
+    s: '-13.01'
+    w: '95'
+    name: Cocos (Keeling) Islands - onshore and offshore
+  informationSources: []
+  remarks: ''
+  aliases: []
