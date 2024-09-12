@@ -98,8 +98,8 @@ contentSummary: >-
     <li>Following desktop application UI pattern, there are a few places where double-clicking is required.</li>
     <li>The main section of the interface uses tabs. Whenever an item or item class listing is opened, a new tab would appear to the right of “Home” tab.</li>
     <li>As in the previous system, item classes are listed in the sidebar on the left. Double-clicking item class will open item listing for that class, with search on top.</li>
-    <li>To copy a link to complete current view with all open tabs, use button on bottom left.</li>
-    <li>To reset current view, use button on bottom right.</li>
+    <li>To copy a link to complete current view with all open tabs, use the button on bottom left of the window.</li>
+    <li>To reset current view, use the button on bottom right of the window.</li>
     <li>Feedback is welcome at <a href="https://github.com/isogr/register-system-transition/issues/">Github issues</a>.</li>
   </ul>
 
