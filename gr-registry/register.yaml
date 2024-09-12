@@ -69,6 +69,24 @@ contentSummary: >-
 
 
 
+  <h3>Register system update</h3>
+
+  <p>
+    In September 2024, register system had been updated. The previous register system is available at https://geodetic-v1.isotc211.org/.
+  </p>
+
+  <h4>Usage notes and known issues</h4>
+
+  <ul>
+    <li>Following desktop application UI pattern, there are a few places where double-clicking is required.</li>
+    <li>The main section of the interface uses tabs. Whenever an item or item class listing is opened, a new tab would appear to the right of “Home” tab.</li>
+    <li>As in the previous system, item classes are listed in the sidebar on the left. Double-clicking item class will open item listing for that class, with search on top.</li>
+    <li>To copy a link to complete current view with all open tabs, use button on bottom left.</li>
+    <li>To reset current view, use button on bottom right.</li>
+    <li>Feedback is welcome at <a href="https://github.com/isogr/register-system-transition/issues/">Github issues</a>.</li>
+  </ul>
+
+
   <h3>User license</h3>
 
   <p>
