@@ -1,10 +1,12 @@
 id: e1845884-f9eb-4c03-91ab-6ca4adb13869
 timeStarted: 2024-09-16T13:51:23.288Z
-timeEdited: 2024-09-16T13:57:26.037Z
+timeEdited: 2024-09-16T13:58:27.492Z
 justification: Correct extent typos
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /extent/68cc2ac4-2a70-453d-8133-c64fe0cb5e0c.yaml:
+    type: clarification
+  /extent/ce4fbfa2-508e-48eb-9267-0f5de2d1878f.yaml:
     type: clarification
 state: draft
 registerVersion: d9773a3b-0681-4fa8-892f-db257f570962
