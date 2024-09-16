@@ -73,10 +73,10 @@ contentSummary: >-
 
   <p>
 
-  The ISOGR has been updated to a new register system based on the Paneron
-  platform created by Ribose, Inc. In addition to a completely new and more
-  efficient user interface, geographic extents for items have been moved into a
-  new extents item class. Each extent has now been assigned a name and ISOGR
+  The ISOGR has been updated to a new and more efficient register system based
+  on the Paneron platform created by Ribose, Inc. In addition to a completely
+  new user interface, geographic extents for items have been moved into a new
+  extents item class. Each extent has now been assigned a name and ISOGR
   identifier code.
 
   </p>
