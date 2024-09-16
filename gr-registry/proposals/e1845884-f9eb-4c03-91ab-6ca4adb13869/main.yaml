@@ -10,7 +10,7 @@ items:
     type: clarification
   /extent/ce4fbfa2-508e-48eb-9267-0f5de2d1878f.yaml:
     type: clarification
-state: pending-control-body-review
+state: accepted
 registerVersion: d9773a3b-0681-4fa8-892f-db257f570962
 timeProposed: 2024-09-16T14:01:52.116Z
 pastTransitions:
@@ -45,4 +45,23 @@ pastTransitions:
         - label: email
           value: paneron@craymer.com
     input: {}
+  - label: Accept
+    timestamp: 2024-09-16T14:14:42.216Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      controlBodyNotes: Corrections for typos in two extents.
+      controlBodyDecisionEvent: Accepted by M. Craymer, ISOGR GB Chair.
 registerManagerNotes: ''
+controlBodyNotes: Corrections for typos in two extents.
+controlBodyDecisionEvent: Accepted by M. Craymer, ISOGR GB Chair.
+timeDisposed: 2024-09-16T14:14:42.216Z
