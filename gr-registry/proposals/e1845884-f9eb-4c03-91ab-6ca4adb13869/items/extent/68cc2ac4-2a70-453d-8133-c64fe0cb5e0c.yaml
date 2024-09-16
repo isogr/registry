@@ -1,0 +1,17 @@
+id: 68cc2ac4-2a70-453d-8133-c64fe0cb5e0c
+data:
+  identifier: 1058
+  name: Canada - Vancouver Island Except CRD
+  extent:
+    'n': '50.95'
+    e: '-123.58'
+    s: '48.5'
+    w: '-128.45'
+    name: >-
+      Canada - onshore and offshore - British Columbia - Vancouver Island
+      excluding Capital Regional District.
+  informationSources: []
+  remarks: ''
+  aliases: []
+status: valid
+dateAccepted: 2024-09-04T07:28:24.961Z
