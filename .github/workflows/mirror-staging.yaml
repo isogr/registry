@@ -16,5 +16,5 @@ jobs:
         id: mirror
         uses: n14s/github-mirror-action@v1
         with:
-          origin: git@github.com:isogr/registry-staging
+          origin: https://github.com/isogr/registry-staging
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
