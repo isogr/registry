@@ -5,6 +5,8 @@ on:
     - cron: '42 */12 * * *'
   push:
     branches: [ master ]
+    paths-ignore:
+      - '.github/workflows/mirror-staging.yaml'
   repository_dispatch:
     types: [ deploy_master ]
   workflow_dispatch:
