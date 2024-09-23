@@ -9,12 +9,20 @@ on:
 
 jobs:
   mirror:
+    name: Mirror repository
     runs-on: ubuntu-latest
-    name: mirror
     steps:
-      - name: mirror
-        id: mirror
-        uses: n14s/github-mirror-action@v1
+      # Fetch only the staging branch
+      - name: Check out repository
+        uses: actions/checkout@v4
         with:
-          origin: https://github.com/isogr/registry-staging
+          ref: staging
+      - name: Push to mirror
+        shell: bash
+        run: |
+          # git config --global user.name "${GITHUB_ACTOR}"
+          # git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git remote add mirror https://github.com/isogr/registry-staging.git
+          git push -f mirror staging
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
