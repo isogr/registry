@@ -20,9 +20,24 @@ jobs:
       - name: Push to mirror
         shell: bash
         run: |
-          # git config --global user.name "${GITHUB_ACTOR}"
-          # git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git remote add mirror https://github.com/isogr/registry-staging.git
+
+          # Inspired by https://github.com/cpina/github-action-push-to-another-repository/blob/main/entrypoint.sh , thanks!
+          # Inspired by https://github.com/leigholiver/commit-with-deploy-key/blob/main/entrypoint.sh , thanks!
+          mkdir --parents "$HOME/.ssh"
+          DEPLOY_KEY_FILE="$HOME/.ssh/deploy_key"
+          echo "${SSH_DEPLOY_KEY}" > "$DEPLOY_KEY_FILE"
+          chmod 600 "$DEPLOY_KEY_FILE"
+
+          SSH_KNOWN_HOSTS_FILE="$HOME/.ssh/known_hosts"
+          ssh-keyscan -H "github.com" > "$SSH_KNOWN_HOSTS_FILE"
+
+          export GIT_SSH_COMMAND="ssh -i "$DEPLOY_KEY_FILE" -o UserKnownHostsFile=$SSH_KNOWN_HOSTS_FILE"
+
+          # See:
+          # https://stackoverflow.com/questions/64374179/how-to-push-to-another-repository-in-github-actions
+          git config --unset-all http.https://github.com/.extraheader
+
+          git remote add mirror git@github.com:isogr/registry-staging.git
           git push -f mirror staging
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
