@@ -6,7 +6,8 @@ on:
   push:
     branches: [ master ]
     paths-ignore:
-      - '.github/workflows/mirror-staging.yaml'
+      - '.github/workflows/*'
+      - '!.github/workflows/deploy-master.yaml'
   repository_dispatch:
     types: [ deploy_master ]
   workflow_dispatch:
