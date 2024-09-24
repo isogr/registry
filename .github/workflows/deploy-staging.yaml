@@ -1,31 +1,32 @@
-name: deploy-master
+name: deploy-staging
 
 on:
   schedule:
     - cron: '42 */12 * * *'
   push:
-    branches: [ master ]
+    branches: [ staging ]
     paths-ignore:
-      - '.github/workflows/mirror-staging.yaml'
+      - '.github/workflows/*'
+      - '!.github/workflows/deploy-staging.yaml'
   repository_dispatch:
-    types: [ deploy_master ]
+    types: [ deploy_staging ]
   workflow_dispatch:
 
 jobs:
   build:
     # The same repo is mirrored to different GitHub repos.
-    if: github.repository == 'isogr/registry'
+    if: github.repository == 'isogr/registry-staging'
     name: Build site
     runs-on: ubuntu-latest
     environment:
       name: production
-      url: https://isogr.demo.paneron.org
+      url: https://geodetic-staging.isotc211.org
     steps:
       - name: Use Node
         uses: actions/setup-node@v4
         with:
           node-version: '20.11.0'
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v4
       - name: Build
         run: |
           npx @paneron/site-builder@0.0.40 --outdir dist --datadir gr-registry
