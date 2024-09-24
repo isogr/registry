@@ -9,6 +9,8 @@ on:
 
 jobs:
   mirror:
+    # The same repo is mirrored to different GitHub repos.
+    if: github.repository == 'isogr/registry'
     name: Mirror repository
     runs-on: ubuntu-latest
     steps:
