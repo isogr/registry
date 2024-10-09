@@ -5,7 +5,7 @@ on:
     branches:
       - master
   repository_dispatch:
-    types: [ mirror_production ]
+    types: [ mirror-production ]
   workflow_dispatch:
 
 jobs:
