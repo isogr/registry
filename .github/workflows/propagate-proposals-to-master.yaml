@@ -27,3 +27,12 @@ jobs:
         run: |
           git reset --hard origin/proposals
           git push
+  force-propagate:
+    name: Force propagate changes to master
+    needs: [update]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          event-type: mirror-production
