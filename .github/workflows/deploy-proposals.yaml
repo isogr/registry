@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '42 */12 * * *'
   push:
-    branches: [ master ]
+    branches: [ proposals ]
     paths-ignore:
       - '.github/workflows/*'
       - '!.github/workflows/deploy-proposals.yaml'
