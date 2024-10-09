@@ -15,6 +15,8 @@ jobs:
     if: github.repository == 'isogr/registry-proposals'
     name: Detect changes in proposals/ folder in branch 'proposals'
     runs-on: ubuntu-latest
+    outputs:
+      needs-updating: ${{ steps.detect.outputs.needs-updating }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -22,7 +24,7 @@ jobs:
           ref: proposals
           fetch-depth: 0
       - name: Detect status changes to 'accepted' in proposals
-        id: output
+        id: detect
         shell: bash
         run: |
           case ${{ github.event_name }} in
@@ -54,6 +56,8 @@ jobs:
     # folder have updated key 'status' to 'accepted'.
     if: ${{ needs.detect-changes-in-proposals.outputs.needs-updating == 'true' }}
     runs-on: ubuntu-latest
+    outputs:
+      needs-updating: ${{ steps.determine.outputs.needs-updating }}
     steps:
       # Fetch only the production branch
       - name: Check out repository
@@ -64,7 +68,7 @@ jobs:
           # Need all history to be able to push to Production.
           fetch-depth: 0
       # - name: Determine if there are changes between the two branches
-      #   id: output
+      #   id: determine
       #   shell: bash
       #   run: |
       #     if (( $(git diff origin/proposals HEAD | wc -l) > 0 ))
