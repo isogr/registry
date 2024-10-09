@@ -1,7 +1,9 @@
 name: mirror-production
 
 on:
-  # Manual operation only.
+  push:
+    branches:
+      - master
   repository_dispatch:
     types: [ mirror_production ]
   workflow_dispatch:
