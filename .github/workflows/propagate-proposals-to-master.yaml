@@ -31,16 +31,16 @@ jobs:
               # Ideally, check against master branch:
               if git diff origin/master HEAD gr-registry/proposals/*/main.yaml | grep -q '^+state: accepted'
               then
-                echo "::set-output name=needs-updating::true"
+                echo "needs-updating=true" >> $GITHUB_OUTPUT
               else
-                echo "::set-output name=needs-updating::false"
+                echo "needs-updating=false" >> $GITHUB_OUTPUT
               fi
             ;;
             repository_dispatch)
-              echo "::set-output name=needs-updating::true"
+              echo "needs-updating=true" >> $GITHUB_OUTPUT
             ;;
             workflow_dispatch)
-              echo "::set-output name=needs-updating::true"
+              echo "needs-updating=true" >> $GITHUB_OUTPUT
             ;;
             *)
               echo "::set-output name=needs-updating::false"
@@ -69,9 +69,9 @@ jobs:
       #   run: |
       #     if (( $(git diff origin/proposals HEAD | wc -l) > 0 ))
       #     then
-      #       echo "::set-output name=needs-updating::true"
+      #       echo "needs-updating=true" >> $GITHUB_OUTPUT
       #     else
-      #       echo "::set-output name=needs-updating::false"
+      #       echo "needs-updating=false" >> $GITHUB_OUTPUT
       #     fi
       - name: Push to master branch
         shell: bash
