@@ -9,7 +9,7 @@ on:
       - '.github/workflows/*'
       - '!.github/workflows/deploy-staging.yaml'
   repository_dispatch:
-    types: [ deploy_staging ]
+    types: [ deploy-staging ]
   workflow_dispatch:
 
 jobs:

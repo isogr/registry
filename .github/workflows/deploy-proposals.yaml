@@ -9,7 +9,7 @@ on:
       - '.github/workflows/*'
       - '!.github/workflows/deploy-proposals.yaml'
   repository_dispatch:
-    types: [ deploy_proposals ]
+    types: [ deploy-proposals ]
   workflow_dispatch:
 
 jobs:

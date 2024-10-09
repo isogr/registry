@@ -9,7 +9,7 @@ on:
       - '.github/workflows/*'
       - '!.github/workflows/deploy-master.yaml'
   repository_dispatch:
-    types: [ deploy_master ]
+    types: [ deploy-master ]
   workflow_dispatch:
 
 jobs:
