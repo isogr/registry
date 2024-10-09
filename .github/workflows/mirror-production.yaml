@@ -47,3 +47,14 @@ jobs:
           git push -f production master
         env:
           SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+  force-deploy:
+    name: Force production to deploy
+    needs: [mirror]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT_JEFFREYLAU }}
+          repository: isogr/registry
+          event-type: deploy-master
