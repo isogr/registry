@@ -2,9 +2,9 @@ name: deploy-proposals
 
 on:
   schedule:
-    - cron: '42 */12 * * *'
+    - cron: '48 */12 * * *'
   push:
-    branches: [ proposals ]
+    branches: [ master ]
     paths-ignore:
       - '.github/workflows/*'
       - '!.github/workflows/deploy-proposals.yaml'
@@ -13,40 +13,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    # The same repo is mirrored to different GitHub repos.
-    if: github.repository == 'isogr/registry-proposals'
-    name: Build site
-    runs-on: ubuntu-latest
-    environment:
-      name: production
-      url: https://geodetic-proposals.isotc211.org
-    steps:
-      - name: Use Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20.11.0'
-      - uses: actions/checkout@master
-      - name: Build
-        run: |
-          npx @paneron/site-builder@0.0.42 --outdir dist --datadir gr-registry
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-  deploy:
-    needs: build
-
-    permissions:
-      pages: write
-      id-token: write
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
+  deploy-proposals:
+    name: Force proposals instance to deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT_REGISTRY_REPOSITORY_DISPATCH_JEFFREYLAU }}
+          repository: isogr/registry-proposals
+          event-type: deploy-proposals
