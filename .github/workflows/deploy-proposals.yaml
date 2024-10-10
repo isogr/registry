@@ -14,6 +14,8 @@ on:
 
 jobs:
   deploy-proposals:
+    # The same repo is mirrored to different GitHub repos.
+    if: github.repository == 'isogr/registry'
     name: Force proposals instance to deploy
     runs-on: ubuntu-latest
     steps:
