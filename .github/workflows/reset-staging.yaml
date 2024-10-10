@@ -1,8 +1,6 @@
 name: reset-staging
 
 on:
-  push:
-    branches: [ staging ]
   repository_dispatch:
     types: [ reset-staging ]
   workflow_dispatch:
@@ -14,11 +12,10 @@ jobs:
     name: Reset repository
     runs-on: ubuntu-latest
     steps:
-      # Fetch only the staging branch
       - name: Check out repository
         uses: actions/checkout@v4
         with:
-          ref: staging
+          ref: master
           # Default fetch-depth is 1.
           # Need all history to be able to push to mirror.
           fetch-depth: 0
@@ -43,6 +40,6 @@ jobs:
           git config --unset-all http.https://github.com/.extraheader
 
           git remote add mirror git@github.com:isogr/registry-staging.git
-          git push -f mirror staging
+          git push -f mirror master
         env:
           SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
