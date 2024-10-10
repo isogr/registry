@@ -1,17 +1,17 @@
-name: mirror-staging
+name: reset-staging
 
 on:
   push:
     branches: [ staging ]
   repository_dispatch:
-    types: [ mirror-staging ]
+    types: [ reset-staging ]
   workflow_dispatch:
 
 jobs:
-  mirror:
+  reset:
     # The same repo is mirrored to different GitHub repos.
     if: github.repository == 'isogr/registry'
-    name: Mirror repository
+    name: Reset repository
     runs-on: ubuntu-latest
     steps:
       # Fetch only the staging branch
