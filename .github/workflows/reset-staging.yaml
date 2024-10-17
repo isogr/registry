@@ -43,3 +43,14 @@ jobs:
           git push -f mirror master:staging
         env:
           SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+  force-deploy:
+    name: Force staging to deploy
+    needs: [reset]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT_REGISTRY_REPOSITORY_DISPATCH_JEFFREYLAU }}
+          repository: isogr/registry-staging
+          event-type: deploy-staging
