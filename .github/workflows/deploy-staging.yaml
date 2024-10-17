@@ -6,6 +6,7 @@ on:
   push:
     branches: [ staging ]
     paths-ignore:
+      - '/docs/**'
       - '.github/workflows/*'
       - '!.github/workflows/deploy-staging.yaml'
   repository_dispatch:
