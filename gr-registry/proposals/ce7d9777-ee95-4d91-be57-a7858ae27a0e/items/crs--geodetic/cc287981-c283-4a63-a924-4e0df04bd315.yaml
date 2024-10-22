@@ -1,0 +1,66 @@
+id: cc287981-c283-4a63-a924-4e0df04bd315
+data:
+  identifier: -3
+  name: ETRF2020 - LatLonEHt
+  aliases:
+    - European Terrestrial Reference Frame 2020
+  informationSources:
+    - title: >-
+        EUREF Technical Note 1: Relationship and Transformation between the
+        International and the European Terrestrial Reference Systems
+      publicationDate: ''
+      revisionDate: '2024-03-04'
+      edition: ''
+      author: Z. Altamimi
+      seriesName: EUREF Technical Notes
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        http://etrs89.ensg.ign.fr/pub/EUREF-TN-1-Mar-04-2024.pdf (accessed
+        2024-03-25)
+      uri: ''
+      publisher: >-
+        Institut National de l’Information Géographique et Forestière (IGN),
+        France
+    - title: EUREF 2023 Resolutions
+      publicationDate: '2023-05-26'
+      revisionDate: ''
+      edition: ''
+      author: M. Greaves (ed)
+      seriesName: >-
+        Report on the Symposium of the IAG Subcommission for Europe (EUREF),
+        Gothenburg, Sweden, 24-26 May 2023
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        http://www.euref.eu/sites/default/files/minutes/EUREF_2023_Resolutions_Paper.pdf
+        (accessed 2024-04-22)
+      uri: ''
+      publisher: EUREF Governing Board
+  remarks: >-
+    The EUREF Governing Board recommends to use the ETRF2020 for high precision
+    applications and better consistency with the more precise ITRF2020 geocentry
+    origin.
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  baseCRS: null
+  operation: null
+  extent:
+    name: >-
+      Europe - onshore and offshore: Albania, Andorra, Austria, Belgium, Bosnia
+      and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark,
+      Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece,
+      Hungary, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg,
+      Macedonia, Malta, Monaco, Montenegro, Netherlands, Norway including
+      Svalbard and Jan Mayen, Poland, Portugal, Romania, San Marino, Serbia,
+      Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom (UK)
+      including Channel Islands and Isle of Man, Vatican City State.
+    s: '32.88'
+    w: '-16.1'
+    'n': '84.17'
+    e: '39.65'
+  datum: 6bb546eb-be9c-4fc2-bb38-45ee5af6f1bd
+dateAccepted: '2024-10-22T13:05:30.616Z'
+status: valid

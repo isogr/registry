@@ -1,0 +1,40 @@
+submittingStakeholderGitServerUsername: maccraymer
+registerVersion: ''
+id: ce7d9777-ee95-4d91-be57-a7858ae27a0e
+timeStarted: '2024-10-22T13:05:30.616Z'
+timeEdited: '2024-10-22T13:05:30.616Z'
+state: draft
+justification: exported via Glossarist migration adapter
+items:
+  /crs--geodetic/5a2bb9c1-18b5-40a2-af4d-5197f275d9f9.yaml:
+    type: addition
+  /crs--geodetic/cc287981-c283-4a63-a924-4e0df04bd315.yaml:
+    type: addition
+  /crs--geodetic/16eafd1e-78d9-4cd8-bbd8-63e5901e2392.yaml:
+    type: addition
+  /coordinate-ops--transformation/c95ade53-d29d-4bd2-ab8f-7135cacb7223.yaml:
+    type: addition
+  /coordinate-ops--transformation/bd6f658f-bf80-49cc-8857-3523d13c3532.yaml:
+    type: addition
+  /coordinate-ops--transformation/5da2ca26-e2c8-4f04-9055-2f01a4b5cb12.yaml:
+    type: addition
+  /coordinate-ops--transformation/59d5e21e-6c84-492e-b848-05711d377272.yaml:
+    type: addition
+  /coordinate-ops--transformation/c98f4c4c-a7c2-4a54-a7eb-8835c00aa033.yaml:
+    type: addition
+  /coordinate-ops--transformation/c149af12-c323-4155-9222-50e79ff7c5ac.yaml:
+    type: addition
+  /coordinate-ops--transformation/bb96f16b-08bb-4ea8-934d-e54635b2e401.yaml:
+    type: addition
+  /coordinate-ops--transformation/4e6a3c48-08a1-4b7d-baff-530fd7de29ad.yaml:
+    type: addition
+  /coordinate-ops--transformation/2803f813-4d52-420a-b8ea-d917999931da.yaml:
+    type: addition
+  /coordinate-ops--transformation/84af4e3e-48cc-4052-b26c-ba6281e976b6.yaml:
+    type: addition
+  /coordinate-ops--transformation/2ca1625e-894a-4a2e-ab72-399aad841295.yaml:
+    type: addition
+  /coordinate-ops--transformation/1f7c7ab1-56f2-4416-8ca0-cf4b4eccd79a.yaml:
+    type: addition
+  /coordinate-ops--transformation/eaca1017-384e-40c5-95a6-45fcf3dae887.yaml:
+    type: addition
