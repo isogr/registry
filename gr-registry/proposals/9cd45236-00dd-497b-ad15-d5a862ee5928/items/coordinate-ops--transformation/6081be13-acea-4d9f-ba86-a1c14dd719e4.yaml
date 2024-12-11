@@ -53,7 +53,7 @@ data:
       value: NAD83v6VG
       parameter: f9c0706b-5151-4e04-83dc-ba164b2d8579
       unitOfMeasurement: null
-    - type: measure (w/ UoM)
+    - type: integer value
       fileCitation: null
       value: '285'
       parameter: 15811eed-e76f-43f1-9b66-e36d1c94aacf
