@@ -1,7 +1,9 @@
 id: 9cd45236-00dd-497b-ad15-d5a862ee5928
 timeStarted: 2024-11-25T01:30:33.408Z
 timeEdited: 2024-12-11T01:05:18.177Z
-justification: NAD83v6VG velocity grid name correction.
+justification: >-
+  NAD83v6VG velocity grid name correction. Submitted by M. Craymer, Canadian
+  Geodetic Survey.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/6081be13-acea-4d9f-ba86-a1c14dd719e4.yaml:
@@ -10,5 +12,24 @@ items:
     type: clarification
   /coordinate-ops--transformation/eee36e9e-a8b9-4a1e-a180-e3b8adc9b276.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: e1845884-f9eb-4c03-91ab-6ca4adb13869
+timeProposed: 2024-12-15T16:09:20.920Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2024-12-15T16:09:20.920Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        NAD83v6VG velocity grid name correction. Submitted by M. Craymer,
+        Canadian Geodetic Survey.
