@@ -2,7 +2,7 @@ id: d0f15ba6-4c30-4547-bfb8-c7d4b2162e82
 justification: Migrating extent information to dedicated register item class
 timeStarted: '2024-08-23T08:50:42.838Z'
 timeEdited: 2024-08-23T09:04:47.780Z
-state: pending-control-body-review
+state: rejected
 registerVersion: cc8a5bb1-95d1-4797-8e88-e8fbe971730d
 submittingStakeholderGitServerUsername: strogonoff
 items:
@@ -2231,4 +2231,21 @@ pastTransitions:
         - label: email
           value: anton@strogonoff.name
     input: {}
+  - label: Reject
+    timestamp: 2024-12-18T22:31:52.342Z
+    fromState: pending-control-body-review
+    toState: rejected
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      controlBodyNotes: Remove obsolete proposal.
 registerManagerNotes: ''
+controlBodyNotes: Remove obsolete proposal.
+timeDisposed: 2024-12-18T22:31:52.342Z
