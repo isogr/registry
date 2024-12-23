@@ -2,15 +2,15 @@ id: e3c70141-c101-4959-8d96-78297364b299
 timeStarted: 2024-12-23T00:46:38.987Z
 timeEdited: 2024-12-23T00:48:11.156Z
 justification: >-
-  Corrected accuracy and CRS interpolation parameter type of NAD83(CSRS) v3 to
+  Corrected accuracy and interpolation CRS parameter type of NAD83(CSRS) v3 to
   v7 transformation. Submitted by M. Craymer, Canadian Geodetic Survey.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/28c66cd1-46bf-4e73-b68c-c660c2cc9750.yaml:
     type: clarification
-state: returned-for-clarification
+state: proposed
 registerVersion: 9cd45236-00dd-497b-ad15-d5a862ee5928
-timeProposed: 2024-12-23T00:50:00.198Z
+timeProposed: 2024-12-23T01:01:31.974Z
 pastTransitions:
   - label: Propose
     timestamp: 2024-12-23T00:50:00.198Z
@@ -45,4 +45,22 @@ pastTransitions:
           value: paneron@craymer.com
     input:
       registerManagerNotes: Correct proposal summary. M. Craymer, ISOGR Control Body Chair.
+  - label: Propose
+    timestamp: 2024-12-23T01:01:31.974Z
+    fromState: returned-for-clarification
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        Corrected accuracy and interpolation CRS parameter type of NAD83(CSRS)
+        v3 to v7 transformation. Submitted by M. Craymer, Canadian Geodetic
+        Survey.
 registerManagerNotes: Correct proposal summary. M. Craymer, ISOGR Control Body Chair.
