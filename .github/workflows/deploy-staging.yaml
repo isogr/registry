@@ -16,6 +16,9 @@ on:
 jobs:
   build:
     # The same repo is mirrored to different GitHub repos.
+    # Deployment environments are distinguished by repositories.
+    # As such, web analytics ID such as var.GA_MEASUREMENT_ID should be
+    # provided at the appropriate repository.
     if: github.repository == 'isogr/registry-staging'
     name: Build site
     runs-on: ubuntu-latest
@@ -30,7 +33,28 @@ jobs:
       - uses: actions/checkout@v4
       - name: Build
         run: |
-          npx @paneron/site-builder@0.0.43 --outdir dist --datadir gr-registry
+          if [[ -d gr-registry/_web && -n "${GA_MEASUREMENT_ID:-}" ]]
+          then
+            echo "{\"gaMeasurementId\":\"${GA_MEASUREMENT_ID}\"}" > "${DATASET_NAME}"/_web/resources/js/ga.json
+            echo >&2 "Requirements met.  Using latest version (0.0.44) of site-builder..."
+
+            # FIXME: Must specify --datadir *after* --injected-entries, or else
+            # it would complain about `Invalid subcommand for build - use 'watch'`
+            npx @paneron/site-builder@0.0.44 \
+              --outdir "${OUTDIR}" \
+              --injected-entries "${DATASET_NAME}"/_web/ga.js \
+              --injected-assets-dir "${DATASET_NAME}"/_web/resources \
+              --datadir "${DATASET_NAME}"
+          else
+            echo >&2 "Fallback to older version (0.0.43) of site-builder."
+            npx @paneron/site-builder@0.0.43 \
+              --outdir "${OUTDIR}" \
+              --datadir "${DATASET_NAME}"
+          fi
+        env:
+          GA_MEASUREMENT_ID: ${{ vars.GA_MEASUREMENT_ID }}
+          DATASET_NAME: gr-registry
+          OUTDIR: dist
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
