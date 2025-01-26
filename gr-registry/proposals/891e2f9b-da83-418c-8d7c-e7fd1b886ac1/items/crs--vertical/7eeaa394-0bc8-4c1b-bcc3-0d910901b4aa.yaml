@@ -1,0 +1,66 @@
+id: 7eeaa394-0bc8-4c1b-bcc3-0d910901b4aa
+data:
+  identifier: -5
+  name: CGVD28(HTv2.0) - OHt
+  aliases: []
+  informationSources:
+    - title: Geoid Models
+      publicationDate: ''
+      revisionDate: '2024-06-03'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Website.
+        https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/data-donnees/geoid.php
+        (accessed 2024-06-12).
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: >-
+        The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height
+        Transformation for Use With GPS in Canada
+      publicationDate: '2001'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau, A. Mainville, M. Craymer
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Referencing and Time Tagging Heights in Canada
+      publicationDate: '2018'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
+      publicationDate: '2019'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+  remarks: Orthometric heights in hybrid geoid-based CGVD28(HTv2.0).
+  scope: Spatial referencing.
+  coordinateSystem:
+    classID: coordinate-sys--vertical
+    itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  baseCRS: null
+  operation: null
+  extentRef: 5a4ffd8d-9d36-4812-bf53-fc58381379b0
+  datum: 88414ef0-ec56-4080-8527-60a17276de54
+dateAccepted: '2025-01-26T17:04:12.738Z'
+status: valid
