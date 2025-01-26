@@ -1,0 +1,107 @@
+id: 3e882c3d-e7e5-46dc-bc9d-74c00982cefc
+data:
+  identifier: -16
+  name: CGVD28 to CGVD28(HTv2.0) [v1]
+  aliases: []
+  informationSources:
+    - title: Geoid Models
+      publicationDate: ''
+      revisionDate: '2024-06-03'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Website.
+        https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/data-donnees/geoid.php
+        (accessed 2024-06-12).
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: >-
+        The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height
+        Transformation for Use With GPS in Canada
+      publicationDate: '2001'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau, A. Mainville, M. Craymer
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Referencing and Time Tagging Heights in Canada
+      publicationDate: '2018'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
+      publicationDate: '2019'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: GPS-H
+      publicationDate: ''
+      revisionDate: '2023-08-14'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Website:
+        https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/gpsh.php
+        (accessed 2024-06-12)
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: BYN Grid Format Description
+      publicationDate: '2023-06-26'
+      revisionDate: ''
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Website:
+        https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/sample_doc_files/NRCan_Geoid_GridFormat_EN_2023.pdf
+        (accessed 2024-06-12)
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+  remarks: >-
+    Null transformation. CGVD28(HTv2.0) is defined by transformation from
+    NAD83(CSRS) v3 epoch 1997 to CGVD28.
+  operationVersion: V1
+  coordOperationMethod: 773d76fa-ef2d-44ec-938b-e5d733f529f6
+  scope: Spatial referencing.
+  accuracy:
+    value: 0.05
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--vertical
+    itemID: 89b896fd-6c91-4a27-91a3-03b549a13803
+  targetCRS:
+    classID: crs--vertical
+    itemID: 5edba9ad-8d6f-4675-807b-ac611bd94080
+  extentRef: 49d32d14-153e-415f-a2db-edc5914d8c77
+  parameters:
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: a6ab1e69-a65e-4970-acf5-47ad2e0d6812
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+dateAccepted: '2025-01-26T16:50:06.135Z'
+status: valid

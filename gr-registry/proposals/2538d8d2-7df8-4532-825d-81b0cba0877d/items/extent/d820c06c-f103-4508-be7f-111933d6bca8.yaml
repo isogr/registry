@@ -1,0 +1,18 @@
+id: d820c06c-f103-4508-be7f-111933d6bca8
+data:
+  identifier: -1
+  name: Canada - CGVD28(HTv2.0)
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: >-
+      Canada - onshore and offshore - Alberta, British Columbia, Manitoba, New
+      Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia,
+      Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon.
+    s: '41'
+    w: '-142'
+    'n': '84'
+    e: '-48'
+dateAccepted: '2025-01-26T16:50:06.135Z'
+status: valid

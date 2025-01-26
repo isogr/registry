@@ -1,0 +1,17 @@
+id: 773d76fa-ef2d-44ec-938b-e5d733f529f6
+data:
+  identifier: -3
+  name: Vertical offset
+  aliases: []
+  informationSources: []
+  remarks: >-
+    Transforms height (or depth) in source system to height (or depth) in the
+    target system by adding a parameter value to the height (or depth) in the
+    source system.
+  parameters:
+    - a6ab1e69-a65e-4970-acf5-47ad2e0d6812
+  formula: >-
+    For operation method procedure and formulae, refer to EPSG Geomatics
+    Guidance Note Number 7, part 2. Method is reversible.
+dateAccepted: '2025-01-26T16:50:06.135Z'
+status: valid
