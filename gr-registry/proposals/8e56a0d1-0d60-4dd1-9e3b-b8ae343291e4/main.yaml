@@ -3,8 +3,10 @@ registerVersion: ''
 id: 8e56a0d1-0d60-4dd1-9e3b-b8ae343291e4
 timeStarted: '2025-01-05T20:16:02.984Z'
 timeEdited: '2025-01-05T20:16:02.984Z'
-state: draft
-justification: imported from converter
+state: proposed
+justification: >-
+  WGS 84 (G2296) geodetic datum. Submitted by M. Craymer, ISOGR Control Body
+  Chair, on behalf of Alex Smith, National Geospatial-Intelligence Agency.
 items:
   /datums--geodetic/2e6be419-3776-448f-bd34-cd51f383f875.yaml:
     type: addition
@@ -18,3 +20,23 @@ items:
     type: addition
   /coordinate-ops--transformation/4627d3fa-29ce-4fa2-82f8-8fdd920a6e37.yaml:
     type: addition
+timeProposed: 2025-01-27T01:44:19.105Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2025-01-27T01:44:19.105Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        WGS 84 (G2296) geodetic datum. Submitted by M. Craymer, ISOGR Control
+        Body Chair, on behalf of Alex Smith, National Geospatial-Intelligence
+        Agency.
