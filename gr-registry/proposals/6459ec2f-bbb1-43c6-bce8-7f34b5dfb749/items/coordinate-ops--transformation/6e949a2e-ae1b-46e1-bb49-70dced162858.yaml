@@ -53,11 +53,11 @@ data:
       value: NAD83v6VG
       parameter: f9c0706b-5151-4e04-83dc-ba164b2d8579
       unitOfMeasurement: null
-    - type: measure (w/ UoM)
+    - type: integer value
       fileCitation: null
       value: '320'
       parameter: 15811eed-e76f-43f1-9b66-e36d1c94aacf
-      unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
+      unitOfMeasurement: ''
   extentRef: d6e78213-1fb4-41e3-b9f8-b0b35f462867
 status: valid
 dateAccepted: 2024-08-23T08:11:04.894Z
