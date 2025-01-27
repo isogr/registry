@@ -1,0 +1,52 @@
+id: 17d525c1-256b-42b9-8825-836a763f71e1
+data:
+  identifier: -2
+  name: NAD83(CSRS) v2 to NAD83(CSRS) v6 [v3]
+  aliases:
+    - NAD83(CSRS) epoch 1997 to NAD83(CSRS) epoch 2010
+  informationSources:
+    - title: NAD83(CSRS) Updates
+      publicationDate: ''
+      revisionDate: '2024-11-21'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Web page:
+        https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/nad83-docs.php
+        (accessed 2024-11-24)
+      uri: ''
+      publisher: >-
+        Canadian Geodetic Survey, Surveyor General Branch, Lands and Minerals
+        Sector, Natural Resources Canada, Government of Canada
+  remarks: >-
+    Transformation based on propagation between coordinate reference epochs
+    using the NAD83(CSRS) v8.0 velocity model/grid.
+  operationVersion: v3
+  coordOperationMethod: 0fe44071-84bc-428f-a045-26744d409995
+  scope: Spatial referencing.
+  accuracy:
+    value: 0.025
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 470dfa24-8bb0-4856-8f4f-14dfca7f087a
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 00f5fc9b-2e5f-4548-810e-31a598dc2558
+  extentRef: d6e78213-1fb4-41e3-b9f8-b0b35f462867
+  parameters:
+    - type: parameter file name
+      fileCitation: null
+      value: NAD83v80VG
+      parameter: f9c0706b-5151-4e04-83dc-ba164b2d8579
+      unitOfMeasurement: null
+    - type: integer value
+      fileCitation: null
+      value: '285'
+      parameter: 15811eed-e76f-43f1-9b66-e36d1c94aacf
+      unitOfMeasurement: null
+dateAccepted: '2025-01-05T20:06:29.582Z'
+status: valid
