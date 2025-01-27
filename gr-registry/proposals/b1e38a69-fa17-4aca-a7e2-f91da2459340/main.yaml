@@ -3,8 +3,10 @@ registerVersion: ''
 id: b1e38a69-fa17-4aca-a7e2-f91da2459340
 timeStarted: '2025-01-05T20:10:30.345Z'
 timeEdited: '2025-01-05T20:10:30.345Z'
-state: draft
-justification: imported from converter
+state: proposed
+justification: >-
+  ETRF2020 geodetic datum. Submitted by M. Craymer, ISOGR Control Body Chair, on
+  behalf of Thierry Gattacceca, IGN.
 items:
   /datums--geodetic/0aa30030-eb01-4d6c-83b4-239f4aa3e9cd.yaml:
     type: addition
@@ -40,3 +42,22 @@ items:
     type: addition
   /coordinate-ops--transformation/e5170b87-a3fb-41c1-bbff-96bea38f8d9f.yaml:
     type: addition
+timeProposed: 2025-01-27T01:39:39.889Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2025-01-27T01:39:39.889Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        ETRF2020 geodetic datum. Submitted by M. Craymer, ISOGR Control Body
+        Chair, on behalf of Thierry Gattacceca, IGN.
