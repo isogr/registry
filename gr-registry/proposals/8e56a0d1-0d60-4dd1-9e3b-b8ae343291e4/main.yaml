@@ -1,0 +1,20 @@
+submittingStakeholderGitServerUsername: maccraymer
+registerVersion: ''
+id: 8e56a0d1-0d60-4dd1-9e3b-b8ae343291e4
+timeStarted: '2025-01-05T20:16:02.984Z'
+timeEdited: '2025-01-05T20:16:02.984Z'
+state: draft
+justification: imported from converter
+items:
+  /datums--geodetic/2e6be419-3776-448f-bd34-cd51f383f875.yaml:
+    type: addition
+  /crs--geodetic/acf93a84-5d63-4ebd-8104-ec95838c1375.yaml:
+    type: addition
+  /crs--geodetic/25278c7d-6911-4d43-a0d5-581df1d81315.yaml:
+    type: addition
+  /crs--geodetic/48b025b8-0a88-4f2d-b514-b25bd0536e24.yaml:
+    type: addition
+  /coordinate-ops--transformation/84b755f7-c60b-499f-8d37-e40c9b537865.yaml:
+    type: addition
+  /coordinate-ops--transformation/4627d3fa-29ce-4fa2-82f8-8fdd920a6e37.yaml:
+    type: addition
