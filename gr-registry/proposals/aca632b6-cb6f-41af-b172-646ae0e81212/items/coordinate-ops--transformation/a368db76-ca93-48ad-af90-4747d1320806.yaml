@@ -22,7 +22,7 @@ data:
   remarks: >-
     Transformation is the result of the combination of two time-dependent
     transformations: ISOGR Item 817 (ITRF2014 to ITRF2020 [IERS v1]) and ISOGR
-    Item 781 (ITRF2014 to KSA-GRF17 [GASGI v1])
+    Item 781 (ITRF2014 to KSA-GRF17 [GASGI v1]).
   operationVersion: GEOSA V3
   coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
   scope: Spatial referencing
