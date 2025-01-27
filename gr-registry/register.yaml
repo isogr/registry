@@ -88,33 +88,42 @@ contentSummary: >-
   <li>The main section of the web page uses tabs to display both lists of items
   in a class and items themselves. Whenever a class or item is opened, a new tab
   will appear on the tab bar at the top of the main section of the web page.
+  </li>
 
   <li>Item classes are listed in the “Browse” sidebar at the top-left of the web
   page.
+  </li>
 
   <li>A right-arrow (&gt;) to the left of a class name indicates it has
   sub-classes. Click on the arrow icon or double-click the class name to list
   the sub-classes (the right-arrow turns into a down-arrow). Click on the
   down-arrow to close the list of sub-classes.
+  </li>
 
   <li>Double-click on an item class to list all of it’s items in a new tab in
   the main section of the web page.
+  </li>
 
   <li>Double-click a class item in the main section of the web page to display
   the information for that item in a new tab.
+  </li>
 
   <li>To close a tab, click on the &cross; at the end of the tab name.
+  </li>
 
   <li>The ISOGR home page is always accessible by selecting the Home tab at the
   left end of the tab bar. The Home tab is always present and cannot be closed.
+  </li>
 
   <li>A simple “Quick search” function is provided at the top of the main
   section of the web page when displaying the home page or a list of class
   items. Entering search text will display in real-time a list of items with the
   search text in their name or aliases.
+  </li>
 
   <li>To copy a link to the complete current view of the ISOGR web page with all
   open tabs, click on “Copy link to this view” on bottom-left of the web page.
+  </li>
 
   </ul>
 
