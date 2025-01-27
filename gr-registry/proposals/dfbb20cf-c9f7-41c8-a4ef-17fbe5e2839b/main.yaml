@@ -3,8 +3,10 @@ registerVersion: ''
 id: dfbb20cf-c9f7-41c8-a4ef-17fbe5e2839b
 timeStarted: '2025-01-05T20:06:29.582Z'
 timeEdited: '2025-01-05T20:06:29.582Z'
-state: draft
-justification: imported from converter
+state: proposed
+justification: >-
+  NAD83(CSRS) v8 transformations. Submitted by M. Craymer, Canadian Geodetic
+  Survey.
 items:
   /coordinate-ops--transformation/644cee11-45e9-4a6c-8ddb-4add39babef6.yaml:
     type: addition
@@ -28,3 +30,22 @@ items:
     type: addition
   /coordinate-ops--transformation/d833f741-7aed-4f7f-8f7d-70a987828e69.yaml:
     type: addition
+timeProposed: 2025-01-27T02:24:04.237Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2025-01-27T02:24:04.237Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        NAD83(CSRS) v8 transformations. Submitted by M. Craymer, Canadian
+        Geodetic Survey.
