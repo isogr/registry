@@ -3,7 +3,7 @@ registerVersion: ''
 id: aca632b6-cb6f-41af-b172-646ae0e81212
 timeStarted: '2025-01-05T20:23:00.338Z'
 timeEdited: 2025-01-27T01:45:49.531Z
-state: pending-control-body-review
+state: accepted
 justification: >-
   ITRF2020 to KSA-GRF17 transformation. Submitted by M. Craymer, ISOGR Control
   Body Chair, on behalf of Abdullah AlQahtani, GASGI Saudi Arabia.
@@ -46,4 +46,23 @@ pastTransitions:
       registerManagerNotes: >-
         Accepted for Control Body review by M. Craymer, ISOGR Control Body
         Chair.
+  - label: Accept
+    timestamp: 2025-02-20T17:10:23.633Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      controlBodyNotes: .
+      controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2025-01-27.
 registerManagerNotes: Accepted for Control Body review by M. Craymer, ISOGR Control Body Chair.
+controlBodyNotes: .
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2025-01-27.
+timeDisposed: 2025-02-20T17:10:23.633Z
