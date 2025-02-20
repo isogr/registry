@@ -1,0 +1,49 @@
+id: 25c7a3ba-1d40-48ae-b0b0-38b88e030ad7
+data:
+  identifier: 1239
+  name: ETRF2020 - LatLonEHt
+  aliases:
+    - European Terrestrial Reference Frame 2020
+  informationSources:
+    - title: >-
+        EUREF Technical Note 1: Relationship and Transformation between the
+        International and the European Terrestrial Reference Systems
+      publicationDate: ''
+      revisionDate: '2024-03-04'
+      edition: ''
+      author: Z. Altamimi
+      seriesName: EUREF Technical Notes
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: >-
+        Institut National de l’Information Géographique et Forestière (IGN),
+        France
+    - title: EUREF 2023 Resolutions
+      publicationDate: '2023-05-26'
+      revisionDate: ''
+      edition: ''
+      author: M. Greaves (ed)
+      seriesName: >-
+        Report on the Symposium of the IAG Subcommission for Europe (EUREF),
+        Gothenburg, Sweden, 24-26 May 2023
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: EUREF Governing Board
+  remarks: >-
+    The EUREF Governing Board recommends to use the ETRF2020 for high precision
+    applications and better consistency with the more precise ITRF2020 geocentry
+    origin.
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  baseCRS: null
+  operation: null
+  extentRef: 28aaba74-bab5-4bcf-97bd-a906a6ddf616
+  datum: 0aa30030-eb01-4d6c-83b4-239f4aa3e9cd
+status: valid
+dateAccepted: 2025-02-20T17:07:44.498Z

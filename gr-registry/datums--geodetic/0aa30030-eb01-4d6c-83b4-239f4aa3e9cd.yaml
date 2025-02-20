@@ -1,0 +1,53 @@
+id: 0aa30030-eb01-4d6c-83b4-239f4aa3e9cd
+data:
+  identifier: 1237
+  name: European Terrestrial Reference Frame 2020
+  aliases:
+    - ETRF2020
+  informationSources:
+    - title: >-
+        EUREF Technical Note 1: Relationship and Transformation between the
+        International and the European Terrestrial Reference Systems
+      publicationDate: ''
+      revisionDate: '2024-03-04'
+      edition: ''
+      author: Z. Altamimi
+      seriesName: EUREF Technical Notes
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: >-
+        Institut National de l’Information Géographique et Forestière (IGN),
+        France
+    - title: EUREF 2023 Resolutions
+      publicationDate: '2023-05-26'
+      revisionDate: ''
+      edition: ''
+      author: M. Greaves (ed)
+      seriesName: >-
+        Report on the Symposium of the IAG Subcommission for Europe (EUREF),
+        Gothenburg, Sweden, 24-26 May 2023
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: EUREF Governing Board
+  remarks: >-
+    The EUREF Governing Board recommends to use the ETRF2020 for high precision
+    applications and better consistency with the more precise ITRF2020 geocentry
+    origin.
+  scope: Spatial referencing
+  originDescription: >-
+    Coincides with ITRF2020 at epoch 1989.0 and is fixed to the stable part of
+    the Eurasian tectonic plate through 3 rotation rates derived from the
+    ITRF2020 velocity field, representing the Eurasian plate’s angular velocity
+    about its Euler pole as determined by the ITRF2020 Plate Motion Model
+    without the translation rate.
+  releaseDate: '2024-01-02'
+  extentRef: 28aaba74-bab5-4bcf-97bd-a906a6ddf616
+  coordinateReferenceEpoch: '2015'
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+status: valid
+dateAccepted: 2025-02-20T17:07:44.498Z

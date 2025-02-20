@@ -1,0 +1,113 @@
+id: 9ae473f3-4d28-4d1c-875f-a1b06f4016bd
+data:
+  identifier: 1241
+  name: ITRF2020 to ETRF2020 [EUREF v1]
+  aliases: []
+  informationSources:
+    - title: >-
+        EUREF Technical Note 1: Relationship and Transformation between the
+        International and the European Terrestrial Reference Systems
+      publicationDate: ''
+      revisionDate: '2024-03-04'
+      edition: ''
+      author: Z. Altamimi
+      seriesName: EUREF Technical Notes
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: >-
+        Institut National de l’Information Géographique et Forestière (IGN),
+        France
+  remarks: Transformation defines ETRF2020 and is treated as errorless.
+  operationVersion: EUREF v1
+  coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
+  scope: Spatial referencing
+  accuracy:
+    value: 0
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 933eb6a1-b1b2-4028-8ea0-eaf0785e5cdc
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 4cca6c97-4db6-430a-b860-0a280c9f98c8
+  extentRef: 28aaba74-bab5-4bcf-97bd-a906a6ddf616
+  parameters:
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+      unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 89e37670-d103-4c57-94f5-fca410189132
+      unitOfMeasurement: 831ce33a-56af-4acf-addc-4f1a9428a7b8
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 76fd4ed1-3f83-47dc-839f-3ecf111c2636
+      unitOfMeasurement: 831ce33a-56af-4acf-addc-4f1a9428a7b8
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 42c379ed-303e-4a5f-87f2-04c95d2f4b63
+      unitOfMeasurement: 831ce33a-56af-4acf-addc-4f1a9428a7b8
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0.086'
+      parameter: c127d884-6f2f-4491-99ab-1c918bd2c954
+      unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0.519'
+      parameter: a9e25756-e699-420d-a9be-d0f83f7115d9
+      unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.753'
+      parameter: 88228e9d-3b44-41ff-8ca7-a73a8acdc881
+      unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 884b428c-57f0-4c0b-a054-4a49ca76ee06
+      unitOfMeasurement: 0a7eb618-4789-4f1b-a5a1-107c7476867e
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '1989'
+      parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
+      unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+status: valid
+dateAccepted: 2025-02-20T17:07:44.498Z
