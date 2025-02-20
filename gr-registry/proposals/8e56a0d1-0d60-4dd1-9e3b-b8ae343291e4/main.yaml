@@ -3,7 +3,7 @@ registerVersion: ''
 id: 8e56a0d1-0d60-4dd1-9e3b-b8ae343291e4
 timeStarted: '2025-01-05T20:16:02.984Z'
 timeEdited: '2025-01-05T20:16:02.984Z'
-state: pending-control-body-review
+state: accepted
 justification: >-
   WGS 84 (G2296) geodetic datum. Submitted by M. Craymer, ISOGR Control Body
   Chair, on behalf of Alex Smith, National Geospatial-Intelligence Agency.
@@ -57,4 +57,23 @@ pastTransitions:
       registerManagerNotes: >-
         Accepted for Control Body review by M. Craymer, ISOGR Control Body
         Chair.
+  - label: Accept
+    timestamp: 2025-02-20T17:09:26.325Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      controlBodyNotes: .
+      controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2025-01-27.
 registerManagerNotes: Accepted for Control Body review by M. Craymer, ISOGR Control Body Chair.
+controlBodyNotes: .
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2025-01-27.
+timeDisposed: 2025-02-20T17:09:26.325Z
