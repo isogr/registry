@@ -3,7 +3,7 @@ registerVersion: ''
 id: b1e38a69-fa17-4aca-a7e2-f91da2459340
 timeStarted: '2025-01-05T20:10:30.345Z'
 timeEdited: '2025-01-05T20:10:30.345Z'
-state: proposed
+state: pending-control-body-review
 justification: >-
   ETRF2020 geodetic datum. Submitted by M. Craymer, ISOGR Control Body Chair, on
   behalf of Thierry Gattacceca, IGN.
@@ -61,3 +61,21 @@ pastTransitions:
       justification: >-
         ETRF2020 geodetic datum. Submitted by M. Craymer, ISOGR Control Body
         Chair, on behalf of Thierry Gattacceca, IGN.
+  - label: Submit for control body review
+    timestamp: 2025-02-20T17:02:53.366Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      registerManagerNotes: >-
+        Accepted for Control Body review by M. Craymer, ISOGR Control Body
+        Chair.
+registerManagerNotes: Accepted for Control Body review by M. Craymer, ISOGR Control Body Chair.
