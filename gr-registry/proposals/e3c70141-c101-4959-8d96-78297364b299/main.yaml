@@ -8,7 +8,7 @@ submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/28c66cd1-46bf-4e73-b68c-c660c2cc9750.yaml:
     type: clarification
-state: pending-control-body-review
+state: accepted
 registerVersion: 9cd45236-00dd-497b-ad15-d5a862ee5928
 timeProposed: 2024-12-23T01:01:31.974Z
 pastTransitions:
@@ -80,4 +80,23 @@ pastTransitions:
       registerManagerNotes: >-
         Accepted for Control Body review by M. Craymer, ISOGR Control Body
         Chair.
+  - label: Accept
+    timestamp: 2025-02-20T17:10:54.150Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      controlBodyNotes: .
+      controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2025-01-27.
 registerManagerNotes: Accepted for Control Body review by M. Craymer, ISOGR Control Body Chair.
+controlBodyNotes: .
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2025-01-27.
+timeDisposed: 2025-02-20T17:10:54.150Z
