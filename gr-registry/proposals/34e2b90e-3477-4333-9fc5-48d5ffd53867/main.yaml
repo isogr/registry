@@ -30,10 +30,10 @@ items:
     type: addition
   /coordinate-ops--transformation/50fcc5ae-81f9-4cdb-8ac1-0fc30709e10b.yaml:
     type: addition
-timeProposed: 2025-02-21T16:59:20.658Z
+timeProposed: 2025-02-21T16:59:20.813Z
 pastTransitions:
   - label: Propose
-    timestamp: 2025-02-21T16:59:20.658Z
+    timestamp: 2025-02-21T16:59:20.813Z
     fromState: draft
     toState: proposed
     stakeholder:
