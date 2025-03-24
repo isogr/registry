@@ -3,8 +3,8 @@ registerVersion: ''
 id: 80d13024-b011-4db3-a6dc-2581f43729e6
 timeStarted: '2025-03-24T00:52:07.844Z'
 timeEdited: '2025-03-24T00:52:07.844Z'
-state: draft
-justification: imported from converter
+state: proposed
+justification: CGVD28(HTv2.0) vertical datum. Submitted M. Craymer, Canadian Geodetic Survey.
 items:
   /extent/d2908e06-80a8-4300-beb1-00a00bf6b23c.yaml:
     type: addition
@@ -38,3 +38,22 @@ items:
     type: addition
   /coordinate-ops--transformation/0d771594-d7e8-498b-a4e4-7b29b5b744e5.yaml:
     type: addition
+timeProposed: 2025-03-24T01:04:15.258Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2025-03-24T01:04:15.258Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        CGVD28(HTv2.0) vertical datum. Submitted M. Craymer, Canadian Geodetic
+        Survey.
