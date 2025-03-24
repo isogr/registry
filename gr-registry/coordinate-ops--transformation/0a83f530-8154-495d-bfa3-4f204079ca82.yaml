@@ -1,0 +1,112 @@
+id: 0a83f530-8154-495d-bfa3-4f204079ca82
+data:
+  identifier: 1271
+  name: NAD83(CSRS) v8 to CGVD28(HTv2.0) [v1]
+  aliases: []
+  informationSources:
+    - title: Geoid Models
+      publicationDate: ''
+      revisionDate: '2024-06-03'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Website.
+        https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/data-donnees/geoid.php
+        (accessed 2024-06-12).
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: >-
+        The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height
+        Transformation for Use With GPS in Canada
+      publicationDate: '2001'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau, A. Mainville, M. Craymer
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Referencing and Time Tagging Heights in Canada
+      publicationDate: '2018'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
+      publicationDate: '2019'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: GPS-H
+      publicationDate: ''
+      revisionDate: '2023-08-14'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Website:
+        https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/gpsh.php
+        (accessed 2024-06-12)
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: BYN Grid Format Description
+      publicationDate: '2023-06-26'
+      revisionDate: ''
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Website:
+        https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/sample_doc_files/NRCan_Geoid_GridFormat_EN_2023.pdf
+        (accessed 2024-06-12)
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+  remarks: >-
+    Grid transformation from NAD83(CSRS) v8 ellipsoidal heights at epoch 2010.0
+    to CGVD28(HTv2.0) orthometric heights defined by the hybrid geoid model
+    HTv2.0 using bi-quadratic interpolation. The transformation uncertainty
+    represents the approximate uncertainty in the propagation of heights from
+    epoch 1997 to 2010.0 using the NAD83(CSRS) v7.0 velocity model. Bi-linear
+    interpolation of the grid file will give results agreeing to within 1cm
+    99.97% of the time.
+  operationVersion: v1
+  coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
+  scope: Spatial referencing.
+  accuracy:
+    value: 0.03
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 7e54fe54-683b-4674-ac0d-e2d71f87742d
+  targetCRS:
+    classID: crs--vertical
+    itemID: 3f5cf0ac-3981-4bb9-9dfd-375e15d690f3
+  extentRef: d2908e06-80a8-4300-beb1-00a00bf6b23c
+  parameters:
+    - type: parameter file name
+      fileCitation: null
+      value: HT2_2010v70.byn
+      parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+      unitOfMeasurement: null
+status: valid
+dateAccepted: 2025-03-24T01:08:01.024Z
