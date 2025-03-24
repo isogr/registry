@@ -1,0 +1,25 @@
+id: 40b9bd32-df72-4242-b64f-93dfc04df5ca
+data:
+  identifier: -2
+  name: Vertical offset
+  aliases: []
+  informationSources:
+    - title: >-
+        Geomatics Guidance Note Number 7, part 2: Coordinate Conversions and
+        Transformations including Formulas
+      publicationDate: ''
+      revisionDate: 2023-12
+      edition: ''
+      author: International Association of Oil & Gas Producers
+      seriesName: IOGP Publication
+      seriesIssueID: 373-7-2
+      seriesPage: ''
+      otherDetails: 'Web page: https://epsg.org/guidance-notes.html (accessed 2024-06-12)'
+      uri: ''
+      publisher: International Association of Oil & Gas Producers
+  remarks: >-
+    Difference between the height (or depth) values of a point in the target and
+    source coordinate reference systems.
+  minimumOccurs: null
+dateAccepted: '2025-03-24T00:52:07.844Z'
+status: valid
