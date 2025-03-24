@@ -3,7 +3,7 @@ registerVersion: ''
 id: 80d13024-b011-4db3-a6dc-2581f43729e6
 timeStarted: '2025-03-24T00:52:07.844Z'
 timeEdited: '2025-03-24T00:52:07.844Z'
-state: proposed
+state: pending-control-body-review
 justification: CGVD28(HTv2.0) vertical datum. Submitted M. Craymer, Canadian Geodetic Survey.
 items:
   /extent/d2908e06-80a8-4300-beb1-00a00bf6b23c.yaml:
@@ -57,3 +57,19 @@ pastTransitions:
       justification: >-
         CGVD28(HTv2.0) vertical datum. Submitted M. Craymer, Canadian Geodetic
         Survey.
+  - label: Submit for control body review
+    timestamp: 2025-03-24T01:05:00.381Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      registerManagerNotes: Accepted for review by Control Body.
+registerManagerNotes: Accepted for review by Control Body.
