@@ -3,7 +3,7 @@ registerVersion: ''
 id: 34e2b90e-3477-4333-9fc5-48d5ffd53867
 timeStarted: '2025-02-21T16:33:41.152Z'
 timeEdited: 2025-05-05T03:25:32.315Z
-state: pending-control-body-review
+state: accepted
 justification: >-
   NAD83(CSRS) v8 transformations. Submitted by M. Craymer, Canadian Geodetic
   Survey.
@@ -96,4 +96,23 @@ pastTransitions:
           value: paneron@craymer.com
     input:
       registerManagerNotes: ''
+  - label: Accept
+    timestamp: 2025-05-05T03:30:57.306Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      controlBodyNotes: .
+      controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2025-03-24.
 registerManagerNotes: ''
+controlBodyNotes: .
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2025-03-24.
+timeDisposed: 2025-05-05T03:30:57.306Z
