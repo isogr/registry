@@ -1,6 +1,6 @@
 id: 2a7e4ca5-5557-4ea5-adf1-fcbc476e0d3e
 timeStarted: 2025-05-08T16:08:19.007Z
-timeEdited: 2025-05-08T16:26:41.034Z
+timeEdited: 2025-05-08T16:28:54.952Z
 justification: New WGS84(G2296) citation
 submittingStakeholderGitServerUsername: maccraymer
 items:
@@ -11,6 +11,8 @@ items:
   /crs--geodetic/25278c7d-6911-4d43-a0d5-581df1d81315.yaml:
     type: clarification
   /crs--geodetic/48b025b8-0a88-4f2d-b514-b25bd0536e24.yaml:
+    type: clarification
+  /coordinate-ops--transformation/84b755f7-c60b-499f-8d37-e40c9b537865.yaml:
     type: clarification
 state: draft
 registerVersion: 34e2b90e-3477-4333-9fc5-48d5ffd53867
