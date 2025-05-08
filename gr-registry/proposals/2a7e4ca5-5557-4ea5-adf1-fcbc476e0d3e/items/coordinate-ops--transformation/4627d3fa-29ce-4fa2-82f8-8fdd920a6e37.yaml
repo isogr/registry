@@ -1,0 +1,91 @@
+id: 4627d3fa-29ce-4fa2-82f8-8fdd920a6e37
+data:
+  identifier: 1259
+  name: WGS 84 (G2139) to WGS 84 (G2296) [1]
+  aliases: []
+  informationSources:
+    - title: WGS 84 (G2296) Terrestrial Reference Frame Realization
+      publicationDate: '2023-12-21'
+      revisionDate: ''
+      edition: ''
+      author: National Geospatial-Intelligence Agency
+      seriesName: Public Release
+      seriesIssueID: NGA-U-2023-02846
+      seriesPage: ''
+      otherDetails: >-
+        Web page:
+        https://earth-info.nga.mil/php/download.php?file=WGS%2084(G2296).pdf
+        (accessed 2024-03-24)
+      uri: ''
+      publisher: >-
+        GNSS Division, Office of Geomatics, National Geospatial-Intelligence
+        Agency
+    - title: Thirty Years of Maintaining WGS 84 with GPS
+      revisionDate: null
+      publicationDate: 2025-06
+      seriesIssueID: 72 (2) navi.693
+      seriesName: 'NAVIGATION: Journal of the Institute of Navigation'
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: https://doi.org/10.33012/navi.693 (accessed 2025-05-08)
+      isbn: null
+      issn: null
+      author: W. Konyk, A. Smith, B. Wong, A. Tollefson
+      publisher: Institute of Navigation
+      uri: https://doi.org/10.33012/navi.693
+      doi: 10.33012/navi.693
+  remarks: >-
+    Transformation derived from the 17 WGS 84 GPS monitoring sites at epoch
+    2024.0.
+  operationVersion: '1'
+  coordOperationMethod: 58878e3b-47f7-429b-9033-23e2153be09f
+  scope: Spatial referencing and GPS satellite navigation.
+  accuracy:
+    value: 0.01
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 45b9d1a8-cd3b-49fe-a882-ee7f9a906d3f
+  targetCRS:
+    classID: crs--geodetic
+    itemID: acf93a84-5d63-4ebd-8104-ec95838c1375
+  extentRef: ceff2dcc-e1b1-403c-b7da-36fcbaed4bf3
+  parameters:
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '2.6'
+      parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '5.4'
+      parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.9'
+      parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.01'
+      parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.07'
+      parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0.06'
+      parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+      unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
+status: valid
+dateAccepted: 2025-02-20T17:09:26.489Z
