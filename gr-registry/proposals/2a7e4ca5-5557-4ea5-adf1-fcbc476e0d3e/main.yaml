@@ -1,8 +1,10 @@
 id: 2a7e4ca5-5557-4ea5-adf1-fcbc476e0d3e
 timeStarted: 2025-05-08T16:08:19.007Z
-timeEdited: 2025-05-08T16:08:19.007Z
+timeEdited: 2025-05-08T16:17:15.643Z
 justification: New WGS84(G2296) citation
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /datums--geodetic/2e6be419-3776-448f-bd34-cd51f383f875.yaml:
+    type: clarification
 state: draft
 registerVersion: 34e2b90e-3477-4333-9fc5-48d5ffd53867
