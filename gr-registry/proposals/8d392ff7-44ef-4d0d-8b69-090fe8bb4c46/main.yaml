@@ -1,7 +1,9 @@
 id: 8d392ff7-44ef-4d0d-8b69-090fe8bb4c46
 timeStarted: 2025-06-01T20:13:24.476Z
 timeEdited: 2025-06-01T21:07:21.660Z
-justification: NAD83(CSRS) VM V6/7 transformations remarks
+justification: >-
+  Revised NAD83(CSRS) epoch transformation remarks. Submitted by M. Craymer,
+  Canadian Geodetic Survey.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/edd98679-b589-45fc-809c-e858b0fe96aa.yaml:
@@ -58,5 +60,24 @@ items:
     type: clarification
   /coordinate-ops--transformation/50fcc5ae-81f9-4cdb-8ac1-0fc30709e10b.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 34e2b90e-3477-4333-9fc5-48d5ffd53867
+timeProposed: 2025-06-01T21:08:46.900Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2025-06-01T21:08:46.900Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        Revised NAD83(CSRS) epoch transformation remarks. Submitted by M.
+        Craymer, Canadian Geodetic Survey.
