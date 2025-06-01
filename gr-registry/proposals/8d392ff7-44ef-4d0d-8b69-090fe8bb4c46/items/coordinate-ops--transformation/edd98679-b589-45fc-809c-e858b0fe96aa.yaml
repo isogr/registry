@@ -23,7 +23,7 @@ data:
         Sector, Natural Resources Canada, Government of Canada
   remarks: >-
     Transformation based on propagation between coordinate reference epochs
-    using the NAD83(CSRS) v6.0 velocity model/grid. Source CRS used as
+    using the NAD83(CSRS) v6 velocity model/grid. Source CRS used as
     interpolation CRS in place of NAD83(CSRS) v6 used to define the velocity
     grid, without loss of accuracy. Transformation is reversible with target CRS
     as interpolation CRS, also without loss of accuracy. Not recommended for use
