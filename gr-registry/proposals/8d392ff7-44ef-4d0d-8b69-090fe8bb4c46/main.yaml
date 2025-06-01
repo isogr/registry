@@ -1,10 +1,12 @@
 id: 8d392ff7-44ef-4d0d-8b69-090fe8bb4c46
 timeStarted: 2025-06-01T20:13:24.476Z
-timeEdited: 2025-06-01T20:16:21.919Z
+timeEdited: 2025-06-01T20:18:45.744Z
 justification: NAD83(CSRS) VM V6/7 transformations remarks
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/edd98679-b589-45fc-809c-e858b0fe96aa.yaml:
+    type: clarification
+  /coordinate-ops--transformation/b3a84f84-49a9-4e26-a49a-0f2d96c11ec6.yaml:
     type: clarification
 state: draft
 registerVersion: 34e2b90e-3477-4333-9fc5-48d5ffd53867
