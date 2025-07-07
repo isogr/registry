@@ -20,6 +20,21 @@ data:
       publisher: >-
         GNSS Division, Office of Geomatics, National Geospatial-Intelligence
         Agency
+    - title: Thirty Years of Maintaining WGS 84 with GPS
+      revisionDate: null
+      publicationDate: 2025-06
+      seriesIssueID: 72 (2) navi.693
+      seriesName: 'NAVIGATION: Journal of the Institute of Navigation'
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: https://doi.org/10.33012/navi.693 (accessed 2025-05-08)
+      isbn: null
+      issn: null
+      author: W. Konyk, A. Smith, B. Wong, A. Tollefson
+      publisher: Institute of Navigation
+      uri: https://doi.org/10.33012/navi.693
+      doi: 10.33012/navi.693
   remarks: >-
     Transformation derived from the 17 WGS 84 GPS monitoring sites at epoch
     2024.0.
