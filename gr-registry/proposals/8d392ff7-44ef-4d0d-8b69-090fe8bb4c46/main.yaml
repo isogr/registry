@@ -60,7 +60,7 @@ items:
     type: clarification
   /coordinate-ops--transformation/50fcc5ae-81f9-4cdb-8ac1-0fc30709e10b.yaml:
     type: clarification
-state: proposed
+state: pending-control-body-review
 registerVersion: 34e2b90e-3477-4333-9fc5-48d5ffd53867
 timeProposed: 2025-06-01T21:08:46.900Z
 pastTransitions:
@@ -81,3 +81,19 @@ pastTransitions:
       justification: >-
         Revised NAD83(CSRS) epoch transformation remarks. Submitted by M.
         Craymer, Canadian Geodetic Survey.
+  - label: Submit for control body review
+    timestamp: 2025-07-30T14:39:52.413Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      registerManagerNotes: Accept for Control Body review.
+registerManagerNotes: Accept for Control Body review.
