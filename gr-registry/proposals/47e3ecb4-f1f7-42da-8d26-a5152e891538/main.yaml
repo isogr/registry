@@ -1,6 +1,6 @@
 id: 47e3ecb4-f1f7-42da-8d26-a5152e891538
 timeStarted: 2025-07-30T14:44:06.653Z
-timeEdited: 2025-07-30T15:18:37.956Z
+timeEdited: 2025-07-30T15:19:44.936Z
 justification: New aliases for CGVD2013 datums & CRSs.
 submittingStakeholderGitServerUsername: maccraymer
 items:
@@ -17,6 +17,8 @@ items:
   /crs--vertical/5c76ce41-4680-484e-86bd-1318db8f6f46.yaml:
     type: clarification
   /crs--vertical/dfd5589b-2795-4f2b-8f3b-3f4d2cb1dea1.yaml:
+    type: clarification
+  /crs--vertical/27342547-6757-4afe-8834-bd943214df17.yaml:
     type: clarification
 state: draft
 registerVersion: 8d392ff7-44ef-4d0d-8b69-090fe8bb4c46
