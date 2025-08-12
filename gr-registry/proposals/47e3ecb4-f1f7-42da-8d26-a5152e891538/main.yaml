@@ -40,5 +40,22 @@ items:
     type: clarification
   /coordinate-ops--transformation/c3ff16e1-9570-4655-8b55-098cd6164fc3.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 8d392ff7-44ef-4d0d-8b69-090fe8bb4c46
+timeProposed: 2025-08-12T13:56:06.030Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2025-08-12T13:56:06.030Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: New aliases for CGVD2013 datums & CRSs.
