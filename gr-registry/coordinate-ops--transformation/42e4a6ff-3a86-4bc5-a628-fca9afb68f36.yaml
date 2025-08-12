@@ -73,7 +73,7 @@ data:
       seriesPage: null
       title: Geoid Models
       uuid: b0a8483f-d512-40aa-92b0-63f958f030d9
-  name: CGVD28 to CGVD2013(CGG2013a) epoch 1997 [v1]
+  name: CGVD28 to CGVD2013(CGG2013a) Epoch 1997 [v1]
   operationVersion: v1
   parameters:
     - fileCitation:

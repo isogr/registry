@@ -71,7 +71,7 @@ data:
       seriesPage: null
       title: GPS-H
       uuid: b85a63ff-a94f-41da-b751-cf578983282a
-  name: NAD83(CSRS) v3 to CGVD2013(CGG2013a) epoch 1997 [v1]
+  name: NAD83(CSRS) v3 to CGVD2013(CGG2013a) Epoch 1997 [v1]
   operationVersion: v1
   parameters:
     - fileCitation:

@@ -16,6 +16,8 @@ data:
     - >-
       Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimatric Geoid of
       2013a) Epoch 1997
+    - CGVD2013 v0a
+    - CGVD2013 v0a Epoch 1997
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical
@@ -78,7 +80,7 @@ data:
       seriesPage: '42997.0'
       title: The Canadian Geodetic Vertical Datum of 2013 (CGVD2013)
       uuid: 5a65c3a7-0f40-4d40-851d-aa7ca265717b
-  name: CGVD2013(CGG2013a) epoch 1997 - OHt
+  name: CGVD2013(CGG2013a) Epoch 1997 - OHt
   operation: null
   remarks: CGVD2013 heights at epoch 1997.0.
   scope: Spatial referencing.

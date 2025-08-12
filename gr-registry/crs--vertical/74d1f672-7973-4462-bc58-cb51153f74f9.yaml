@@ -13,6 +13,7 @@ data:
     - >-
       Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimetric Geoid of
       2013)
+    - CGVD2013 v0
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical

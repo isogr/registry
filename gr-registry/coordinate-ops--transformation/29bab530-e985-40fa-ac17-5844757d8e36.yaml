@@ -71,7 +71,7 @@ data:
       seriesPage: null
       title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
       uuid: 5095e39f-0a58-4946-a777-3b01356b05e6
-  name: NAD83(CSRS) v2 to CGVD2013(CGG2013a) epoch 1997 [v1]
+  name: NAD83(CSRS) v2 to CGVD2013(CGG2013a) Epoch 1997 [v1]
   operationVersion: v1
   parameters:
     - fileCitation:

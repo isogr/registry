@@ -16,6 +16,8 @@ data:
     - CGVD2013(CGG2013a)
     - CGG2013a
     - CGVD2013
+    - CGVD2013 v0a
+    - CGVD2013 v0a Epoch 1997
   coordinateReferenceEpoch: '1997.0'
   definition: null
   informationSources:

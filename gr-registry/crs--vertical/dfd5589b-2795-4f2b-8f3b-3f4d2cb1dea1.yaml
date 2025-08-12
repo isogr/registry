@@ -16,6 +16,8 @@ data:
     - >-
       Canadian Geodetic Vertical Datum of 2013 (Canadian Gravimatric Geoid of
       2013a) Epoch 2002
+    - CGVD2013 v0a
+    - CGVD2013 v0a Epoch 2002
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--vertical
@@ -78,7 +80,7 @@ data:
       seriesPage: '2587.0'
       title: Canadian Geodetic Vertical Datum of 2013
       uuid: dd816322-50c9-414b-8755-50fcfe824a66
-  name: CGVD2013(CGG2013a) epoch 2002 - OHt
+  name: CGVD2013(CGG2013a) Epoch 2002 - OHt
   operation: null
   remarks: CGVD2013 heights at epoch 2002.0.
   scope: Spatial referencing.

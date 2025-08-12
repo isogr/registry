@@ -73,7 +73,7 @@ data:
       seriesPage: null
       title: Referencing and Time Tagging Heights in Canada
       uuid: 7c017ea3-06de-404f-a66c-ffeeec10562b
-  name: CGVD28 to CGVD2013(CGG2013a) epoch 2002 [v1]
+  name: CGVD28 to CGVD2013(CGG2013a) Epoch 2002 [v1]
   operationVersion: v1
   parameters:
     - fileCitation:

@@ -71,7 +71,7 @@ data:
       seriesPage: null
       title: Referencing and Time Tagging Heights in Canada
       uuid: ce965e0a-3e91-4583-8d65-58aa23a58409
-  name: NAD83(CSRS) v4 to CGVD2013(CGG2013a) epoch 2002 [v1]
+  name: NAD83(CSRS) v4 to CGVD2013(CGG2013a) Epoch 2002 [v1]
   operationVersion: v1
   parameters:
     - fileCitation:
