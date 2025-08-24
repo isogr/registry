@@ -1,10 +1,12 @@
 id: 13db0b38-dc1b-4927-9986-20f58b7529da
 timeStarted: 2025-08-24T15:51:49.562Z
-timeEdited: 2025-08-24T15:53:31.491Z
+timeEdited: 2025-08-24T15:54:17.229Z
 justification: JGD2000-JGD2011 (vertical) corrections
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/09449e0f-6b8f-4010-a89f-55c1f997d326.yaml:
+    type: clarification
+  /coordinate-ops--transformation/060c6e8c-1d37-4fe2-91c3-8795612cb3b6.yaml:
     type: clarification
 state: draft
 registerVersion: 47e3ecb4-f1f7-42da-8d26-a5152e891538
