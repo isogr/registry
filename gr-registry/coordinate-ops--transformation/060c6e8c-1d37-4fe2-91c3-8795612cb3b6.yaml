@@ -47,8 +47,12 @@ data:
   remarks: PatchJGD HV application from GSI. Replaces PatchJGD for Height.
   scope:
     - Spatial referencing
-  sourceCRS: null
-  targetCRS: null
+  sourceCRS:
+    classID: crs--vertical
+    itemID: efc8caac-6c96-48ca-b696-965f4cc09cb9
+  targetCRS:
+    classID: crs--vertical
+    itemID: e3212b5a-c373-4c39-8243-4bc4d60bf497
   extentRef: 16cd48cd-24fc-4981-a84b-016d4e20dd1c
 dateAccepted: 2018-11-17T00:00:00.000Z
 id: 060c6e8c-1d37-4fe2-91c3-8795612cb3b6
