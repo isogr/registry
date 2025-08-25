@@ -1,12 +1,29 @@
 id: 13db0b38-dc1b-4927-9986-20f58b7529da
 timeStarted: 2025-08-24T15:51:49.562Z
 timeEdited: 2025-08-24T15:54:17.229Z
-justification: JGD2000-JGD2011 (vertical) corrections
+justification: JGD2000(vert) to JGD2011(vert) transformation corrections
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/09449e0f-6b8f-4010-a89f-55c1f997d326.yaml:
     type: clarification
   /coordinate-ops--transformation/060c6e8c-1d37-4fe2-91c3-8795612cb3b6.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 47e3ecb4-f1f7-42da-8d26-a5152e891538
+timeProposed: 2025-08-25T14:44:42.982Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2025-08-25T14:44:42.982Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: JGD2000(vert) to JGD2011(vert) transformation corrections
