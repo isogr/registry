@@ -8,7 +8,7 @@ items:
     type: clarification
   /coordinate-ops--transformation/060c6e8c-1d37-4fe2-91c3-8795612cb3b6.yaml:
     type: clarification
-state: proposed
+state: pending-control-body-review
 registerVersion: 47e3ecb4-f1f7-42da-8d26-a5152e891538
 timeProposed: 2025-08-25T14:44:42.982Z
 pastTransitions:
@@ -27,3 +27,19 @@ pastTransitions:
           value: paneron@craymer.com
     input:
       justification: JGD2000(vert) to JGD2011(vert) transformation corrections
+  - label: Submit for control body review
+    timestamp: 2025-08-25T14:45:11.245Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      registerManagerNotes: Accept for Control Body review.
+registerManagerNotes: Accept for Control Body review.
