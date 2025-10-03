@@ -1,0 +1,15 @@
+id: 408900e7-5ff8-4de1-9841-196cfc02935f
+data:
+  identifier: 1289
+  name: Chile - Easter Island
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: Chile - onshore - Easter Island.
+    s: '-59.87'
+    w: '-113.21'
+    'n': '-17.5'
+    e: '-108'
+status: valid
+dateAccepted: 2025-10-03T19:39:35.634Z

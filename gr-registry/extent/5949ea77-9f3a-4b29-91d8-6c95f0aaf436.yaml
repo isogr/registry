@@ -1,0 +1,15 @@
+id: 5949ea77-9f3a-4b29-91d8-6c95f0aaf436
+data:
+  identifier: 1290
+  name: Chile - Between 78°W and 72°W
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: Chile - onshore - between 78°W and 72°W.
+    s: '-59.87'
+    w: '-78'
+    'n': '-17.5'
+    e: '-72'
+status: valid
+dateAccepted: 2025-10-03T19:39:35.634Z

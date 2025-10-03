@@ -3,7 +3,7 @@ registerVersion: ''
 id: 92ee0fa5-ca70-443e-b577-1036af56b895
 timeStarted: '2025-10-03T19:22:19.952Z'
 timeEdited: '2025-10-03T19:22:19.952Z'
-state: pending-control-body-review
+state: accepted
 justification: >-
   New REDGEOMIN datum. Submitted by Jose Tarrio Mosquera, Universidad de
   Santiago de Chile & Jorge Munoz, SERNAGEOMIN.
@@ -68,6 +68,33 @@ pastTransitions:
       registerManagerNotes: |-
         Accepted for review by Control 
         Body.
+  - label: Accept
+    timestamp: 2025-10-03T19:39:35.453Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      controlBodyNotes: .
+      controlBodyDecisionEvent: >-
+        Approved by the Control 
+
+        Body at its meeting of 2025-09-29. Editorial corrections to content made
+        by M. Craymer, Control Body Chair on 2025-10-03.
 registerManagerNotes: |-
   Accepted for review by Control 
   Body.
+controlBodyNotes: .
+controlBodyDecisionEvent: >-
+  Approved by the Control 
+
+  Body at its meeting of 2025-09-29. Editorial corrections to content made by M.
+  Craymer, Control Body Chair on 2025-10-03.
+timeDisposed: 2025-10-03T19:39:35.453Z
