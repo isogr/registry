@@ -1,0 +1,82 @@
+id: e80f2d6f-61b5-4c96-9b51-0871dbd9ff0e
+data:
+  identifier: -6
+  name: REDGEOMIN - XYZ
+  aliases:
+    - Red Geodesica para la Mineria en Chile
+    - REDGEOMIN(IGS20@2024.0)
+  informationSources:
+    - title: >-
+        Geodetic innovation in Chilean mining: The evolution from static to
+        kinematic reference frame in seismic zones
+      publicationDate: '2024'
+      revisionDate: ''
+      edition: ''
+      author: >-
+        J. Antonio Tarrío, C. Cáceres , V. Vásquez , M. Marten , J. Inzunza , F.
+        Isla , M. Caverlotti , G. Jeldres , R. Urrutia , C. Mardones, R.
+        Fernandes
+      seriesName: Journal of Geodetic Science
+      seriesIssueID: Volume 14, Issue 1, 20220173
+      seriesPage: ''
+      otherDetails: https://doi.org/10.1515/jogs-2022-0173 (accessed 2025-08-24)
+      uri: https://doi.org/10.1515/jogs-2022-0173 (accessed 2025-08-24)
+      publisher: De Gruyter Open Access
+    - title: Estudio de Prefactibilidad de Datum Geodesico de las Concesiones Mineras
+      publicationDate: '2019-06-14'
+      revisionDate: ''
+      edition: ''
+      author: National Service of Geology and Mining (SERNAGEOMIN)
+      seriesName: ''
+      seriesIssueID: liacion ID 1562-44-LQ19
+      seriesPage: ''
+      otherDetails: >-
+        https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=+DstyBefjDuACMPaG66S0Q==
+        (accessed 2025-08-24)
+      uri: >-
+        https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=+DstyBefjDuACMPaG66S0Q==
+        (accessed 2025-08-24)
+      publisher: National Service of Geology and Mining (SERNAGEOMIN)
+    - title: >-
+        Integrating geodetic infrastructures for GNSS displacements analysis in
+        Chile: A case study with REDGEOMIN (2019-2022)
+      publicationDate: '2025'
+      revisionDate: ''
+      edition: ''
+      author: >-
+        Tarrío, J., Vásquez, V.,Cáceres, C., Marten, M., Giglio, J., Isla, F.,
+        Caverlotti, M., Jeldres, G., Urrutia, R., Mardones, C. .
+      seriesName: Geodesy and Geodynamics
+      seriesIssueID: Volume 16, Issue 3
+      seriesPage: 288-301
+      otherDetails: https://doi.org/10.1016/j.geog.2024.09.002 (accessed 2025-08-24)
+      uri: https://doi.org/10.1016/j.geog.2024.09.002 (accessed 2025-08-24)
+      publisher: KeAi Communications Co. Ltd.
+    - title: >-
+        Guia Tecnica para uso de SIRGAS y GNSS en la mineria de Chile: REDGEOMIN
+        y epocas de referencia
+      publicationDate: '2025-07-14'
+      revisionDate: ''
+      edition: Version 1.0
+      author: >-
+        Centro de Procesamiento y Analisis Geodesico, University of Santiago,
+        Chile
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: >-
+        Centro de Procesamiento y Analisis Geodesico, University of Santiago,
+        Chile
+  remarks: ''
+  scope: Spatial positioning for mining applications
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  baseCRS: null
+  operation: null
+  extentRef: a2739e78-3f4e-498f-bc70-5307e122cf62
+  datum: 1e69656f-1150-4233-b911-55b22313173b
+dateAccepted: '2025-10-03T18:43:38.076Z'
+status: valid
