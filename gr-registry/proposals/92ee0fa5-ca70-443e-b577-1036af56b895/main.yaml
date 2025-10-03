@@ -3,8 +3,10 @@ registerVersion: ''
 id: 92ee0fa5-ca70-443e-b577-1036af56b895
 timeStarted: '2025-10-03T19:22:19.952Z'
 timeEdited: '2025-10-03T19:22:19.952Z'
-state: draft
-justification: imported from converter
+state: proposed
+justification: >-
+  New REDGEOMIN datum. Submitted by Jose Tarrio Mosquera, Universidad de
+  Santiago de Chile & Jorge Munoz, SERNAGEOMIN.
 items:
   /extent/3d352ace-8891-4830-bed6-5446c6444ea9.yaml:
     type: addition
@@ -30,3 +32,22 @@ items:
     type: addition
   /coordinate-ops--transformation/270b350a-66c2-46c7-8360-1a252c488866.yaml:
     type: addition
+timeProposed: 2025-10-03T19:36:39.734Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2025-10-03T19:36:39.734Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        New REDGEOMIN datum. Submitted by Jose Tarrio Mosquera, Universidad de
+        Santiago de Chile & Jorge Munoz, SERNAGEOMIN.
