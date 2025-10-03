@@ -1,0 +1,15 @@
+id: a1cb06c0-2e79-4f89-9ec6-8b83e2a0a370
+data:
+  identifier: -4
+  name: Chile - East of 72°W
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: Chile - onshore - east of 72° W.
+    s: '-59.87'
+    w: '-72'
+    'n': '-17.5'
+    e: '-65.72'
+dateAccepted: '2025-10-03T19:22:19.953Z'
+status: valid
