@@ -1,0 +1,165 @@
+data:
+  identifier: 801
+  extent:
+    'n': 90
+    e: 180
+    s: -90
+    w: -180
+    name: World
+  aliases:
+    - IERS Terrestrial Reference Frame 2020
+    - ITRF2020
+    - ITRF2020-u2023
+    - ITRF2020-u2024
+  coordinateReferenceEpoch: '2015.0'
+  definition: null
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  informationSources:
+    - author: Z. Altamimi
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: https://datacenter.iers.org/data/2/message_456.txt (accessed 2022-04-19)
+      publicationDate: '2022-04-19'
+      publisher: International Earth Rotation and Reference Systems Service (IERS)
+      seriesIssueID: '456'
+      seriesName: IERS Message
+      seriesPage: null
+      title: ITRF2020 is available on line
+      uuid: 5aa0393a-339c-4d45-9eaa-5a89339079e0
+    - author: International Earth Rotation and Reference Systems Service (IERS)
+      edition: null
+      editionDate: null
+      isbn: null
+      issn: null
+      otherDetails: >-
+        Web page: https://doi.org/10.18715/IPGP.2023.LDVIOBNL (accessed
+        2025-11-05)
+      publisher: Institut National de l'Information Geographique et Forestiere (IGN)
+      revisionDate: '2022-04-15'
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      title: ITRF2020
+      uuid: 1f4e944d-5f04-4544-99f1-9a6ee90f7a1a
+      uri: https://doi.org/10.18715/IPGP.2023.LDVIOBNL (accessed 2025-11-05)
+      doi: https://doi.org/10.18715/IPGP.2023.LDVIOBNL
+    - title: >-
+        ITRF2020: an augmented reference frame refining the modeling of
+        nonlinear station motions
+      seriesIssueID: Volume 97, Article Number 47
+      seriesName: Journal of Geodesy
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: >-
+        Web page: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed
+        2025-11-05)
+      isbn: null
+      issn: null
+      author: Z. Altamimi, P. Rebischung, X. Collilieux, L. Métivier, K. Chanard
+      publisher: Springer Nature
+      publicationDate: '2023-05-19'
+      doi: https://doi.org/10.18715/IPGP.2025.MH0MEM4R
+      uri: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed 2025-11-05)
+    - title: ITRF2020-u2023
+      revisionDate: null
+      publicationDate: '2024-12-06'
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: >-
+        Web page: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed
+        2025-11-05)
+      isbn: null
+      issn: null
+      uri: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed 2025-11-05)
+      doi: https://doi.org/10.18715/IPGP.2025.MH0MEM4R
+      author: International Earth Rotation and Reference Systems Service (IERS)
+      publisher: International Earth Rotation and Reference Systems Service (IERS)
+    - title: ITRF2020- u2023 is available on line
+      revisionDate: null
+      publicationDate: '2024-12-09'
+      seriesIssueID: No. 517
+      seriesName: IERS Message
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: https://datacenter.iers.org/data/2/message_517.txt (accessed 2025-10-28)
+      isbn: null
+      issn: null
+      author: Z. Altamimi
+      publisher: International Earth Rotation and Reference Frames Service (IERS)
+      uri: https://datacenter.iers.org/data/2/message_517.txt (accessed 2025-10-28)
+    - title: ITRF2020-u2024
+      revisionDate: null
+      publicationDate: '2025-09-30'
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: >-
+        Web page: https://doi.org/10.18715/IPGP.2025.MH0MIN1J (accessed
+        2025-11-05)
+      isbn: null
+      issn: null
+      author: International Earth Rotation and Reference Systems Service (IERS)
+      publisher: International Earth Rotation and Reference Systems Service (IERS)
+      uri: https://doi.org/10.18715/IPGP.2025.MH0MIN1J (accessed 2025-11-05)
+      doi: https://doi.org/10.18715/IPGP.2025.MH0MIN1J
+    - title: ITRF2020- u2024 is available on line
+      revisionDate: null
+      publicationDate: '2025-10-01'
+      seriesIssueID: No. 537
+      seriesName: IERS Message
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: https://datacenter.iers.org/data/2/message_537.txt (accessed 2025-10-28)
+      isbn: null
+      issn: null
+      author: International Earth Rotation and Reference Systems Service (IERS)
+      publisher: International Earth Rotation and Reference Systems Service (IERS)
+      uri: https://datacenter.iers.org/data/2/message_537.txt (accessed 2025-10-28)
+  name: International Terrestrial Reference Frame 2020
+  originDescription: >-
+    Realisation of the IERS Terrestrial Reference System (ITRS) at reference
+    epoch 2015.0. Origin of the long-term frame is defined using the concept of
+    internal constraints such that there are zero translation parameters at
+    epoch 2015.0 and zero translation rates between the ITRF2020 and the ILRS
+    SLR long-term frame over the time-span 1993.0-2021.0. Scale of the long-term
+    frame is defined using the concept of internal constraints such that there
+    are zero scale and scale rate between ITRF2020 and the scale and scale rate
+    averages of VLBI selected sessions up to 2013.75 and SLR weekly solutions
+    covering the time-span 1997.7-2021.0. Orientation is defined such that there
+    are zero rotation parameters at epoch 2015.0 and zero rotation rates between
+    the ITRF2020 and ITRF2014.  The datum is defined by a set of 3 dimensional
+    Cartesian station coordinates, velocities, annual and semi-annual seasonal
+    terms, and post-seismic deformation models given by the citations.
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+  releaseDate: '2022-04-15'
+  remarks: >-
+    Replaces ITRF2014. This is a purely Cartesian reference frame with no
+    ellipsoid defined. GRS80 is the ellipsoid recommended by the IAG and IERS.
+    ITRF2020 is expected to be updated annually by adding additional data and
+    any required updated deformation modelling. The updates are aligned in
+    origin, scale and orientation to the original ITRF2020 by means of
+    no-net-translation, no-net-scale and no-net-rotation constraints. The
+    updates are identified by the name ITRF2020-uYYYY, where YYYY is the year up
+    to the end of which data was used. Coordinates, velocities and seasonal
+    motions of the stations used for alignment are affected little by the
+    updates unless noted otherwise. *** ITRF2020-u2023 was the first update to
+    ITRF2020 that included an additional three years of data (2021.0-2024.0) and
+    was aligned to ITRF2020 using a reference network of 815 stations. ***
+    ITRF2020-u2024 is the latest update that includes an additional year of data
+    to the previous update (2021.0-2025.0) and uses 838 reference frame stations
+    for alignment to ITRF2020.
+  scope: Spatial positioning
+  extentRef: ceff2dcc-e1b1-403c-b7da-36fcbaed4bf3
+dateAccepted: 2022-06-06T00:00:00.000Z
+id: 255f7f9b-3531-4a1c-a21f-99cb97e44eb8
+status: valid
