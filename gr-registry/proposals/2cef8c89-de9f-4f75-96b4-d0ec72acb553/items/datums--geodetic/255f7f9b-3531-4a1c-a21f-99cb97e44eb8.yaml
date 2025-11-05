@@ -33,9 +33,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: >-
-        Web page: https://doi.org/10.18715/IPGP.2023.LDVIOBNL (accessed
-        2025-11-05)
+      otherDetails: https://doi.org/10.18715/IPGP.2023.LDVIOBNL (accessed 2025-11-05)
       publisher: Institut National de l'Information Geographique et Forestiere (IGN)
       revisionDate: '2022-04-15'
       seriesIssueID: null
