@@ -1,6 +1,6 @@
 id: 2cef8c89-de9f-4f75-96b4-d0ec72acb553
 timeStarted: 2025-11-05T17:22:54.863Z
-timeEdited: 2025-11-05T19:20:26.027Z
+timeEdited: 2025-11-05T19:22:05.459Z
 justification: ITRF2020 & IGS20 Updates
 submittingStakeholderGitServerUsername: maccraymer
 items:
@@ -17,6 +17,8 @@ items:
   /crs--geodetic/c601eb36-d7f6-400b-b7fb-9b075ce8b2e9.yaml:
     type: clarification
   /crs--geodetic/6e5ed49e-e121-4aab-9551-75aed513c1ed.yaml:
+    type: clarification
+  /crs--geodetic/c5b5ca09-090b-4417-9cfa-483832dac214.yaml:
     type: clarification
 state: draft
 registerVersion: 92ee0fa5-ca70-443e-b577-1036af56b895
