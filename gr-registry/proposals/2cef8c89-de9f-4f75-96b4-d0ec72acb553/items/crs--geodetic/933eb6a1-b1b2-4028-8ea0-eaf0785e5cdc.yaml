@@ -46,6 +46,85 @@ data:
       seriesPage: null
       title: ITRF2020 is available on line
       uuid: 69eee888-f3b6-408e-a638-73cc372eb092
+    - title: >-
+        ITRF2020: an augmented reference frame refining the modeling of
+        nonlinear station motions
+      revisionDate: null
+      publicationDate: '2023-05-19'
+      seriesIssueID: Volume 97, Article Number 47
+      seriesName: Journal of Geodesy
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed 2025-11-05)
+      isbn: null
+      issn: null
+      author: Z. Altamimi, P. Rebischung, X. Collilieux, L. Métivier, K. Chanard
+      publisher: Springer Nature
+      uri: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed 2025-11-05)
+      doi: https://doi.org/10.18715/IPGP.2025.MH0MEM4R
+    - title: ITRF2020-u2023
+      revisionDate: null
+      publicationDate: '2024-12-06'
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: >-
+        Web page: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed
+        2025-11-05)
+      isbn: null
+      issn: null
+      author: International Earth Rotation and Reference Systems Service (IERS)
+      publisher: International Earth Rotation and Reference Systems Service (IERS)
+      uri: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed 2025-11-05)
+      doi: https://doi.org/10.18715/IPGP.2025.MH0MEM4R
+    - title: ITRF2020- u2023 is available on line
+      revisionDate: null
+      publicationDate: '2024-12-09'
+      seriesIssueID: No. 517
+      seriesName: IERS Message
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: https://datacenter.iers.org/data/2/message_517.txt (accessed 2025-10-28)
+      isbn: null
+      issn: null
+      author: Z. Altamimi
+      publisher: International Earth Rotation and Reference Frames Service (IERS)
+      uri: https://datacenter.iers.org/data/2/message_517.txt (accessed 2025-10-28)
+    - title: ITRF2020-u2024
+      revisionDate: null
+      publicationDate: '2025-09-30'
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: >-
+        Web page: https://doi.org/10.18715/IPGP.2025.MH0MIN1J (accessed
+        2025-11-05)
+      isbn: null
+      issn: null
+      author: International Earth Rotation and Reference Systems Service (IERS)
+      publisher: International Earth Rotation and Reference Systems Service (IERS)
+      uri: https://doi.org/10.18715/IPGP.2025.MH0MIN1J (accessed 2025-11-05)
+      doi: https://doi.org/10.18715/IPGP.2025.MH0MIN1J
+    - title: ITRF2020- u2024 is available on line
+      revisionDate: null
+      publicationDate: '2025-10-01'
+      seriesIssueID: No. 537
+      seriesName: IERS Message
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: https://datacenter.iers.org/data/2/message_537.txt (accessed 2025-10-28)
+      isbn: null
+      issn: null
+      author: International Earth Rotation and Reference Systems Service (IERS)
+      publisher: International Earth Rotation and Reference Systems Service (IERS)
+      uri: https://datacenter.iers.org/data/2/message_537.txt (accessed 2025-10-28)
   name: ITRF2020 - XYZ
   operation: null
   remarks: Replaces ITRF2014 - XYZ.
