@@ -33,7 +33,9 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: https://doi.org/10.18715/IPGP.2023.LDVIOBNL (accessed 2025-11-05)
+      otherDetails: >-
+        Web page: https://doi.org/10.18715/IPGP.2023.LDVIOBNL (accessed
+        2025-11-05)
       publisher: Institut National de l'Information Geographique et Forestiere (IGN)
       revisionDate: '2022-04-15'
       seriesIssueID: null
@@ -51,9 +53,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: >-
-        Web page: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed
-        2025-11-05)
+      otherDetails: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed 2025-11-05)
       isbn: null
       issn: null
       author: Z. Altamimi, P. Rebischung, X. Collilieux, L. Métivier, K. Chanard
