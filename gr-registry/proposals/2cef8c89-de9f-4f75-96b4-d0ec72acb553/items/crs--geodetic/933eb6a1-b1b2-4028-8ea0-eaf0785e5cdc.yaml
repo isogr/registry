@@ -9,6 +9,8 @@ data:
   aliases:
     - International Terrestrial Reference Frame 2020
     - IERS Terrestrial Reference Frame 2020
+    - ITRF2020-u2023
+    - ITRF2020-u2024
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--cartesian
