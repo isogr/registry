@@ -20,7 +20,7 @@ data:
       issn: null
       otherDetails: >-
         https://lists.igs.org/pipermail/igsmail/2022/008278.html (accessed
-        2023-01-27)
+        2025-11-05)
       publicationDate: '2022-11-25'
       publisher: International GNSS Service (IGS)
       seriesIssueID: '8282'
@@ -30,6 +30,9 @@ data:
         Switch of the IGS products to the IGS20.igs20.atx, repro3 standards and
         long filenames
       uuid: 09a70ceb-0022-4433-be72-543622749b65
+      uri: >-
+        https://lists.igs.org/pipermail/igsmail/2022/008278.html (accessed
+        2025-11-05)
     - author: Arturo Villiger
       edition: null
       editionDate: null
@@ -37,7 +40,7 @@ data:
       issn: null
       otherDetails: >-
         https://lists.igs.org/pipermail/igsmail/2022/008234.html (accessed
-        2023-01-27)
+        2025-11-05)
       publicationDate: '2022-07-26'
       publisher: International GNSS Service (IGS)
       seriesIssueID: '8238'
@@ -45,6 +48,9 @@ data:
       seriesPage: null
       title: Upcoming switch to IGS20/igs20.atx and repro3 standards
       uuid: 3954538c-7e16-41eb-9bf5-eabb0c9a885d
+      uri: >-
+        https://lists.igs.org/pipermail/igsmail/2022/008234.html (accessed
+        2025-11-05)
     - title: Switch to IGb20 reference frame
       revisionDate: null
       publicationDate: '2024-12-09'
