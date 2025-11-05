@@ -40,7 +40,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: https://datacenter.iers.org/data/2/message_456.txt (accessed 2022-04-19)
+      otherDetails: https://datacenter.iers.org/data/2/message_456.txt (accessed 2025-11-05)
       publicationDate: '2022-04-19'
       publisher: International Earth Rotation and Reference Systems Service (IERS)
       seriesIssueID: '456'
@@ -48,6 +48,7 @@ data:
       seriesPage: null
       title: ITRF2020 is available on line
       uuid: b7be3801-0735-4347-9089-efe08a15c27a
+      uri: https://datacenter.iers.org/data/2/message_456.txt (accessed 2025-11-05)
     - title: >-
         ITRF2020: an augmented reference frame refining the modeling of
         nonlinear station motions
@@ -58,9 +59,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: >-
-        Web page: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed
-        2025-11-05)
+      otherDetails: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed 2025-11-05)
       isbn: null
       issn: null
       author: Z. Altamimi, P. Rebischung, X. Collilieux, L. Métivier, K. Chanard
