@@ -134,7 +134,7 @@ data:
     Replaces ITRF2014 - XYZ. ITRF2020 is expected to be updated annually by
     adding additional data and any required updated deformation modelling while
     maintaining alignment to the original ITRF2020. For more information, see
-    the ITRF2020 datum remarks (ISOGR:801).
+    the datum remarks for ITRF2020 (ISOGR:801).
   scope: Spatial referencing
   extentRef: ceff2dcc-e1b1-403c-b7da-36fcbaed4bf3
 dateAccepted: 2022-06-06T00:00:00.000Z
