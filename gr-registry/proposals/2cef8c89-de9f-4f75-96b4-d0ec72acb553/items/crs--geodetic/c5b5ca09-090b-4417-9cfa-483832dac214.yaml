@@ -78,7 +78,9 @@ data:
     Replaces IGb14 - LatLon. Used by IGS products from 2022-11-27. An updated
     set of satellite and ground antenna calibrations defined in igs20.atx and
     post-seismic deformation models defined in psd_IGS20.snx must be used
-    together with IGS20.
+    together with IGS20. IGS20 is expected to be updated annually to maintain
+    alignment with ITRF2020 updates. For more information, see the datum remarks
+    for ITRF2020 (ISOGR:801) and IGS20 (ISOGR:979).
   scope: Spatial referencing
   extentRef: ceff2dcc-e1b1-403c-b7da-36fcbaed4bf3
 dateAccepted: 2023-02-27T00:00:00.000Z
