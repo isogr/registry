@@ -143,7 +143,9 @@ data:
   releaseDate: '2022-04-15'
   remarks: >-
     Replaces ITRF2014. This is a purely Cartesian reference frame with no
-    ellipsoid defined. GRS80 is the ellipsoid recommended by the IAG and IERS.
+    ellipsoid defined. GRS80 is the ellipsoid recommended by the IAG and IERS. 
+
+
     ITRF2020 is expected to be updated annually by adding additional data and
     any required updated deformation modelling. The updates are aligned in
     origin, scale and orientation to the original ITRF2020 by means of
@@ -151,12 +153,15 @@ data:
     updates are identified by the name ITRF2020-uYYYY, where YYYY is the year up
     to the end of which data was used. Coordinates, velocities and seasonal
     motions of the stations used for alignment are affected little by the
-    updates unless noted otherwise. *** ITRF2020-u2023 was the first update to
-    ITRF2020 that included an additional three years of data (2021.0-2024.0) and
-    was aligned to ITRF2020 using a reference network of 815 stations. ***
-    ITRF2020-u2024 is the latest update that includes an additional year of data
-    to the previous update (2021.0-2025.0) and uses 838 reference frame stations
-    for alignment to ITRF2020.
+    updates unless noted otherwise.
+
+
+    ITRF2020-u2023 was the first update to ITRF2020 that included an additional
+    three years of data (2021.0-2024.0) and was aligned to ITRF2020 using a
+    reference network of 815 stations. *** ITRF2020-u2024 is the latest update
+    that includes an additional year of data to the previous update
+    (2021.0-2025.0) and uses 838 reference frame stations for alignment to
+    ITRF2020.
   scope: Spatial positioning
   extentRef: ceff2dcc-e1b1-403c-b7da-36fcbaed4bf3
 dateAccepted: 2022-06-06T00:00:00.000Z
