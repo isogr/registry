@@ -20,7 +20,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: https://datacenter.iers.org/data/2/message_456.txt (accessed 2025-11-05)
+      otherDetails: ''
       publicationDate: '2022-04-19'
       publisher: International Earth Rotation and Reference Systems Service (IERS)
       seriesIssueID: '456'
@@ -34,9 +34,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: >-
-        Web page: https://doi.org/10.18715/IPGP.2023.LDVIOBNL (accessed
-        2025-11-05)
+      otherDetails: Web page.
       publisher: Institut National de l'Information Geographique et Forestiere (IGN)
       revisionDate: '2022-04-15'
       seriesIssueID: null
@@ -54,7 +52,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed 2025-11-05)
+      otherDetails: ''
       isbn: null
       issn: null
       author: Z. Altamimi, P. Rebischung, X. Collilieux, L. Métivier, K. Chanard
@@ -70,9 +68,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: >-
-        Web page: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed
-        2025-11-05)
+      otherDetails: Web page.
       isbn: null
       issn: null
       uri: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed 2025-11-05)
@@ -87,7 +83,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: https://datacenter.iers.org/data/2/message_517.txt (accessed 2025-10-28)
+      otherDetails: ''
       isbn: null
       issn: null
       author: Z. Altamimi
@@ -101,9 +97,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: >-
-        Web page: https://doi.org/10.18715/IPGP.2025.MH0MIN1J (accessed
-        2025-11-05)
+      otherDetails: Web page.
       isbn: null
       issn: null
       author: International Earth Rotation and Reference Systems Service (IERS)
@@ -118,7 +112,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: https://datacenter.iers.org/data/2/message_537.txt (accessed 2025-10-28)
+      otherDetails: ''
       isbn: null
       issn: null
       author: International Earth Rotation and Reference Systems Service (IERS)
@@ -158,10 +152,12 @@ data:
 
     ITRF2020-u2023 was the first update to ITRF2020 that included an additional
     three years of data (2021.0-2024.0) and was aligned to ITRF2020 using a
-    reference network of 815 stations. *** ITRF2020-u2024 is the latest update
-    that includes an additional year of data to the previous update
-    (2021.0-2025.0) and uses 838 reference frame stations for alignment to
-    ITRF2020.
+    reference network of 815 stations.
+
+
+    ITRF2020-u2024 is the latest update that includes an additional year of data
+    to the previous update (2021.0-2025.0) and uses 838 reference frame stations
+    for alignment to ITRF2020.
   scope: Spatial positioning
   extentRef: ceff2dcc-e1b1-403c-b7da-36fcbaed4bf3
 dateAccepted: 2022-06-06T00:00:00.000Z
