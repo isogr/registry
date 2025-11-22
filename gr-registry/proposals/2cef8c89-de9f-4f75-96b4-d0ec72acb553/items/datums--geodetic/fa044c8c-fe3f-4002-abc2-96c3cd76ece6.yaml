@@ -9,6 +9,7 @@ data:
   aliases:
     - International GNSS Service 2020
     - IGb20
+    - IGc20
   coordinateReferenceEpoch: '2015.0'
   definition: null
   ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
