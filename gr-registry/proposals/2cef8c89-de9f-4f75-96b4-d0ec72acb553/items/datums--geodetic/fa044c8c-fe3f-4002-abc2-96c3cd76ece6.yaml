@@ -18,9 +18,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: >-
-        https://lists.igs.org/pipermail/igsmail/2022/008278.html (accessed
-        2025-11-05)
+      otherDetails: ''
       publicationDate: '2022-11-25'
       publisher: International GNSS Service (IGS)
       seriesIssueID: '8282'
@@ -38,9 +36,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: >-
-        https://lists.igs.org/pipermail/igsmail/2022/008234.html (accessed
-        2025-11-05)
+      otherDetails: ''
       publicationDate: '2022-07-26'
       publisher: International GNSS Service (IGS)
       seriesIssueID: '8238'
@@ -59,9 +55,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: >-
-        https://lists.igs.org/pipermail/igsmail/2024/008539.html (accessed
-        2025-11-05)
+      otherDetails: ''
       isbn: null
       issn: null
       author: P. Rebischung
@@ -69,6 +63,21 @@ data:
       uri: >-
         https://lists.igs.org/pipermail/igsmail/2024/008539.html (accessed
         2025-11-05)
+    - title: Switch to IGc20 reference frame
+      publicationDate: '2025-11-17'
+      seriesIssueID: '8634'
+      seriesName: IGSMAIL
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
+      author: P. Rebischung
+      publisher: International GNSS Service (IGS)
+      uri: >-
+        https://lists.igs.org/pipermail/igsmail/2025/008630.html (accessed
+        2025-11-17)
   name: IGS20
   originDescription: >-
     Derived from a long-term combination of daily IGS repro3 solutions from 1994
@@ -77,20 +86,30 @@ data:
     performing IGS stations.
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '2022-11-27'
-  remarks: >-
+  remarks: >
     Replaces IGb14. Used by IGS products from 2022-11-27. An updated set of
     satellite and ground antenna calibrations defined in igs20.atx and
     post-seismic deformation models defined in psd_IGS20.snx must be used
-    together with IGS20. IGS20 is expected to be updated annually as new
-    ITRF2020 updates are produced. The updates are named IGx20, where x is a
-    lower case letter representing each update. Each update is aligned to
-    ITRF2020 using a set of well performing ITRF stations from the corresponding
-    ITRF update, For all practical purposes IGS20 and its updates are considered
-    be coincident with ITRF2020 and its updates. *** IGb20 is the first update
-    to IGS20 and is used for IGS products from GPS week 2352 (2025-02- 02). It
-    is based on a subset of 343 well performing IGS stations from the
-    ITRF2020-u2023 update, including 11 new stations mainly in areas with
-    previously sparse coverage.
+    together with IGS20. 
+
+
+    IGS20 is expected to be updated annually as new ITRF2020 updates are
+    produced. The updates are named IGx20, where x is a lower-case letter
+    representing each update. Each update is aligned to ITRF2020 using a set of
+    well performing ITRF stations from the corresponding ITRF update. For all
+    practical purposes IGS20 and its updates are considered to be coincident
+    with ITRF2020 and its updates. 
+
+
+    IGb20 was the first update to IGS20 and was used for IGS products from GPS
+    week 2352 (2025-02- 02) until GPS week 2400 (2026-01-10). It was based on a
+    subset of 343 well performing IGS stations from the ITRF2020-u2023 update,
+    including 11 new stations mainly in areas with previously sparse coverage.
+
+
+    IGc20 is the latest update to IGS20 and is used for IGS products from GPS
+    week 2401 (2026-01-11). It is based on the same 343 IGS stations from IGb20
+    plus three new stations in areas with sparse coverage in IGb20.
   scope: Spatial referencing
   extentRef: ceff2dcc-e1b1-403c-b7da-36fcbaed4bf3
 dateAccepted: 2023-02-27T00:00:00.000Z
