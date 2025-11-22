@@ -21,9 +21,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: >-
-        https://lists.igs.org/pipermail/igsmail/2022/008234.html (accessed
-        2025-11-05)
+      otherDetails: ''
       publicationDate: '2022-07-26'
       publisher: International GNSS Service (IGS)
       seriesIssueID: '8238'
@@ -39,9 +37,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: >-
-        https://lists.igs.org/pipermail/igsmail/2022/008278.html (accessed
-        2025-11-05)
+      otherDetails: ''
       publicationDate: '2022-11-25'
       publisher: International GNSS Service (IGS)
       seriesIssueID: '8282'
@@ -62,9 +58,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: >-
-        https://lists.igs.org/pipermail/igsmail/2024/008539.html (accessed
-        2025-11-05)
+      otherDetails: ''
       isbn: null
       issn: null
       author: P. Rebischung
@@ -72,6 +66,22 @@ data:
       uri: >-
         https://lists.igs.org/pipermail/igsmail/2024/008539.html (accessed
         2025-11-05)
+    - title: Switch to IGc20 reference frame
+      revisionDate: null
+      publicationDate: '2025-11-17'
+      seriesIssueID: '8634'
+      seriesName: IGSMAIL
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
+      author: P. Rebischung
+      publisher: International GNSS Service (IGS)
+      uri: >-
+        https://lists.igs.org/pipermail/igsmail/2025/008630.html (accessed
+        2025-11-17)
   name: IGS20 - LatLonEHt
   operation: null
   remarks: >-
