@@ -23,9 +23,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: >-
-        Web page: https://doi.org/10.18715/IPGP.2023.LDVIOBNL (accessed
-        2025-11-05)
+      otherDetails: Web page.
       publisher: Institut National de l'Information Geographique et Forestiere (IGN)
       revisionDate: '2022-04-15'
       seriesIssueID: null
@@ -40,7 +38,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: https://datacenter.iers.org/data/2/message_456.txt (accessed 2025-11-05)
+      otherDetails: ''
       publicationDate: '2022-04-19'
       publisher: International Earth Rotation and Reference Systems Service (IERS)
       seriesIssueID: '456'
@@ -59,7 +57,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed 2025-11-05)
+      otherDetails: ''
       isbn: null
       issn: null
       author: Z. Altamimi, P. Rebischung, X. Collilieux, L. Métivier, K. Chanard
@@ -74,13 +72,11 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: >-
-        Web page: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed
-        2025-11-05)
+      otherDetails: Web page.
       isbn: null
       issn: null
       author: International Earth Rotation and Reference Systems Service (IERS)
-      publisher: International Earth Rotation and Reference Systems Service (IERS)
+      publisher: Institut National de l'Information Geographique et Forestiere (IGN)
       uri: https://doi.org/10.18715/IPGP.2025.MH0MEM4R (accessed 2025-11-05)
       doi: https://doi.org/10.18715/IPGP.2025.MH0MEM4R
     - title: ITRF2020- u2023 is available on line
@@ -91,7 +87,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: https://datacenter.iers.org/data/2/message_517.txt (accessed 2025-10-28)
+      otherDetails: ''
       isbn: null
       issn: null
       author: Z. Altamimi
@@ -105,13 +101,11 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: >-
-        Web page: https://doi.org/10.18715/IPGP.2025.MH0MIN1J (accessed
-        2025-11-05)
+      otherDetails: Web page.
       isbn: null
       issn: null
       author: International Earth Rotation and Reference Systems Service (IERS)
-      publisher: International Earth Rotation and Reference Systems Service (IERS)
+      publisher: Institut National de l'Information Geographique et Forestiere (IGN)
       uri: https://doi.org/10.18715/IPGP.2025.MH0MIN1J (accessed 2025-11-05)
       doi: https://doi.org/10.18715/IPGP.2025.MH0MIN1J
     - title: ITRF2020- u2024 is available on line
