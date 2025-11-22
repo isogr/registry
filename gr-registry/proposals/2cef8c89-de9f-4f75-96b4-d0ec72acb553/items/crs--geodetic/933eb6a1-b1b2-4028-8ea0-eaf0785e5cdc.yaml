@@ -23,7 +23,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: Web page.
+      otherDetails: Web page
       publisher: Institut National de l'Information Geographique et Forestiere (IGN)
       revisionDate: '2022-04-15'
       seriesIssueID: null
@@ -72,7 +72,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: Web page.
+      otherDetails: Web page
       isbn: null
       issn: null
       author: International Earth Rotation and Reference Systems Service (IERS)
@@ -101,7 +101,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: Web page.
+      otherDetails: Web page
       isbn: null
       issn: null
       author: International Earth Rotation and Reference Systems Service (IERS)
