@@ -9,6 +9,7 @@ data:
   aliases:
     - International GNSS Service 2020
     - IGb20
+    - IGc20
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal
