@@ -1,0 +1,83 @@
+title: Coordinate Operation - Conversion
+type: object
+required:
+  - id
+  - status
+  - dateAccepted
+  - data
+properties:
+  id:
+    type: string
+  status:
+    type: string
+    enum: [valid, invalid, superseded]
+  dateAccepted:
+    type: string
+    format: date
+  data:
+    type: object
+    required:
+      - identifier
+      - name
+    properties:
+      identifier:
+        type: integer
+      name:
+        type: string
+      extent:
+        type: object
+        properties:
+          'n':
+            type: number
+          e:
+            type: number
+          s:
+            type: number
+          w:
+            type: number
+          name:
+            type: string
+      accuracy:
+        type: object
+        properties:
+          unitOfMeasurement:
+            type: ['null']
+          value:
+            type: ['null']
+      aliases:
+        type: array
+        items:
+          type: string
+      dateAmended:
+        type: ['null']
+      definition:
+        type: ['null', string]
+      informationSources:
+        type: array
+        items:
+          type: object
+      method_uuid:
+        type: string
+      parameters:
+        type: array
+        items:
+          type: object
+          properties:
+            parameter:
+              type: string
+            unitOfMeasurement:
+              type: string
+            value:
+              type: [string, number]
+      remarks:
+        type: ['null', string]
+      scope:
+        type: array
+        items:
+          type: string
+      sourcecrs_uuid:
+        type: ['null']
+      targetcrs_uuid:
+        type: ['null']
+      extentRef:
+        type: string
