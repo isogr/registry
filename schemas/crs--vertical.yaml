@@ -1,0 +1,62 @@
+title: Coordinate Reference System - Vertical
+type: object
+required:
+  - id
+  - status
+  - dateAccepted
+  - data
+properties:
+  id:
+    type: string
+  status:
+    type: string
+    enum: [valid, invalid, superseded]
+  dateAccepted:
+    type: string
+    format: date
+  data:
+    type: object
+    required:
+      - identifier
+      - name
+    properties:
+      identifier:
+        type: integer
+      name:
+        type: string
+      extent:
+        type: ['null', object]
+        properties:
+          'n':
+            type: number
+          e:
+            type: number
+          s:
+            type: number
+          w:
+            type: number
+          name:
+            type: string
+      aliases:
+        type: array
+        items:
+          type: string
+      coordinateSystem:
+        type: object
+        properties:
+          classID:
+            type: string
+          itemID:
+            type: string
+      datum:
+        type: string
+      informationSources:
+        type: array
+        items:
+          type: object
+      remarks:
+        type: ['null', string]
+      scope:
+        type: string
+      extentRef:
+        type: string

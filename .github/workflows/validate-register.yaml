@@ -1,0 +1,29 @@
+name: validate-register
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Validate register files
+        run: bundle exec scripts/validate_register.rb
+
+      - name: Validation summary
+        if: success()
+        run: echo "✓ All register files validated successfully!"
