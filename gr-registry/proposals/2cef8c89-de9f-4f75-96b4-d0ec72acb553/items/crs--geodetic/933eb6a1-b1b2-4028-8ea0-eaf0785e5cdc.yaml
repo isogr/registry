@@ -116,7 +116,7 @@ data:
       seriesPage: null
       edition: null
       editionDate: null
-      otherDetails: https://datacenter.iers.org/data/2/message_537.txt (accessed 2025-10-28)
+      otherDetails: ''
       isbn: null
       issn: null
       author: International Earth Rotation and Reference Systems Service (IERS)
