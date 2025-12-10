@@ -1,8 +1,10 @@
 id: 213f8a60-fcbc-43d4-94da-47941ff75a0a
 timeStarted: 2025-12-10T22:15:50.601Z
-timeEdited: 2025-12-10T22:15:50.601Z
+timeEdited: 2025-12-10T22:16:54.935Z
 justification: Corrected WGS84(G1150) to ITRF2000
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /coordinate-ops--transformation/1b8fa799-667f-492f-89ce-ab11b66b476c.yaml:
+    type: clarification
 state: draft
 registerVersion: 92ee0fa5-ca70-443e-b577-1036af56b895
