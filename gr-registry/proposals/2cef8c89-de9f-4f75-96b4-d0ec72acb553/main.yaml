@@ -1,7 +1,9 @@
 id: 2cef8c89-de9f-4f75-96b4-d0ec72acb553
 timeStarted: 2025-11-05T17:22:54.863Z
 timeEdited: 2025-12-07T03:50:47.940Z
-justification: ITRF2020 & IGS20 Updates
+justification: >-
+  ITRF2020 & IGS20 reference frame updates. Submitted by T. Gattacceca & B.
+  Virly, IGN.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /datums--geodetic/255f7f9b-3531-4a1c-a21f-99cb97e44eb8.yaml:
@@ -20,5 +22,24 @@ items:
     type: clarification
   /crs--geodetic/c5b5ca09-090b-4417-9cfa-483832dac214.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 92ee0fa5-ca70-443e-b577-1036af56b895
+timeProposed: 2026-01-02T05:31:42.292Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-01-02T05:31:42.292Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        ITRF2020 & IGS20 reference frame updates. Submitted by T. Gattacceca &
+        B. Virly, IGN.
