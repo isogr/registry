@@ -8,6 +8,8 @@ data:
     name: World.
   aliases:
     - International GNSS Service 2020
+    - IGb20
+    - IGc20
   baseCRS: null
   coordinateSystem:
     classID: coordinate-sys--ellipsoidal
@@ -20,9 +22,7 @@ data:
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: >-
-        https://lists.igs.org/pipermail/igsmail/2022/008278.html (accessed
-        2023-01-27)
+      otherDetails: ''
       publicationDate: '2022-11-25'
       publisher: International GNSS Service (IGS)
       seriesIssueID: '8282'
@@ -32,14 +32,15 @@ data:
         Switch of the IGS products to the IGS20.igs20.atx, repro3 standards and
         long filenames
       uuid: 3b2e27e7-f722-4013-9a9d-240251d531e7
+      uri: >-
+        https://lists.igs.org/pipermail/igsmail/2022/008278.html (accessed
+        2025-11-05)
     - author: Arturo Villiger
       edition: null
       editionDate: null
       isbn: null
       issn: null
-      otherDetails: >-
-        https://lists.igs.org/pipermail/igsmail/2022/008234.html (accessed
-        2023-01-27)
+      otherDetails: ''
       publicationDate: '2022-07-26'
       publisher: International GNSS Service (IGS)
       seriesIssueID: '8238'
@@ -47,13 +48,50 @@ data:
       seriesPage: null
       title: Upcoming switch to IGS20/igs20.atx and repro3 standards
       uuid: a5c5f0f9-d1df-4823-9c63-d11560107ed8
+      uri: >-
+        https://lists.igs.org/pipermail/igsmail/2022/008234.html (accessed
+        2025-11-05)
+    - title: Switch to IGb20 reference frame
+      revisionDate: null
+      publicationDate: '2024-12-09'
+      seriesIssueID: '8543'
+      seriesName: IGSMAIL
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
+      author: P. Rebischung
+      publisher: International GNSS Service (IGS)
+      uri: >-
+        https://lists.igs.org/pipermail/igsmail/2024/008539.html (accessed
+        2025-11-05)
+    - title: Switch to IGc20 reference frame
+      revisionDate: null
+      publicationDate: '2025-11-17'
+      seriesIssueID: '8634'
+      seriesName: IGSMAIL
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
+      author: P. Rebischung
+      publisher: International GNSS Service (IGS)
+      uri: >-
+        https://lists.igs.org/pipermail/igsmail/2025/008630.html (accessed
+        2025-11-17)
   name: IGS20 - LatLon
   operation: null
   remarks: >-
     Replaces IGb14 - LatLon. Used by IGS products from 2022-11-27. An updated
     set of satellite and ground antenna calibrations defined in igs20.atx and
     post-seismic deformation models defined in psd_IGS20.snx must be used
-    together with IGS20.
+    together with IGS20. IGS20 is expected to be updated annually to maintain
+    alignment with ITRF2020 updates. For more information, see the datum remarks
+    for ITRF2020 (ISOGR:801) and IGS20 (ISOGR:979).
   scope: Spatial referencing
   extentRef: ceff2dcc-e1b1-403c-b7da-36fcbaed4bf3
 dateAccepted: 2023-02-27T00:00:00.000Z
