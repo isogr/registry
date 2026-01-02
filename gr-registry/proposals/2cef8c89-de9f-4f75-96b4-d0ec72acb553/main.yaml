@@ -22,7 +22,7 @@ items:
     type: clarification
   /crs--geodetic/c5b5ca09-090b-4417-9cfa-483832dac214.yaml:
     type: clarification
-state: proposed
+state: pending-control-body-review
 registerVersion: 92ee0fa5-ca70-443e-b577-1036af56b895
 timeProposed: 2026-01-02T05:31:42.292Z
 pastTransitions:
@@ -43,3 +43,19 @@ pastTransitions:
       justification: >-
         ITRF2020 & IGS20 reference frame updates. Submitted by T. Gattacceca &
         B. Virly, IGN.
+  - label: Submit for control body review
+    timestamp: 2026-01-02T05:32:10.446Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      registerManagerNotes: Accepted for Control Body review.
+registerManagerNotes: Accepted for Control Body review.
