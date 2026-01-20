@@ -33,6 +33,24 @@ data:
         Revision of the Results of Control Points after the 2011 off the Pacific
         coast of Tohoku Earthquake
       uuid: b31a25e1-e32e-4b05-bee9-8ff7e96d4c44
+    - title: >-
+        "Geodetic results 2000", "Geodetic results 2011" and "Geodetic results
+        2024" [Translated from Japanese]
+      revisionDate: '2025-04-01'
+      publicationDate: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: Web page in Japanese.
+      isbn: null
+      issn: null
+      author: Geospatial Information Authority of Japan
+      publisher: Geospatial Information Authority of Japan
+      uri: >-
+        https://www.gsi.go.jp/sokuchikijun/jgd2000-2011.html (accessed
+        2026-01-20)
   name: Japanese Geodetic Datum 2011
   originDescription: >-
     Equivalent to ITRF2008 at epoch 2011.395 (2011-05-24, 12:00 UTC) in Northern
