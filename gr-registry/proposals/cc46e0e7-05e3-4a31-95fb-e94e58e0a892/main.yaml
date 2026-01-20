@@ -1,6 +1,6 @@
 id: cc46e0e7-05e3-4a31-95fb-e94e58e0a892
 timeStarted: 2026-01-20T15:34:30.773Z
-timeEdited: 2026-01-20T15:37:40.801Z
+timeEdited: 2026-01-20T15:38:32.469Z
 justification: >-
   New JGD2024 aliases for JGD2011. Submitted by M. Craymer, Chair ISOGR Control
   Body on behalf of GSI.
@@ -9,6 +9,8 @@ items:
   /crs--geodetic/45ea902e-d7da-49a2-91f2-ca12467130c0.yaml:
     type: clarification
   /crs--geodetic/089b9fcb-ae97-49cf-a862-8c7e44f1f30c.yaml:
+    type: clarification
+  /crs--geodetic/057b07c8-7781-43c3-8bb2-5989308a8714.yaml:
     type: clarification
 state: draft
 registerVersion: 213f8a60-fcbc-43d4-94da-47941ff75a0a
