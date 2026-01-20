@@ -3,8 +3,10 @@ registerVersion: ''
 id: e810ec4e-bd18-4855-8537-ef898d4d1a4d
 timeStarted: '2026-01-20T18:06:31.059Z'
 timeEdited: '2026-01-20T18:06:31.059Z'
-state: draft
-justification: imported from converter
+state: proposed
+justification: >-
+  SWEREF 99 datum, CRSs & transformations. Submitted by M. Lidberg,
+  Lantmateriet, Sweden.
 items:
   /extent/be605ab7-b593-498a-a6a4-5c9f7312e1bb.yaml:
     type: addition
@@ -44,3 +46,22 @@ items:
     type: addition
   /coordinate-ops--transformation/f8ca8e32-0983-4def-92ec-6ebb59f2bc23.yaml:
     type: addition
+timeProposed: 2026-01-20T19:00:59.939Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-01-20T19:00:59.939Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        SWEREF 99 datum, CRSs & transformations. Submitted by M. Lidberg,
+        Lantmateriet, Sweden.
