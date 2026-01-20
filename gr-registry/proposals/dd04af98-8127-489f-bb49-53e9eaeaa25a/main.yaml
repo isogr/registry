@@ -1,10 +1,12 @@
 id: dd04af98-8127-489f-bb49-53e9eaeaa25a
 timeStarted: 2026-01-20T19:06:06.251Z
-timeEdited: 2026-01-20T19:06:06.251Z
+timeEdited: 2026-01-20T19:06:18.712Z
 justification: >-
   ITRF2014 to SWEREF 99 concatenated transformation. Submitted by M. Craymer on
   behalf of M. Lidberg, Lantmateriet, Sweden.
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /coordinate-ops--concatenated/ae877576-0ba6-40e9-8073-dec7f37e3a45.yaml:
+    type: addition
 state: draft
 registerVersion: e810ec4e-bd18-4855-8537-ef898d4d1a4d
