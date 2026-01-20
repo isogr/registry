@@ -1,0 +1,44 @@
+id: c0a3546c-4322-4001-8914-6d6c5788ca1c
+data:
+  identifier: 1308
+  name: >-
+    Position Vector Transformation and Geocentric Translation by Velocity Grids
+    (NKG)
+  aliases: []
+  informationSources: []
+  remarks: >-
+    Concatenation of operation methods combining a Helmert 7-parameter
+    transformation (position vector rotation convention) with north, east and up
+    velocity grids used to transform between CRSs defined at different epochs.
+  parameters:
+    - f2b42193-1669-4320-a2b0-c1ecf71520cb
+    - c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+    - 49198a70-aaa8-4e12-9014-efb789f5a004
+    - e5c3331d-b1a1-47a7-b7aa-560e3c110928
+    - ce8ddaf4-68b2-43d1-baa9-88656ee12322
+    - 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+    - d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+    - 866fa30e-318f-4446-ae2e-64a8cc7e17d8
+    - 0cf67849-5d29-415e-bed7-4a320a2936e0
+    - f4d47df2-f860-4f86-b7f2-237123dacd68
+    - 15811eed-e76f-43f1-9b66-e36d1c94aacf
+    - 90852641-cd3f-40ae-8c72-d614dcabe8ce
+    - 71117fcc-1ef0-4ae6-8188-b926f2ebff18
+  formulaCitation:
+    title: >-
+      NKG2020 transformation: an updated transformation between dynamic and
+      static reference frames for the Nordic and Baltic countries
+    publicationDate: '2023-06-14'
+    revisionDate: ''
+    edition: ''
+    author: >-
+      P. Häkli, K. Evers, L. Jivall, T. Nilsson, S. Himle, K. Kollo, I. Liepiņš,
+      E. Paršeliūnas, O. Vestøl, M. Lidberg
+    seriesName: Journal of Geodetic Science
+    seriesIssueID: Volume 13, Issue 1
+    seriesPage: ''
+    otherDetails: ''
+    uri: https://doi.org/10.1515/jogs-2022-0155 (accessed 2026-01-05)
+    publisher: De Gruyter
+status: valid
+dateAccepted: 2026-01-20T19:02:38.035Z

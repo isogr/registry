@@ -1,0 +1,51 @@
+id: c1f7b467-3dd3-4dbd-bb67-f2d16262ecf4
+data:
+  identifier: 1309
+  name: Swedish Reference Frame 1999
+  aliases:
+    - SWEREF 99
+    - SWEREF99
+    - ETRS89-SWE
+  informationSources:
+    - title: SWEREF 99 - an Updated EUREF Realisation for Sweden
+      publicationDate: '2000-06-24'
+      revisionDate: ''
+      edition: ''
+      author: L. Jivall, M. Lidberg
+      seriesName: >-
+        Report on the Symposium of the IAG Subcommission for Europe (EUREF) in
+        Tromsø, 22 - 24 June 2000
+      seriesIssueID: ''
+      seriesPage: 167-175
+      otherDetails: ''
+      uri: >-
+        https://www.euref.eu/sites/default/files/symposia/book2000/P_167_175.pdf
+        (accessed 2026-01-05)
+      publisher: 'EUREF: Reference Frame Subcommission for Europe'
+    - title: SWEREF 99
+      publicationDate: '2022-06-30'
+      revisionDate: ''
+      edition: ''
+      author: Lantmateriet
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://www.lantmateriet.se/en/geodata/gps-geodesy-and-swepos/swedish-reference-systems/
+        (accessed 2026-01-05)
+      publisher: Lantmateriet, Sweden
+  remarks: Swedish national realization of ETRS89. Replaces RT 90 since 2001.
+  scope: Spatial referencing
+  originDescription: >-
+    The SWEREF 99 solution was calculated in ITRF97 epoch 1999.5 and has
+    subsequently been aligned with ETRF97 in accordance with EUREF guidelines.
+    The SWEREF 99 coordinates of the defining Swepos stations were updated in
+    2021.
+  releaseDate: '2000'
+  extentRef: be605ab7-b593-498a-a6a4-5c9f7312e1bb
+  coordinateReferenceEpoch: '1999.5'
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+status: valid
+dateAccepted: 2026-01-20T19:02:38.035Z

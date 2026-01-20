@@ -3,7 +3,7 @@ registerVersion: ''
 id: e810ec4e-bd18-4855-8537-ef898d4d1a4d
 timeStarted: '2026-01-20T18:06:31.059Z'
 timeEdited: '2026-01-20T18:06:31.059Z'
-state: pending-control-body-review
+state: accepted
 justification: >-
   SWEREF 99 datum, CRSs & transformations. Submitted by M. Lidberg,
   Lantmateriet, Sweden.
@@ -82,4 +82,23 @@ pastTransitions:
       registerManagerNotes: >-
         Accepted for review by Control Body by M. Craymer, Chair ISOGR Control
         Body.
+  - label: Accept
+    timestamp: 2026-01-20T19:02:37.847Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      controlBodyNotes: .
+      controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2026-01-05.
 registerManagerNotes: Accepted for review by Control Body by M. Craymer, Chair ISOGR Control Body.
+controlBodyNotes: .
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2026-01-05.
+timeDisposed: 2026-01-20T19:02:37.847Z
