@@ -1,0 +1,69 @@
+title: Coordinate Operation Parameter
+type: object
+required:
+  - id
+  - status
+  - dateAccepted
+  - data
+properties:
+  id:
+    type: string
+  status:
+    type: string
+    enum: [valid, invalid, superseded]
+  dateAccepted:
+    type: string
+    format: date
+  data:
+    type: object
+    required:
+      - identifier
+      - name
+    properties:
+      identifier:
+        type: integer
+      name:
+        type: string
+      aliases:
+        type: array
+        items:
+          type: string
+      definition:
+        type: ['null', string]
+      informationSources:
+        type: array
+        items:
+          type: object
+          properties:
+            author:
+              type: string
+            edition:
+              type: ['null', string]
+            editionDate:
+              type: ['null', string]
+            isbn:
+              type: ['null', string]
+            issn:
+              type: ['null', string]
+            otherDetails:
+              type: ['null', string]
+            publicationDate:
+              type: ['null', string]
+            publisher:
+              type: ['null', string]
+            revisionDate:
+              type: ['null', string]
+            seriesIssueID:
+              type: ['null', string]
+            seriesName:
+              type: ['null', string]
+            seriesPage:
+              type: ['null', string]
+            title:
+              type: string
+            uuid:
+              type: string
+      minimumOccurs:
+        type: ['null', integer]
+      remarks:
+        type: ['null', string]
