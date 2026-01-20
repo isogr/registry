@@ -82,7 +82,7 @@ data:
       type: measure (w/ UoM)
       unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
       value: 0
-  remarks: Null transformation. WGS 84 (G1150) derived from ITRF92 at epoch 2001.0.
+  remarks: Null transformation. WGS 84 (G1150) derived from ITRF2000 at epoch 2001.0.
   scope:
     - Spatial referencing
   sourceCRS:
