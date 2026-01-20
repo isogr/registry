@@ -8,7 +8,7 @@ submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/1b8fa799-667f-492f-89ce-ab11b66b476c.yaml:
     type: clarification
-state: proposed
+state: pending-control-body-review
 registerVersion: 92ee0fa5-ca70-443e-b577-1036af56b895
 timeProposed: 2026-01-20T14:44:12.068Z
 pastTransitions:
@@ -29,3 +29,19 @@ pastTransitions:
       justification: >-
         Corrected WGS84(G1150) to ITRF2000 remark. Submitted by M. Craymer,
         Chair ISOGR Control Body.
+  - label: Submit for control body review
+    timestamp: 2026-01-20T14:45:12.520Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      registerManagerNotes: Accepted for review by Control Body.
+registerManagerNotes: Accepted for review by Control Body.
