@@ -1,0 +1,27 @@
+id: 579bf54a-67d8-4376-90f3-16ec4ea6be9b
+data:
+  identifier: -5
+  name: Point motion up velocity grid
+  aliases: []
+  informationSources:
+    - title: >-
+        NKG2020 transformation: an updated transformation between dynamic and
+        static reference frames for the Nordic and Baltic countries
+      publicationDate: '2023-06-14'
+      revisionDate: ''
+      edition: ''
+      author: >-
+        P. Häkli, K. Evers, L. Jivall, T. Nilsson, S. Himle, K. Kollo, I.
+        Liepiņš, E. Paršeliūnas, O. Vestøl, M. Lidberg
+      seriesName: Journal of Geodetic Science, Volume 13, Issue 1
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: >-
+        https://www.degruyter.com/document/doi/10.1515/jogs-2022-0155/html
+        (accessed 2026-01-05)
+      publisher: De Gruyter
+  remarks: ''
+  minimumOccurs: null
+dateAccepted: '2026-01-20T16:59:02.045Z'
+status: valid

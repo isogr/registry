@@ -1,0 +1,18 @@
+id: ba06d547-4922-483b-bc5a-35721101ea59
+data:
+  identifier: -2
+  name: Europe - Nordic and Baltic countries
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: >-
+      Denmark, Estonia, Finland, Latvia, Lithuania, Norway, and Sweden -
+      onshore, and offshore east of the meridian of 3°E, southeast of a line
+      joining (65°N, 3°E) and (72°N, 12°E), and south of the parallel of 72°N.
+    s: '53.89'
+    w: '3.24'
+    'n': '71.37'
+    e: '31.77'
+dateAccepted: '2026-01-20T16:59:02.045Z'
+status: valid

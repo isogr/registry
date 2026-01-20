@@ -1,0 +1,47 @@
+id: 1facd85c-2c9a-4162-8547-1d20627dd3fa
+data:
+  identifier: -8
+  name: Geocentric Translation by Velocity Grids (NKG)
+  aliases: []
+  informationSources: []
+  remarks: >-
+    Common NKG transformation method between epochs of ETRF for use in Nordic
+    and Baltic countries, which incorporates point motions from intraplate
+    deformation (velocity) grids in north, east and up. Transformation procedure
+    is performed in geocentric Cartesian coordinates, but requires conversion of
+    source coordinates to geographic coordinates (latitude and longitude) used
+    for interpolation of the grid files. Interpolation provides velocities in
+    north, east and up compnents for the point of interest. These velocities are
+    transformed to geocentric Cartesian velocities and are then multipied by the
+    difference between source and target epochs to get position shifts. These
+    position shifts are then added to the geocentric Cartesian coordinates at
+    the source epoch in the source CRS to get the geocentric Cartesian
+    coordinates at the target epoch in the target CRS. The source epoch is
+    provided as user-input while the target epoch is specified as a fixed
+    parameter.
+  parameters:
+    - e3df916c-cffa-4ced-9c84-6d64de22e382
+    - 116a3a4f-2b9c-47f8-b4db-da8aacedbac9
+    - 579bf54a-67d8-4376-90f3-16ec4ea6be9b
+    - 15811eed-e76f-43f1-9b66-e36d1c94aacf
+    - 4deb7abc-a987-49e8-b7a4-55a302ae2c3c
+  formulaCitation:
+    title: >-
+      NKG2020 transformation: an updated transformation between dynamic and
+      static reference frames for the Nordic and Baltic countries
+    publicationDate: '2023-06-14'
+    revisionDate: ''
+    edition: ''
+    author: >-
+      P. Häkli, K. Evers, L. Jivall, T. Nilsson, S. Himle, K. Kollo, I. Liepiņš,
+      E. Paršeliūnas, O. Vestøl, M. Lidberg
+    seriesName: Journal of Geodetic Science, Volume 13, Issue 1
+    seriesIssueID: ''
+    seriesPage: ''
+    otherDetails: ''
+    uri: >-
+      https://www.degruyter.com/document/doi/10.1515/jogs-2022-0155/html
+      (accessed 2026-01-05)
+    publisher: De Gruyter
+dateAccepted: '2026-01-20T16:59:02.045Z'
+status: valid
