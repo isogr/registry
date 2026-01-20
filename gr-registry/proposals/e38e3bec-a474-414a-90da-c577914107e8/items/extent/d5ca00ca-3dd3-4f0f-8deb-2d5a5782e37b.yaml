@@ -1,0 +1,15 @@
+id: d5ca00ca-3dd3-4f0f-8deb-2d5a5782e37b
+data:
+  identifier: -1
+  name: Sweden
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: Sweden - onshore and offshore.
+    s: '54.96'
+    w: '10.03'
+    'n': '69.07'
+    e: '24.17'
+dateAccepted: '2026-01-20T17:59:53.804Z'
+status: valid

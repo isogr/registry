@@ -1,0 +1,92 @@
+id: 95880f8d-2f38-4feb-b280-7ae99d5ff189
+data:
+  identifier: -18
+  name: ETRF2014 to NKG_ETRF14 [NKG v1]
+  aliases: []
+  informationSources:
+    - title: Transformation between ITRF2014/WGS 84 and SWEREF 99
+      publicationDate: '2021-03-12'
+      revisionDate: ''
+      edition: ''
+      author: Lantmateriet
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://www.lantmateriet.se/globalassets/geodata/gps-och-geodetisk-matning/transformations/transformation_itrf2014-sweref99.pdf
+        (accessed 2026-01-05)
+      publisher: Lantmateriet, Sweden
+    - title: >-
+        NKG2020 transformation: an updated transformation between dynamic and
+        static reference frames for the Nordic and Baltic countries
+      publicationDate: '2023-06-14'
+      revisionDate: ''
+      edition: ''
+      author: >-
+        P. Häkli, K. Evers, L. Jivall, T. Nilsson, S. Himle, K. Kollo, I.
+        Liepiņš, E. Paršeliūnas, O. Vestøl, M. Lidberg
+      seriesName: Journal of Geodetic Science
+      seriesIssueID: Volume 13, Issue 1
+      seriesPage: ''
+      otherDetails: ''
+      uri: https://doi.org/10.1515/jogs-2022-0155 (accessed 2026-01-05)
+      publisher: De Gruyter
+    - title: Geographic information — Referencing by coordinates
+      publicationDate: ''
+      revisionDate: 2019-01
+      edition: Third edition
+      author: International Organization for Standardization (ISO)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: https://www.iso.org/standard/74039.html (accessed 2026-01-05)
+      publisher: International Organization for Standardization (ISO)
+  remarks: >-
+    Nordic Geodetic Commission (NKG) 2020 transformation. Accuracy estimated as
+    0.1, 0.1, and 0.4 mm/year for the North, East, and Up components,
+    respectively. Transformation is reversible with target CRS as interpolation
+    CRS because differences in coordinates between ETRF2014 and NKG_ETRF14 are
+    small (under a decimetre). The coordinate epoch of ETRF2014 is user-input.
+  operationVersion: NKG v1
+  coordOperationMethod: bdaa308d-fbf7-42e5-9da1-533ab7a0385a
+  scope: Spatial referencing
+  accuracy:
+    value: 0.005
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: c2ae4418-2828-4654-b733-0876e4080e1a
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 3f4581b5-d722-489b-8b38-99958ade7f6d
+  extentRef: 0bf2b1c5-a87f-44e9-afc5-ec93fa1c6647
+  parameters:
+    - type: parameter file name
+      fileCitation: null
+      value: NKG_RF17vel_n.gri
+      parameter: ac2b1b10-e892-4e30-95fb-92fea4c1a76d
+      unitOfMeasurement: null
+    - type: parameter file name
+      fileCitation: null
+      value: NKG_RF17vel_e.gri
+      parameter: 38099edc-fc61-4384-840e-3385db96d869
+      unitOfMeasurement: null
+    - type: parameter file name
+      fileCitation: null
+      value: NKG_RF17vel_u.gri
+      parameter: d2d823a6-6a5b-4040-bfa2-2f5ea4f1079e
+      unitOfMeasurement: null
+    - type: integer value
+      fileCitation: null
+      value: '746'
+      parameter: 15811eed-e76f-43f1-9b66-e36d1c94aacf
+      unitOfMeasurement: null
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '2000'
+      parameter: 55c3aed3-1411-4587-9b09-3bb4ff7b8f41
+      unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+dateAccepted: '2026-01-20T17:59:53.804Z'
+status: valid

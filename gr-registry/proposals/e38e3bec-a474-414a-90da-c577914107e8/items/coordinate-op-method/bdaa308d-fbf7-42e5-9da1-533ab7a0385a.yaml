@@ -1,0 +1,45 @@
+id: bdaa308d-fbf7-42e5-9da1-533ab7a0385a
+data:
+  identifier: -8
+  name: Geocentric Translation by Velocity Grids (NKG)
+  aliases: []
+  informationSources: []
+  remarks: >-
+    Common NKG transformation method between epochs of ETRF for use in Nordic
+    and Baltic countries, which incorporates point motions from intraplate
+    deformation (velocity) grids in north, east and up. Transformation procedure
+    is performed in geocentric Cartesian coordinates, but requires conversion of
+    source coordinates to geographic coordinates (latitude and longitude) used
+    for interpolation of the grid files. Interpolation provides velocities in
+    north, east and up compnents for the point of interest. These velocities are
+    transformed to geocentric Cartesian velocities and are then multipied by the
+    difference between source and target epochs to get position shifts. These
+    position shifts are then added to the geocentric Cartesian coordinates at
+    the source epoch in the source CRS to get the geocentric Cartesian
+    coordinates at the target epoch in the target CRS. The source epoch is
+    provided as user-input while the target epoch is specified as a fixed
+    parameter.
+  parameters:
+    - ac2b1b10-e892-4e30-95fb-92fea4c1a76d
+    - 38099edc-fc61-4384-840e-3385db96d869
+    - d2d823a6-6a5b-4040-bfa2-2f5ea4f1079e
+    - 15811eed-e76f-43f1-9b66-e36d1c94aacf
+    - 55c3aed3-1411-4587-9b09-3bb4ff7b8f41
+  formulaCitation:
+    title: >-
+      NKG2020 transformation: an updated transformation between dynamic and
+      static reference frames for the Nordic and Baltic countries
+    publicationDate: '2023-06-14'
+    revisionDate: ''
+    edition: ''
+    author: >-
+      P. Häkli, K. Evers, L. Jivall, T. Nilsson, S. Himle, K. Kollo, I. Liepiņš,
+      E. Paršeliūnas, O. Vestøl, M. Lidberg
+    seriesName: Journal of Geodetic Science
+    seriesIssueID: Volume 13, Issue 1
+    seriesPage: ''
+    otherDetails: ''
+    uri: https://doi.org/10.1515/jogs-2022-0155 (accessed 2026-01-05)
+    publisher: De Gruyter
+dateAccepted: '2026-01-20T17:59:53.804Z'
+status: valid

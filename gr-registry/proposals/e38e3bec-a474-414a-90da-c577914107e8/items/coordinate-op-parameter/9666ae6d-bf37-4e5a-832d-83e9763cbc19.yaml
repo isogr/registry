@@ -1,0 +1,21 @@
+id: 9666ae6d-bf37-4e5a-832d-83e9763cbc19
+data:
+  identifier: -6
+  name: Source epoch
+  aliases: []
+  informationSources:
+    - title: Geographic information — Referencing by coordinates
+      publicationDate: ''
+      revisionDate: 2019-01
+      edition: Third edition
+      author: International Organization for Standardization (ISO)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: https://www.iso.org/standard/74039.html (accessed 2026-01-05)
+      publisher: International Organization for Standardization (ISO)
+  remarks: ''
+  minimumOccurs: null
+dateAccepted: '2026-01-20T17:59:53.804Z'
+status: valid
