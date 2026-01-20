@@ -2,7 +2,7 @@ id: ae877576-0ba6-40e9-8073-dec7f37e3a45
 dateAccepted: 2026-01-20T19:06:18.712Z
 status: valid
 data:
-  name: ITRF2014 to SWEREF 99
+  name: ITRF2014 to SWEREF 99 [NKGv1]
   identifier: 0
   informationSources:
     - title: Transformation between ITRF2014/WGS 84 and SWEREF 99
@@ -48,7 +48,7 @@ data:
     in step 2. For coordinates originating before 2021-02-07, the NKG2008
     transformation should be used.
   aliases:
-    - ITRF2014 to SWEREF99 [NKGv1]
+    - ITRF2014 to SWEREF99
   operationVersion: NKGv1
   extent:
     name: ''
