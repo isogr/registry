@@ -1,0 +1,21 @@
+id: 305b9a67-1e92-473a-9e92-e247c04b980c
+data:
+  identifier: -7
+  name: Target epoch
+  aliases: []
+  informationSources:
+    - title: Geographic information — Referencing by coordinates
+      publicationDate: ''
+      revisionDate: 2019-01
+      edition: Third edition
+      author: International Organization for Standardization (ISO)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: https://www.iso.org/standard/74039.html (accessed 2026-01-05)
+      publisher: International Organization for Standardization (ISO)
+  remarks: ''
+  minimumOccurs: null
+dateAccepted: '2026-01-20T17:53:00.806Z'
+status: valid

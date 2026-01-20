@@ -1,0 +1,53 @@
+id: 18511226-d69d-467a-a82e-4043ec3fbe68
+data:
+  identifier: -11
+  name: NKG_ETRF14
+  aliases:
+    - NKG_ETRF2014
+    - ETRS89 Epoch 2000.0
+  informationSources:
+    - title: Transformation between ITRF2014/WGS 84 and SWEREF 99
+      publicationDate: '2021-03-12'
+      revisionDate: ''
+      edition: ''
+      author: Lantmateriet
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://www.lantmateriet.se/globalassets/geodata/gps-och-geodetisk-matning/transformations/transformation_itrf2014-sweref99.pdf
+        (accessed 2026-01-05)
+      publisher: Lantmateriet, Sweden
+    - title: >-
+        NKG2020 transformation: an updated transformation between dynamic and
+        static reference frames for the Nordic and Baltic countries
+      publicationDate: '2023-06-14'
+      revisionDate: ''
+      edition: ''
+      author: >-
+        P. Häkli, K. Evers, L. Jivall, T. Nilsson, S. Himle, K. Kollo, I.
+        Liepiņš, E. Paršeliūnas, O. Vestøl, M. Lidberg
+      seriesName: Journal of Geodetic Science
+      seriesIssueID: Volume 13, Issue 1
+      seriesPage: ''
+      otherDetails: ''
+      uri: >-
+        https://www.degruyter.com/document/doi/10.1515/jogs-2022-0155/html
+        (accessed 2026-01-05)
+      publisher: De Gruyter
+  remarks: >-
+    Regional realization of ETRS89 for Nordic/Baltic countries defined as a
+    static "snapshot" of ETRF2014 at epoch 2000.0. Used primarily as an
+    intermediate reference frame for transforming from ITRFyyyy to national
+    realizations of ETRS89, but also as a reference for common geoid models in
+    Nordic counties.
+  scope: Spatial referencing
+  originDescription: Aligned to ETRF2014 at epoch 2000.0.
+  releaseDate: '2023'
+  extentRef: cbdc5db1-f34f-46bf-8b46-30890427353b
+  coordinateReferenceEpoch: '2000'
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+dateAccepted: '2026-01-20T17:53:00.806Z'
+status: valid
