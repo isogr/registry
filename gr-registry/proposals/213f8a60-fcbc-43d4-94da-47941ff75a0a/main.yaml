@@ -1,10 +1,31 @@
 id: 213f8a60-fcbc-43d4-94da-47941ff75a0a
 timeStarted: 2025-12-10T22:15:50.601Z
 timeEdited: 2025-12-10T22:16:54.935Z
-justification: Corrected WGS84(G1150) to ITRF2000
+justification: >-
+  Corrected WGS84(G1150) to ITRF2000 remark. Submitted by M. Craymer, Chair
+  ISOGR Control Body.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/1b8fa799-667f-492f-89ce-ab11b66b476c.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 92ee0fa5-ca70-443e-b577-1036af56b895
+timeProposed: 2026-01-20T14:44:12.068Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-01-20T14:44:12.068Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        Corrected WGS84(G1150) to ITRF2000 remark. Submitted by M. Craymer,
+        Chair ISOGR Control Body.
