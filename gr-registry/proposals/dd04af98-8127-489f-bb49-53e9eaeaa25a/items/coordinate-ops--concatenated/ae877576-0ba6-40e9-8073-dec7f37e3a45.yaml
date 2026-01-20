@@ -48,7 +48,7 @@ data:
     in step 2. For coordinates originating before 2021-02-07, the NKG2008
     transformation should be used.
   aliases:
-    - ITRF2014 to SWEREF99
+    - ITRF2014 to SWEREF99 [NKGv1]
   operationVersion: NKGv1
   extent:
     name: ''
