@@ -1,0 +1,46 @@
+submittingStakeholderGitServerUsername: maccraymer
+registerVersion: ''
+id: e810ec4e-bd18-4855-8537-ef898d4d1a4d
+timeStarted: '2026-01-20T18:06:31.059Z'
+timeEdited: '2026-01-20T18:06:31.059Z'
+state: draft
+justification: imported from converter
+items:
+  /extent/be605ab7-b593-498a-a6a4-5c9f7312e1bb.yaml:
+    type: addition
+  /extent/2d331101-76b2-4975-a7d4-afc1bccebc37.yaml:
+    type: addition
+  /coordinate-op-parameter/866fa30e-318f-4446-ae2e-64a8cc7e17d8.yaml:
+    type: addition
+  /coordinate-op-parameter/0cf67849-5d29-415e-bed7-4a320a2936e0.yaml:
+    type: addition
+  /coordinate-op-parameter/f4d47df2-f860-4f86-b7f2-237123dacd68.yaml:
+    type: addition
+  /coordinate-op-parameter/90852641-cd3f-40ae-8c72-d614dcabe8ce.yaml:
+    type: addition
+  /coordinate-op-parameter/71117fcc-1ef0-4ae6-8188-b926f2ebff18.yaml:
+    type: addition
+  /coordinate-op-method/758481b1-9e96-4039-b140-7cca49053331.yaml:
+    type: addition
+  /coordinate-op-method/c0a3546c-4322-4001-8914-6d6c5788ca1c.yaml:
+    type: addition
+  /datums--geodetic/c1f7b467-3dd3-4dbd-bb67-f2d16262ecf4.yaml:
+    type: addition
+  /datums--geodetic/14271e86-4d46-4fe0-82a8-75daadf3e1af.yaml:
+    type: addition
+  /crs--geodetic/5314e0ef-c24f-4f0a-8e0d-ce6b0a4bb261.yaml:
+    type: addition
+  /crs--geodetic/df12e59f-f3e4-45f6-be4e-04b8f0994cdf.yaml:
+    type: addition
+  /crs--geodetic/3f91ee9a-aca1-4cf3-9a82-4648771e805f.yaml:
+    type: addition
+  /crs--geodetic/5045c070-9982-44d2-b26b-0c6059a84bbd.yaml:
+    type: addition
+  /crs--geodetic/7e56b495-aadd-4dfe-81d2-7f770829ffa5.yaml:
+    type: addition
+  /crs--geodetic/cb21a5f8-58de-42f6-92fd-65f9a3a033b4.yaml:
+    type: addition
+  /coordinate-ops--transformation/47933543-4196-40a5-b471-5b265c600b44.yaml:
+    type: addition
+  /coordinate-ops--transformation/f8ca8e32-0983-4def-92ec-6ebb59f2bc23.yaml:
+    type: addition

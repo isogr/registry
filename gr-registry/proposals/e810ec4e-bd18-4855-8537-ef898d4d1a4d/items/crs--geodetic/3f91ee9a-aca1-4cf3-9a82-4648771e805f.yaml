@@ -1,0 +1,47 @@
+id: 3f91ee9a-aca1-4cf3-9a82-4648771e805f
+data:
+  identifier: -14
+  name: SWEREF 99 - LatLon
+  aliases:
+    - SWEREF99
+    - ETRS89-SWE
+  informationSources:
+    - title: SWEREF 99 - an Updated EUREF Realisation for Sweden
+      publicationDate: '2000-06-24'
+      revisionDate: ''
+      edition: ''
+      author: L. Jivall, M. Lidberg
+      seriesName: >-
+        Report on the Symposium of the IAG Subcommission for Europe (EUREF) in
+        Tromsø, 22 - 24 June 2000
+      seriesIssueID: ''
+      seriesPage: 167-175
+      otherDetails: ''
+      uri: >-
+        https://www.euref.eu/sites/default/files/symposia/book2000/P_167_175.pdf
+        (accessed 2026-01-05)
+      publisher: 'EUREF: Reference Frame Subcommission for Europe'
+    - title: SWEREF 99
+      publicationDate: '2022-06-30'
+      revisionDate: ''
+      edition: ''
+      author: Lantmateriet
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://www.lantmateriet.se/en/geodata/gps-geodesy-and-swepos/swedish-reference-systems/
+        (accessed 2026-01-05)
+      publisher: Lantmateriet, Sweden
+  remarks: ''
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  baseCRS: null
+  operation: null
+  extentRef: be605ab7-b593-498a-a6a4-5c9f7312e1bb
+  datum: c1f7b467-3dd3-4dbd-bb67-f2d16262ecf4
+dateAccepted: '2026-01-20T18:06:31.059Z'
+status: valid
