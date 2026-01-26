@@ -8,5 +8,24 @@ submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--concatenated/ae877576-0ba6-40e9-8073-dec7f37e3a45.yaml:
     type: addition
-state: draft
+state: proposed
 registerVersion: e810ec4e-bd18-4855-8537-ef898d4d1a4d
+timeProposed: 2026-01-26T13:37:33.316Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-01-26T13:37:33.316Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        ITRF2014 to SWEREF 99 concatenated transformation. Submitted by M.
+        Craymer on behalf of M. Lidberg, Lantmateriet, Sweden.
