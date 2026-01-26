@@ -43,10 +43,9 @@ data:
   remarks: >-
     Three-step concatenated transformation consisting of  ITRF2014 to ETRF2014
     at user epoch (ISOGR:749) + ETRF2014 at user epoch to NKG_ETRF14 at 2000.0
-    (ISOGR:1317) + NKG_ETRF14 at 2000.0 to SWEREF 99 (ISOGR:). The coordinate
-    epoch of the source CRS coordinates (ITRF2014) is user-input and used as the
-    source epoch in step 2. For coordinates originating before 2021-02-07, the
-    NKG2008 transformation should be used.
+    (ISOGR:1317) + NKG_ETRF14 at 2000.0 to SWEREF 99 (ISOGR:1318). The
+    coordinate epoch of the source CRS coordinates (ITRF2014) is user-input and
+    used as the source epoch in step 2.
   aliases:
     - ITRF2014 to SWEREF99
   operationVersion: NKGv1
