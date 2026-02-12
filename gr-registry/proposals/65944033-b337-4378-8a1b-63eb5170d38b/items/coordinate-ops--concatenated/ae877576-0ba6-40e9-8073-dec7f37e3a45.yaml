@@ -1,0 +1,73 @@
+id: ae877576-0ba6-40e9-8073-dec7f37e3a45
+data:
+  name: ITRF2014 to SWEREF 99 [NKGv1]
+  identifier: 1319
+  informationSources:
+    - title: Transformation between ITRF2014/WGS 84 and SWEREF 99
+      revisionDate: null
+      publicationDate: '2021-03-12'
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
+      author: Lantmateriet
+      publisher: Lantmateriet, Sweden
+      uri: >-
+        https://www.lantmateriet.se/globalassets/geodata/gps-och-geodetisk-matning/transformations/transformation_itrf2014-sweref99.pdf
+        (accessed 2026-01-05)
+    - title: >-
+        NKG2020 transformation: an updated transformation between dynamic and
+        static reference frames for the Nordic and Baltic countries
+      revisionDate: null
+      publicationDate: '2023-06-14'
+      seriesIssueID: Volume 13, Issue 1
+      seriesName: Journal of Geodetic Science
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
+      author: >-
+        P. Häkli, K. Evers, L. Jivall, T. Nilsson, S. Himle, K. Kollo, I.
+        Liepiņš, E. Paršeliūnas, O. Vestøl, M. Lidberg
+      publisher: De Gruyter
+      uri: https://doi.org/10.1515/jogs-2022-0155 (accessed 2026-01-05)
+      doi: https://doi.org/10.1515/jogs-2022-0155
+  remarks: >-
+    Three-step concatenated transformation consisting of  ITRF2014 to ETRF2014
+    at user epoch (ISOGR:749) + ETRF2014 at user epoch to NKG_ETRF14 at 2000.0
+    (ISOGR:1317) + NKG_ETRF14 at 2000.0 to SWEREF 99 (ISOGR:1318). The
+    coordinate epoch of the source CRS coordinates (ITRF2014) is user-input and
+    used as the source epoch in step 2.
+  aliases:
+    - ITRF2014 to SWEREF99
+  operationVersion: NKGv1f
+  extent:
+    name: ''
+    'n': '0'
+    e: '0'
+    s: '0'
+    w: '0'
+  operations:
+    - classID: coordinate-ops--transformation
+      itemID: 8978301d-15b5-4f03-af46-2b0a089d2a2e
+    - classID: coordinate-ops--transformation
+      itemID: 47933543-4196-40a5-b471-5b265c600b44
+  accuracy:
+    value: '0.005'
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  extentRef: be605ab7-b593-498a-a6a4-5c9f7312e1bb
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 53740382-efb9-4f4d-8a99-3db85f700f02
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 5314e0ef-c24f-4f0a-8e0d-ce6b0a4bb261
+  scope: jffdfdasdfsa
+status: valid
+dateAccepted: 2026-01-26T13:41:52.839Z
