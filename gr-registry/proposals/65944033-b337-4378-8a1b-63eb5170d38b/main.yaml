@@ -1,10 +1,8 @@
 id: 65944033-b337-4378-8a1b-63eb5170d38b
 timeStarted: 2026-02-12T10:20:17.869Z
-timeEdited: 2026-02-12T10:22:42.158Z
+timeEdited: 2026-02-12T10:29:21.245Z
 justification: test scope
 submittingStakeholderGitServerUsername: strogonoff
-items:
-  /coordinate-ops--concatenated/ae877576-0ba6-40e9-8073-dec7f37e3a45.yaml:
-    type: clarification
+items: {}
 state: draft
 registerVersion: dd04af98-8127-489f-bb49-53e9eaeaa25a
