@@ -1,0 +1,46 @@
+title: Coordinate System Axis
+type: object
+required:
+  - id
+  - status
+  - dateAccepted
+  - data
+properties:
+  id:
+    type: string
+  status:
+    type: string
+    enum: [valid, invalid, superseded]
+  dateAccepted:
+    type: string
+    format: date
+  data:
+    type: object
+    required:
+      - identifier
+      - name
+    properties:
+      identifier:
+        type: integer
+      name:
+        type: string
+      abbreviation:
+        type: string
+      aliases:
+        type: array
+        items:
+          type: string
+      informationSources:
+        type: array
+        items:
+          type: object
+      maxValue:
+        type: ['null', number]
+      minValue:
+        type: ['null', number]
+      orientation:
+        type: string
+      remarks:
+        type: ['null', string]
+      unitOfMeasurement:
+        type: string

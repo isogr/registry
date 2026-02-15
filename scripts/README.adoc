@@ -1,0 +1,288 @@
+= Register validation scripts
+
+== Purpose
+
+This directory contains scripts for validating YAML files in the
+`gr-registry/` directory against their corresponding JSON schemas.
+
+The validation ensures data integrity and consistency across all register
+item classes by validating each YAML file against its schema definition.
+
+== Features
+
+* Validates all register item class YAML files against their schemas
+* Colorized terminal output for easy identification of issues
+* Flexible validation modes (show all files or only failures)
+* Support for partial validation (first N files) for testing
+* Proper handling of Ruby Date and Time objects in YAML
+* Detailed error messages with exact property paths
+* Summary statistics for validation results
+* Exit code integration for CI/CD pipelines
+* GitHub Actions workflow for automated validation
+
+== Architecture
+
+The validation infrastructure consists of three main components:
+
+=== Schema definitions
+
+JSON schemas for each register item class are stored in the `schemas/`
+directory. Each schema defines:
+
+* Required fields (id, status, dateAccepted, data)
+* Data structure for the register item class
+* Property types and constraints
+* Nullable field handling
+
+[source]
+----
+schemas/
+├── coordinate-op-parameter.yaml
+├── coordinate-op-method.yaml
+├── coordinate-ops--transformation.yaml
+├── coordinate-ops--conversion.yaml
+├── crs--geodetic.yaml
+├── crs--projected.yaml
+├── crs--vertical.yaml
+├── datums--geodetic.yaml
+├── datums--vertical.yaml
+├── ellipsoid.yaml
+├── extent.yaml
+├── prime-meridian.yaml
+├── unit-of-measurement.yaml
+├── coordinate-sys--cartesian.yaml
+├── coordinate-sys--ellipsoidal.yaml
+├── coordinate-sys--vertical.yaml
+└── coordinate-sys-axis.yaml
+----
+
+=== Validation script
+
+The `validate_register.rb` script performs the validation:
+
+. Discovers all register item class directories
+. Loads the appropriate schema for each class
+. Validates each YAML file against its schema
+. Converts Ruby Date/Time objects to strings for validation
+. Displays results with color-coded output
+. Generates summary statistics
+. Exits with appropriate status code
+
+=== GitHub Actions integration
+
+The `.github/workflows/validate-register.yaml` workflow automatically runs
+validation on:
+
+* Pull requests to main or master branches
+* Pushes to main or master branches
+
+The workflow fails if any validation errors occur, preventing invalid data
+from being merged.
+
+== Installation
+
+Install the required Ruby gems:
+
+[source,shell]
+----
+bundle install
+----
+
+This installs:
+
+* `paint` - For colorized terminal output
+* `json-schema` - For schema validation
+* `yaml` - For YAML parsing
+
+== Usage
+
+[[basic-usage]]
+=== Basic usage
+
+Validate all register files (shows only failures):
+
+[source,shell]
+----
+ruby scripts/validate_register.rb
+----
+
+[[verbose-mode]]
+=== Verbose mode
+
+Show all files validated (both passing and failing):
+
+[source,shell]
+----
+ruby scripts/validate_register.rb --verbose
+----
+
+Or use the short form:
+
+[source,shell]
+----
+ruby scripts/validate_register.rb -v
+----
+
+[[limited-validation]]
+=== Limited validation for testing
+
+Validate only the first N files per register item class:
+
+[source,shell]
+----
+ruby scripts/validate_register.rb --count 10
+----
+
+Combine with verbose mode:
+
+[source,shell]
+----
+ruby scripts/validate_register.rb --count 10 --verbose
+----
+
+[[help]]
+=== Help
+
+Display usage information:
+
+[source,shell]
+----
+ruby scripts/validate_register.rb --help
+----
+
+== Output format
+
+The validation script provides colorized output:
+
+* **Blue headers**: Register item class being validated
+* **Green checkmarks (✓)**: Successfully validated files (verbose mode only)
+* **Red crosses (✗)**: Files with validation errors
+* **Red indented text**: Specific validation error messages
+* **Cyan summary**: Final statistics and results
+
+.Example output (default mode)
+====
+[source]
+----
+================================================================================
+Register Item Validation
+(Showing only failing files)
+================================================================================
+
+Validating coordinate-op-method...
+
+Validating coordinate-op-parameter...
+
+Validating crs--geodetic...
+  ✗ invalid-file.yaml
+    - The property '#/data/extent' of type null did not match type: object
+
+================================================================================
+Validation Summary
+================================================================================
+
+Total files validated: 1299
+Successful validations: 1298
+Failed validations: 1
+
+Files with violations:
+  crs--geodetic/invalid-file.yaml
+    - The property '#/data/extent' of type null did not match type: object
+
+================================================================================
+----
+====
+
+.Example output (verbose mode)
+====
+[source]
+----
+================================================================================
+Register Item Validation
+(Verbose mode: showing all files)
+================================================================================
+
+Validating coordinate-op-method...
+  ✓ method1.yaml
+  ✓ method2.yaml
+
+Validating coordinate-op-parameter...
+  ✓ parameter1.yaml
+  ✓ parameter2.yaml
+
+================================================================================
+Validation Summary
+================================================================================
+
+Total files validated: 1299
+Successful validations: 1299
+Failed validations: 0
+
+✓ All files validated successfully!
+================================================================================
+----
+====
+
+== Exit codes
+
+The script returns appropriate exit codes for CI/CD integration:
+
+* **0**: All validations passed
+* **1**: One or more validations failed
+
+This allows the script to be used in automated workflows and prevent merging
+of invalid data.
+
+== CI/CD integration
+
+The validation is automatically triggered by GitHub Actions:
+
+* **Pull requests**: Validates changed files before merge
+* **Direct pushes**: Validates all files to maintain data integrity
+
+The workflow is defined in `.github/workflows/validate-register.yaml`.
+
+If validation fails, the workflow will fail and:
+
+* Block pull request merges (if branch protection is enabled)
+* Provide clear error messages in the GitHub Actions log
+* Highlight specific files and validation errors
+
+== Troubleshooting
+
+=== All files failing validation
+
+If all files show validation errors, check:
+
+. The schemas in `schemas/` directory are present
+. The schema files are valid YAML
+. Required gems are installed (`bundle install`)
+
+=== Date/Time validation errors
+
+The script automatically converts Ruby Date and Time objects to ISO 8601
+strings for validation. If you see Date/Time related errors, ensure the
+YAML files use standard YAML date/time syntax.
+
+=== Schema not found warnings
+
+If you see "No schema found" warnings, create the corresponding schema file
+in the `schemas/` directory with the name matching the register item class
+directory name.
+
+.Example schema creation
+====
+For a register item class directory:
+
+[source]
+----
+gr-registry/new-item-class/
+----
+
+Create schema:
+
+[source]
+----
+schemas/new-item-class.yaml
+----
+====
