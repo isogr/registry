@@ -20,6 +20,7 @@ data:
   minValue: null
   name: Geocentric Y
   orientation: Geocentre > equator/90°E
+  rangeMeaning: null
   remarks: null
   unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
 dateAccepted: 2018-11-17

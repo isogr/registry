@@ -20,6 +20,7 @@ data:
   minValue: null
   name: Ellipsoidal height
   orientation: up
+  rangeMeaning: null
   remarks: Used only as part of an ellipsoidal 3D coordinate system in a geographic
     3D coordinate reference system, never on its own.
   unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
