@@ -64,7 +64,7 @@ data:
     coordinates can be propagated from observation epoch to the 2011.395
     reference epoch for JGD2011 & JGD2024 using a patch grid model of coordinate
     corrections as implemented in the SemiDynaEXE application from GSI. Grid
-    parameters are updated every quarter year.
+    parameters are updated every year.
   scope: Spatial referencing
   extentRef: 16cd48cd-24fc-4981-a84b-016d4e20dd1c
 dateAccepted: 2018-11-17T00:00:00.000Z
