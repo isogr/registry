@@ -1,0 +1,72 @@
+id: 74215f83-00f0-49e1-8dd2-f0e7c75f98ca
+data:
+  identifier: -4
+  name: JGD2024 (vertical) - OHt
+  aliases:
+    - Japanese Geodetic Datum 2024 (vertical)
+  informationSources:
+    - title: >-
+        "Geodetic results 2000", "Geodetic results 2011" and "Geodetic results
+        2024" [Translated from Japanese]
+      publicationDate: ''
+      revisionDate: '2025-04-01'
+      edition: ''
+      author: Geospatial Information Authority of Japan
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Japanese.
+      uri: >-
+        https://www.gsi.go.jp/sokuchikijun/jgd2000-2011.html (accessed
+        2026-01-20)
+      publisher: Geospatial Information Authority of Japan
+    - title: FY2025 Revision of national elevation results [Translated from Japanese]
+      publicationDate: ''
+      revisionDate: '2025-08-21'
+      edition: ''
+      author: Geospatial Information Authority of Japan
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Japanese.
+      uri: >-
+        https://www.gsi.go.jp/sokuchikijun/hyoko2024rev.html (accessed
+        2026-01-20)
+      publisher: Geospatial Information Authority of Japan
+    - title: Gravity and Geoid [Translated from Japanese]
+      publicationDate: ''
+      revisionDate: '2025-07-01'
+      edition: ''
+      author: Geospatial Information Authority of Japan
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Japanese.
+      uri: >-
+        https://www.gsi.go.jp/buturisokuchi/grageo_index.html (accessed
+        2026-02-16)
+      publisher: Geospatial Information Authority of Japan
+    - title: JGEOID2024
+      publicationDate: ''
+      revisionDate: '2025-07-01'
+      edition: ''
+      author: K. Matsuo
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://research-opendata.gsi.go.jp/tech_data/2025-003-S/2025-003-S-lp.html
+        (accessed 2026-02-16)
+      publisher: Geospatial Information Authority of Japan
+  remarks: ''
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys--vertical
+    itemID: bccbe20a-3852-4a31-8533-ac6e043b52d9
+  baseCRS: null
+  operation: null
+  extentRef: 82c7e0be-6b13-4ae7-bb9b-0bd10cea53c2
+  datum: 5bc8b8a0-7b45-4668-a5aa-33a277e4a38e
+dateAccepted: '2026-03-02T19:58:33.764Z'
+status: valid

@@ -1,0 +1,17 @@
+id: 82c7e0be-6b13-4ae7-bb9b-0bd10cea53c2
+data:
+  identifier: -1
+  name: Japan - Onshore & Offshore Excluding Southern Remote Islands
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: >-
+      Japan - onshore & offshore excluding remote islands south of Yakushima
+      Island.
+    s: '30'
+    w: '122.9'
+    'n': '45.6'
+    e: '154'
+dateAccepted: '2026-03-02T19:58:33.764Z'
+status: valid

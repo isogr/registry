@@ -1,0 +1,75 @@
+id: 5bc8b8a0-7b45-4668-a5aa-33a277e4a38e
+data:
+  identifier: -3
+  name: Japanese Geodetic Datum 2024 (vertical)
+  aliases:
+    - JGD2024 (vertical)
+  informationSources:
+    - title: >-
+        "Geodetic results 2000", "Geodetic results 2011" and "Geodetic results
+        2024" [Translated from Japanese]
+      publicationDate: ''
+      revisionDate: '2025-04-01'
+      edition: ''
+      author: Geospatial Information Authority of Japan
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Japanese.
+      uri: >-
+        https://www.gsi.go.jp/sokuchikijun/jgd2000-2011.html (accessed
+        2026-01-20)
+      publisher: Geospatial Information Authority of Japan
+    - title: FY2025 Revision of national elevation results [Translated from Japanese]
+      publicationDate: ''
+      revisionDate: '2025-08-21'
+      edition: ''
+      author: Geospatial Information Authority of Japan
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Japanese.
+      uri: >-
+        https://www.gsi.go.jp/sokuchikijun/hyoko2024rev.html (accessed
+        2026-01-20)
+      publisher: Geospatial Information Authority of Japan
+    - title: Gravity and Geoid [Translated from Japanese]
+      publicationDate: ''
+      revisionDate: '2025-07-01'
+      edition: ''
+      author: Geospatial Information Authority of Japan
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Japanese.
+      uri: >-
+        https://www.gsi.go.jp/buturisokuchi/grageo_index.html (accessed
+        2026-02-16)
+      publisher: Geospatial Information Authority of Japan
+    - title: JGEOID2024
+      publicationDate: ''
+      revisionDate: '2025-07-01'
+      edition: ''
+      author: K. Matsuo
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://research-opendata.gsi.go.jp/tech_data/2025-003-S/2025-003-S-lp.html
+        (accessed 2026-02-16)
+      publisher: Geospatial Information Authority of Japan
+  remarks: Replaces Japanese Geodetic Datum 2011 (vertical) from 2025-04-01.
+  scope: Spatial referencing
+  originDescription: >-
+    JGD2024 (vertical) is a gravimetric geoid-based vertical datum using the
+    "Geoid 2024 Japan and Surrounding Area" geoid model based on the geoid model
+    JGEOID2024 referenced to IAG-recommended W0 value of 62,636,853.4 m2/s2.
+    "Geoid 2024 Japan and Surrounding Area" has an offset of +0.1366m from
+    JGEOID2024 to match mean sea level of Tokyo Bay at the Aburatsubo tide
+    gauge. The datum uses as height reference epoch of 2024-06-01.
+  releaseDate: '2025-04-01'
+  extentRef: 82c7e0be-6b13-4ae7-bb9b-0bd10cea53c2
+  coordinateReferenceEpoch: '2024.4153'
+dateAccepted: '2026-03-02T19:58:33.764Z'
+status: valid
