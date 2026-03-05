@@ -1,0 +1,27 @@
+id: 9969e88e-9095-4342-8c1d-49caf57b8c31
+data:
+  identifier: 1321
+  name: Geographic3D to Gravity Related Height (GSIGEO2011 Ver.2.2)
+  aliases: []
+  informationSources: []
+  remarks: >-
+    Transformation of JGD2011 or JGD2024 ellipsoidal height to JGD2011
+    (vertical) orthometric height using GSI geoid model GSIGEO2011 (Ver.2.2) as
+    implemented by the GSI web application "Geoid Height Calculation Service" or
+    its corresponding desktop applcation in the near future.
+  parameters:
+    - 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+  formulaCitation:
+    title: FY2025 Revision of national elevation results [Translated from Japanese]
+    publicationDate: ''
+    revisionDate: '2025-08-21'
+    edition: ''
+    author: Geospatial Information Authority of Japan
+    seriesName: ''
+    seriesIssueID: ''
+    seriesPage: ''
+    otherDetails: Web page in Japanese.
+    uri: https://www.gsi.go.jp/sokuchikijun/hyoko2024rev.html (accessed 2026-01-20)
+    publisher: Geospatial Information Authority of Japan
+status: valid
+dateAccepted: 2026-03-05T15:34:12.060Z
