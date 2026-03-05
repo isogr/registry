@@ -39,6 +39,25 @@ data:
       uri: >-
         https://www.gsi.go.jp/sokuchikijun/hyoko2024rev.html (accessed
         2026-03-05)
+    - title: >-
+        Efficient Maintenance of the Japanese Geodetic Datum 2000 Using Crustal
+        Deformation Models – PatchJGD & Semi-Dynamic Datum
+      revisionDate: null
+      publicationDate: 2007-03
+      seriesIssueID: Vol. 54
+      seriesName: Bulletin of the Geographical Survey Institute
+      seriesPage: 49-59
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
+      author: >-
+        Y. Tanaka, H. Saita, J. Sugawara, K. Iwata, T. Toyoda, H. Hirai, T.
+        Kawaguchi, S. Matsuzaka, Y. Hatanaka, M. Tobita, Y. Kuroishi, T.
+        Imakiire
+      publisher: Geographical Survey Institute
+      uri: https://www.gsi.go.jp/common/000001213.pdf (accessed 2026-03-05)
   remarks: >-
     Transformation of JGD2024 ellipsoidal height at epoch 2011.395 (2011-05-24)
     to JGD2024 (vertical) orthometric height at epoch 2024.415 (2024-06-01)
