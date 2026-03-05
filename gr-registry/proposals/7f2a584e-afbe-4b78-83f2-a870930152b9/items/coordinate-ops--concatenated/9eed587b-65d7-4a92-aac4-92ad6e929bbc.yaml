@@ -1,0 +1,20 @@
+id: 9eed587b-65d7-4a92-aac4-92ad6e929bbc
+dateAccepted: 2026-03-05T16:29:34.413Z
+status: valid
+data:
+  name: Unnamed item
+  identifier: 0
+  informationSources: []
+  remarks: ''
+  aliases: []
+  operationVersion: ''
+  extent:
+    name: ''
+    'n': '0'
+    e: '0'
+    s: '0'
+    w: '0'
+  operations: []
+  accuracy:
+    value: ''
+    unitOfMeasurement: ''
