@@ -58,6 +58,24 @@ data:
         Imakiire
       publisher: Geographical Survey Institute
       uri: https://www.gsi.go.jp/common/000001213.pdf (accessed 2026-03-05)
+    - title: >-
+        Coordinate elevation correction software PatchJGD HV [Translated from
+        Japanese]
+      revisionDate: '2017-03-28'
+      publicationDate: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: Web page in Japanese.
+      isbn: null
+      issn: null
+      author: Geospatial Information Authority of Japan
+      publisher: Geospatial Information Authority of Japan
+      uri: >-
+        https://www.gsi.go.jp/sokuchikijun/sokuchikijun41010.html (accessed
+        2026-03-05)
   remarks: >-
     Transformation of JGD2024 ellipsoidal height at epoch 2011.395 (2011-05-24)
     to JGD2024 (vertical) orthometric height at epoch 2024.415 (2024-06-01)
