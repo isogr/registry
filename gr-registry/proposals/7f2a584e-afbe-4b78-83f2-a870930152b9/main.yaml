@@ -1,6 +1,6 @@
 id: 7f2a584e-afbe-4b78-83f2-a870930152b9
 timeStarted: 2026-03-05T16:12:31.105Z
-timeEdited: 2026-03-05T16:45:42.164Z
+timeEdited: 2026-03-05T16:58:53.720Z
 justification: >-
   JGD2024 aliases & concatenated operation. Submitted by M. Craymer, ISOGR CB
   Chair, on behalf of A. Yamagiwa, GSI.
@@ -16,5 +16,7 @@ items:
     type: clarification
   /coordinate-ops--concatenated/9eed587b-65d7-4a92-aac4-92ad6e929bbc.yaml:
     type: addition
+  /coordinate-ops--transformation/6a288611-8cbb-4ef1-ad1f-40624d8daa32.yaml:
+    type: clarification
 state: draft
 registerVersion: 8c0e98e1-93e3-47f2-b860-3c38b30b7982
