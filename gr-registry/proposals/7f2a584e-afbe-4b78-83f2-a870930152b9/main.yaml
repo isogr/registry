@@ -1,12 +1,14 @@
 id: 7f2a584e-afbe-4b78-83f2-a870930152b9
 timeStarted: 2026-03-05T16:12:31.105Z
-timeEdited: 2026-03-05T16:18:36.308Z
+timeEdited: 2026-03-05T16:22:33.004Z
 justification: >-
   JGD2024 aliases & concatenated operation. Submitted by M. Craymer, ISOGR CB
   Chair, on behalf of A. Yamagiwa, GSI.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /datums--geodetic/11842bba-82c2-49bc-83bf-0333aca2cb87.yaml:
+    type: clarification
+  /crs--geodetic/45ea902e-d7da-49a2-91f2-ca12467130c0.yaml:
     type: clarification
 state: draft
 registerVersion: 8c0e98e1-93e3-47f2-b860-3c38b30b7982
