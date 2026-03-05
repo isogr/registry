@@ -3,8 +3,8 @@ registerVersion: ''
 id: 8c0e98e1-93e3-47f2-b860-3c38b30b7982
 timeStarted: '2026-03-02T19:58:33.764Z'
 timeEdited: '2026-03-02T19:58:33.764Z'
-state: draft
-justification: imported from converter
+state: proposed
+justification: JGD2024 (vertical). Submitted by A. Yamagiwa, GSI.
 items:
   /extent/82c7e0be-6b13-4ae7-bb9b-0bd10cea53c2.yaml:
     type: addition
@@ -18,3 +18,20 @@ items:
     type: addition
   /coordinate-ops--transformation/6a288611-8cbb-4ef1-ad1f-40624d8daa32.yaml:
     type: addition
+timeProposed: 2026-03-05T15:33:06.557Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-03-05T15:33:06.557Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: JGD2024 (vertical). Submitted by A. Yamagiwa, GSI.
