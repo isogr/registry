@@ -79,17 +79,16 @@ data:
   remarks: >-
     Transformation of JGD2024 ellipsoidal height at epoch 2011.395 (2011-05-24)
     to JGD2024 (vertical) orthometric height at epoch 2024.415 (2024-06-01)
-    using using a concatenation of: (1) transformation from JGD2024 ellipsoidal
-    height at epoch 2011.395 (equivalent to JGD2011 ellipsoidal height) to
-    JGD2011 (vertical) orthometric height at epoch 2011.395 using
-    GSIGEO2011(Ver.2.2) geoid model (ISOGR:1324), and (2) transformation from
-    JDG2011 (vertical) orthometric heights at epoch 2011.395 to JDG2024
-    (vertical) orthometric heights at epoch 2024.415 using the PatchJGD HV
-    application/method from GSI (ISOGR:1325). This is the only transformation
-    from JGD2024 to JGD2024 (vertical) officially accepted by GSI under the
-    Japanese Survey Act. It is NOT recommended to transform from JGD2024 to
-    JGD2024 (vertical) using the "Geoid 2024 Japan and Surrounding Area" geoid
-    model.
+    using a concatenation of: (1) transformation from JGD2024 ellipsoidal height
+    at epoch 2011.395 (equivalent to JGD2011 ellipsoidal height) to JGD2011
+    (vertical) orthometric height at epoch 2011.395 using GSIGEO2011(Ver.2.2)
+    geoid model (ISOGR:1324), and (2) transformation from JGD2011 (vertical)
+    orthometric heights at epoch 2011.395 to JGD2024 (vertical) orthometric
+    heights at epoch 2024.415 using the PatchJGD HV application/method from GSI
+    (ISOGR:1325). This is the only transformation from JGD2024 to JGD2024
+    (vertical) officially accepted by GSI under the Japanese Survey Act. It is
+    NOT recommended to transform from JGD2024 to JGD2024 (vertical) using the
+    "Geoid 2024 Japan and Surrounding Area" geoid model.
   aliases:
     - JGD2011 to JGD2024 (vertical) [GSIv1]
   operationVersion: GSIv1
