@@ -46,7 +46,9 @@ data:
   scope:
     - Spatial referencing and oceangraphic applications
   sourceCRS: null
-  targetCRS: null
+  targetCRS:
+    classID: crs--vertical
+    itemID: 99fb37bc-9827-473a-9a24-31cbc817411c
   extentRef: 90ed5ded-11b8-4953-9126-614174a81b45
 dateAccepted: 2021-04-29T00:00:00.000Z
 id: b0addfd3-74a1-4e9b-bc3f-88bc06342531

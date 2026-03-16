@@ -148,7 +148,9 @@ data:
   scope:
     - Spatial referencing
   sourceCRS: null
-  targetCRS: null
+  targetCRS:
+    classID: crs--vertical
+    itemID: 5c14482b-375b-473f-b79d-c8fd47c53cc9
   extentRef: 3ab1754f-5016-42e9-8ec2-b3762f796e02
 dateAccepted: 2018-11-17T00:00:00.000Z
 id: 5d7ee0fb-ba4c-44eb-88d3-ca35c197fbb8

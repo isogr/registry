@@ -108,7 +108,9 @@ data:
   sourceCRS:
     classID: crs--geodetic
     itemID: 5442a330-ad3a-4274-acda-103fd953d958
-  targetCRS: null
+  targetCRS:
+    classID: crs--vertical
+    itemID: null
   extentRef: d6e78213-1fb4-41e3-b9f8-b0b35f462867
 dateAccepted: 2022-07-25T00:00:00.000Z
 id: a2cbe0f5-33ea-4ac6-92d6-c431a2d31173
