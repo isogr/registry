@@ -113,4 +113,4 @@ data:
   targetCRS:
     classID: crs--vertical
     itemID: 74215f83-00f0-49e1-8dd2-f0e7c75f98ca
-  scope: Spatial positioning
+  scope: Spatial referencing
