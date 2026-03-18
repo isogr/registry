@@ -42,7 +42,7 @@ jobs:
           git config --unset-all http.https://github.com/.extraheader
 
           #git remote add mirror git@github.com:isogr/registry-staging.git
-          git remote add mirror "https://$GITHUB_TOKEN@://github.com"
+          git remote add mirror "https://${GITHUB_TOKEN}@://github.com"
           git push -f mirror master:staging
         env:
           SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
