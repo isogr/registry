@@ -11,8 +11,6 @@ jobs:
     if: github.repository == 'isogr/registry'
     name: Reset repository
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # To push to staging mirror 
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -39,10 +37,9 @@ jobs:
 
           # See:
           # https://stackoverflow.com/questions/64374179/how-to-push-to-another-repository-in-github-actions
-          git config --unset-all http.https://github.com/.extraheader
+          #git config --unset-all http.https://github.com/.extraheader
 
-          #git remote add mirror git@github.com:isogr/registry-staging.git
-          git remote add mirror "https://${GITHUB_TOKEN}@://github.com"
+          git remote add mirror git@github.com:isogr/registry-staging.git
           git push -f mirror master:staging
         env:
           SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
