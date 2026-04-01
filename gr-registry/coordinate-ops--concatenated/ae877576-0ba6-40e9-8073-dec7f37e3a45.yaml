@@ -70,5 +70,6 @@ data:
   targetCRS:
     classID: crs--geodetic
     itemID: 5314e0ef-c24f-4f0a-8e0d-ce6b0a4bb261
+  scope: Spatial referencing
 status: valid
 dateAccepted: 2026-01-26T13:41:52.839Z
