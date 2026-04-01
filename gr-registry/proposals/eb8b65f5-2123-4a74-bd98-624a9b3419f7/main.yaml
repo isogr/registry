@@ -1,10 +1,27 @@
 id: eb8b65f5-2123-4a74-bd98-624a9b3419f7
 timeStarted: 2026-03-16T14:29:05.223Z
 timeEdited: 2026-03-16T14:30:20.718Z
-justification: Add scope to ITRF2014 to SWEREF 99
+justification: Added missing scope to ITRF2014 to SWEREF 99 transformation.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--concatenated/ae877576-0ba6-40e9-8073-dec7f37e3a45.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 8c0e98e1-93e3-47f2-b860-3c38b30b7982
+timeProposed: 2026-04-01T03:55:00.174Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-04-01T03:55:00.174Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: Added missing scope to ITRF2014 to SWEREF 99 transformation.
