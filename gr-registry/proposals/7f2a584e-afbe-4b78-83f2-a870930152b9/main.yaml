@@ -18,7 +18,7 @@ items:
     type: addition
   /coordinate-ops--transformation/6a288611-8cbb-4ef1-ad1f-40624d8daa32.yaml:
     type: clarification
-state: pending-control-body-review
+state: accepted
 registerVersion: 8c0e98e1-93e3-47f2-b860-3c38b30b7982
 timeProposed: 2026-04-01T03:58:16.794Z
 pastTransitions:
@@ -54,4 +54,23 @@ pastTransitions:
           value: paneron@craymer.com
     input:
       registerManagerNotes: Accepted for review by Control Body.
+  - label: Accept
+    timestamp: 2026-04-01T03:59:26.947Z
+    fromState: pending-control-body-review
+    toState: accepted
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      controlBodyNotes: .
+      controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2026-03-30.
 registerManagerNotes: Accepted for review by Control Body.
+controlBodyNotes: .
+controlBodyDecisionEvent: Approved by the Control Body at its meeting of 2026-03-30.
+timeDisposed: 2026-04-01T03:59:26.947Z

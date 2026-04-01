@@ -1,0 +1,116 @@
+id: 9eed587b-65d7-4a92-aac4-92ad6e929bbc
+data:
+  name: JGD2024 to JGD2024 (vertical) [GSIv1]
+  identifier: 1326
+  informationSources:
+    - title: >-
+        "Geodetic results 2000", "Geodetic results 2011" and "Geodetic results
+        2024" [Translated from Japanese]
+      revisionDate: '2025-04-01'
+      publicationDate: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: Web page in Japanese.
+      isbn: null
+      issn: null
+      author: Geospatial Information Authority of Japan
+      publisher: Geospatial Information Authority of Japan
+      uri: >-
+        https://www.gsi.go.jp/sokuchikijun/jgd2000-2011.html (accessed
+        2026-03-05)
+    - title: FY2025 Revision of national elevation results [Translated from Japanese]
+      revisionDate: '2025-08-21'
+      publicationDate: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: Web page in Japanese.
+      isbn: null
+      issn: null
+      author: Geospatial Information Authority of Japan
+      publisher: Geospatial Information Authority of Japan
+      uri: >-
+        https://www.gsi.go.jp/sokuchikijun/hyoko2024rev.html (accessed
+        2026-03-05)
+    - title: >-
+        Efficient Maintenance of the Japanese Geodetic Datum 2000 Using Crustal
+        Deformation Models – PatchJGD & Semi-Dynamic Datum
+      revisionDate: null
+      publicationDate: 2007-03
+      seriesIssueID: Vol. 54
+      seriesName: Bulletin of the Geographical Survey Institute
+      seriesPage: 49-59
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
+      author: >-
+        Y. Tanaka, H. Saita, J. Sugawara, K. Iwata, T. Toyoda, H. Hirai, T.
+        Kawaguchi, S. Matsuzaka, Y. Hatanaka, M. Tobita, Y. Kuroishi, T.
+        Imakiire
+      publisher: Geographical Survey Institute
+      uri: https://www.gsi.go.jp/common/000001213.pdf (accessed 2026-03-05)
+    - title: >-
+        Coordinate elevation correction software PatchJGD HV [Translated from
+        Japanese]
+      revisionDate: '2017-03-28'
+      publicationDate: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: Web page in Japanese.
+      isbn: null
+      issn: null
+      author: Geospatial Information Authority of Japan
+      publisher: Geospatial Information Authority of Japan
+      uri: >-
+        https://www.gsi.go.jp/sokuchikijun/sokuchikijun41010.html (accessed
+        2026-03-05)
+  remarks: >-
+    Transformation of JGD2024 ellipsoidal height at epoch 2011.395 (2011-05-24)
+    to JGD2024 (vertical) orthometric height at epoch 2024.415 (2024-06-01)
+    using a concatenation of: (1) transformation from JGD2024 ellipsoidal height
+    at epoch 2011.395 (equivalent to JGD2011 ellipsoidal height) to JGD2011
+    (vertical) orthometric height at epoch 2011.395 using GSIGEO2011(Ver.2.2)
+    geoid model (ISOGR:1324), and (2) transformation from JGD2011 (vertical)
+    orthometric heights at epoch 2011.395 to JGD2024 (vertical) orthometric
+    heights at epoch 2024.415 using the PatchJGD HV application/method from GSI
+    (ISOGR:1325). This is the only transformation from JGD2024 to JGD2024
+    (vertical) officially accepted by GSI under the Japanese Survey Act. It is
+    NOT recommended to transform from JGD2024 to JGD2024 (vertical) using the
+    "Geoid 2024 Japan and Surrounding Area" geoid model.
+  aliases:
+    - JGD2011 to JGD2024 (vertical) [GSIv1]
+  operationVersion: GSIv1
+  extent:
+    name: ''
+    'n': '0'
+    e: '0'
+    s: '0'
+    w: '0'
+  operations:
+    - classID: coordinate-ops--transformation
+      itemID: 675cf033-af1a-4e4f-9984-3d4ad0ebc54f
+    - classID: coordinate-ops--transformation
+      itemID: 6a288611-8cbb-4ef1-ad1f-40624d8daa32
+  accuracy:
+    value: '0.040'
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  extentRef: 82c7e0be-6b13-4ae7-bb9b-0bd10cea53c2
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 089b9fcb-ae97-49cf-a862-8c7e44f1f30c
+  targetCRS:
+    classID: crs--vertical
+    itemID: 74215f83-00f0-49e1-8dd2-f0e7c75f98ca
+  scope: Spatial referencing
+status: valid
+dateAccepted: 2026-04-01T03:59:27.125Z

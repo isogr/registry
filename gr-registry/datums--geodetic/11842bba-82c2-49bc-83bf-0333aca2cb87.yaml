@@ -7,6 +7,8 @@ data:
     w: 122.9
     name: Japan - onshore and offshore
   aliases:
+    - JGD2024
+    - Japanese Geodetic Datum 2011
     - JGD2011
   coordinateReferenceEpoch: '2011.395'
   definition: Japanese Geodetic Datum 2011
@@ -31,14 +33,38 @@ data:
         Revision of the Results of Control Points after the 2011 off the Pacific
         coast of Tohoku Earthquake
       uuid: b31a25e1-e32e-4b05-bee9-8ff7e96d4c44
-  name: Japanese Geodetic Datum 2011
+    - title: >-
+        "Geodetic results 2000", "Geodetic results 2011" and "Geodetic results
+        2024" [Translated from Japanese]
+      publicationDate: null
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: null
+      edition: null
+      editionDate: null
+      otherDetails: Web page in Japanese.
+      isbn: null
+      issn: null
+      author: Geospatial Information Authority of Japan
+      publisher: Geospatial Information Authority of Japan
+      revisionDate: '2025-04-01'
+      uri: >-
+        https://www.gsi.go.jp/sokuchikijun/jgd2000-2011.html (accessed
+        2026-03-02)
+  name: Japanese Geodetic Datum 2024
   originDescription: >-
     Equivalent to ITRF2008 at epoch 2011.395 (2011-05-24, 12:00 UTC) in Northern
     Honshu area. Fundamental point: Tokyo-Taisho, latitude: 35°39'29.1572"N,
     longitude: 139°44'28.8869"E (of Greenwich). Equivalent to JGD2000 elsewhere.
   primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
   releaseDate: '2011-10-21'
-  remarks: Replaces Japanese Geodetic Datum 2000 from 2011-10-21.
+  remarks: >-
+    JGD2011 replaces Japanese Geodetic Datum 2000 from 2011-10-21. JGD2024 is
+    identical to JGD2011 and the name replaces JGD2011 from 2025-04-01.
+    Coordinates can be propagated from observation epoch to the 2011.395
+    reference epoch for JGD2011 & JGD2024 using a patch grid model of coordinate
+    corrections as implemented in the SemiDynaEXE application from GSI. Grid
+    parameters are updated every year.
   scope: Spatial referencing
   extentRef: 16cd48cd-24fc-4981-a84b-016d4e20dd1c
 dateAccepted: 2018-11-17T00:00:00.000Z
