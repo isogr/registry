@@ -18,5 +18,24 @@ items:
     type: addition
   /coordinate-ops--transformation/6a288611-8cbb-4ef1-ad1f-40624d8daa32.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 8c0e98e1-93e3-47f2-b860-3c38b30b7982
+timeProposed: 2026-04-01T03:58:16.794Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-04-01T03:58:16.794Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        JGD2024 aliases & concatenated operation. Submitted by M. Craymer, ISOGR
+        CB Chair, on behalf of A. Yamagiwa, GSI.
