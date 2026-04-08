@@ -1,0 +1,564 @@
+= Citation Extraction Script Documentation
+:toc:
+:toclevels: 3
+
+== Purpose
+
+The [`extract_citations.rb`](../scripts/extract_citations.rb) script extracts and consolidates all bibliographic citations from the ISO/TC 211 Geodetic Registry into a centralized citation register. This is part of Phase 1 of the citation register implementation.
+
+== Overview
+
+The script performs the following operations:
+
+. Scans all YAML files in the registry (excluding proposals)
+. Extracts citations from three locations in each file:
+  * `data.informationSources[]` arrays
+  * `data.parameters[].fileCitation` objects
+  * `data.formulaCitation` objects
+. Groups citations by normalized title to detect duplicates
+. Identifies citation variants (same title, different metadata)
+. Tracks all references to each citation
+. Validates data integrity
+. Outputs consolidated data in both YAML and CSV formats
+
+== Architecture
+
+=== Class Structure
+
+[source]
+----
+CitationExtractor
+├── initialize(registry_path)
+├── extract_all()
+├── process_file(file)
+├── extract_from_data(data, source_file, item_identifier, item_class)
+├── add_citation(source_hash, source_file, item_identifier, item_class)
+├── add_formula_citation(source_hash, source_file, item_identifier, item_class)
+├── group_by_title()
+├── generate_ids()
+└── output_yaml(output_file) / output_csv(output_file)
+----
+
+=== Data Flow
+
+[source]
+----
+   YAML Files
+       │
+       ▼
+  process_file()
+       │
+       ├──► extract_from_data()
+       │        │
+       │        ├──► add_citation()
+       │        │       └──► validate_identifier!()
+       │        │
+       │        └──► add_formula_citation()
+       │                └──► validate_identifier!()
+       │
+       ▼
+  group_by_title()
+       │
+       ▼
+  generate_ids()
+       │
+       ▼
+  output_yaml() / output_csv()
+----
+
+== Usage
+
+=== Command Line
+
+[source,bash]
+----
+ruby scripts/extract_citations.rb [registry_path] [output_file] [csv_file]
+----
+
+Where:
+
+`registry_path`:: Path to gr-registry directory (default: `gr-registry`)
+`output_file`:: Output YAML file (default: `citations.yaml`)
+`csv_file`:: Output CSV file (default: `citations.csv`)
+
+=== Examples
+
+.Extract with default paths
+====
+[source,bash]
+----
+ruby scripts/extract_citations.rb
+----
+
+This creates:
+* `citations.yaml` - YAML format with all citations
+* `citations.csv` - CSV format with reference tracking
+====
+
+.Extract with custom paths
+====
+[source,bash]
+----
+ruby scripts/extract_citations.rb gr-registry output/citations.yaml output/citations.csv
+----
+====
+
+== Citation Extraction Process
+
+=== Step 1: File Discovery
+
+The script scans for all `*.yaml` files in the registry:
+
+[source,ruby]
+----
+all_files = Dir.glob(File.join(@registry_path, "**", "*.yaml"))
+yaml_files = all_files.reject { |f| f.include?("/proposals/") }
+----
+
+* Proposal files are excluded from processing
+* Each file is processed sequentially with progress indication
+
+=== Step 2: Citation Extraction
+
+For each YAML file, the script extracts citations from three locations:
+
+==== Information Sources
+
+Citations in `data.informationSources[]`:
+
+[source,yaml]
+----
+data:
+  informationSources:
+    - title: "EPSG Guidance Note 7-2"
+      author: "IOGP"
+      publisher: "IOGP"
+      editionDate: "2019-03"
+----
+
+==== File Citations
+
+Citations in parameter file references:
+
+[source,yaml]
+----
+data:
+  parameters:
+    - fileCitation:
+        title: "EPSG Dataset coordinate transformation code 1234"
+        publisher: "IOGP"
+----
+
+==== Formula Citations
+
+Citations in formula references:
+
+[source,yaml]
+----
+data:
+  formulaCitation:
+    title: "EPSG Guidance Note 7-2"
+    author: "IOGP"
+----
+
+=== Step 3: Validation
+
+The script validates all extracted data:
+
+==== Identifier Validation
+
+[source,ruby]
+----
+def validate_identifier!(identifier, source_file)
+  return if identifier.nil?
+  
+  id_num = identifier.to_i
+  return if id_num > 0
+  
+  raise "Invalid identifier #{identifier.inspect} in file #{source_file}. " \
+        "Identifiers must be positive integers."
+end
+----
+
+* All `data.identifier` values must be positive integers
+* Throws an error if invalid identifiers are found
+* Helps maintain data integrity
+
+=== Step 4: Grouping and Deduplication
+
+Citations are grouped by normalized title:
+
+[source,ruby]
+----
+def normalize_title(title)
+  title.to_s.strip.downcase.gsub(/[^\w\s]/, "").gsub(/\s+/, "_")
+end
+----
+
+Process:
+
+. Remove leading/trailing whitespace
+. Convert to lowercase
+. Remove punctuation
+. Replace multiple spaces with underscores
+
+Example:
+* "EPSG Guidance Note 7-2" → `epsg_guidance_note_7_2`
+
+=== Step 5: Variant Detection
+
+Citations with the same title but different metadata are detected:
+
+[source,ruby]
+----
+content_groups = group.group_by { |citation| citation }
+
+if content_groups.size > 1
+  @stats[:citations_with_variants] += 1
+  # Select most complete citation as main
+  main_citation = select_most_complete(group)
+end
+----
+
+The most complete citation (most non-nil fields) becomes the main entry.
+
+=== Step 6: ID Generation
+
+Each unique citation receives a deterministic ID:
+
+[source,ruby]
+----
+def generate_citation_id(title_key)
+  base_id = title_key.gsub(/[^a-z0-9_]/, "")[0..50]
+  "citation-#{base_id}"
+end
+----
+
+Example:
+* `epsg_guidance_note_7_2` → `citation-epsg_guidance_note_7_2`
+
+== Output Formats
+
+=== YAML Output
+
+Structure:
+
+[source,yaml]
+----
+citations:
+  - id: citation-epsg_guidance_note_7_2
+    title: "EPSG Guidance Note 7-2"
+    author: "IOGP"
+    publisher: "IOGP"
+    editionDate: "2019-03"
+    # ... other fields
+  - id: citation-another_work
+    # ...
+----
+
+* Contains all unique citations
+* Sorted by ID for consistency
+* Only includes non-nil fields
+
+=== CSV Output
+
+The CSV format includes 36 columns providing complete traceability:
+
+.CSV Column Structure
+[cols="1,2,3"]
+|===
+|Columns |Name |Description
+
+|1-15
+|Basic Fields
+|id, title, author, publisher, edition, editionDate, revisionDate, seriesName, seriesIssueID, seriesPage, isbn, issn, otherDetails, uuid, variants
+
+|16-34
+|`referenced_by_{class}`
+|One column per item class (19 classes total), containing comma-separated list of item identifiers that reference this citation
+
+|35
+|`referenced_by_formula_item`
+|Formula references in format: `{class}: {identifier}; ...`
+
+|36
+|`referenced_as_uuid`
+|All UUIDs found for this citation across all references
+|===
+
+==== CSV Column Details
+
+===== Columns 1-15: Basic Citation Fields
+
+[source,csv]
+----
+id,title,author,publisher,edition,editionDate,revisionDate,seriesName,seriesIssueID,seriesPage,isbn,issn,otherDetails,uuid,variants
+1,EPSG Guidance Note 7-2,IOGP,IOGP,,2019-03,,,,,,,,,
+----
+
+===== Columns 16-34: Referenced By Item Classes
+
+Each column contains identifiers of items that reference this citation:
+
+[source,csv]
+----
+referenced_by_coordinate-ops--conversion,referenced_by_coordinate-ops--transformation,...
+"123, 456, 789","234, 567",...
+----
+
+Item classes found:
+* `coordinate-ops--conversion`
+* `coordinate-ops--transformation`
+* `coordinate-op-method`
+* `coordinate-ref-system`
+* `coordinate-sys`
+* `datums--engineering`
+* `datums--geodetic`
+* `datums--vertical`
+* `ellipsoid`
+* `extent`
+* `naming-system`
+* `prime-meridian`
+* `unit-of-measurement`
+* And 6 more classes
+
+===== Column 35: Formula References
+
+Special format for formula citations:
+
+[source,csv]
+----
+referenced_by_formula_item
+"coordinate-op-method: 9601; coordinate-op-method: 9602"
+----
+
+Format: `{class}: {identifier}; {class}: {identifier}; ...`
+
+===== Column 36: Referenced As UUID
+
+All unique UUIDs found for this citation:
+
+[source,csv]
+----
+referenced_as_uuid
+"550d5e1e-a5f6-4d19-9d65-86e6b5c6e5fb, 6a234c89-1234-5678-90ab-cdef12345678"
+----
+
+* Comma-separated list
+* Sorted for consistency
+* Includes all UUIDs from all occurrences
+
+== Reference Tracking
+
+The script tracks comprehensive reference information:
+
+=== Citation References
+
+For each unique citation, tracks:
+
+* Item identifier (`data.identifier`)
+* Item class (from file path)
+* Reference type (informationSources, fileCitation, or formulaCitation)
+
+Example tracking:
+
+[source,ruby]
+----
+@citation_references[title_key] << {
+  identifier: 1234,
+  class: "coordinate-ops--conversion"
+}
+----
+
+=== UUID Tracking
+
+All UUIDs found in citation instances are tracked:
+
+[source,ruby]
+----
+@citation_uuids[title_key] << citation.uuid
+----
+
+This enables:
+* Tracing back to original data
+* Finding all variants of a citation
+* Mapping from UUID to future citation item identifier
+
+== Statistics Output
+
+The script outputs detailed statistics:
+
+[source]
+----
+============================================================
+📊 EXTRACTION STATISTICS
+============================================================
+Files processed:           1301
+Total citations found:     2847
+Formula citations found:   42
+Unique titles:             256
+Citations with variants:   18
+Item classes found:        19
+============================================================
+----
+
+Where:
+
+`Files processed`:: Total YAML files scanned
+`Total citations found`:: All citation instances (including duplicates)
+`Formula citations found`:: Citations in `formulaCitation` fields
+`Unique titles`:: Distinct citations after deduplication
+`Citations with variants`:: Citations with multiple metadata versions
+`Item classes found`:: Number of unique register item classes
+
+== Error Handling
+
+=== YAML Loading Errors
+
+The script handles YAML parsing errors gracefully:
+
+[source,ruby]
+----
+begin
+  data = YAML.safe_load(content, permitted_classes: [], aliases: true)
+rescue StandardError
+  begin
+    data = YAML.unsafe_load(content)
+  rescue StandardError => e
+    return  # Skip unparseable files
+  end
+end
+----
+
+* Tries safe_load first
+* Falls back to unsafe_load if needed
+* Skips files that cannot be loaded
+
+=== Validation Errors
+
+Identifier validation throws clear errors:
+
+[source]
+----
+Invalid identifier -1 in file gr-registry/example/abc-123.yaml.
+Identifiers must be positive integers.
+----
+
+This ensures data quality before proceeding with updates.
+
+== Dependencies
+
+The script requires:
+
+* Ruby 2.7 or higher
+* lutaml-model gem
+* Standard library: yaml, fileutils, securerandom, csv, set
+
+Citation model:
+
+[source,ruby]
+----
+require_relative "citation"
+----
+
+The [`Citation`](../scripts/citation.rb) class uses `Lutaml::Model::Serializable` for proper object-oriented modeling.
+
+== Integration with Citation Pipeline
+
+This script is Phase 1 of the citation register implementation:
+
+.Citation Implementation Pipeline
+[source]
+----
+Phase 1: Citation Extraction (This Script)
+    ├── Extract all citations
+    ├── Deduplicate by title
+    ├── Detect variants
+    ├── Track references
+    └── Output YAML + CSV
+         │
+         ▼
+Phase 2: Citation Register Creation
+    ├── Find max identifier
+    ├── Assign sequential IDs
+    ├── Create citation items
+    └── Update CSV with IDs
+         │
+         ▼
+Phase 3: Schema Updates
+    ├── Update all schemas
+    └── Change citations to integer refs
+         │
+         ▼
+Phase 4: Register Item Updates
+    ├── Replace inline citations
+    └── Use citation identifiers
+         │
+         ▼
+Phase 5: Validation
+    ├── Verify all references
+    └── Check no inline citations remain
+----
+
+== Next Steps
+
+After running this script:
+
+. Review `citations.csv` for data quality
+. Check statistics for reasonableness
+. Verify no validation errors occurred
+. Proceed to Phase 2: Citation Register Creation
+
+See [`docs/citations-continuation-prompt.md`](citations-continuation-prompt.md) for the complete implementation plan.
+
+== Troubleshooting
+
+=== Common Issues
+
+==== No citations found
+
+Check:
+* Registry path is correct
+* YAML files exist in subdirectories
+* Files are not all in `/proposals/`
+
+==== Validation errors
+
+Fix invalid identifiers in source YAML files:
+* Must be positive integers
+* Cannot be negative or zero
+* Cannot be non-numeric strings
+
+==== Memory issues
+
+For very large registries:
+* Process files in batches
+* Use streaming CSV output
+* Increase Ruby memory limit
+
+=== Debug Mode
+
+To debug extraction issues, add verbose output:
+
+[source,ruby]
+----
+def add_citation(source_hash, source_file, item_identifier, item_class)
+  puts "DEBUG: Extracting from #{source_file}"
+  puts "  Title: #{source_hash['title']}"
+  puts "  Item: #{item_class} ##{item_identifier}"
+  # ... rest of method
+end
+----
+
+== Performance
+
+Typical performance:
+
+* 1,301 files: ~10-15 seconds
+* Memory usage: ~100-200 MB
+* Output files: ~500 KB total
+
+For larger registries, consider:
+* Parallel file processing
+* Streaming CSV writing
+* Database backend for large datasets
