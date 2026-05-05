@@ -3,7 +3,7 @@ registerVersion: ''
 id: 7a496792-3640-44fc-bf9d-25b415f3d0c7
 timeStarted: '2026-05-05T16:51:25.306Z'
 timeEdited: '2026-05-05T16:51:25.306Z'
-state: proposed
+state: pending-control-body-review
 justification: >-
   Uganda datums, CRSs & transformations. Submitted by Edinah Ahebwa, Surveys and
   Mapping Department, Uganda Ministry of Lands, Housing and Urban Development.
@@ -88,3 +88,19 @@ pastTransitions:
         Uganda datums, CRSs & transformations. Submitted by Edinah Ahebwa,
         Surveys and Mapping Department, Uganda Ministry of Lands, Housing and
         Urban Development.
+  - label: Submit for control body review
+    timestamp: 2026-05-05T17:06:38.511Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      registerManagerNotes: Accepted for Control Body review.
+registerManagerNotes: Accepted for Control Body review.
