@@ -1,0 +1,78 @@
+id: a6f04093-3445-4095-84bb-55b15a975883
+data:
+  identifier: -28
+  name: ITRF2005 to UGRF [SMDv1]
+  aliases: []
+  informationSources:
+    - title: Surveys and Mapping Department, National Geodetic Portal
+      publicationDate: ''
+      revisionDate: '2026'
+      edition: ''
+      author: Surveys and Mapping Department
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Website
+      uri: http://ugrf.mlhud.go.ug (accessed 2026-03-06)
+      publisher: >-
+        Surveys and Mapping Department, Ministry of Lands, Housing and Urban
+        Development
+  remarks: >-
+    UGRF is aligned to ITRF2005 at epoch 2010.0 by a null 7 parameter Helmert
+    transformation with an accuracy of about 5 cm.
+  operationVersion: SMDv1
+  coordOperationMethod: 73712d62-d78a-4d32-a44c-9ef8cf8daa1c
+  scope: Spatial referencing
+  accuracy:
+    value: 0.05
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 01a8ad27-2f0d-40a0-9c4e-1798364274f9
+  targetCRS:
+    classID: crs--geodetic
+    itemID: bd980d6c-db3f-4f67-a6ab-7fa5f6848149
+  extentRef: 86b46805-9060-4db6-a038-235b74563a8b
+  parameters:
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+      unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '2010'
+      parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
+      unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+dateAccepted: '2026-05-05T16:51:25.307Z'
+status: valid

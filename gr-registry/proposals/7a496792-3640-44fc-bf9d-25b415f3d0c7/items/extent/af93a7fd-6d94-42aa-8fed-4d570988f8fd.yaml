@@ -1,0 +1,15 @@
+id: af93a7fd-6d94-42aa-8fed-4d570988f8fd
+data:
+  identifier: -4
+  name: Uganda - S of 0 & E of 30°E
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: Uganda - south of equator and east of 30°E.
+    s: '-1.45'
+    w: '30'
+    'n': '0'
+    e: '33.98'
+dateAccepted: '2026-05-05T16:51:25.307Z'
+status: valid

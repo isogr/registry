@@ -1,0 +1,90 @@
+id: 3b5aeeff-5422-4eca-bf77-5d162255ac32
+data:
+  identifier: -30
+  name: Arc60 to UGRF
+  aliases: []
+  informationSources:
+    - title: Surveys and Mapping Department, National Geodetic Portal
+      publicationDate: ''
+      revisionDate: '2026'
+      edition: ''
+      author: Surveys and Mapping Department
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Website
+      uri: http://ugrf.mlhud.go.ug (accessed 2026-03-06)
+      publisher: >-
+        Surveys and Mapping Department, Ministry of Lands, Housing and Urban
+        Development
+    - title: Geodetic Documentation for Circe Uganda
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Documentation iIncluded with Circe Uganda software v5.4.6 installer.
+      uri: >-
+        http://ugrf.mlhud.go.ug/static/download/Install_circe_V546_UGN.zip
+        (accessed 2026-03-06)
+      publisher: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+  remarks: >-
+    Derived in 2019 using 18 points. The accuracy of the transformation is about
+    50 cm to 1 meter based on the RMS of the residuals.
+  operationVersion: SMDv1
+  coordOperationMethod: aa700d78-ab97-4db8-bc11-e57abeab471a
+  scope: Spatial referencing
+  accuracy:
+    value: 1
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: afb60dce-6080-4a71-b5b8-e4ca33801513
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 2548ccef-9ad2-47a5-a025-ab169edab33e
+  extentRef: 86b46805-9060-4db6-a038-235b74563a8b
+  parameters:
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-136.7231'
+      parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-87.8654'
+      parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '20.1215'
+      parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '4.966933'
+      parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+      unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-9.01001'
+      parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+      unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-2.72486'
+      parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+      unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '7.86009'
+      parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+      unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
+dateAccepted: '2026-05-05T16:51:25.307Z'
+status: valid

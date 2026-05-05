@@ -1,0 +1,68 @@
+submittingStakeholderGitServerUsername: maccraymer
+registerVersion: ''
+id: 7a496792-3640-44fc-bf9d-25b415f3d0c7
+timeStarted: '2026-05-05T16:51:25.306Z'
+timeEdited: '2026-05-05T16:51:25.306Z'
+state: draft
+justification: imported from converter
+items:
+  /extent/86b46805-9060-4db6-a038-235b74563a8b.yaml:
+    type: addition
+  /extent/14456219-c36b-4d46-b92c-c5fd0557ac4e.yaml:
+    type: addition
+  /extent/b01225a1-9fe3-4932-9f5c-596c0f389c76.yaml:
+    type: addition
+  /extent/af93a7fd-6d94-42aa-8fed-4d570988f8fd.yaml:
+    type: addition
+  /extent/f1cc1ae0-3a36-4b07-b983-9ab1b4fc3c27.yaml:
+    type: addition
+  /extent/04a6fcd7-e571-48a3-ac21-cc15bf4695cd.yaml:
+    type: addition
+  /extent/814ce700-f51f-414b-8352-ae052b9bcbc0.yaml:
+    type: addition
+  /extent/308f461a-4e91-4422-9baf-6d738ae02fd5.yaml:
+    type: addition
+  /extent/33a37628-18bc-4a62-9fb1-f5d6ace26038.yaml:
+    type: addition
+  /ellipsoid/fa0e6d36-3cd5-4ad2-a914-d2951597fb0f.yaml:
+    type: addition
+  /coordinate-op-method/73712d62-d78a-4d32-a44c-9ef8cf8daa1c.yaml:
+    type: addition
+  /coordinate-op-method/f3bf6fb6-fa22-4332-ac82-5022fe364286.yaml:
+    type: addition
+  /coordinate-op-method/aa700d78-ab97-4db8-bc11-e57abeab471a.yaml:
+    type: addition
+  /datums--geodetic/9c73c355-9653-40e7-96d3-d78af53558bf.yaml:
+    type: addition
+  /datums--geodetic/cb6f9c6a-2c75-4bbe-83df-96824f9ed28a.yaml:
+    type: addition
+  /crs--geodetic/bd980d6c-db3f-4f67-a6ab-7fa5f6848149.yaml:
+    type: addition
+  /crs--geodetic/1ed88b78-48bf-4a7e-8811-1ada3c90e4f8.yaml:
+    type: addition
+  /crs--geodetic/2548ccef-9ad2-47a5-a025-ab169edab33e.yaml:
+    type: addition
+  /crs--projected/bda1e677-7cf8-4444-a679-7f60108de623.yaml:
+    type: addition
+  /crs--projected/0d979330-9bf9-4982-8ef7-19b0fdc1caee.yaml:
+    type: addition
+  /crs--projected/448e301d-b793-4ca2-84ba-eda960b9ce5d.yaml:
+    type: addition
+  /crs--projected/673c6275-28a7-4d3a-a69d-d9a125520e48.yaml:
+    type: addition
+  /crs--geodetic/afb60dce-6080-4a71-b5b8-e4ca33801513.yaml:
+    type: addition
+  /crs--projected/a578a7c9-dd6d-4bab-84b2-95ecc5d0bb36.yaml:
+    type: addition
+  /crs--projected/315785fa-3680-46ac-a9e1-581e99286c5f.yaml:
+    type: addition
+  /crs--projected/7d74bf02-0516-4534-baf3-620f9b3506f0.yaml:
+    type: addition
+  /crs--projected/552f5aab-7768-413b-bca0-268cbd129200.yaml:
+    type: addition
+  /coordinate-ops--transformation/a6f04093-3445-4095-84bb-55b15a975883.yaml:
+    type: addition
+  /coordinate-ops--transformation/6e5191d1-fa1d-498b-8cb8-353ac3d7b058.yaml:
+    type: addition
+  /coordinate-ops--transformation/3b5aeeff-5422-4eca-bf77-5d162255ac32.yaml:
+    type: addition
