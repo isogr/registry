@@ -1,0 +1,48 @@
+id: afb60dce-6080-4a71-b5b8-e4ca33801513
+data:
+  identifier: -23
+  name: Arc60 - LatLon
+  aliases:
+    - Arc 1960
+  informationSources:
+    - title: Surveys and Mapping Department, National Geodetic Portal
+      publicationDate: ''
+      revisionDate: '2026'
+      edition: ''
+      author: Surveys and Mapping Department
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Website
+      uri: http://ugrf.mlhud.go.ug (accessed 2026-03-06)
+      publisher: >-
+        Surveys and Mapping Department, Ministry of Lands, Housing and Urban
+        Development
+    - title: Geodetic Documentation for Circe Uganda
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Documentation iIncluded with Circe Uganda software v5.4.6 installer.
+      uri: >-
+        http://ugrf.mlhud.go.ug/static/download/Install_circe_V546_UGN.zip
+        (accessed 2026-03-06)
+      publisher: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+  remarks: ''
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  baseCRS: null
+  operation: null
+  extentRef: 04a6fcd7-e571-48a3-ac21-cc15bf4695cd
+  datum: cb6f9c6a-2c75-4bbe-83df-96824f9ed28a
+dateAccepted: '2026-05-05T16:51:25.307Z'
+status: valid

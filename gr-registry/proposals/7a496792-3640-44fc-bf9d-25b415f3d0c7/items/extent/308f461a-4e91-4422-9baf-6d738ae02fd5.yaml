@@ -1,0 +1,17 @@
+id: 308f461a-4e91-4422-9baf-6d738ae02fd5
+data:
+  identifier: -8
+  name: Africa - Kenya & Uganda - N of 0 & 30°E to 36°E
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: >-
+      Africa - Kenya north of equator and west of 36°E, Uganda north of equator
+      and east of 30°E.
+    s: '0'
+    w: '30'
+    'n': '4.63'
+    e: '36'
+dateAccepted: '2026-05-05T16:51:25.307Z'
+status: valid
