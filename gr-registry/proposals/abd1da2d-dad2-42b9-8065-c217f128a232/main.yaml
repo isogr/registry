@@ -3,7 +3,7 @@ registerVersion: ''
 id: abd1da2d-dad2-42b9-8065-c217f128a232
 timeStarted: '2026-05-06T02:35:51.793Z'
 timeEdited: '2026-05-06T02:35:51.793Z'
-state: proposed
+state: pending-control-body-review
 justification: >-
   SIRGAS-Chile datums, CRSs & transformations. Submitted by Sergio Rozas &
   Ignacio Parada, Instituto Geografico Militar (IGM), Chile.
@@ -85,3 +85,19 @@ pastTransitions:
       justification: >-
         SIRGAS-Chile datums, CRSs & transformations. Submitted by Sergio Rozas &
         Ignacio Parada, Instituto Geografico Militar (IGM), Chile.
+  - label: Submit for control body review
+    timestamp: 2026-05-06T02:40:45.541Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      registerManagerNotes: Accepted for Control Body review.
+registerManagerNotes: Accepted for Control Body review.
