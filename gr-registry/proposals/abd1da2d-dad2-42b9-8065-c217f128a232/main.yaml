@@ -3,8 +3,10 @@ registerVersion: ''
 id: abd1da2d-dad2-42b9-8065-c217f128a232
 timeStarted: '2026-05-06T02:35:51.793Z'
 timeEdited: '2026-05-06T02:35:51.793Z'
-state: draft
-justification: imported from converter
+state: proposed
+justification: >-
+  SIRGAS-Chile datums, CRSs & transformations. Submitted by Sergio Rozas &
+  Ignacio Parada, Instituto Geografico Militar (IGM), Chile.
 items:
   /extent/d0785038-97b1-4c36-af37-bb30670cb25a.yaml:
     type: addition
@@ -64,3 +66,22 @@ items:
     type: addition
   /coordinate-ops--transformation/cfc831d6-1f79-4d2e-9342-f4be2c733d87.yaml:
     type: addition
+timeProposed: 2026-05-06T02:40:01.344Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-05-06T02:40:01.344Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        SIRGAS-Chile datums, CRSs & transformations. Submitted by Sergio Rozas &
+        Ignacio Parada, Instituto Geografico Militar (IGM), Chile.
