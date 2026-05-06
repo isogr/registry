@@ -1,0 +1,17 @@
+id: 33a37628-18bc-4a62-9fb1-f5d6ace26038
+data:
+  identifier: 1335
+  name: Africa - Kenya, Tanzania & Uganda - S of 0 & 30°E to 36°E
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: >-
+      Africa - Kenya south of equator and west of 36°E, Tanzania 30°E to 36°E,
+      Uganda south of equator and east of 30°E.
+    s: '-11.61'
+    w: '30'
+    'n': '0'
+    e: '36'
+status: valid
+dateAccepted: 2026-05-06T01:35:42.259Z

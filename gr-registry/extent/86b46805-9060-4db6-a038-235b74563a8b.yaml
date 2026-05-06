@@ -1,0 +1,15 @@
+id: 86b46805-9060-4db6-a038-235b74563a8b
+data:
+  identifier: 1327
+  name: Uganda
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: Uganda.
+    s: '-1.48'
+    w: '29.57'
+    'n': '4.23'
+    e: '35.01'
+status: valid
+dateAccepted: 2026-05-06T01:35:42.258Z

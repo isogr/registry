@@ -1,0 +1,49 @@
+id: cb6f9c6a-2c75-4bbe-83df-96824f9ed28a
+data:
+  identifier: 1341
+  name: Arc 1960
+  aliases:
+    - Arc60
+  informationSources:
+    - title: Surveys and Mapping Department, National Geodetic Portal
+      publicationDate: ''
+      revisionDate: '2026'
+      edition: ''
+      author: Surveys and Mapping Department
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Website
+      uri: http://ugrf.mlhud.go.ug (accessed 2026-03-06)
+      publisher: >-
+        Surveys and Mapping Department, Ministry of Lands, Housing and Urban
+        Development
+    - title: Geodetic Documentation for Circe Uganda
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Documentation iIncluded with Circe Uganda software v5.4.6 installer.
+      uri: >-
+        http://ugrf.mlhud.go.ug/static/download/Install_circe_V546_UGN.zip
+        (accessed 2026-03-06)
+      publisher: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+  remarks: Replaced by the UGRF datum in Uganda.
+  scope: Spatial referencing
+  originDescription: >-
+    Horizontal datum with fundamental point at Buffelsfontein (latitude:
+    33°59'32.000"S, longitude: 25°30'44.622"E of Greenwich).
+  releaseDate: '1960'
+  extentRef: 04a6fcd7-e571-48a3-ac21-cc15bf4695cd
+  coordinateReferenceEpoch: null
+  ellipsoid: fa0e6d36-3cd5-4ad2-a914-d2951597fb0f
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+status: valid
+dateAccepted: 2026-05-06T01:35:42.259Z

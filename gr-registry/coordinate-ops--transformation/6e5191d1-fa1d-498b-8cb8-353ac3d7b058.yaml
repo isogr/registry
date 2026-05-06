@@ -1,0 +1,132 @@
+id: 6e5191d1-fa1d-498b-8cb8-353ac3d7b058
+data:
+  identifier: 1355
+  name: ITRF2020 to UGRF [SMDv1]
+  aliases: []
+  informationSources:
+    - title: Surveys and Mapping Department, National Geodetic Portal
+      publicationDate: ''
+      revisionDate: '2026'
+      edition: ''
+      author: Surveys and Mapping Department
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Website
+      uri: http://ugrf.mlhud.go.ug (accessed 2026-03-06)
+      publisher: >-
+        Surveys and Mapping Department, Ministry of Lands, Housing and Urban
+        Development
+    - title: Geodetic Documentation for Circe Uganda
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Documentation iIncluded with Circe Uganda software v5.4.6 installer.
+      uri: >-
+        http://ugrf.mlhud.go.ug/static/download/Install_circe_V546_UGN.zip
+        (accessed 2026-03-06)
+      publisher: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+  remarks: >-
+    The transformation parameters are defined in Uganda’s Circe software. The
+    transformation parameters incorporate the propagatation of source ITRF2020
+    coordinates to UGRF epoch 2010.0. For further information, see documentation
+    included with the Circe software, available from Uganda's SMD website.
+  operationVersion: SMDv1
+  coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
+  scope: Spatial referencing
+  accuracy:
+    value: 0.03
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 933eb6a1-b1b2-4028-8ea0-eaf0785e5cdc
+  targetCRS:
+    classID: crs--geodetic
+    itemID: bd980d6c-db3f-4f67-a6ab-7fa5f6848149
+  extentRef: 86b46805-9060-4db6-a038-235b74563a8b
+  parameters:
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0.2417'
+      parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.3733'
+      parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.0785'
+      parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.012898'
+      parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+      unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.010814'
+      parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+      unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0.015363'
+      parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+      unitOfMeasurement: 0d7b9dd5-e8b7-4662-a416-8af59e996c51
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0.0015'
+      parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+      unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.00067'
+      parameter: 89e37670-d103-4c57-94f5-fca410189132
+      unitOfMeasurement: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.00025'
+      parameter: 76fd4ed1-3f83-47dc-839f-3ecf111c2636
+      unitOfMeasurement: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.00084'
+      parameter: 42c379ed-303e-4a5f-87f2-04c95d2f4b63
+      unitOfMeasurement: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0.000081'
+      parameter: c127d884-6f2f-4491-99ab-1c918bd2c954
+      unitOfMeasurement: 01ac3dcd-0cbb-4a3e-aaf0-d450d7ba4e02
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0.000719'
+      parameter: a9e25756-e699-420d-a9be-d0f83f7115d9
+      unitOfMeasurement: 01ac3dcd-0cbb-4a3e-aaf0-d450d7ba4e02
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.000864'
+      parameter: 88228e9d-3b44-41ff-8ca7-a73a8acdc881
+      unitOfMeasurement: 01ac3dcd-0cbb-4a3e-aaf0-d450d7ba4e02
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '-0.00003'
+      parameter: 884b428c-57f0-4c0b-a054-4a49ca76ee06
+      unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '2010'
+      parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
+      unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+status: valid
+dateAccepted: 2026-05-06T01:35:42.259Z

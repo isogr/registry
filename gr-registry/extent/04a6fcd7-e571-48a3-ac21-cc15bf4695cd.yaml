@@ -1,0 +1,15 @@
+id: 04a6fcd7-e571-48a3-ac21-cc15bf4695cd
+data:
+  identifier: 1332
+  name: Africa - Burundi, Kenya, Rwanda, Tanzania & Uganda
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: Africa - Burundi, Kenya, Rwanda, Tanzania and Uganda.
+    s: '-11.75'
+    w: '28.85'
+    'n': '4.63'
+    e: '41.91'
+status: valid
+dateAccepted: 2026-05-06T01:35:42.258Z

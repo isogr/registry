@@ -1,0 +1,51 @@
+id: a578a7c9-dd6d-4bab-84b2-95ecc5d0bb36
+data:
+  identifier: 1350
+  name: Arc60 / UTM zone 35N
+  aliases:
+    - Arc 1960
+  informationSources:
+    - title: Surveys and Mapping Department, National Geodetic Portal
+      publicationDate: ''
+      revisionDate: '2026'
+      edition: ''
+      author: Surveys and Mapping Department
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Website
+      uri: http://ugrf.mlhud.go.ug (accessed 2026-03-06)
+      publisher: >-
+        Surveys and Mapping Department, Ministry of Lands, Housing and Urban
+        Development
+    - title: Geodetic Documentation for Circe Uganda
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Documentation iIncluded with Circe Uganda software v5.4.6 installer.
+      uri: >-
+        http://ugrf.mlhud.go.ug/static/download/Install_circe_V546_UGN.zip
+        (accessed 2026-03-06)
+      publisher: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+  remarks: ''
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: 618628cb-4ec1-4da9-aad0-e902078e0778
+  baseCRS:
+    classID: crs--geodetic
+    itemID: afb60dce-6080-4a71-b5b8-e4ca33801513
+  operation:
+    classID: coordinate-ops--conversion
+    itemID: d1e5743a-3ed5-4850-bfbd-4e9a6f7477a7
+  extentRef: b01225a1-9fe3-4932-9f5c-596c0f389c76
+status: valid
+dateAccepted: 2026-05-06T01:35:42.259Z

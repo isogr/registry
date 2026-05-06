@@ -1,0 +1,74 @@
+id: 1ed88b78-48bf-4a7e-8811-1ada3c90e4f8
+data:
+  identifier: 1343
+  name: UGRF - LatLonEht
+  aliases:
+    - Uganda Geodetic Reference Frame
+  informationSources:
+    - title: Surveys and Mapping Department, National Geodetic Portal
+      publicationDate: ''
+      revisionDate: '2026'
+      edition: ''
+      author: Surveys and Mapping Department
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Website
+      uri: http://ugrf.mlhud.go.ug (accessed 2026-03-06)
+      publisher: >-
+        Surveys and Mapping Department, Ministry of Lands, Housing and Urban
+        Development
+    - title: Geodesy Report Zero Order Network
+      publicationDate: ''
+      revisionDate: '2011'
+      edition: ''
+      author: Surveys and Mapping Department
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: >-
+        Surveys and Mapping Department, Ministry of Lands, Housing and Urban
+        Development
+    - title: UGRF2_Observations and Computations of CORS network.
+      publicationDate: ''
+      revisionDate: '2024'
+      edition: ''
+      author: Surveys and Mapping Department
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: >-
+        Surveys and Mapping Department, Ministry of Lands, Housing and Urban
+        Development
+    - title: Geodetic Documentation for Circe Uganda
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Documentation iIncluded with Circe Uganda software v5.4.6 installer.
+      uri: >-
+        http://ugrf.mlhud.go.ug/static/download/Install_circe_V546_UGN.zip
+        (accessed 2026-03-06)
+      publisher: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+  remarks: ''
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: c3c232d6-8e8b-4574-b6a8-85915d532cd5
+  baseCRS: null
+  operation: null
+  extentRef: 86b46805-9060-4db6-a038-235b74563a8b
+  datum: 9c73c355-9653-40e7-96d3-d78af53558bf
+status: valid
+dateAccepted: 2026-05-06T01:35:42.259Z

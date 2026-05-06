@@ -1,0 +1,15 @@
+id: b01225a1-9fe3-4932-9f5c-596c0f389c76
+data:
+  identifier: 1329
+  name: Uganda - N of 0 & W of 30°E
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: Uganda - north of equator and west of 30°E.
+    s: '0'
+    w: '29.71'
+    'n': '0.86'
+    e: '30'
+status: valid
+dateAccepted: 2026-05-06T01:35:42.258Z

@@ -1,0 +1,40 @@
+id: f3bf6fb6-fa22-4332-ac82-5022fe364286
+data:
+  identifier: 1338
+  name: Time-Specific Coordinate Frame Transformation (geocentric Cartesian domain)
+  aliases:
+    - EPSG:1066
+  informationSources: []
+  remarks: >-
+    The time-specific ooordinate transformation is an alternative method to the
+    time-dependent coordinate transformation. In this method, the 7-parameter
+    transformation and its parameters are valid for only a specified reference
+    epoch (provided as an additional parameter) and the source coordinates are
+    assumed to be at this epoch prior to transformation. Note the analogy with
+    the Time-Specific Position Vector Transformation but beware of the
+    differences!  The Position Vector Transformation convention is used by IAG.
+  parameters:
+    - f2b42193-1669-4320-a2b0-c1ecf71520cb
+    - c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+    - 49198a70-aaa8-4e12-9014-efb789f5a004
+    - e5c3331d-b1a1-47a7-b7aa-560e3c110928
+    - ce8ddaf4-68b2-43d1-baa9-88656ee12322
+    - 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+    - d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+    - ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
+  formulaCitation:
+    title: >-
+      EPSG Guidance Note 7-2: Coordinate conversions and transformations
+      including formulas
+    publicationDate: ''
+    revisionDate: 2025-11
+    edition: ''
+    author: International Association of Oil and Gas Producers (IOGP)
+    seriesName: IOGP Report
+    seriesIssueID: 373-07-2
+    seriesPage: ''
+    otherDetails: ''
+    uri: https://epsg.org/guidance-notes.html (accessed 2026-03-31)
+    publisher: International Association of Oil and Gas Producers (IOGP)
+status: valid
+dateAccepted: 2026-05-06T01:35:42.259Z

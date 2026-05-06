@@ -1,0 +1,53 @@
+id: fa0e6d36-3cd5-4ad2-a914-d2951597fb0f
+data:
+  identifier: 1336
+  name: Clarke 1880 (RGS)
+  aliases:
+    - Clarke Modified 1880
+    - Clarke 1880 (english)
+  informationSources:
+    - title: Clarke 1880 (RMG)
+      publicationDate: ''
+      revisionDate: '1995-06-02'
+      edition: ''
+      author: International Association of Oil and Gas Producers (IOGP)
+      seriesName: EPSG Geodetic Parameter Dataset
+      seriesIssueID: Version 12.017
+      seriesPage: EPSG:7012
+      otherDetails: Web page
+      uri: >-
+        https://epsg.org/ellipsoid_7012/Clarke-1880-RGS.html (accessed
+        2026-03-06)
+      publisher: International Association of Oil and Gas Producers (IOGP)
+    - title: Geodetic Documentation for Circe Uganda
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Documentation iIncluded with Circe Uganda software v5.4.6 installer.
+      uri: >-
+        http://ugrf.mlhud.go.ug/static/download/Install_circe_V546_UGN.zip
+        (accessed 2026-03-06)
+      publisher: >-
+        Institut national de l'information geographique et forestiere (IGN),
+        France
+  remarks: >-
+    Adopts Clarke's values for a and 1/f. Adopts his 1865 ratio of 39.370432
+    inches per metre to convert semi-major axis to metres. Also known as Clarke
+    Modified 1880. The Clarke 1880 (RGS) figure is one of several modifications
+    to the original definition. The name Clarke Modified is usually taken to be
+    the RGS modification.
+  semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  semiMajorAxis: 6378249.145
+  semiMinorAxis: null
+  inverseFlattening: 293.465
+  isSphere: false
+status: valid
+dateAccepted: 2026-05-06T01:35:42.259Z
