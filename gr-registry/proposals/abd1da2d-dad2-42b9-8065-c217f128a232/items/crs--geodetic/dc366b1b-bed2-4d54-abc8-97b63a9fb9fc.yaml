@@ -1,0 +1,48 @@
+id: dc366b1b-bed2-4d54-abc8-97b63a9fb9fc
+data:
+  identifier: -7
+  name: SIRGAS-Chile 2002.0 - XYZ
+  aliases:
+    - SIRGAS-Chile Epoch 2002.0
+    - SIRGAS-Chile
+    - National Geodetic Network
+    - RGN
+  informationSources:
+    - title: IGM SIRGAS-Chile
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Spanish.
+      uri: https://www.sirgaschile.cl (accessed 2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+    - title: 'Nuevo Marco de Referencia: SIRGAS-Chile'
+      publicationDate: '2008'
+      revisionDate: ''
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Internal IGM report in Spanish.
+      uri: >-
+        https://www.sirgaschile.cl/PDF/Nuevo_Marco_de_Referencia.pdf (accessed
+        2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+  remarks: >-
+    Replaces PSAD56 between latitudes 17°S & 43°S, SAD69 between latitudes 43°S
+    and 56°S, and HITO XVIII in Tierra del Fuego. Replaced by SIRGAS-Chile Epoch
+    2013.0.
+  scope: Spatial referencing.
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  baseCRS: null
+  operation: null
+  extentRef: d0785038-97b1-4c36-af37-bb30670cb25a
+  datum: 82e40d63-c4e4-4f04-8a28-d327a29f9640
+dateAccepted: '2026-05-06T02:35:51.794Z'
+status: valid

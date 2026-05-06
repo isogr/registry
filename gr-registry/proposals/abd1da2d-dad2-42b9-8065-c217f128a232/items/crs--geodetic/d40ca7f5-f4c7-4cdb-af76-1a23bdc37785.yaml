@@ -1,0 +1,88 @@
+id: d40ca7f5-f4c7-4cdb-af76-1a23bdc37785
+data:
+  identifier: -21
+  name: SIRGAS-Chile 2025.0 - LatLon
+  aliases:
+    - SIRGAS-Chile Epoch 2025.0
+    - SIRGAS-Chile
+    - National Geodetic Network
+    - RGN
+  informationSources:
+    - title: IGM SIRGAS-Chile
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Spanish.
+      uri: https://www.sirgaschile.cl (accessed 2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+    - title: 'Nuevo Marco de Referencia: SIRGAS-Chile'
+      publicationDate: '2008'
+      revisionDate: ''
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Internal IGM report in Spanish.
+      uri: >-
+        https://www.sirgaschile.cl/PDF/Nuevo_Marco_de_Referencia.pdf (accessed
+        2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+    - title: >-
+        Evolucion y consolidacion de la Red Geodesica Nacional (RGN)
+        SIRGAS-Chile horizontal
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Spanish.
+      uri: >-
+        https://www.sirgaschile.cl/Evolucion_y_consolidacion_de_RGN_SIRGAS_Chile_horizontal.php
+        (accessed 2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+    - title: IGM lanzo la nueva Red Geodesica Nacional Sirgas-Chile 2025
+      publicationDate: ''
+      revisionDate: '2025-06-02'
+      edition: ''
+      author: Ejército de Chile
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Spanish.
+      uri: >-
+        https://www.ejercito.cl/prensa/visor/igm-lanzo-la-nueva-red-geodesica-nacional-sirgas-chile-2025
+        (accessed 2026-03-09)
+      publisher: Ejército de Chile
+    - title: >-
+        Actualizacion de la Epoca de Referencia 2025.0 de la Red Geodesica
+        Nacional SIRGAS-Chile
+      publicationDate: '2025-08-01'
+      revisionDate: ''
+      edition: ''
+      author: >-
+        I. Parada Pichuante, B. Cubillos Tapia, S.Rozas Bornes, C. Reyes
+        Norambuena
+      seriesName: Revista Chilena de la Administracion del Estado
+      seriesIssueID: No. 13 Primer Semestre 2025
+      seriesPage: 241-246
+      otherDetails: In Spanish.
+      uri: https://doi.org/10.57211/revista.v13i13.231 (accessed 2026-03-09)
+      publisher: Centro de Estudios de la Administracion del Estado (CEA)
+  remarks: Replaces SIRGAS-Chile Epoch 2021.0.
+  scope: Spatial referencing.
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  baseCRS: null
+  operation: null
+  extentRef: d0785038-97b1-4c36-af37-bb30670cb25a
+  datum: c676055b-4995-4053-aeec-24ccd80ffa8c
+dateAccepted: '2026-05-06T02:35:51.794Z'
+status: valid

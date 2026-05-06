@@ -1,0 +1,89 @@
+id: 692c80e9-20c0-4bad-b863-ef4a70289d71
+data:
+  identifier: -28
+  name: SIRGAS-CON SIR13P01 to SIRGAS-Chile 2013.0 [IGMv1]
+  aliases: []
+  informationSources:
+    - title: IGM SIRGAS-Chile
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Spanish.
+      uri: https://www.sirgaschile.cl (accessed 2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+    - title: 'Nuevo Marco de Referencia: SIRGAS-Chile'
+      publicationDate: '2008'
+      revisionDate: ''
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Internal IGM report in Spanish.
+      uri: >-
+        https://www.sirgaschile.cl/PDF/Nuevo_Marco_de_Referencia.pdf (accessed
+        2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+  remarks: >-
+    Null transformation. SIRGAS-Chile Epoch 2013.0 is considered aligned to
+    SIRGAS-CON SIR13P01 by definition.
+  operationVersion: IGMv1
+  coordOperationMethod: 73712d62-d78a-4d32-a44c-9ef8cf8daa1c
+  scope: Spatial referencing
+  accuracy:
+    value: 0
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: a51b10ea-8f13-461b-aa28-cdbccba8ff88
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 67374d5b-e7af-4138-9385-ad3614d21a07
+  extentRef: d0785038-97b1-4c36-af37-bb30670cb25a
+  parameters:
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+      unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '2013'
+      parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
+      unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+dateAccepted: '2026-05-06T02:35:51.794Z'
+status: valid

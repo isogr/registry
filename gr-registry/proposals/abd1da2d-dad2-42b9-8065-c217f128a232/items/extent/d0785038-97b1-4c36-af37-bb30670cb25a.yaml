@@ -1,0 +1,18 @@
+id: d0785038-97b1-4c36-af37-bb30670cb25a
+data:
+  identifier: -1
+  name: Chile onshore & offshore including Antarctica & Tierra del Fuego
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: >-
+      Chile - onshore & offshore: Chile including Easter Island, Juan Fernandez
+      Islands, San Felix, Sala y Gomez, Tierra del Fuego, Antarctica between
+      longitude 90W & 53W and latitude 60S & 90S.
+    s: '-90'
+    w: '-113.21'
+    'n': '-17.5'
+    e: '-53'
+dateAccepted: '2026-05-06T02:35:51.794Z'
+status: valid

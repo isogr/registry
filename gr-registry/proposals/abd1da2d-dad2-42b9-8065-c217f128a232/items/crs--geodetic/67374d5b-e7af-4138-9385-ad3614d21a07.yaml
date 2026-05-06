@@ -1,0 +1,45 @@
+id: 67374d5b-e7af-4138-9385-ad3614d21a07
+data:
+  identifier: -10
+  name: SIRGAS-Chile 2013.0 - XYZ
+  aliases:
+    - SIRGAS-Chile Epoch 2013.0
+    - SIRGAS-Chile
+    - National Geodetic Network
+    - RGN
+  informationSources:
+    - title: IGM SIRGAS-Chile
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Spanish.
+      uri: https://www.sirgaschile.cl (accessed 2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+    - title: 'Nuevo Marco de Referencia: SIRGAS-Chile'
+      publicationDate: '2008'
+      revisionDate: ''
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Internal IGM report in Spanish.
+      uri: >-
+        https://www.sirgaschile.cl/PDF/Nuevo_Marco_de_Referencia.pdf (accessed
+        2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+  remarks: Replaces SIRGAS-Chile Epoch 2002.0. Replaced by SIRGAS-Chile Epoch 2016.0.
+  scope: Spatial referencing.
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c3cd36f9-6530-4432-93d7-051bed567297
+  baseCRS: null
+  operation: null
+  extentRef: d0785038-97b1-4c36-af37-bb30670cb25a
+  datum: 26ad6fea-8488-40c6-8739-9a23417eabde
+dateAccepted: '2026-05-06T02:35:51.794Z'
+status: valid
