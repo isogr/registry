@@ -1,0 +1,61 @@
+id: 52a84110-cf10-4846-8313-b06d62c54de8
+data:
+  identifier: 1360
+  name: SIRGAS-Chile Epoch 2016.0
+  aliases:
+    - SIRGAS-Chile 2016.0
+    - SIRGAS-Chile
+    - National Geodetic Network
+    - RGN
+  informationSources:
+    - title: IGM SIRGAS-Chile
+      publicationDate: ''
+      revisionDate: '2025'
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page in Spanish.
+      uri: https://www.sirgaschile.cl (accessed 2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+    - title: 'Nuevo Marco de Referencia: SIRGAS-Chile'
+      publicationDate: '2008'
+      revisionDate: ''
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Internal IGM report in Spanish.
+      uri: >-
+        https://www.sirgaschile.cl/PDF/Nuevo_Marco_de_Referencia.pdf (accessed
+        2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+    - title: 'Sistema de Referencia Geodesico Para Chile: Sirgas-Chile, Epoca 2016.0'
+      publicationDate: '2016'
+      revisionDate: ''
+      edition: ''
+      author: Instituto Geografico Militar (IGM)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Internal IGM report in Spanish.
+      uri: >-
+        https://docs.wixstatic.com/ugd/e610e8_f4ec66245cd84d66a8195f0398720688.pdf
+        (accessed 2026-03-09)
+      publisher: Instituto Geografico Militar (IGM)
+  remarks: >-
+    Replaces SIRGAS-Chile Epoch 2013.0 follwing the accumulation of tectonic
+    deformation. Replaced by SIRGAS-Chile Epoch 2021.0.
+  scope: Spatial referencing.
+  originDescription: >-
+    Aligned to IGb08 at epoch 2016.0 through alignment to SIRGAS-CON weekly
+    solution SIR15P1877 at epoch 2016.0 using a network of 78 CORS in Chile.
+  releaseDate: '2016'
+  extentRef: d0785038-97b1-4c36-af37-bb30670cb25a
+  coordinateReferenceEpoch: '2016'
+  ellipsoid: 5bf14a16-f444-4105-a50d-ea006ba854b8
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+status: valid
+dateAccepted: 2026-05-06T02:42:07.083Z
