@@ -1,10 +1,12 @@
 id: 793f473d-792f-4b52-9f1f-5e1141af11fa
 timeStarted: 2026-05-12T14:47:29.617Z
-timeEdited: 2026-05-12T14:47:29.617Z
+timeEdited: 2026-05-12T14:49:42.174Z
 justification: >-
   ITRF2020 to UGRF unit correction (corrected unit of rate of change of scale to
   be ppm/yr instead of ppm). Submitted by M. Craymer, ISOGR Control Body Chair.
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /coordinate-ops--transformation/6e5191d1-fa1d-498b-8cb8-353ac3d7b058.yaml:
+    type: clarification
 state: draft
 registerVersion: abd1da2d-dad2-42b9-8065-c217f128a232
