@@ -122,7 +122,7 @@ data:
       fileCitation: null
       value: '-0.00003'
       parameter: 884b428c-57f0-4c0b-a054-4a49ca76ee06
-      unitOfMeasurement: 0e4ffde7-ba1e-4bcc-b038-9482f88cc12f
+      unitOfMeasurement: d978906c-4d5c-42fe-8133-e36c6fa4002e
     - type: measure (w/ UoM)
       fileCitation: null
       value: '2010'
