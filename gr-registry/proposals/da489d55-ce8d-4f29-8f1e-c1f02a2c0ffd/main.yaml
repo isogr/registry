@@ -3,10 +3,29 @@ timeStarted: 2026-05-17T17:24:29.878Z
 timeEdited: 2026-05-20T02:20:35.362Z
 justification: >-
   BC Canada extent correction. Submitted by M. Craymer, Canadian Geodetic
-  Survey.
+  Survey.& Control Body Chair.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /extent/957644ba-0c3f-43fa-9341-141aa5eaf976.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 793f473d-792f-4b52-9f1f-5e1141af11fa
+timeProposed: 2026-05-20T02:47:43.084Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-05-20T02:47:43.084Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        BC Canada extent correction. Submitted by M. Craymer, Canadian Geodetic
+        Survey.& Control Body Chair.
