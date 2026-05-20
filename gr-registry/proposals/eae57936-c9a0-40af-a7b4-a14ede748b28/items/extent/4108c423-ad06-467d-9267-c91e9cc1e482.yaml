@@ -2,15 +2,17 @@ id: 4108c423-ad06-467d-9267-c91e9cc1e482
 dateAccepted: 2026-05-20T03:42:33.808Z
 status: valid
 data:
-  name: Unnamed item
+  name: Canada - British Columbia - mainland between 138°05’W and 114°20’W
   identifier: 0
   informationSources: []
   informationSourceRefs: []
   remarks: ''
   aliases: []
   extent:
-    name: ''
-    'n': '0'
-    e: '0'
-    s: '0'
-    w: '0'
+    name: >
+      Canada - onshore - British Columbia - mainland between 138°05’W and
+      114°20’W
+    'n': '60'
+    e: '-114.333'
+    s: '49'
+    w: '-138.083'
