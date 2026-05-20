@@ -1,8 +1,10 @@
 id: d56668d9-126a-4a03-84b9-d0c992a68e07
 timeStarted: 2026-05-20T00:52:31.736Z
-timeEdited: 2026-05-20T00:52:31.736Z
+timeEdited: 2026-05-20T00:53:13.699Z
 justification: Canada-BC extent correction. Submitted by M. Craymer, Control Body Chair.
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /extent/957644ba-0c3f-43fa-9341-141aa5eaf976.yaml:
+    type: clarification
 state: draft
 registerVersion: 793f473d-792f-4b52-9f1f-5e1141af11fa
