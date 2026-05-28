@@ -1,10 +1,12 @@
 id: eae57936-c9a0-40af-a7b4-a14ede748b28
 timeStarted: 2026-05-20T03:42:25.371Z
-timeEdited: 2026-05-20T03:44:30.959Z
+timeEdited: 2026-05-28T02:12:37.873Z
 justification: New Canada-BC extent. Submitted by M. Craymer, Canadian Geodetic Survey.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /extent/4108c423-ad06-467d-9267-c91e9cc1e482.yaml:
     type: addition
+  /coordinate-ops--transformation/664d4328-f657-4f39-8d01-e64969cc8a75.yaml:
+    type: clarification
 state: draft
 registerVersion: da489d55-ce8d-4f29-8f1e-c1f02a2c0ffd
