@@ -1,10 +1,12 @@
 id: cc8f0e1e-eb79-417d-b6f8-8d9954faa6fb
 timeStarted: 2026-05-30T16:15:33.201Z
-timeEdited: 2026-05-30T16:15:33.201Z
+timeEdited: 2026-05-30T16:16:00.888Z
 justification: >-
   CGVD transformations accuracy correction. Submitted by M. Craymer, Canadian
   Geodetic Survey.
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /coordinate-ops--transformation/2d3fb718-0799-417b-8b00-5a237e8f63d3.yaml:
+    type: clarification
 state: draft
 registerVersion: eae57936-c9a0-40af-a7b4-a14ede748b28
