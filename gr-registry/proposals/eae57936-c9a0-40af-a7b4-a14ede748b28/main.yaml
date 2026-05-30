@@ -10,7 +10,7 @@ items:
     type: clarification
   /coordinate-ops--transformation/6a6eb7a9-90d3-46e8-8096-54a8d3fd6d49.yaml:
     type: clarification
-state: proposed
+state: pending-control-body-review
 registerVersion: da489d55-ce8d-4f29-8f1e-c1f02a2c0ffd
 timeProposed: 2026-05-30T16:11:54.011Z
 pastTransitions:
@@ -29,3 +29,19 @@ pastTransitions:
           value: paneron@craymer.com
     input:
       justification: New Canada-BC extent. Submitted by M. Craymer, Canadian Geodetic Survey.
+  - label: Submit for control body review
+    timestamp: 2026-05-30T16:12:17.536Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      registerManagerNotes: Accepted for review by the Control Body.
+registerManagerNotes: Accepted for review by the Control Body.
