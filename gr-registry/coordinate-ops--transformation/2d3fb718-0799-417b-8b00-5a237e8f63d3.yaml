@@ -90,7 +90,7 @@ data:
   coordOperationMethod: 274fece0-bf5a-4792-8f6e-18b74c80dc97
   scope: Spatial referencing.
   accuracy:
-    value: 0.03
+    value: '0'
     unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
   sourceCRS:
     classID: crs--vertical
