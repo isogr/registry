@@ -2,7 +2,7 @@ id: cc8f0e1e-eb79-417d-b6f8-8d9954faa6fb
 timeStarted: 2026-05-30T16:15:33.201Z
 timeEdited: 2026-05-30T16:16:32.309Z
 justification: >-
-  CGVD transformations accuracy correction. Submitted by M. Craymer, Canadian
+  CGVD transformations accuracy corrections. Submitted by M. Craymer, Canadian
   Geodetic Survey.
 submittingStakeholderGitServerUsername: maccraymer
 items:
@@ -10,5 +10,24 @@ items:
     type: clarification
   /coordinate-ops--transformation/7c7b626f-426d-4dd9-a08d-272551a0fd8f.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: eae57936-c9a0-40af-a7b4-a14ede748b28
+timeProposed: 2026-06-25T17:09:25.652Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-06-25T17:09:25.652Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        CGVD transformations accuracy corrections. Submitted by M. Craymer,
+        Canadian Geodetic Survey.
