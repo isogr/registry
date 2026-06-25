@@ -1,0 +1,110 @@
+id: 632b6787-8d29-413a-8729-cf2a8f23d8b5
+data:
+  identifier: 1388
+  name: NAD83(CSRS) v6 to CGVD28 [v2]
+  aliases: []
+  informationSources:
+    - title: Geoid Models
+      publicationDate: ''
+      revisionDate: '2026-03-05'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
+        (accessed 2026-04-11).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: BYN Grid Format Description
+      publicationDate: '2021-12-03'
+      revisionDate: ''
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://webapp.geod.nrcan.gc.ca/geod/tools-outils/sample_doc_files/NRCan_Geoid_GridFormat_EN.pdf
+        (accessed 2026-04-11).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: GPS-H
+      publicationDate: ''
+      revisionDate: '2025-12-02'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://webapp.geod.nrcan.gc.ca/geod/tools-outils/gpsh.php (accessed
+        2026-04-11).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: >-
+        The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height
+        Transformation for Use With GPS in Canada
+      publicationDate: '2001'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau, A. Mainville, M. Craymer
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Referencing and Time Tagging Heights in Canada
+      publicationDate: '2018'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
+      publicationDate: '2019'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+  remarks: >-
+    Grid transformation from NAD83(CSRS) v6 ellipsoidal heights at epoch 2010.0
+    to CGVD28 normal orthometric heights using bi-quadratic interpolation of
+    hybrid geoid model HTv2.0. Derived from the NAD83(CSRS) v3 to CGVD28
+    transformation by applying the NAD83(CSRS) v8.0 velocity model to
+    incorporate the propagation of heights from epoch 1997.0 to 2010.0.
+    Bi-linear interpolation of the grid file will give results agreeing to
+    within 1cm 99.97% of the time. Replaces previous v1 of this transformation
+    based on the NAD83(CSRS) v7.0 velocity model (ISOGR:969) as of 2025-12-02.
+  operationVersion: v2
+  coordOperationMethod: cf770dc9-bbfc-41ff-844f-81e69b2b22d1
+  scope: Spatial referencing.
+  accuracy:
+    value: 0.048
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 00f5fc9b-2e5f-4548-810e-31a598dc2558
+  targetCRS:
+    classID: crs--vertical
+    itemID: 89b896fd-6c91-4a27-91a3-03b549a13803
+  extentRef: 49d32d14-153e-415f-a2db-edc5914d8c77
+  parameters:
+    - type: parameter file name
+      fileCitation: null
+      value: HT2_2010v80.byn
+      parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+      unitOfMeasurement: null
+status: valid
+dateAccepted: 2026-06-25T17:21:11.286Z

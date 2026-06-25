@@ -1,0 +1,115 @@
+id: 8c3b2668-944d-47d3-8ec8-2dd2a4b567cd
+data:
+  identifier: 1398
+  name: CGVD28(HTv2.0) to CGVD2013(CGG2013a) epoch 2002 [v2]
+  aliases: []
+  informationSources:
+    - title: Geoid Models
+      publicationDate: ''
+      revisionDate: '2026-03-05'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://webapp.geod.nrcan.gc.ca/geod/data-donnees/geoid.php?locale=en
+        (accessed 2026-04-11).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: BYN Grid Format Description
+      publicationDate: '2021-12-03'
+      revisionDate: ''
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://webapp.geod.nrcan.gc.ca/geod/tools-outils/sample_doc_files/NRCan_Geoid_GridFormat_EN.pdf
+        (accessed 2026-04-11).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: GPS-H
+      publicationDate: ''
+      revisionDate: '2025-12-02'
+      edition: ''
+      author: Canadian Geodetic Survey
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: >-
+        https://webapp.geod.nrcan.gc.ca/geod/tools-outils/gpsh.php (accessed
+        2026-04-11).
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: >-
+        The GPS Height Transformation (v2.0): An Ellipsoidal-CGVD28 Height
+        Transformation for Use With GPS in Canada
+      publicationDate: '2001'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau, A. Mainville, M. Craymer
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Referencing and Time Tagging Heights in Canada
+      publicationDate: '2018'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+    - title: Height Transformation version 2.0 (HTv2.0), Epochs 2002.0 and 2010.0
+      publicationDate: '2019'
+      revisionDate: ''
+      edition: ''
+      author: M. Veronneau
+      seriesName: Internal Report
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Geodetic Survey Division, Natural Resources Canada, Government of Canada
+  remarks: >-
+    Grid transformation from CGVD28(HTv2.0) orthometric heights to
+    CGVD2013(CGG2013a) orthometric heights at epoch 2002.0 using bi-quadratic
+    interpolation. Derived from the CGVD28(HTv2.0) to CGVD2013(CCG2013a) epoch
+    1997.0 transformation by applying the NAD83(CSRS) v8.0 velocity model to
+    incorporate the propagation of CGVD2013 heights from epoch 1997.0 to 2002.0.
+    Bi-linear interpolation of the grid file will give results agreeing to
+    within 1cm 99.97% of the time. Replaces previous v1 of this transformation
+    based on the NAD83(CSRS) v7.0 velocity model (ISOGR:1274) as of 2025-12-02.
+  operationVersion: v2
+  coordOperationMethod: 274fece0-bf5a-4792-8f6e-18b74c80dc97
+  scope: Spatial referencing.
+  accuracy:
+    value: 0.018
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: datums--vertical
+    itemID: 435124ea-d3f4-465d-8734-bfe48399c351
+  targetCRS:
+    classID: crs--vertical
+    itemID: dfd5589b-2795-4f2b-8f3b-3f4d2cb1dea1
+  extentRef: d2908e06-80a8-4300-beb1-00a00bf6b23c
+  parameters:
+    - type: parameter file name
+      fileCitation: null
+      value: HT2_2002v80_CGG2013a.byn
+      parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+      unitOfMeasurement: null
+    - type: integer value
+      fileCitation: null
+      value: '320'
+      parameter: 15811eed-e76f-43f1-9b66-e36d1c94aacf
+      unitOfMeasurement: null
+status: valid
+dateAccepted: 2026-06-25T17:21:11.286Z
