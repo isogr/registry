@@ -20,6 +20,7 @@ data:
   minValue: null
   name: Gravity-related height
   orientation: up
+  rangeMeaning: null
   remarks: Used in a 1D vertical coordinate system.
   unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
 dateAccepted: 2018-11-17

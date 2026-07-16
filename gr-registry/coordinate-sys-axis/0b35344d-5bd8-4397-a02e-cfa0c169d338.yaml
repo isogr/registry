@@ -7,6 +7,7 @@ data:
   minValue: null
   name: Northing
   orientation: north
+  rangeMeaning: null
   remarks: null
   unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
 dateAccepted: 2022-06-06

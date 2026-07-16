@@ -20,6 +20,7 @@ data:
   minValue: null
   name: Geodetic longitude
   orientation: east
+  rangeMeaning: null
   remarks: Used in geographic 2D and geographic 3D coordinate reference systems.
   unitOfMeasurement: 6a54d914-a8a0-4df8-969e-57bcdb182e3c
 dateAccepted: 2018-11-17
