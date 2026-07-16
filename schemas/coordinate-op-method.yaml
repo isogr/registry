@@ -1,0 +1,61 @@
+title: Coordinate Operation Method
+type: object
+required:
+  - id
+  - status
+  - dateAccepted
+  - data
+properties:
+  id:
+    type: string
+  status:
+    type: string
+    enum: [valid, invalid, superseded]
+  dateAccepted:
+    type: string
+    format: date
+  data:
+    type: object
+    required:
+      - identifier
+      - name
+    properties:
+      identifier:
+        type: integer
+      name:
+        type: string
+      aliases:
+        type: array
+        items:
+          type: string
+      definition:
+        type: ['null', string]
+      description:
+        type: ['null', string]
+      formula:
+        type: ['null', string]
+      formulaCitation:
+        type: ['null', object]
+        properties:
+          author:
+            type: string
+          edition:
+            type: ['null', string]
+          editionDate:
+            type: ['null', string]
+          publisher:
+            type: ['null', string]
+          title:
+            type: string
+          uuid:
+            type: string
+      informationSources:
+        type: array
+        items:
+          type: object
+      parameters:
+        type: array
+        items:
+          type: string
+      remarks:
+        type: ['null', string]

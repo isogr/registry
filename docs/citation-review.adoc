@@ -1,0 +1,404 @@
+= Citation Register Review Guide
+:toc:
+:toclevels: 3
+
+== Purpose
+
+This guide explains how to review and update the extracted citations CSV file
+before importing them into the ISO Geodetic Register as official citation
+register items.
+
+== Overview
+
+The citation extraction process has identified **256 unique citations** from the
+geodetic registry. These citations are currently embedded inline within various
+register items. The goal is to:
+
+1. Review the extracted citations for accuracy and completeness
+2. Merge duplicate entries if found
+3. Correct any errors in citation metadata
+4. Prepare the data for import as official citation register items
+
+== Opening the CSV File
+
+The `citations.csv` file should be opened in Microsoft Excel or a compatible
+spreadsheet application.
+
+IMPORTANT: Save the file as CSV format after making changes, not as Excel format.
+
+== CSV Structure
+
+The CSV contains **36 columns** divided into sections:
+
+=== Section 1: Citation Identity (Columns 1-15)
+
+[options="header"]
+|===
+| Column | Field | Editable | Description
+
+| 1
+| id
+| ❌ No
+| Temporary sequential ID (1-256) for this review only
+
+| 2
+| title
+| ✅ Yes
+| Citation title - **primary deduplication key**
+
+| 3
+| author
+| ✅ Yes
+| Author(s) of the work
+
+| 4
+| publisher
+| ✅ Yes
+| Publisher name
+
+| 5
+| edition
+| ✅ Yes
+| Edition information
+
+| 6
+| editionDate
+| ✅ Yes
+| Date of edition
+
+| 7
+| revisionDate
+| ✅ Yes
+| Date of revision
+
+| 8
+| seriesName
+| ✅ Yes
+| Name of the series
+
+| 9
+| seriesIssueID
+| ✅ Yes
+| Series issue identifier
+
+| 10
+| seriesPage
+| ✅ Yes
+| Page numbers
+
+| 11
+| isbn
+| ✅ Yes
+| ISBN number
+
+| 12
+| issn
+| ✅ Yes
+| ISSN number
+
+| 13
+| otherDetails
+| ✅ Yes
+| Additional details, URLs, or notes
+
+| 14
+| uuid
+| ⚠️ Review
+| Primary UUID (from most complete instance)
+
+| 15
+| variants
+| ❌ No
+| Indicates multiple versions found
+|===
+
+=== Section 2: Item References (Columns 16-34)
+
+These columns show which register items currently reference each citation,
+organized by item class:
+
+[options="header"]
+|===
+| Columns | Field Pattern | Editable
+
+| 16-34
+| `referenced_by_{class}`
+| ⚠️ Read-only for review
+|===
+
+**Item classes include:**
+- `coordinate-op-method`
+- `coordinate-op-parameter`
+- `coordinate-ops--conversion`
+- `coordinate-ops--transformation`
+- `crs--geodetic`, `crs--projected`, `crs--vertical`
+- `datums--geodetic`, `datums--vertical`
+- `extent`, `ellipsoid`, `prime-meridian`
+- `unit-of-measurement`
+
+**Format:** Comma-separated list of numeric `data.identifier` values
+
+.Example
+====
+`referenced_by_crs--geodetic`: `210, 228, 414`
+
+This means three CRS items (with identifiers 210, 228, and 414) reference this
+citation.
+====
+
+=== Section 3: Special References (Columns 35-36)
+
+[options="header"]
+|===
+| Column | Field | Editable | Description
+
+| 35
+| referenced_by_formula_item
+| ⚠️ Read-only
+| Format: `class: identifier` for formula citations
+
+| 36
+| referenced_as_uuid
+| ⚠️ Read-only
+| All UUIDs from citation instances with this title
+|===
+
+== Review Tasks
+
+=== Task 1: Identify Duplicates
+
+Look for citations that appear to be the same but are listed as separate rows.
+
+**Indicators of duplicates:**
+
+* Very similar or identical titles
+* Same author and publisher
+* Same core bibliographic information
+
+**What to do:**
+
+1. Compare the citation metadata (columns 2-13)
+2. If truly the same citation, mark one row for deletion
+3. Transfer any unique information to the remaining row
+4. Note the row numbers for merging
+
+.Example: Identifying duplicates
+====
+```
+Row 45: "IOGP Guidance Note 7, part 2"
+Row 120: "IOGP Guidance Note 7 part 2"
+```
+
+These are likely the same citation with minor title variations. Review metadata
+to confirm and merge.
+====
+
+=== Task 2: Verify Citation Metadata
+
+Review each citation for **accuracy and completeness**:
+
+**Check:**
+
+* Title is correct and complete
+* Author names are properly formatted
+* Publisher information is accurate
+* Dates are in correct format
+* URLs in `otherDetails` are still valid
+* Series information is complete
+
+**Corrections needed:**
+
+* Fix typos in titles, authors, publishers
+* Standardize date formats
+* Add missing ISBNs or ISSNs if available
+* Update broken URLs
+* Correct series information
+
+=== Task 3: Handle Variants
+
+Citations marked with `variants` in column 15 indicate that multiple versions
+with the same title but different metadata were found.
+
+**Review these citations carefully:**
+
+1. Check if the variants represent truly different versions (e.g., different
+   editions) or data entry errors
+2. If data entry errors, correct the main citation
+3. If truly different versions, ensure the most complete/authoritative version
+   is selected
+4. Check `referenced_as_uuid` column to see how many instances exist
+
+.Example: Reviewing variants
+====
+```
+Row 37: "Department of Defense World Geodetic System..."
+  variants: variant-1, variant-2, variant-3, variant-4, variant-5
+  referenced_as_uuid: (8 different UUIDs)
+```
+
+This citation has 5 content variants and 8 total instances. Review the metadata
+and the source documents to determine if this should be:
+
+* One citation (merge variants)
+* Multiple separate citations (split by edition/version)
+====
+
+=== Task 4: Verify References
+
+The `referenced_by_*` columns (16-35) show which register items use each
+citation.
+
+**Check:**
+
+* The number of references matches your expectations
+* The `referenced_as_uuid` column has the same number of UUIDs as total
+  references
+* Formula references (column 35) are correctly attributed
+
+NOTE: These columns are informational. The actual reference updates will be
+handled by the import script.
+
+=== Task 5: Add Notes (Optional)
+
+You may add a new column (column 37) titled `review_notes` to record:
+
+* Merge decisions
+* Questions requiring clarification
+* Data quality issues
+* Recommendations
+
+== Merging Citations
+
+When you identify citations that should be merged:
+
+=== Step 1: Choose Primary Row
+
+Select the row with the most complete information as the primary row.
+
+=== Step 2: Transfer Information
+
+Copy any unique or more accurate information from other rows to the primary row.
+
+=== Step 3: Update References
+
+The `referenced_by_*` and `referenced_as_uuid` columns will be handled
+automatically during import, but note which rows are being merged.
+
+=== Step 4: Mark for Deletion
+
+Add a column (column 37) titled `action` and mark rows as:
+
+* `KEEP` - This citation should be imported
+* `DELETE` - Merged into another citation
+* `REVIEW` - Requires further review
+
+=== Step 5: Cross-Reference
+
+In the `KEEP` row's notes, reference which rows were merged:
+```
+Merged from rows: 45, 120
+```
+
+== Data Quality Guidelines
+
+=== Title Standardization
+
+* Use proper capitalization
+* Include subtitles with colon separator
+* Remove extra whitespace
+* Use consistent punctuation
+
+=== Author Format
+
+* Use full names when available
+* Separate multiple authors with commas
+* Organizational authors in full (e.g., "National Geodetic Survey")
+
+=== Date Format
+
+* Use ISO 8601 format: `YYYY-MM-DD` or `YYYY-MM` or `YYYY`
+* Be consistent across all rows
+
+=== URLs in otherDetails
+
+* Verify URLs are still accessible
+* Update to current URLs if redirected
+* Include access date: `(accessed YYYY-MM-DD)`
+
+== Special Cases
+
+=== Citations Without UUIDs
+
+Some citations may have empty `referenced_as_uuid` (column 36). These are:
+
+* Formula citations without embedded UUIDs
+* Citations from files without identifier fields
+
+**Action:** Verify these are real citations and not data extraction errors by
+checking the `referenced_by_formula_item` column.
+
+=== Citations With Many References
+
+Citations referenced by many items (e.g., 50+ items) are likely foundational
+documents:
+
+* IOGP Guidance Notes
+* IERS Technical Notes
+* Government standards
+
+**Action:** Ensure these are accurately captured as they are high-impact.
+
+=== Citations With No References
+
+If a citation shows no references in any `referenced_by_*` columns:
+
+**Action:** Mark for `REVIEW` - this may indicate an extraction issue.
+
+== Preparing for Import
+
+After review and corrections:
+
+=== Final Checklist
+
+☐ All duplicates identified and marked
+☐ Metadata corrections complete
+☐ Variants resolved
+☐ `action` column added (KEEP/DELETE/REVIEW)
+☐ Review notes documented
+☐ File saved as CSV format
+
+=== Submit for Import
+
+The reviewed CSV will be used by the `scripts/import_citations.rb` script
+(Phase 2) to:
+
+1. Assign official register identifiers (sequential from max + 1)
+2. Generate UUIDs for citation register items
+3. Create `gr-registry/citation/*.yaml` files
+4. Update all register items to reference citations by identifier
+
+== Questions or Issues
+
+If you encounter:
+
+* Ambiguous citations that may be duplicates
+* Missing critical information
+* Conflicting metadata across instances
+* Questions about data quality
+
+**Contact:** ISO Geodetic Register technical team
+
+== Summary
+
+Your review ensures:
+
+* ✅ Citation data accuracy
+* ✅ Elimination of duplicates
+* ✅ Metadata completeness
+* ✅ Data quality for official register
+
+The `citations.csv` file is the **authoritative source** for citation data. Your
+review directly impacts the quality of the ISO Geodetic Register citation
+database.
+
+Thank you for your careful attention to this critical data quality task.
