@@ -1,8 +1,10 @@
 id: 17dd533f-d8bc-4d53-8898-2c5361f1e249
 timeStarted: 2026-07-22T21:24:06.540Z
-timeEdited: 2026-07-22T21:24:06.540Z
+timeEdited: 2026-07-22T21:25:10.532Z
 justification: Updated Clarke 1880 ellipsoid remarks
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /ellipsoid/fa0e6d36-3cd5-4ad2-a914-d2951597fb0f.yaml:
+    type: clarification
 state: draft
 registerVersion: 69b3b854-9fb0-4cad-a1b4-aea6fe98ba1e
