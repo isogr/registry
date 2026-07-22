@@ -1,10 +1,12 @@
 id: 2953ecb9-11d1-4ed4-b0b7-ff105208e370
 timeStarted: 2026-07-22T21:31:41.558Z
-timeEdited: 2026-07-22T21:31:41.558Z
+timeEdited: 2026-07-22T21:33:12.255Z
 justification: >-
   Updated WGS 84 ellipsoid inv. flattening. Submitted by M. Craymer, ISOGR
   Control Body Chair.
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /ellipsoid/41c8f1a8-76fd-4edf-9bdb-6eca1931c5fb.yaml:
+    type: clarification
 state: draft
 registerVersion: 69b3b854-9fb0-4cad-a1b4-aea6fe98ba1e
