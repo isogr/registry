@@ -37,6 +37,21 @@ data:
       publisher: >-
         Institut national de l'information geographique et forestiere (IGN),
         France
+    - title: South African Units of Length and Area
+      revisionDate: null
+      publicationDate: 1944-05
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: 8-9
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
+      alternateTitles:
+        - Trigonometrical Survey Special Publication No.2
+      author: D.R. Hendrikz
+      publisher: Union of South Africa Government Printer
   remarks: >-
     Adopts Clarke's values for a and 1/f. Adopts his 1865 ratio of 39.370432
     inches per metre to convert semi-major axis to metres. Also known as Clarke
