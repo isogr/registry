@@ -1,6 +1,6 @@
 id: e003576a-8a77-4ee1-bdd0-cddd77c28ce3
 timeStarted: 2026-07-27T18:01:08.346Z
-timeEdited: 2026-07-27T18:06:27.278Z
+timeEdited: 2026-07-27T18:06:47.064Z
 justification: >-
   Correction of unit for ITRFxx-ITRF2020 transformations. Submitted by M.
   Craymer, ISOGR Control Body Chair.
@@ -29,6 +29,8 @@ items:
   /coordinate-ops--transformation/5acec7e7-501a-4f65-bd7c-8b8d3bc4f609.yaml:
     type: clarification
   /coordinate-ops--transformation/1a5ae71e-b15a-43ac-b938-d3420ecade36.yaml:
+    type: clarification
+  /coordinate-ops--transformation/fffc9fe3-c34d-4153-848a-bbdb8dc57fd5.yaml:
     type: clarification
 state: draft
 registerVersion: 17dd533f-d8bc-4d53-8898-2c5361f1e249
