@@ -60,11 +60,11 @@ data:
     the RGS modification.
 
 
-    Sir David Gill adopted the values of Clarke's 1880 semi- major and
-    semi-minor axes in British feet. However, the legal metre, not the
-    international metre, conversion was used in the computations. The result was
-    the creation of a fictitious unit of measure, referred to as the South
-    African Geodetic foot and the Modified Clarke 1880 ellipsoid.
+    Sir David Gill adopted the values of Clarke's 1880 semi-major and semi-minor
+    axes in British feet. However, the legal metre, not the international metre,
+    conversion was used in the computations. The result was the creation of a
+    fictitious unit of measure, referred to as the South African Geodetic foot
+    and the Modified Clarke 1880 ellipsoid.
   semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
   semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
   inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b
