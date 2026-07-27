@@ -5,6 +5,7 @@ data:
   aliases:
     - Clarke Modified 1880
     - Clarke 1880 (english)
+    - Modified Clarke 1880
   informationSources:
     - title: Clarke 1880 (RMG)
       publicationDate: ''
@@ -36,12 +37,34 @@ data:
       publisher: >-
         Institut national de l'information geographique et forestiere (IGN),
         France
+    - title: South African Units of Length and Area
+      revisionDate: null
+      publicationDate: 1944-05
+      seriesIssueID: null
+      seriesName: null
+      seriesPage: 8-9
+      edition: null
+      editionDate: null
+      otherDetails: ''
+      isbn: null
+      issn: null
+      alternateTitles:
+        - Trigonometrical Survey Special Publication No.2
+      author: D.R. Hendrikz
+      publisher: Union of South Africa Government Printer
   remarks: >-
     Adopts Clarke's values for a and 1/f. Adopts his 1865 ratio of 39.370432
     inches per metre to convert semi-major axis to metres. Also known as Clarke
     Modified 1880. The Clarke 1880 (RGS) figure is one of several modifications
     to the original definition. The name Clarke Modified is usually taken to be
     the RGS modification.
+
+
+    Sir David Gill adopted the values of Clarke's 1880 semi-major and semi-minor
+    axes in British feet. However, the legal metre, not the international metre,
+    conversion was used in the computations. The result was the creation of a
+    fictitious unit of measure, referred to as the South African Geodetic foot
+    and the Modified Clarke 1880 ellipsoid.
   semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
   semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
   inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b
