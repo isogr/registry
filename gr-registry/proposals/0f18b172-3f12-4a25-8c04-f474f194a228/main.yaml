@@ -1,10 +1,12 @@
 id: 0f18b172-3f12-4a25-8c04-f474f194a228
 timeStarted: 2026-07-27T18:22:50.280Z
-timeEdited: 2026-07-27T18:22:50.280Z
+timeEdited: 2026-07-27T18:23:25.922Z
 justification: >-
   Correction of ITRF2008 to NAD 83 (MA11) DTY sign. Submitted by M. Craymer,
   ISOGR Control Body Chair.
 submittingStakeholderGitServerUsername: maccraymer
-items: {}
+items:
+  /coordinate-ops--transformation/6526b40e-bb63-42bd-aebd-af025b0aa94e.yaml:
+    type: clarification
 state: draft
 registerVersion: 17dd533f-d8bc-4d53-8898-2c5361f1e249
