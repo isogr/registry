@@ -1,10 +1,29 @@
 id: a9608dfb-b95d-48c6-a789-7e145ff5dd5c
 timeStarted: 2026-07-22T21:05:06.324Z
 timeEdited: 2026-07-22T21:05:37.591Z
-justification: New US survey foot alias
+justification: New US survey foot alias. Submitted by M. Craymer, ISOGR Control Body Chair.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /unit-of-measurement/9e560831-7481-46c0-b54b-bf19f589ab5f.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 69b3b854-9fb0-4cad-a1b4-aea6fe98ba1e
+timeProposed: 2026-07-27T15:27:35.378Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-07-27T15:27:35.378Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        New US survey foot alias. Submitted by M. Craymer, ISOGR Control Body
+        Chair.
