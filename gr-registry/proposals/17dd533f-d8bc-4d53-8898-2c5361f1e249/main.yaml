@@ -1,10 +1,31 @@
 id: 17dd533f-d8bc-4d53-8898-2c5361f1e249
 timeStarted: 2026-07-22T21:24:06.540Z
 timeEdited: 2026-07-27T13:54:14.293Z
-justification: Updated Clarke 1880 ellipsoid remarks
+justification: >-
+  Updated Clarke 1880 ellipsoid alias, remarks, citation. Submitted by M.
+  Craymer, ISOGR Control Body Chair.
 submittingStakeholderGitServerUsername: maccraymer
 items:
   /ellipsoid/fa0e6d36-3cd5-4ad2-a914-d2951597fb0f.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 69b3b854-9fb0-4cad-a1b4-aea6fe98ba1e
+timeProposed: 2026-07-27T15:32:32.624Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-07-27T15:32:32.624Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        Updated Clarke 1880 ellipsoid alias, remarks, citation. Submitted by M.
+        Craymer, ISOGR Control Body Chair.
