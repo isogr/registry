@@ -69,8 +69,8 @@ data:
     Grid transformation in NTv2 format adopted for use in Newfoundland and
     Labrador, Canada. Updated grid filename to NLCSRSV4A.GSB. Original grid
     NLCSRSV4.GSB used an incorrect TO_DATUM in the NTV2 file header which was
-    corrected in updated grid NLCSRSV4A.GSB. Grid values are identical in both
-    grids and provide the same results.
+    corrected in the updated grid NLCSRSV4A.GSB. Grid values are identical in
+    both grids and provide the same results.
   scope:
     - Spatial referencing
   sourceCRS:
