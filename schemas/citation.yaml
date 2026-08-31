@@ -1,0 +1,53 @@
+title: Citation
+type: object
+required:
+  - id
+  - title
+properties:
+  id:
+    type: string
+    description: Unique identifier for the citation
+  title:
+    type: string
+    description: Title of the cited work
+  author:
+    type: ['null', string]
+    description: Author(s) of the work
+  publisher:
+    type: ['null', string]
+    description: Publisher name
+  edition:
+    type: ['null', string]
+    description: Edition information
+  editionDate:
+    type: ['null', string]
+    description: Date of edition
+  revisionDate:
+    type: ['null', string]
+    description: Date of revision
+  seriesName:
+    type: ['null', string]
+    description: Name of the series
+  seriesIssueID:
+    type: ['null', string]
+    description: Series issue identifier
+  seriesPage:
+    type: ['null', string]
+    description: Page numbers in series
+  isbn:
+    type: ['null', string]
+    description: ISBN number
+  issn:
+    type: ['null', string]
+    description: ISSN number
+  otherDetails:
+    type: ['null', string]
+    description: Additional details, URLs, or notes
+  uuid:
+    type: ['null', string]
+    description: Original UUID from source data (if present)
+  variants:
+    type: array
+    items:
+      type: string
+    description: List of variant identifiers for citations with same title but different metadata

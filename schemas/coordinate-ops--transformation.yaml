@@ -1,0 +1,106 @@
+title: Coordinate Operation - Transformation
+type: object
+required:
+  - id
+  - status
+  - dateAccepted
+  - data
+properties:
+  id:
+    type: string
+  status:
+    type: string
+    enum: [valid, invalid, superseded]
+  dateAccepted:
+    type: string
+    format: date
+  supersededBy:
+    type: array
+    items:
+      type: object
+      properties:
+        classID:
+          type: string
+        itemID:
+          type: string
+  data:
+    type: object
+    required:
+      - identifier
+      - name
+    properties:
+      identifier:
+        type: integer
+      name:
+        type: string
+      extent:
+        type: ['null', object]
+        properties:
+          'n':
+            type: [number, string]
+          e:
+            type: [number, string]
+          s:
+            type: [number, string]
+          w:
+            type: [number, string]
+          name:
+            type: string
+      accuracy:
+        type: object
+        properties:
+          unitOfMeasurement:
+            type: ['null', string]
+          value:
+            type: ['null', string, number]
+      aliases:
+        type: array
+        items:
+          type: string
+      coordOperationMethod:
+        type: string
+      description:
+        type: ['null', string]
+      informationSources:
+        type: array
+        items:
+          type: object
+      operationVersion:
+        type: ['null', string]
+      parameters:
+        type: array
+        items:
+          type: object
+          properties:
+            fileCitation:
+              type: ['null', object]
+            parameter:
+              type: string
+            type:
+              type: string
+            unitOfMeasurement:
+              type: ['null', string]
+            value:
+              type: [string, number]
+      remarks:
+        type: ['null', string]
+      scope:
+        type: [array, string]
+        items:
+          type: string
+      sourceCRS:
+        type: ['null', object]
+        properties:
+          classID:
+            type: string
+          itemID:
+            type: string
+      targetCRS:
+        type: ['null', object]
+        properties:
+          classID:
+            type: string
+          itemID:
+            type: string
+      extentRef:
+        type: string

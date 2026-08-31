@@ -1,0 +1,65 @@
+title: Datum - Geodetic
+type: object
+required:
+  - id
+  - status
+  - dateAccepted
+  - data
+properties:
+  id:
+    type: string
+  status:
+    type: string
+    enum: [valid, invalid, superseded]
+  dateAccepted:
+    type: string
+    format: date
+  data:
+    type: object
+    required:
+      - identifier
+      - name
+    properties:
+      identifier:
+        type: integer
+      name:
+        type: string
+      extent:
+        type: ['null', object]
+        properties:
+          'n':
+            type: number
+          e:
+            type: number
+          s:
+            type: number
+          w:
+            type: number
+          name:
+            type: string
+      aliases:
+        type: array
+        items:
+          type: string
+      coordinateReferenceEpoch:
+        type: ['null', string]
+      definition:
+        type: ['null', string]
+      ellipsoid:
+        type: string
+      informationSources:
+        type: array
+        items:
+          type: object
+      originDescription:
+        type: ['null', string]
+      primeMeridian:
+        type: string
+      releaseDate:
+        type: ['null', string]
+      remarks:
+        type: ['null', string]
+      scope:
+        type: string
+      extentRef:
+        type: string

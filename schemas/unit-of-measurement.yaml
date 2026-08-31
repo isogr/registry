@@ -1,0 +1,46 @@
+title: Unit of Measurement
+type: object
+required:
+  - id
+  - status
+  - dateAccepted
+  - data
+properties:
+  id:
+    type: string
+  status:
+    type: string
+    enum: [valid, invalid, superseded]
+  dateAccepted:
+    type: string
+    format: date
+  data:
+    type: object
+    required:
+      - identifier
+      - name
+    properties:
+      identifier:
+        type: integer
+      name:
+        type: string
+      aliases:
+        type: array
+        items:
+          type: string
+      denominator:
+        type: ['null', number]
+      informationSources:
+        type: array
+        items:
+          type: object
+      measureType:
+        type: string
+      numerator:
+        type: ['null', number]
+      remarks:
+        type: ['null', string]
+      standardUnit:
+        type: string
+      symbol:
+        type: ['null', string]

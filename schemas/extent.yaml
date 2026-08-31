@@ -1,0 +1,49 @@
+title: Extent
+type: object
+required:
+  - id
+  - status
+  - dateAccepted
+  - data
+properties:
+  id:
+    type: string
+  status:
+    type: string
+    enum: [valid, invalid, superseded]
+  dateAccepted:
+    type: string
+    format: date
+  data:
+    type: object
+    required:
+      - identifier
+      - name
+    properties:
+      identifier:
+        type: integer
+      name:
+        type: string
+      extent:
+        type: object
+        properties:
+          'n':
+            type: [string, number]
+          e:
+            type: [string, number]
+          s:
+            type: [string, number]
+          w:
+            type: [string, number]
+          name:
+            type: string
+      informationSources:
+        type: array
+        items:
+          type: object
+      remarks:
+        type: ['null', string]
+      aliases:
+        type: array
+        items:
+          type: string

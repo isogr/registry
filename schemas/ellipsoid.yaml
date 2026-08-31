@@ -1,0 +1,52 @@
+title: Ellipsoid
+type: object
+required:
+  - id
+  - status
+  - dateAccepted
+  - data
+properties:
+  id:
+    type: string
+  status:
+    type: string
+    enum: [valid, invalid, superseded]
+  dateAccepted:
+    type: string
+    format: date
+  data:
+    type: object
+    required:
+      - identifier
+      - name
+    properties:
+      identifier:
+        type: integer
+      name:
+        type: string
+      aliases:
+        type: array
+        items:
+          type: string
+      description:
+        type: ['null', string]
+      informationSources:
+        type: array
+        items:
+          type: object
+      inverseFlattening:
+        type: ['null', number]
+      inverseFlatteningUoM:
+        type: ['null', string]
+      isSphere:
+        type: boolean
+      remarks:
+        type: ['null', string]
+      semiMajorAxis:
+        type: number
+      semiMajorAxisUoM:
+        type: ['null', string]
+      semiMinorAxis:
+        type: ['null', number]
+      semiMinorAxisUoM:
+        type: ['null', string]
