@@ -6,7 +6,7 @@ submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/e212b24f-3a10-4785-b442-492f4b8df692.yaml:
     type: clarification
-state: proposed
+state: pending-control-body-review
 registerVersion: 17dd533f-d8bc-4d53-8898-2c5361f1e249
 timeProposed: 2026-09-22T21:51:21.430Z
 pastTransitions:
@@ -25,3 +25,19 @@ pastTransitions:
           value: paneron@craymer.com
     input:
       justification: Update NAD83(Orig) to NAD83(CSRS)v6 [NLv1] grid filename.
+  - label: Submit for control body review
+    timestamp: 2026-09-22T21:51:48.123Z
+    fromState: proposed
+    toState: pending-control-body-review
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      registerManagerNotes: Accepted for review by the Control Body.
+registerManagerNotes: Accepted for review by the Control Body.
