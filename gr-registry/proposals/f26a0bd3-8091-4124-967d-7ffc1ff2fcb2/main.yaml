@@ -6,5 +6,24 @@ submittingStakeholderGitServerUsername: maccraymer
 items:
   /ellipsoid/41c8f1a8-76fd-4edf-9bdb-6eca1931c5fb.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 17dd533f-d8bc-4d53-8898-2c5361f1e249
+timeProposed: 2026-09-22T21:54:36.363Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-09-22T21:54:36.363Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        Correction of WGS 84 inverse flattening. M. Craymer, ISOGR Control Body
+        Chair.
