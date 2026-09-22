@@ -108,7 +108,7 @@ data:
       parameter: 76fd4ed1-3f83-47dc-839f-3ecf111c2636
       type: measure (w/ UoM)
       unitOfMeasurement: e6736507-2fa3-4a3a-9b4c-cae0f2185b1a
-      value: -0.0001
+      value: '0.0001'
     - fileCitation: null
       parameter: 42c379ed-303e-4a5f-87f2-04c95d2f4b63
       type: measure (w/ UoM)
