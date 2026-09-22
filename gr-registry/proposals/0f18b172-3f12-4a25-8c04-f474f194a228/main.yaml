@@ -8,5 +8,24 @@ submittingStakeholderGitServerUsername: maccraymer
 items:
   /coordinate-ops--transformation/6526b40e-bb63-42bd-aebd-af025b0aa94e.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 17dd533f-d8bc-4d53-8898-2c5361f1e249
+timeProposed: 2026-09-22T21:49:17.495Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-09-22T21:49:17.495Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        Correction of ITRF2008 to NAD 83 (MA11) DTY sign. Submitted by M.
+        Craymer, ISOGR Control Body Chair.
