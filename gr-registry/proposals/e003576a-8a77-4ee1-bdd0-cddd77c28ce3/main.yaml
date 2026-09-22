@@ -32,5 +32,24 @@ items:
     type: clarification
   /coordinate-ops--transformation/fffc9fe3-c34d-4153-848a-bbdb8dc57fd5.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: 17dd533f-d8bc-4d53-8898-2c5361f1e249
+timeProposed: 2026-09-22T21:53:04.520Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-09-22T21:53:04.520Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        Correction of unit for ITRFxx-ITRF2020 transformations. Submitted by M.
+        Craymer, ISOGR Control Body Chair.
