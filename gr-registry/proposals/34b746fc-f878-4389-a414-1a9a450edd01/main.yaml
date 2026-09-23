@@ -1,6 +1,6 @@
 id: 34b746fc-f878-4389-a414-1a9a450edd01
 timeStarted: 2026-09-23T01:17:53.798Z
-timeEdited: 2026-09-23T01:20:31.222Z
+timeEdited: 2026-09-23T01:21:00.154Z
 justification: >-
   Correction to CGVD accuracies. Submitted by M. Craymer, Canadian Geodetic
   Survey.
@@ -9,6 +9,8 @@ items:
   /coordinate-ops--transformation/237125e4-3f8c-4312-b5c1-97678f9b79cf.yaml:
     type: clarification
   /coordinate-ops--transformation/1672359e-deed-494f-8a97-f410ca983ee0.yaml:
+    type: clarification
+  /coordinate-ops--transformation/29bab530-e985-40fa-ac17-5844757d8e36.yaml:
     type: clarification
 state: draft
 registerVersion: f26a0bd3-8091-4124-967d-7ffc1ff2fcb2
