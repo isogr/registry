@@ -32,5 +32,24 @@ items:
     type: clarification
   /coordinate-ops--transformation/ae4e5eab-cab8-4752-bae1-8b988bef8182.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: f26a0bd3-8091-4124-967d-7ffc1ff2fcb2
+timeProposed: 2026-09-28T16:58:11.885Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-09-28T16:58:11.885Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        Correction to CGVD accuracies. Submitted by M. Craymer, Canadian
+        Geodetic Survey.
