@@ -1,0 +1,26 @@
+submittingStakeholderGitServerUsername: maccraymer
+registerVersion: ''
+id: 2b0803ca-a5ce-4310-ba08-47fa59a9ecf9
+timeStarted: '2026-10-26T17:59:44.389Z'
+timeEdited: '2026-10-26T17:59:44.389Z'
+state: draft
+justification: imported from converter
+items:
+  /extent/a01218a3-3797-496d-b269-c1d2fa9a2230.yaml:
+    type: addition
+  /coordinate-ops--conversion/de16e778-b3f3-446d-a487-f2bedd0e012d.yaml:
+    type: addition
+  /datums--geodetic/a6ec6fa9-0497-4558-a5a4-d7cba954b7d8.yaml:
+    type: addition
+  /crs--geodetic/50c0bd7b-17ec-49ad-b18a-bc034c194807.yaml:
+    type: addition
+  /crs--geodetic/d1ee46c6-01ed-49ae-8efb-00ebd493e42a.yaml:
+    type: addition
+  /crs--geodetic/62ab4392-2941-4360-8ef7-8a48840af629.yaml:
+    type: addition
+  /crs--projected/d13873c9-61f2-46fe-a7fa-b30ff5ac5768.yaml:
+    type: addition
+  /coordinate-ops--transformation/e6e0a884-4de9-4c74-8f17-6e6c87e43b33.yaml:
+    type: addition
+  /coordinate-ops--transformation/e62dd8ca-feae-4d8c-9735-6d8f6e224bf1.yaml:
+    type: addition
