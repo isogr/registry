@@ -1,0 +1,161 @@
+id: 8149366f-f1c1-4ffc-b5ae-eab12505c282
+data:
+  identifier: -8
+  name: SIRGAS-CON SIR17P01 to GGD2015 [GLSCv1]
+  aliases: []
+  informationSources:
+    - title: >-
+        Manual for the Guyana Coordinate Reference System incorporating Guyana
+        Geodetic Datum of 2015 (GGD2015) and Guyana Map Grid (GMG)
+      publicationDate: ''
+      revisionDate: '2026-10-22'
+      edition: ''
+      author: >-
+        Geodetic Systems and Services, Guyana Lands and Surveys Commission
+        (GLSC)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: 'Document Reference No: GLSC-GSS-001.3'
+      uri: https://geodesy.lands.gov.gy (accessed 2026-10-23)
+      publisher: Guyana Lands and Surveys Commission (GLSC)
+    - title: >-
+        Geodesy Unit Portal: Coordinate reference systems and geodetic
+        infrastructure for Guyana
+      publicationDate: ''
+      revisionDate: '2026-08-31'
+      edition: ''
+      author: Geodesy Unit, Guyana Lands and Surveys Commission (GLSC)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: https://geodesy.lands.gov.gy (accessed 2026-08-26)
+      publisher: Guyana Lands and Surveys Commission (GLSC)
+    - title: GLSC Geodesy Unit Application
+      publicationDate: ''
+      revisionDate: '2026-01-16'
+      edition: ''
+      author: Geodesy Unit, Guyana Lands and Surveys Commission (GLSC)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Windows desktop application available for download from GLSC web page.
+      uri: https://geodesy.lands.gov.gy (accessed 2026-06-12)
+      publisher: Guyana Lands and Surveys Commission (GLSC)
+    - title: CORS Extension 2023 Project – GNSS Processing Report
+      publicationDate: ''
+      revisionDate: '2023-09-08'
+      edition: ''
+      author: Ordnance Survey International Services Ltd (OSI)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: 'Classified: Official Sensitive Commercial'
+      uri: ''
+      publisher: Ordnance Survey International Services Ltd (OSI)
+    - title: Revisiting ITRF transformation parameters to GGD2015 - Revision 2
+      publicationDate: ''
+      revisionDate: '2026-09-20'
+      edition: ''
+      author: Keith Miller
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Internal report.
+      uri: ''
+      publisher: Guyana Lands and Surveys Commission (GLSC)
+  remarks: >-
+    GGD2015 is nominally aligned to SIRGAS-CON SIR17P01 at epoch 2015.0.
+    SIRGAS-CON SIR17P01 is considred to be equivalent to ITRF2014.
+  operationVersion: GLSCv1
+  coordOperationMethod: 3460c77c-1172-4fe9-ae3f-9c1685a55267
+  scope: Spatial referencing
+  accuracy:
+    value: 0.05
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 53740382-efb9-4f4d-8a99-3db85f700f02
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 4d346e28-5b61-4de6-976a-60a3e4b736ad
+  extentRef: d69a9936-6fff-41b5-a7ce-c5863ce7cde6
+  parameters:
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+      unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 89e37670-d103-4c57-94f5-fca410189132
+      unitOfMeasurement: 831ce33a-56af-4acf-addc-4f1a9428a7b8
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 76fd4ed1-3f83-47dc-839f-3ecf111c2636
+      unitOfMeasurement: 831ce33a-56af-4acf-addc-4f1a9428a7b8
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 42c379ed-303e-4a5f-87f2-04c95d2f4b63
+      unitOfMeasurement: 831ce33a-56af-4acf-addc-4f1a9428a7b8
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0.203'
+      parameter: c127d884-6f2f-4491-99ab-1c918bd2c954
+      unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0.403'
+      parameter: a9e25756-e699-420d-a9be-d0f83f7115d9
+      unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0.121'
+      parameter: 88228e9d-3b44-41ff-8ca7-a73a8acdc881
+      unitOfMeasurement: 9b083c4d-cf0c-4d71-afc1-4dd1a1109c42
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 884b428c-57f0-4c0b-a054-4a49ca76ee06
+      unitOfMeasurement: 0a7eb618-4789-4f1b-a5a1-107c7476867e
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '2015'
+      parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
+      unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+dateAccepted: '2026-10-26T17:44:33.597Z'
+status: valid

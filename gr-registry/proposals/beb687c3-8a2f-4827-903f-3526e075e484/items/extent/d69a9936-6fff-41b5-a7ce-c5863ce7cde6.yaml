@@ -1,0 +1,15 @@
+id: d69a9936-6fff-41b5-a7ce-c5863ce7cde6
+data:
+  identifier: -1
+  name: Guyana - onshore & offshore
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: Guyana - onshore & offshore
+    s: '1.18'
+    w: '-61.39'
+    'n': '10.7'
+    e: '-55.77'
+dateAccepted: '2026-10-26T17:44:33.597Z'
+status: valid
