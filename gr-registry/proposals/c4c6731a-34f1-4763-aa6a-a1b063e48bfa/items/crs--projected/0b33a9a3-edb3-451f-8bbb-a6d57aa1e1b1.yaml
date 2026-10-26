@@ -1,0 +1,61 @@
+id: 0b33a9a3-edb3-451f-8bbb-a6d57aa1e1b1
+data:
+  identifier: -7
+  name: GGD2015 / Guyana Map Grid
+  aliases:
+    - Guyana Geodetic Datum of 2015
+    - GGD2015 / GMG
+  informationSources:
+    - title: >-
+        Manual for the Guyana Coordinate Reference System incorporating Guyana
+        Geodetic Datum of 2015 (GGD2015) and Guyana Map Grid (GMG)
+      publicationDate: ''
+      revisionDate: '2026-10-22'
+      edition: ''
+      author: >-
+        Geodetic Systems and Services, Guyana Lands and Surveys Commission
+        (GLSC)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: 'Document Reference No: GLSC-GSS-001.3'
+      uri: https://geodesy.lands.gov.gy (accessed 2026-10-23)
+      publisher: Guyana Lands and Surveys Commission (GLSC)
+    - title: >-
+        Geodesy Unit Portal: Coordinate reference systems and geodetic
+        infrastructure for Guyana
+      publicationDate: ''
+      revisionDate: '2026-08-31'
+      edition: ''
+      author: Geodesy Unit, Guyana Lands and Surveys Commission (GLSC)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Web page
+      uri: https://geodesy.lands.gov.gy (accessed 2026-08-26)
+      publisher: Guyana Lands and Surveys Commission (GLSC)
+    - title: CORS Extension 2023 Project – GNSS Processing Report
+      publicationDate: ''
+      revisionDate: '2023-09-08'
+      edition: ''
+      author: Ordnance Survey International Services Ltd (OSI)
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: 'Classified: Official Sensitive Commercial'
+      uri: ''
+      publisher: Ordnance Survey International Services Ltd (OSI)
+  remarks: Replaces PSAD56 / UTM in Guyana.
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: 618628cb-4ec1-4da9-aad0-e902078e0778
+  baseCRS:
+    classID: crs--geodetic
+    itemID: 65fbdd7f-4b93-4636-9367-7b378befbefd
+  operation:
+    classID: coordinate-ops--conversion
+    itemID: 48d3f8a4-80b8-4697-9821-21f8cc1aea09
+  extentRef: 57089ba2-397a-4580-acf6-09391d24fa94
+dateAccepted: '2026-10-26T17:51:08.152Z'
+status: valid
