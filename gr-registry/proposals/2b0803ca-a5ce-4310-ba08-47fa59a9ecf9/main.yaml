@@ -3,8 +3,10 @@ registerVersion: ''
 id: 2b0803ca-a5ce-4310-ba08-47fa59a9ecf9
 timeStarted: '2026-10-26T17:59:44.389Z'
 timeEdited: '2026-10-26T17:59:44.389Z'
-state: draft
-justification: imported from converter
+state: proposed
+justification: >-
+  GGD2015 datum, CRSs & transformations. Submitted by David Cole, Lands & Survey
+  Commission (GLSC), Guyana.
 items:
   /extent/a01218a3-3797-496d-b269-c1d2fa9a2230.yaml:
     type: addition
@@ -24,3 +26,22 @@ items:
     type: addition
   /coordinate-ops--transformation/e62dd8ca-feae-4d8c-9735-6d8f6e224bf1.yaml:
     type: addition
+timeProposed: 2026-10-26T18:04:10.409Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-10-26T18:04:10.409Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        GGD2015 datum, CRSs & transformations. Submitted by David Cole, Lands &
+        Survey Commission (GLSC), Guyana.
