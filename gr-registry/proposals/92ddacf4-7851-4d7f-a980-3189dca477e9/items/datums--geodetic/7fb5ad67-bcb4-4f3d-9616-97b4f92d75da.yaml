@@ -1,0 +1,44 @@
+id: 7fb5ad67-bcb4-4f3d-9616-97b4f92d75da
+data:
+  identifier: -29
+  name: Cape Datum
+  aliases:
+    - Cape
+    - Buffelsfontein Datum
+  informationSources:
+    - title: The African Arc of the 30th Meridian
+      publicationDate: '1997'
+      revisionDate: ''
+      edition: ''
+      author: T. Zakiewicz
+      seriesName: South African Journal of Surveying and Mapping
+      seriesIssueID: Volume 2
+      seriesPage: 65-82
+      otherDetails: ''
+      uri: ''
+      publisher: South African Photogrammetry and Geo-information Society
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: Internal document
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+  remarks: Replaced by the Hartebeesthoek94 datum in South Africa on 1999-01-01.
+  scope: Spatial referencing
+  originDescription: >-
+    Horizontal datum with fundamental point at Buffelsfontein (latitude:
+    33°59'32.000"S, longitude: 25°30'44.622"E of Greenwich).
+  releaseDate: '1907'
+  extentRef: 5dd9ddeb-4663-4073-aa1c-55b0766f3b6c
+  coordinateReferenceEpoch: null
+  ellipsoid: fa0e6d36-3cd5-4ad2-a914-d2951597fb0f
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+dateAccepted: '2026-11-11T02:06:52.781Z'
+status: valid

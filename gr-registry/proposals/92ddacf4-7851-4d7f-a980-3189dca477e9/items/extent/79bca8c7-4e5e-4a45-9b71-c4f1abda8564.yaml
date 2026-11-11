@@ -1,0 +1,15 @@
+id: 79bca8c7-4e5e-4a45-9b71-c4f1abda8564
+data:
+  identifier: -3
+  name: South Africa - 18°E to 20°E
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: South Africa - onshore - 18°E to 20°E
+    s: '-35'
+    w: '18'
+    'n': '-28.5'
+    e: '20'
+dateAccepted: '2026-11-11T02:06:52.781Z'
+status: valid

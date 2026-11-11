@@ -1,0 +1,57 @@
+id: a34bb783-bc15-4357-9d15-ceccbfe908f9
+data:
+  identifier: -34
+  name: Cape / TM Lo19E
+  aliases:
+    - Cape Datum
+    - Buffelsfontein Datum
+  informationSources:
+    - title: Tables for the Gauss Conform Projection Clarke 1880 Spheroid
+      publicationDate: 1943-4
+      revisionDate: ''
+      edition: ''
+      author: D.R. Hendrikz, O. Schreiber
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: 1-18
+      otherDetails: ''
+      uri: ''
+      publisher: Union of South Africa Government Printer
+    - title: The African Arc of the 30th Meridian
+      publicationDate: '1997'
+      revisionDate: ''
+      edition: ''
+      author: T. Zakiewicz
+      seriesName: South African Journal of Surveying and Mapping
+      seriesIssueID: Volume 2
+      seriesPage: 65-82
+      otherDetails: ''
+      uri: ''
+      publisher: South African Photogrammetry and Geo-information Society
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: Internal document
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+  remarks: ''
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: b6c711ce-1471-4392-99a8-6f575e6633d9
+  baseCRS:
+    classID: crs--geodetic
+    itemID: be153ef2-c1d4-4fee-9c74-6340f6537331
+  operation:
+    classID: coordinate-ops--conversion
+    itemID: c5c3c554-051c-4dfb-9087-a3e8c37a9acc
+  extentRef: 79bca8c7-4e5e-4a45-9b71-c4f1abda8564
+dateAccepted: '2026-11-11T02:06:52.781Z'
+status: valid

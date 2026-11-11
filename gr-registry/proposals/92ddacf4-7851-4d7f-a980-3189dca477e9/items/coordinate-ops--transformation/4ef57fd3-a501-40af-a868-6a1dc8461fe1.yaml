@@ -1,0 +1,102 @@
+id: 4ef57fd3-a501-40af-a868-6a1dc8461fe1
+data:
+  identifier: -53
+  name: ITRF91 to Hart94 [NGIv1]
+  aliases: []
+  informationSources:
+    - title: The New South African (Hartebeesthoek94) Datum
+      publicationDate: 1998-11
+      revisionDate: ''
+      edition: ''
+      author: P.J. Vorster
+      seriesName: South African Journal of Geo-Information
+      seriesIssueID: Volume 17, Part 6
+      seriesPage: 160-170
+      otherDetails: ''
+      uri: ''
+      publisher: South African Photogrammetry and Geo-information Society
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: Internal document
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+    - title: >-
+        The Implementation of the Hartebeesthoek94 Co-ordinate System in South
+        Africa
+      publicationDate: 1999-10
+      revisionDate: ''
+      edition: ''
+      author: R. Wonnacott
+      seriesName: Survey Review
+      seriesIssueID: Volume 35, Issue 274
+      seriesPage: 243-250
+      otherDetails: 10.1179/003962699791483699
+      uri: 'Published online: 29 Nov 2013'
+      publisher: Taylor & Francis
+  remarks: >-
+    Hart94 is aligned to ITRF91 at epoch 1994.0 by a null 7 parameter Helmert
+    transformation with an accuracy of about 5 cm.
+  operationVersion: NGIv1
+  coordOperationMethod: cab73776-d2ae-4c47-8d18-72dc3e2df494
+  scope: Spatial referencing
+  accuracy:
+    value: 0.05
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: 96467a2c-cb84-478a-94a7-4c3488435a67
+  targetCRS:
+    classID: crs--geodetic
+    itemID: 0d0eab30-cebe-4aae-913f-5a41800c6ff0
+  extentRef: e31fbb7d-84cb-48d9-9876-f02664342abd
+  parameters:
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: f2b42193-1669-4320-a2b0-c1ecf71520cb
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 49198a70-aaa8-4e12-9014-efb789f5a004
+      unitOfMeasurement: dba7ef74-c9bd-4f8e-bcc2-b29163e95565
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: e5c3331d-b1a1-47a7-b7aa-560e3c110928
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: ce8ddaf4-68b2-43d1-baa9-88656ee12322
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+      unitOfMeasurement: 99ee8718-40a7-4240-983a-d81f038e6cc3
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '0'
+      parameter: d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+      unitOfMeasurement: 40a1a0e1-19ca-40e5-9d56-66b9735e51cd
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '1994'
+      parameter: ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
+      unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+dateAccepted: '2026-11-11T02:06:52.781Z'
+status: valid

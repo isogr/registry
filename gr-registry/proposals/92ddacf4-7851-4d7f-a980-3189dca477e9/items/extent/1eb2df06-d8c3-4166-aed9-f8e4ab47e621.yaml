@@ -1,0 +1,15 @@
+id: 1eb2df06-d8c3-4166-aed9-f8e4ab47e621
+data:
+  identifier: -7
+  name: South Africa - 26°E to 28°E
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: South Africa - onshore - 26°E to 28°E
+    s: '-34'
+    w: '26'
+    'n': '-22.75'
+    e: '28'
+dateAccepted: '2026-11-11T02:06:52.781Z'
+status: valid

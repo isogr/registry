@@ -1,0 +1,15 @@
+id: 5dd9ddeb-4663-4073-aa1c-55b0766f3b6c
+data:
+  identifier: -1
+  name: South Africa - mainland
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: South Africa - mainland
+    s: '-34.88'
+    w: '16.45'
+    'n': '-22.13'
+    e: '32.95'
+dateAccepted: '2026-11-11T02:06:52.781Z'
+status: valid

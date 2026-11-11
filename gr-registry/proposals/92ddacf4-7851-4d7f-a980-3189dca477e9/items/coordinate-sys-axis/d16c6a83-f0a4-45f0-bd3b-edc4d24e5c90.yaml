@@ -1,0 +1,49 @@
+id: d16c6a83-f0a4-45f0-bd3b-edc4d24e5c90
+data:
+  identifier: -13
+  name: Southing
+  aliases: []
+  informationSources:
+    - title: The Theory of Map Projections
+      publicationDate: 1946-7
+      revisionDate: ''
+      edition: ''
+      author: D.R. Hendrikz
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: ''
+      publisher: Union of South Africa Government Printer
+    - title: >-
+        EPSG Guidance Note 7-2: Coordinate conversions and transformations
+        including formulas
+      publicationDate: ''
+      revisionDate: 2026-07
+      edition: ''
+      author: International Association of Oil and Gas Producers (IOGP)
+      seriesName: IOGP Report
+      seriesIssueID: 373-07-2
+      seriesPage: ''
+      otherDetails: ''
+      uri: Version 74
+      publisher: International Association of Oil and Gas Producers (IOGP)
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: Internal document
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+  remarks: Southing
+  orientation: south
+  abbreviation: X
+  unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+dateAccepted: '2026-11-11T02:06:52.781Z'
+status: valid

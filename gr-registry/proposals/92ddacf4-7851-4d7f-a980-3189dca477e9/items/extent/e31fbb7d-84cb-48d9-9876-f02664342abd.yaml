@@ -1,0 +1,15 @@
+id: e31fbb7d-84cb-48d9-9876-f02664342abd
+data:
+  identifier: -11
+  name: South Africa - onshore
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: South Africa - onshore including coastal islands
+    s: '-34.88'
+    w: '16.45'
+    'n': '-22.13'
+    e: '32.95'
+dateAccepted: '2026-11-11T02:06:52.781Z'
+status: valid

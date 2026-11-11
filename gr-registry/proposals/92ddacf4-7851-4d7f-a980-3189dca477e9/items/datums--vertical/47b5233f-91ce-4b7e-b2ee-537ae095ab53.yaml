@@ -1,0 +1,38 @@
+id: 47b5233f-91ce-4b7e-b2ee-537ae095ab53
+data:
+  identifier: -31
+  name: South African Land Levelling Datum
+  aliases:
+    - SALLD
+  informationSources:
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: Internal document
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+  remarks: >-
+    Geodetic levelling commenced in 1904, however, a period of inactivity
+    followed after which levelling resumed in 1925. SALLD is comprised of 43
+    Primary Levelling routes, 15 Secondary Levelling routes and 14 Tertiary
+    Levelling circuits. The levelling network has not been computed using actual
+    gravity measurements. Instead, interpolated gravity values were used. The
+    network has not been adjusted.
+  scope: Spatial referencing
+  originDescription: >-
+    The reference surface is defined by mean sea level as determined by tidal
+    observations at Cape Town harbour in 1900 and 1907. The reference surface is
+    modelled by the SAGEOID2010 hybrid geoid model, referenced to the ITRF2005
+    and the WGS 84 reference ellipsoid. The heights are orthometric.
+  releaseDate: ''
+  extentRef: 5dd9ddeb-4663-4073-aa1c-55b0766f3b6c
+  coordinateReferenceEpoch: null
+dateAccepted: '2026-11-11T02:06:52.781Z'
+status: valid

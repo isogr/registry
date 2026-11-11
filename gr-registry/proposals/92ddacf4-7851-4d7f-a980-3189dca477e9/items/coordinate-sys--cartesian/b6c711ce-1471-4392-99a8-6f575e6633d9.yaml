@@ -1,0 +1,62 @@
+id: b6c711ce-1471-4392-99a8-6f575e6633d9
+data:
+  identifier: -14
+  name: 'Cartesian 2D CS. Axes: westing, southing (Y,X)'
+  aliases: []
+  informationSources:
+    - title: Tables for the Gauss Conform Projection Clarke 1880 Spheroid
+      publicationDate: 1943-4
+      revisionDate: ''
+      edition: ''
+      author: D.R. Hendrikz, O. Schreiber
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: 1-18
+      otherDetails: ''
+      uri: ''
+      publisher: Union of South Africa Government Printer
+    - title: >-
+        EPSG Guidance Note 7-2: Coordinate conversions and transformations
+        including formulas
+      publicationDate: ''
+      revisionDate: 2026-07
+      edition: ''
+      author: International Association of Oil and Gas Producers (IOGP)
+      seriesName: IOGP Report
+      seriesIssueID: 373-07-2
+      seriesPage: ''
+      otherDetails: ''
+      uri: Version 74
+      publisher: International Association of Oil and Gas Producers (IOGP)
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: Internal document
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+    - title: >-
+        The Implementation of the Hartebeesthoek94 Co-ordinate System in South
+        Africa
+      publicationDate: 1999-10
+      revisionDate: ''
+      edition: ''
+      author: R. Wonnacott
+      seriesName: Survey Review
+      seriesIssueID: Volume 35, Issue 274
+      seriesPage: 243-250
+      otherDetails: 10.1179/003962699791483699
+      uri: 'Published online: 29 Nov 2013'
+      publisher: Taylor & Francis
+  remarks: ''
+  coordinateSystemAxes:
+    - 5ecc2a35-4547-45ca-b096-a8815431a820
+    - d16c6a83-f0a4-45f0-bd3b-edc4d24e5c90
+dateAccepted: '2026-11-11T02:06:52.781Z'
+status: valid
