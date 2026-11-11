@@ -1,0 +1,36 @@
+id: abfde309-d3d3-4a74-9a68-dba5dbdd6a58
+data:
+  identifier: -16
+  name: False southing
+  aliases: []
+  informationSources:
+    - title: Tables for the Gauss Conform Projection Clarke 1880 Spheroid
+      publicationDate: 1943-4
+      revisionDate: ''
+      edition: ''
+      author: D.R. Hendrikz, O. Schreiber
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: 1-18
+      otherDetails: ''
+      uri: ''
+      publisher: Union of South Africa Government Printer
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: Internal document
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+  remarks: >-
+    Constant value that is added to the southing coordinates of a projected
+    coordinate system to avoid negative values.
+  minimumOccurs: null
+dateAccepted: '2026-11-11T02:31:43.082Z'
+status: valid

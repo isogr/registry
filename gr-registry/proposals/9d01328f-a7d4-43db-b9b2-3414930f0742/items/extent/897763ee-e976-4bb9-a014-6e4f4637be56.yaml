@@ -1,0 +1,15 @@
+id: 897763ee-e976-4bb9-a014-6e4f4637be56
+data:
+  identifier: -5
+  name: South Africa - 22°E to 24°E
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: South Africa - onshore - 22°E to 24°E
+    s: '-34.5'
+    w: '22'
+    'n': '-25.25'
+    e: '24'
+dateAccepted: '2026-11-11T02:31:43.082Z'
+status: valid

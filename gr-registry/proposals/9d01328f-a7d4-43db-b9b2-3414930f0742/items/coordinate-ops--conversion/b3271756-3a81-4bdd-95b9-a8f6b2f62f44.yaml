@@ -1,0 +1,66 @@
+id: b3271756-3a81-4bdd-95b9-a8f6b2f62f44
+data:
+  identifier: -22
+  name: RSA TM Lo21E
+  aliases:
+    - Gauss Conform Lo21
+  informationSources:
+    - title: Tables for the Gauss Conform Projection Clarke 1880 Spheroid
+      publicationDate: 1943-4
+      revisionDate: ''
+      edition: ''
+      author: D.R. Hendrikz, O. Schreiber
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: 1-18
+      otherDetails: ''
+      uri: ''
+      publisher: Union of South Africa Government Printer
+    - title: >-
+        EPSG Guidance Note 7-2: Coordinate conversions and transformations
+        including formulas
+      publicationDate: ''
+      revisionDate: 2026-07
+      edition: ''
+      author: International Association of Oil and Gas Producers (IOGP)
+      seriesName: IOGP Report
+      seriesIssueID: 373-07-2
+      seriesPage: ''
+      otherDetails: ''
+      uri: Version 74
+      publisher: International Association of Oil and Gas Producers (IOGP)
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: Internal document
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+  remarks: ''
+  coordinateOperationMethod: 4daa2893-937a-4fb6-902c-21d22efaa3ff
+  scope: Spatial referencing
+  parameters:
+    - value: '0'
+      parameter: 1842c20c-c724-46b5-93db-75994aec4536
+      unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
+    - value: '21'
+      parameter: f9e5b20f-dbd4-402e-a35c-dd26b0c58c6b
+      unitOfMeasurement: 1d86d720-ff1a-47ef-819e-2fb3524c9ce9
+    - value: '1'
+      parameter: bc5a79ba-6a41-4250-adc8-408b370ac9b6
+      unitOfMeasurement: ff19fda6-47af-4474-ac8a-04ee2267f702
+    - value: '0'
+      parameter: 42d9aed8-66d2-44dd-b6a2-89de79a84669
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+    - value: '0'
+      parameter: abfde309-d3d3-4a74-9a68-dba5dbdd6a58
+      unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  extentRef: 8abb81b8-bc67-4eb0-8140-aa26386aca6e
+dateAccepted: '2026-11-11T02:31:43.082Z'
+status: valid

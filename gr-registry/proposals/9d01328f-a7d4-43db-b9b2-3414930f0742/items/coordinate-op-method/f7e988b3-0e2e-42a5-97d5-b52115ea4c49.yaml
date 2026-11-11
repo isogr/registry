@@ -1,0 +1,57 @@
+id: f7e988b3-0e2e-42a5-97d5-b52115ea4c49
+data:
+  identifier: -18
+  name: Time-Specific Position Vector Transformation (3D Cartesian to 2D Geographic)
+  aliases: []
+  informationSources: []
+  remarks: >-
+    ORIGINAL VERSION
+
+    Three step transformation from 3D geocentric ITRF91 to 2D geographic Hart94.
+    First step involves a time-specific position vector transformation of 3D
+    Cartesian coordinates from ITRF91 to Hart94 (ISOGR:1337).  The second step
+    involves conversion of the Hart94 3D Cartesian coordinates to Hart94 3D
+    geographic coordinates (ISOGR:78), and the third step involves convering
+    Hart94 3D geographic coordinats to Hart 2D geographic coordinates
+    (ISOGR:86). This method uses clockwise rotations and is similar to the
+    Coordinate Frame Transformation methods that uses counter-clockwise
+    rotations. The Position Vector (clockwise) convention is used by the
+    International Earth Rotation and Reference Systems Service (IERS) and
+    International GNSS Service (IGS).
+
+
+    MC  REVISION 2026-08-28/31
+
+    Three step transformation from 3D geocentric to 2D geographic. The first
+    step is a time-specific position vector transformation of 3D Cartesian
+    coordinates (ISOGR:1337).  The second step is a conversion of the  3D
+    Cartesian coordinates to 3D geographic coordinates (ISOGR:78). The third and
+    final step is a conversion of 3D geographic coordinates to 2D geographic
+    coordinates (ISOGR:86). This method uses clockwise rotations and is similar
+    to the Coordinate Frame Transformation methods that uses counter-clockwise
+    rotations. The Position Vector (clockwise) convention is used by the
+    International Earth Rotation and Reference Systems Service (IERS) and
+    International GNSS Service (IGS).
+  parameters:
+    - f2b42193-1669-4320-a2b0-c1ecf71520cb
+    - c815b6d3-19c5-4a59-8bbc-bec6416ddf28
+    - 49198a70-aaa8-4e12-9014-efb789f5a004
+    - e5c3331d-b1a1-47a7-b7aa-560e3c110928
+    - ce8ddaf4-68b2-43d1-baa9-88656ee12322
+    - 8552ec2b-c9e8-4a37-9cbb-2f0ffe80fdbe
+    - d6e758cd-a010-4b4b-b5b4-4ad3ac37dfdd
+    - ea1eb77f-bb0a-4046-bd47-5c396c58f5ec
+  formulaCitation:
+    title: The New South African (Hartebeesthoek94) Datum
+    publicationDate: 1998-11
+    revisionDate: ''
+    edition: ''
+    author: P.J. Vorster
+    seriesName: South African Journal of Geo-Information
+    seriesIssueID: Volume 17, Part 6
+    seriesPage: 160-170
+    otherDetails: ''
+    uri: ''
+    publisher: South African Photogrammetry and Geo-information Society
+dateAccepted: '2026-11-11T02:31:43.082Z'
+status: valid

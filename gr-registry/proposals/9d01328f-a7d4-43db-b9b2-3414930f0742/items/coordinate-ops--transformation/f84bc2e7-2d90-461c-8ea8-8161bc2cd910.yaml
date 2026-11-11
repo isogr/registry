@@ -1,0 +1,81 @@
+id: f84bc2e7-2d90-461c-8ea8-8161bc2cd910
+data:
+  identifier: -54
+  name: ITRF2005 to SALLD [NGIv1]
+  aliases:
+    - ITRF2005 to SAGEOID2010
+  informationSources:
+    - title: 'The South African Geoid 2010: SAGEOID10'
+      publicationDate: 2010-06
+      revisionDate: ''
+      edition: ''
+      author: G Chandler, C Merry
+      seriesName: PositionIT
+      seriesIssueID: June 2010
+      seriesPage: 29-33
+      otherDetails: ''
+      uri: >-
+        SAGEOID10 available from ftp://196.15.132.3/South African Geoid/
+        (accessed 2026-05-19).
+      publisher: EE Publishers (Pty) Ltd
+    - title: Standard for the National Geoid Model
+      publicationDate: ''
+      revisionDate: '2019-02-28'
+      edition: '1'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: Internal document
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+  remarks: >-
+    The SAGEOID2010 provides a 2.5 x 2.5 degree grid of geoidal heights in order
+    to convert between ellipsoidal (h) and orthometric (H) heights in South
+    Africa.
+  operationVersion: NGIv1
+  coordOperationMethod: 4309b433-ed1f-417f-ba34-3496e6edadf6
+  scope: Spatial referencing
+  accuracy:
+    value: 0.07
+    unitOfMeasurement: 932dce03-daeb-4762-ac71-81c69c41746b
+  sourceCRS:
+    classID: crs--geodetic
+    itemID: a7605446-a937-418f-9114-73b4883d0e9b
+  targetCRS:
+    classID: crs--vertical
+    itemID: 17d9d49d-095b-4ded-86d1-c2a8269808a7
+  extentRef: cef16681-05c1-47e2-a686-9efe6fea16b7
+  parameters:
+    - type: parameter file name
+      fileCitation:
+        title: 'The South African Geoid 2010: SAGEOID10'
+        publicationDate: 2010-06
+        revisionDate: ''
+        edition: ''
+        author: G Chandler, C Merry
+        seriesName: PositionIT
+        seriesIssueID: June 2010
+        seriesPage: 29-33
+        otherDetails: ''
+        uri: >-
+          SAGEOID10 available from ftp://196.15.132.3/South African Geoid/
+          (accessed 2026-05-19).
+        publisher: EE Publishers (Pty) Ltd
+      value: ''
+      parameter: 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+      unitOfMeasurement: null
+    - type: integer value
+      fileCitation: null
+      value: '259'
+      parameter: 15811eed-e76f-43f1-9b66-e36d1c94aacf
+      unitOfMeasurement: null
+    - type: measure (w/ UoM)
+      fileCitation: null
+      value: '2010.02'
+      parameter: 90852641-cd3f-40ae-8c72-d614dcabe8ce
+      unitOfMeasurement: 2f8575eb-0c68-4abc-aa3c-8969abd89b25
+dateAccepted: '2026-11-11T02:31:43.082Z'
+status: valid

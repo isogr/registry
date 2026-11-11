@@ -1,0 +1,54 @@
+id: be07f2e0-eee9-40d4-a4ff-88e75b2137d0
+data:
+  identifier: -32
+  name: Cape - LatLon
+  aliases:
+    - Cape Datum
+    - Buffelsfontein Datum
+  informationSources:
+    - title: South African Units of Length and Area
+      publicationDate: 1944-5
+      revisionDate: ''
+      edition: ''
+      author: D.R. Hendrikz
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: 8-9
+      otherDetails: ''
+      uri: ''
+      publisher: Union of South Africa Government Printer
+    - title: The African Arc of the 30th Meridian
+      publicationDate: '1997'
+      revisionDate: ''
+      edition: ''
+      author: T. Zakiewicz
+      seriesName: South African Journal of Surveying and Mapping
+      seriesIssueID: Volume 2
+      seriesPage: 65-82
+      otherDetails: ''
+      uri: ''
+      publisher: South African Photogrammetry and Geo-information Society
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: ''
+      uri: Internal document
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+  remarks: ''
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  baseCRS: null
+  operation: null
+  extentRef: cef16681-05c1-47e2-a686-9efe6fea16b7
+  datum: 5e8be080-f16e-4883-b3e6-160d6f084d6f
+dateAccepted: '2026-11-11T02:31:43.082Z'
+status: valid

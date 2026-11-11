@@ -1,0 +1,31 @@
+id: 4309b433-ed1f-417f-ba34-3496e6edadf6
+data:
+  identifier: -19
+  name: Geographic3D to GravityRelatedHeight (SAGEOID10)
+  aliases:
+    - SAGEOID2010
+  informationSources: []
+  remarks: >-
+    A vertical transformation from ITRF2005 ellipsoidal heights to SALLD
+    orthometric heights using geoid heights interpolated from the SAGEOID2010
+    hybrid geoid model on a regularly spaced 2.5' grid.
+  parameters:
+    - 765bb1a0-bc2d-43e0-a588-89fbcb65372d
+    - 15811eed-e76f-43f1-9b66-e36d1c94aacf
+    - 90852641-cd3f-40ae-8c72-d614dcabe8ce
+  formulaCitation:
+    title: 'The South African Geoid 2010: SAGEOID10'
+    publicationDate: 2010-06
+    revisionDate: ''
+    edition: ''
+    author: G Chandler, C Merry
+    seriesName: PositionIT
+    seriesIssueID: June 2010
+    seriesPage: 29-33
+    otherDetails: ''
+    uri: >-
+      SAGEOID10 available from ftp://196.15.132.3/South African Geoid/ (accessed
+      2026-05-19).
+    publisher: EE Publishers (Pty) Ltd
+dateAccepted: '2026-11-11T02:31:43.082Z'
+status: valid
