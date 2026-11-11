@@ -3,8 +3,12 @@ registerVersion: ''
 id: 92ddacf4-7851-4d7f-a980-3189dca477e9
 timeStarted: '2026-11-11T02:06:52.780Z'
 timeEdited: '2026-11-11T02:06:52.780Z'
-state: draft
-justification: imported from converter
+state: proposed
+justification: >-
+  South African datums, CRSs & transformations. Submitted by Patrick Vorster,
+  Chief Directorate: National Geospatial Information, National Geomatics
+  Management Services, Department of Land Reform and Rural Development, South
+  Africa.
 items:
   /extent/5dd9ddeb-4663-4073-aa1c-55b0766f3b6c.yaml:
     type: addition
@@ -114,3 +118,24 @@ items:
     type: addition
   /coordinate-ops--transformation/459cdea8-189c-43f5-a95d-281cab5d1088.yaml:
     type: addition
+timeProposed: 2026-11-11T02:15:28.330Z
+pastTransitions:
+  - label: Propose
+    timestamp: 2026-11-11T02:15:28.330Z
+    fromState: draft
+    toState: proposed
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      justification: >-
+        South African datums, CRSs & transformations. Submitted by Patrick
+        Vorster, Chief Directorate: National Geospatial Information, National
+        Geomatics Management Services, Department of Land Reform and Rural
+        Development, South Africa.
