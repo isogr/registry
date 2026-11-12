@@ -3,7 +3,7 @@ registerVersion: ''
 id: 9d01328f-a7d4-43db-b9b2-3414930f0742
 timeStarted: '2026-11-11T02:31:43.082Z'
 timeEdited: '2026-11-11T02:31:43.082Z'
-state: pending-control-body-review
+state: returned-for-clarification
 justification: >-
   South African datums, CRSs & transformations. Submitted by Patrick Vorster,
   Chief Directorate: National Geospatial Information, National Geomatics
@@ -154,4 +154,22 @@ pastTransitions:
           value: paneron@craymer.com
     input:
       registerManagerNotes: Accepted fro review by the Control Body..
+  - label: Return for clarification
+    timestamp: 2026-11-12T01:23:48.523Z
+    fromState: pending-control-body-review
+    toState: returned-for-clarification
+    stakeholder:
+      roles:
+        - owner
+        - manager
+      name: Michael Craymer
+      gitServerUsername: maccraymer
+      contacts:
+        - label: email
+          value: paneron@craymer.com
+    input:
+      controlBodyNotes: Review & confirm use of Clarke 1880 (RGS) ellipsoid for RSA.
+      controlBodyDecisionEvent: ''
 registerManagerNotes: Accepted fro review by the Control Body..
+controlBodyNotes: Review & confirm use of Clarke 1880 (RGS) ellipsoid for RSA.
+controlBodyDecisionEvent: ''
