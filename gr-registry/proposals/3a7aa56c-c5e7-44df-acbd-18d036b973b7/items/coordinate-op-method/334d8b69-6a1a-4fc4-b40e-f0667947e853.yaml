@@ -1,0 +1,93 @@
+id: 334d8b69-6a1a-4fc4-b40e-f0667947e853
+data:
+  identifier: -21
+  name: >-
+    MC COMMENTS 2026-11-10
+
+    * OM2: Import error. Can only use a single citation per 19111. Used CI5.
+
+    * OM3:  Import error. Can only use a single citation per 19111. Used CI9.
+
+
+    CB COMMENTS 2026-08-31
+
+    * OM1: (1) Renamed “Transverse Mercator Projection (Westing, Southing)" to
+    "Transverse Mercator Projection (South Orientated)” following Roger’s
+    comment that Westing/Southing are coordinate system axis directions, not
+    method descriptors. (2) Changed remarks from “...for use in Southern
+    Hemisphere” to “...for use in southern Africa” as other South African
+    countries use the standard north oriented TM projection.
+
+
+    MC COMMENTS 2026-08-28
+
+    * OM2 Remarks: Should make the remarks more genral and not just for Hart94.
+    Put the Hart94-specific version in the remarks for transformation CT1 that
+    uses this method. Suggested revision:
+
+    * OM2 Parameter Identifiers: This method is a time-specific method and
+    requires a source epoch paramter (ISOGR:1305). Added parameter to list of
+    parameter identifiers.
+
+
+    Three step transformation from 3D geocentric to 2D geographic. The first
+    step is a time-specific position vector transformation of 3D Cartesian
+    coordinates (ISOGR:1337).  The second step is a conversion of the  3D
+    Cartesian coordinates to 3D geographic coordinates (ISOGR:78). The third and
+    final step is a conversion of 3D geographic coordinats to 2D geographic
+    coordinates (ISOGR:86). This method uses clockwise rotations and is similar
+    to the Coordinate Frame Transformation methods that uses counter-clockwise
+    rotations. The Position Vector (clockwise) convention is used by the
+    International Earth Rotation and Reference Systems Service (IERS) and
+    International GNSS Service (IGS).
+
+
+    * OM2 reply to KK comment: this method is a *time-specific* method valid for
+    only a user-provided specific epoch used for the time-specific position
+    vector transformation of 3D Cartesian coordinates (ISOGR:1337). ISOGR:1339
+    does not involve epochs at all and uses 2D horizonal coordinats for sboth
+    ource and target (this method uses a3D source and 2D target).
+
+    * OM2 reply to KK comment: the lasat sentenence is used because the method
+    explicitly proides the rotaiton parameters (as oppposed to the proposed
+    concatenated method  being proposed in the new 19111 revision). The comment
+    ensures users are aware of the rotation convention used. If a concatenated
+    method were used, then I agree that the comment is not likely necessary.
+
+
+    TG COMMENTS 2026-08-26
+
+    * fixed a typo (Department) in J4, J5 and J6
+
+    * fixed a typo (geographic) in D4
+
+    * fixed a typo (interpolated) in D6
+
+
+    KK COMMENTS 2026-08-19
+
+    * OM2 Remarks: (LASAT SENTENCE)
+
+    do we need this description if these two rotation conventions are already
+    defined in Position Vector and Coordinate Frame transformation methods in
+    the Registry (ISOGR: 1339)?
+
+
+    * OM2 Remarks (TYPOS)_underlined_) 
+
+    convering -> converting
+
+    coordinats -> coordinates
+
+    grographic -> geographic
+
+
+    MC COMMENTS 2026-05-27
+
+    * OM1: Added remark.
+  aliases: []
+  informationSources: []
+  remarks: ''
+  parameters: []
+dateAccepted: '2026-11-20T04:11:14.877Z'
+status: valid

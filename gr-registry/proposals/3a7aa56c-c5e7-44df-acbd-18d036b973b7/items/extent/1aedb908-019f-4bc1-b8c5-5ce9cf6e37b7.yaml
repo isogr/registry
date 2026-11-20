@@ -1,0 +1,15 @@
+id: 1aedb908-019f-4bc1-b8c5-5ce9cf6e37b7
+data:
+  identifier: -2
+  name: South Africa - west of 18°E
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: South Africa - onshore - 16°E to 18°E
+    s: '-33.5'
+    w: '16'
+    'n': '-28'
+    e: '18'
+dateAccepted: '2026-11-20T04:11:14.877Z'
+status: valid
