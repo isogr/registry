@@ -1,0 +1,29 @@
+id: f29937e8-4962-4534-8b37-e5326259ce6b
+data:
+  identifier: -18
+  name: Transverse Mercator Projection (South Orientated)
+  aliases: []
+  informationSources: []
+  remarks: Version of standard Transverse Mercator Projection used in southern Africa.
+  parameters:
+    - 1842c20c-c724-46b5-93db-75994aec4536
+    - f9e5b20f-dbd4-402e-a35c-dd26b0c58c6b
+    - bc5a79ba-6a41-4250-adc8-408b370ac9b6
+    - 417a9689-1a47-4fb7-aa0d-be0b8b2facbb
+    - 96e53e43-84f6-4581-ac3b-4a8741f94a75
+  formulaCitation:
+    title: >-
+      EPSG Guidance Note 7-2: Coordinate conversions and transformations
+      including formulas
+    publicationDate: ''
+    revisionDate: 2026-07
+    edition: ''
+    author: International Association of Oil and Gas Producers (IOGP)
+    seriesName: IOGP Report
+    seriesIssueID: 373-07-2
+    seriesPage: ''
+    otherDetails: ''
+    uri: Version 74
+    publisher: International Association of Oil and Gas Producers (IOGP)
+dateAccepted: '2026-11-20T05:44:45.253Z'
+status: valid
