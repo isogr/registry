@@ -1,0 +1,15 @@
+id: 4730b824-5801-4e7e-a488-49a6f60e96bf
+data:
+  identifier: -9
+  name: South Africa - 30°E to 32°E
+  aliases: []
+  informationSources: []
+  remarks: ''
+  extent:
+    name: South Africa - onshore - 30°E to 32°E
+    s: '-31.5'
+    w: '30'
+    'n': '-22'
+    e: '32'
+dateAccepted: '2026-11-20T18:33:38.239Z'
+status: valid

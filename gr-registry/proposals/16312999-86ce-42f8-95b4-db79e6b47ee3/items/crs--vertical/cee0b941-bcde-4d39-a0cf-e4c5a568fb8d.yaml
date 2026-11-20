@@ -1,0 +1,31 @@
+id: cee0b941-bcde-4d39-a0cf-e4c5a568fb8d
+data:
+  identifier: -43
+  name: SALLD - OHt
+  aliases:
+    - South African Land Levelling Datum
+  informationSources:
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Internal document
+      uri: ''
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+  remarks: ''
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys-axis
+    itemID: 1dcb9318-cf33-4f7d-9b10-2f9e7a007adb
+  baseCRS: null
+  operation: null
+  extentRef: 447955af-fe15-427d-b35e-4084f48c13c5
+  datum: a893982c-e14f-493f-8b0c-470f9ae955ee
+dateAccepted: '2026-11-20T18:33:38.239Z'
+status: valid

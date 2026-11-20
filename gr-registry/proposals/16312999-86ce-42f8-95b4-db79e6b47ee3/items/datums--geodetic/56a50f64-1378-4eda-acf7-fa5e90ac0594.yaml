@@ -1,0 +1,63 @@
+id: 56a50f64-1378-4eda-acf7-fa5e90ac0594
+data:
+  identifier: -31
+  name: Hartebeesthoek94 Datum
+  aliases:
+    - Hart94
+    - Hart94 Datum
+  informationSources:
+    - title: The New South African (Hartebeesthoek94) Datum
+      publicationDate: 1998-11
+      revisionDate: ''
+      edition: ''
+      author: P.J. Vorster
+      seriesName: South African Journal of Geo-Information
+      seriesIssueID: Volume 17, Part 6
+      seriesPage: 160-170
+      otherDetails: ''
+      uri: ''
+      publisher: South African Photogrammetry and Geo-information Society
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Internal document
+      uri: ''
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+    - title: >-
+        The Implementation of the Hartebeesthoek94 Co-ordinate System in South
+        Africa
+      publicationDate: 1999-10
+      revisionDate: ''
+      edition: ''
+      author: R. Wonnacott
+      seriesName: Survey Review
+      seriesIssueID: Volume 35, Issue 274
+      seriesPage: 243-250
+      otherDetails: 'Published online: 29 Nov 2013'
+      uri: https://doi.org/10.1179/003962699791483699 (accessed 2026-05-19)
+      publisher: Taylor & Francis
+  remarks: >-
+    Replaces the Cape datum in South Africa. A GPS network was observed on 205
+    stations and after adjustment resulted in zero-order accuracy on these
+    control points. The balance of the Hart94 control network of approximately
+    30,000 stations was subsequently adjusted with terrestrial measurements
+    (angles and distances) using the 205 control points as fixed constraints.
+  scope: Spatial referencing
+  originDescription: >-
+    Static reference frame aligned with a horizontal accuracy of approximately 5
+    cm to ITRF91 at epoch 1994.0 through a network of 205 GPS observed
+    zero-order control points.
+  releaseDate: '1999-01-01'
+  extentRef: f15e7bdd-9a32-41e6-8d50-fdf6fa70e4c5
+  coordinateReferenceEpoch: '1994'
+  ellipsoid: 41c8f1a8-76fd-4edf-9bdb-6eca1931c5fb
+  primeMeridian: cbc22008-33fd-4e8e-9663-a36306adf105
+dateAccepted: '2026-11-20T18:33:38.239Z'
+status: valid

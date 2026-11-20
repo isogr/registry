@@ -1,0 +1,59 @@
+id: d7fa1cfc-fb00-481e-a36e-55afd6b61f69
+data:
+  identifier: -46
+  name: Hart94 / TM Lo19E
+  aliases:
+    - Hartebeesthoek94 Datum
+    - Hart94 Datum
+  informationSources:
+    - title: The New South African (Hartebeesthoek94) Datum
+      publicationDate: 1998-11
+      revisionDate: ''
+      edition: ''
+      author: P.J. Vorster
+      seriesName: South African Journal of Geo-Information
+      seriesIssueID: Volume 17, Part 6
+      seriesPage: 160-170
+      otherDetails: ''
+      uri: ''
+      publisher: South African Photogrammetry and Geo-information Society
+    - title: Standard for the National Control Survey System
+      publicationDate: ''
+      revisionDate: '2020-03-26'
+      edition: '4'
+      author: 'Chief Directorate: National Geospatial Information (CDNGI)'
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Internal document
+      uri: ''
+      publisher: >-
+        Department of Rural Development and Land Reform,  Republic of South
+        Africa
+    - title: >-
+        The Implementation of the Hartebeesthoek94 Co-ordinate System in South
+        Africa
+      publicationDate: 1999-10
+      revisionDate: ''
+      edition: ''
+      author: R. Wonnacott
+      seriesName: Survey Review
+      seriesIssueID: Volume 35, Issue 274
+      seriesPage: 243-250
+      otherDetails: 'Published online: 29 Nov 2013'
+      uri: https://doi.org/10.1179/003962699791483699 (accessed 2026-05-19)
+      publisher: Taylor & Francis
+  remarks: ''
+  scope: Spatial referencing
+  coordinateSystem:
+    classID: coordinate-sys--cartesian
+    itemID: c9343e39-29d9-4f98-bab7-188e9c86351e
+  baseCRS:
+    classID: crs--geodetic
+    itemID: ef15508c-5f2d-4b19-90f2-827d7a3e2f34
+  operation:
+    classID: coordinate-ops--conversion
+    itemID: 113e4ae1-8a2f-4ee1-83b4-68e9191731b7
+  extentRef: c6c614f2-81ba-435f-a298-810871b54b34
+dateAccepted: '2026-11-20T18:33:38.239Z'
+status: valid

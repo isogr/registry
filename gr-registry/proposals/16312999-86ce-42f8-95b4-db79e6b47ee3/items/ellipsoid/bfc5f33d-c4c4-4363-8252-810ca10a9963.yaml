@@ -1,0 +1,67 @@
+id: bfc5f33d-c4c4-4363-8252-810ca10a9963
+data:
+  identifier: -12
+  name: Modified Clarke 1880
+  aliases:
+    - Clarke Modified 1880
+  informationSources:
+    - title: South African Units of Length and Area
+      publicationDate: 1944-5
+      revisionDate: ''
+      edition: ''
+      author: D.R. Hendrikz
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: Information about the Clarke 1880 ellipsoid is given on pages 8-9.
+      uri: ''
+      publisher: Union of South Africa Government Printer
+    - title: Geodesy
+      publicationDate: '1880'
+      revisionDate: ''
+      edition: ''
+      author: A.R. Clarke
+      seriesName: ''
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: >-
+        Made available online by the Internet Archive, 2009-10-14. Information
+        about the Clarke 1880 ellipsoid is given on page 319.
+      uri: https://archive.org/details/cu31924004129650 (accessed 2026-11-19)
+      publisher: Oxford at the Clarendon Press
+    - title: The Cape Geodetic Standards and Their Impact on Africa
+      publicationDate: '2005'
+      revisionDate: ''
+      edition: ''
+      author: T. Zakiewicz
+      seriesName: >-
+        Proceedings of FIG Working Week 2005 and GSDI-8, From Pharaohs to
+        Geoinformatics, Cairo, Egypt, April 16-21, 2005.
+      seriesIssueID: ''
+      seriesPage: ''
+      otherDetails: 'ISSN: 2307-4086'
+      uri: >-
+        https://www.fig.net/resources/proceedings/fig_proceedings/cairo/papers/wshs_03/wshs03_02_zakiewich.pdf
+        (accessed 2026-10-01)
+      publisher: International Federation of Surveyors (FIG)
+  remarks: >-
+    Sir David Gill adopted the values of Clarke's 1880 semi-major and semi-minor
+    axes in British feet. However, the only reliable metre-foot ratio at the
+    time was Clarke's 1866 relation which connected the British foot with the
+    "legal" metre at 39.37043196 inches per metre, not the international metre.
+    The result was the creation of a fictitious unit of measure, referred to as
+    the South African Geodetic (S.A.G.) foot. The resultant ellipsoid is
+    referred to as the Modified Clarke 1880 ellipsoid. This ellipsoid's
+    parameters are one of various modifications to the original definition.
+    These parameters are applicable to the Cape and Arc 1950 Datums, but not the
+    Arc 1960 Datum, which references the Royal Geographical Society (RGS)
+    ellipsoid (ISOGR 1336).
+  semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  inverseFlatteningUoM: 932dce03-daeb-4762-ac71-81c69c41746b
+  semiMajorAxis: 6378249.145
+  semiMinorAxis: 6356514.967
+  inverseFlattening: null
+  isSphere: false
+dateAccepted: '2026-11-20T18:33:38.239Z'
+status: valid
