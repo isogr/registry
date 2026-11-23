@@ -1,0 +1,10 @@
+id: 28241889-7a01-44b8-883e-5a64e21fc781
+timeStarted: 2026-11-23T19:40:46.029Z
+timeEdited: 2026-11-23T19:40:46.029Z
+justification: >-
+  Reversion of RSA changes to Clarke 1880 (RGS) ellipsoid. M. Craymer, ISOGR
+  Control Body Chair.
+submittingStakeholderGitServerUsername: maccraymer
+items: {}
+state: draft
+registerVersion: 2b0803ca-a5ce-4310-ba08-47fa59a9ecf9
